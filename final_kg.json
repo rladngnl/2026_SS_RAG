@@ -1,0 +1,390 @@
+{
+  "entities": [
+    "K3 League",
+    "Gauls",
+    "Rhine",
+    "Allies of World War II",
+    "Carolingian Empire",
+    "French West Indies",
+    "Gallo-Roman culture",
+    "World War I",
+    "Yangju",
+    "Ancien Régime",
+    "UNESCO World Heritage Sites",
+    "French Republic",
+    "Charles de Gaulle",
+    "Monaco",
+    "Algeria",
+    "Spain",
+    "French Guiana",
+    "Francia",
+    "Fourth Republic",
+    "Western Europe",
+    "Île-de-France",
+    "Germany",
+    "Fifth Republic",
+    "Indian Ocean",
+    "Italy",
+    "Dongducheon",
+    "French Second Republic",
+    "Andorra",
+    "Napoleon Bonaparte",
+    "Hauts-de-Seine",
+    "French Third Republic",
+    "Rome",
+    "English Channel",
+    "United Nations Security Council",
+    "Franco-Prussian War",
+    "Huguenots",
+    "Pierre-Auguste Renoir",
+    "tourist destination",
+    "Seine river",
+    "French Wars of Religion",
+    "Algerian War",
+    "Seoul",
+    "Declaration of the Rights of Man",
+    "Bourbon Restoration",
+    "Thirty Years' War",
+    "Oceania",
+    "Paris",
+    "Uijeongbu",
+    "South Korea",
+    "Atlantic Ocean",
+    "Kingdom of France",
+    "Catholics",
+    "Treaty of Verdun",
+    "First French Empire",
+    "Pays des Impressionnistes",
+    "Saint Pierre and Miquelon",
+    "France",
+    "nominal per capita income",
+    "nuclear-weapon state",
+    "PPP-adjusted GDP",
+    "Napoleon III",
+    "Switzerland",
+    "Belgium",
+    "Belle Époque",
+    "Louis XIV",
+    "French Renaissance",
+    "French Revolution",
+    "great power",
+    "Hundred Years' War",
+    "House of Habsburg",
+    "North Sea",
+    "nominal GDP",
+    "Yangju Citizen FC",
+    "forums",
+    "Yvelines",
+    "Chatou",
+    "Mediterranean Sea",
+    "United Kingdom",
+    "international organisations",
+    "Second French Empire",
+    "Luxembourg",
+    "Franks"
+  ],
+  "edges": [
+    "became independent from",
+    "was dominated by the conflict with",
+    "flourished during",
+    "is in the region",
+    "has a high nominal per capita income globally",
+    "is on the northwest side of",
+    "is a great power",
+    "is officially known as",
+    "was involved in",
+    "established",
+    "annexed the area in",
+    "reached its political and military zenith under",
+    "is located in",
+    "is in",
+    "was settled during the Iron Age by",
+    "collapsed during",
+    "is about 14 km from the centre of",
+    "partitioned the empire in",
+    "is located south of",
+    "was successful in",
+    "was formed by",
+    "hosts the fourth-largest number of",
+    "is the world's leading",
+    "is based in",
+    "retains its status as a global centre of",
+    "has a maritime border with",
+    "evolved into",
+    "is part of",
+    "is on the border with",
+    "has a capital",
+    "surrendered and was occupied by",
+    "is a tier of league football in",
+    "was among the Allies of",
+    "shares borders with",
+    "became the heartland of",
+    "is a commune in",
+    "described Chatou as",
+    "is located north of",
+    "is located not far from",
+    "is one of the permanent members of",
+    "was established after",
+    "was a major participant in",
+    "is a member of"
+  ],
+  "relations": [
+    [
+      "France",
+      "is one of the permanent members of",
+      "United Nations Security Council"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Germany"
+    ],
+    [
+      "France",
+      "has a maritime border with",
+      "United Kingdom"
+    ],
+    [
+      "France",
+      "was successful in",
+      "Thirty Years' War"
+    ],
+    [
+      "France",
+      "is the world's leading",
+      "tourist destination"
+    ],
+    [
+      "France",
+      "surrendered and was occupied by",
+      "Germany"
+    ],
+    [
+      "Yangju Citizen FC",
+      "is located not far from",
+      "Seoul"
+    ],
+    [
+      "Chatou",
+      "is in the region",
+      "Île-de-France"
+    ],
+    [
+      "Yangju Citizen FC",
+      "is located south of",
+      "Dongducheon"
+    ],
+    [
+      "Rome",
+      "annexed the area in",
+      "51 BC"
+    ],
+    [
+      "Pierre-Auguste Renoir",
+      "described Chatou as",
+      "the prettiest spot near Paris"
+    ],
+    [
+      "Napoleon Bonaparte",
+      "established",
+      "First French Empire"
+    ],
+    [
+      "Chatou",
+      "is part of",
+      "Pays des Impressionnistes"
+    ],
+    [
+      "France",
+      "reached its political and military zenith under",
+      "Napoleon Bonaparte"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Andorra"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Monaco"
+    ],
+    [
+      "France",
+      "has a capital",
+      "Paris"
+    ],
+    [
+      "Treaty of Verdun",
+      "partitioned the empire in",
+      "843"
+    ],
+    [
+      "First French Empire",
+      "collapsed during",
+      "Franco-Prussian War"
+    ],
+    [
+      "France",
+      "was among the Allies of",
+      "World War II"
+    ],
+    [
+      "Yangju Citizen FC",
+      "is located north of",
+      "Uijeongbu"
+    ],
+    [
+      "Chatou",
+      "is on the northwest side of",
+      "Seine river"
+    ],
+    [
+      "France",
+      "hosts the fourth-largest number of",
+      "UNESCO World Heritage Sites"
+    ],
+    [
+      "France",
+      "is a great power",
+      ""
+    ],
+    [
+      "K3 League",
+      "is a tier of league football in",
+      "South Korea"
+    ],
+    [
+      "Yangju Citizen FC",
+      "is a member of",
+      "K3 League"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Italy"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Belgium"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Spain"
+    ],
+    [
+      "French Third Republic",
+      "was established after",
+      "Franco-Prussian War"
+    ],
+    [
+      "France",
+      "was involved in",
+      "Hundred Years' War"
+    ],
+    [
+      "France",
+      "was a major participant in",
+      "World War I"
+    ],
+    [
+      "West Francia",
+      "evolved into",
+      "Kingdom of France"
+    ],
+    [
+      "Francia",
+      "became the heartland of",
+      "Carolingian Empire"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Switzerland"
+    ],
+    [
+      "Yangju Citizen FC",
+      "is based in",
+      "Yangju"
+    ],
+    [
+      "Fourth Republic",
+      "was established after",
+      "liberation in 1944"
+    ],
+    [
+      "France",
+      "retains its status as a global centre of",
+      "art"
+    ],
+    [
+      "French culture",
+      "flourished during",
+      "French Renaissance"
+    ],
+    [
+      "Chatou",
+      "is on the border with",
+      "Hauts-de-Seine"
+    ],
+    [
+      "Chatou",
+      "is a commune in",
+      "Yvelines"
+    ],
+    [
+      "France",
+      "has a high nominal per capita income globally",
+      ""
+    ],
+    [
+      "Algeria",
+      "became independent from",
+      "France"
+    ],
+    [
+      "France",
+      "is located in",
+      "Western Europe"
+    ],
+    [
+      "France",
+      "was settled during the Iron Age by",
+      "Gauls"
+    ],
+    [
+      "Fifth Republic",
+      "was formed by",
+      "Charles de Gaulle"
+    ],
+    [
+      "France",
+      "was dominated by the conflict with",
+      "House of Habsburg"
+    ],
+    [
+      "Chatou",
+      "is in",
+      "France"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Luxembourg"
+    ],
+    [
+      "Chatou",
+      "is about 14 km from the centre of",
+      "Paris"
+    ],
+    [
+      "France",
+      "is officially known as",
+      "French Republic"
+    ]
+  ],
+  "entity_clusters": null,
+  "edge_clusters": null
+}
