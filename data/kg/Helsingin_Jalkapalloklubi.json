@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "2022–23",
+    "HJK Helsinki",
+    "Finnish Cups",
+    "Finnish football",
+    "2011–12",
+    "Finnish League Cups",
+    "2014–15",
+    "HJK",
+    "UEFA Europa Conference League",
+    "Töölö Football Stadium",
+    "blue shorts",
+    "Helsingin Jalkapalloklubi",
+    "club crest",
+    "Metz",
+    "UEFA Europa League",
+    "blue socks",
+    "Bangor City",
+    "UEFA Champions League",
+    "Veikkausliiga",
+    "Kansallinen Liiga",
+    "blue and white striped shirts"
+  ],
+  "edges": [
+    "is the most successful Finnish club in terms of",
+    "has home ground at",
+    "has traditional kit colours of",
+    "has spent most of its history in",
+    "beat",
+    "achieved highest score in",
+    "competes in",
+    "is commonly known as",
+    "defeated",
+    "is considered as",
+    "has a club crest that has been",
+    "has won",
+    "has participated in"
+  ],
+  "relations": [
+    [
+      "Helsingin Jalkapalloklubi",
+      "achieved highest score in",
+      "2011–12"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "competes in",
+      "Veikkausliiga"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has home ground at",
+      "Töölö Football Stadium"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is considered as",
+      "Finland's biggest football club"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has traditional kit colours of",
+      "blue shorts"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "defeated",
+      "Bangor City"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has participated in",
+      "UEFA Champions League"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has participated in",
+      "UEFA Europa Conference League"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "beat",
+      "Metz"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is commonly known as",
+      "HJK"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has won",
+      "Finnish Cups"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has won",
+      "Finnish League Cups"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has participated in",
+      "UEFA Europa League"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is commonly known as",
+      "HJK Helsinki"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has traditional kit colours of",
+      "blue socks"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has traditional kit colours of",
+      "blue and white striped shirts"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has a club crest that has been",
+      "nearly untouched for a century"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has spent most of its history in",
+      "Finnish football"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is the most successful Finnish club in terms of",
+      "championship titles"
+    ]
+  ]
+}

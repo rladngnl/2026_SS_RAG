@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Finnish",
+    "31 December 1975",
+    "Veikkausliiga",
+    "footballer",
+    "Toni Kuivasto",
+    "Toni Tapio Kuivasto",
+    "Haka"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is",
+    "is a team in",
+    "last played for"
+  ],
+  "relations": [
+    [
+      "Toni Kuivasto",
+      "is",
+      "Toni Tapio Kuivasto"
+    ],
+    [
+      "Haka",
+      "is a team in",
+      "Veikkausliiga"
+    ],
+    [
+      "Toni Kuivasto",
+      "last played for",
+      "Haka"
+    ],
+    [
+      "Toni Kuivasto",
+      "is a",
+      "Finnish footballer"
+    ],
+    [
+      "Toni Kuivasto",
+      "was born on",
+      "31 December 1975"
+    ]
+  ]
+}

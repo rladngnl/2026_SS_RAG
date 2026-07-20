@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "Pays des Impressionnistes",
+    "Chatou",
+    "Île-de-France",
+    "Hauts-de-Seine",
+    "Paris",
+    "France",
+    "Yvelines",
+    "Pierre-Auguste Renoir",
+    "Seine river"
+  ],
+  "edges": [
+    "is in the region",
+    "is part of",
+    "is in",
+    "is a commune in",
+    "is about 14 km from the centre of",
+    "is on the northwest side of",
+    "described Chatou as",
+    "is on the border with"
+  ],
+  "relations": [
+    [
+      "Chatou",
+      "is in the region",
+      "Île-de-France"
+    ],
+    [
+      "Chatou",
+      "is part of",
+      "Pays des Impressionnistes"
+    ],
+    [
+      "Chatou",
+      "is a commune in",
+      "Yvelines"
+    ],
+    [
+      "Chatou",
+      "is in",
+      "France"
+    ],
+    [
+      "Chatou",
+      "is about 14 km from the centre of",
+      "Paris"
+    ],
+    [
+      "Chatou",
+      "is on the border with",
+      "Hauts-de-Seine"
+    ],
+    [
+      "Chatou",
+      "is on the northwest side of",
+      "Seine river"
+    ],
+    [
+      "Pierre-Auguste Renoir",
+      "described Chatou as",
+      "the prettiest spot near Paris"
+    ]
+  ]
+}

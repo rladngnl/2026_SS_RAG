@@ -30,8 +30,6 @@ def fetch_wiki_data(entity_name):
         
         data = {
             "entity": entity_name,
-            "title": page.title,
-            "url": page.fullurl,
             "summary": page.summary,
             "sections": [
                 {"section_title": s.title, "text": s.text} 
@@ -43,7 +41,7 @@ def fetch_wiki_data(entity_name):
         print(f"에러 ({entity_name}): {e}")
         return None
     
-test_limit = 1  # 1000개 수집 시 1000으로 변경
+test_limit = 10  # 1000개 수집 시 1000으로 변경
 target_entities = df['entity'].head(test_limit)
 
 print(f"\n{len(target_entities)}개 엔티티에 대한 데이터 수집을 시작")

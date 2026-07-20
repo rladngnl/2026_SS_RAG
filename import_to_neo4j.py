@@ -1,58 +1,63 @@
+import os
 import json
+from collections import defaultdict
 from neo4j import GraphDatabase
+from dotenv import load_dotenv
 
-URI = "bolt://localhost:7687"
-USERNAME = "neo4j"
-PASSWORD = "12345678"
+load_dotenv()
 
-INPUT_FILE = 'final_kg.json'
+URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+USERNAME = os.getenv("NEO4J_USER", "neo4j")
+PASSWORD = os.getenv("NEO4J_PASSWORD", "12345678")
 
-def insert_graph_data(tx, graph_data):
+KG_DIR = os.path.join('data', 'kg')
+
+def insert_kg_batch(tx, entities, relations):
+    if entities:
+        node_batch = [{"id": n} for n in entities if isinstance(n, str)]
+        if node_batch:
+            tx.run("UNWIND $batch AS row MERGE (n:Entity {id: row.id})", batch=node_batch)
+            
+    grouped_rels = defaultdict(list)
+    for rel in relations:
+        if isinstance(rel, list) and len(rel) == 3:
+            subj, label, obj = rel
+            grouped_rels[label].append({"source": subj, "target": obj})
     
-    nodes = graph_data.get('entities', graph_data.get('nodes', []))
-    for node in nodes:
-        if isinstance(node, str):
-            tx.run("MERGE (n:Entity {id: $id})", id=node)
-        elif isinstance(node, dict):
-            tx.run("MERGE (n:Entity {id: $id}) SET n.type = $type", 
-                   id=node.get('id', 'Unknown'), type=node.get('type', 'Unknown'))
-            
-    print(f"{len(nodes)}개의 노드(Node) 완료")
-
-    edges = graph_data.get('edges', graph_data.get('relations', []))
-    for edge in edges:
-        if isinstance(edge, dict):
-            source = edge.get('source', edge.get('head'))
-            target = edge.get('target', edge.get('tail'))
-            label = edge.get('label', edge.get('relation', 'RELATED_TO'))
-            
-            if source and target:
-                rel_label = str(label).replace(' ', '_').upper()
-                query = f"""
-                MATCH (s:Entity {{id: $source}})
-                MATCH (t:Entity {{id: $target}})
-                MERGE (s)-[r:`{rel_label}`]->(t)
-                """
-                tx.run(query, source=source, target=target)
-                
-    print(f"{len(edges)}개의 관계(Edge) 완료.")
+    for label, batch in grouped_rels.items():
+        rel_label = str(label).replace(' ', '_').upper()
+        query = f"""
+        UNWIND $batch AS row
+        MATCH (s:Entity {{id: row.source}})
+        MATCH (t:Entity {{id: row.target}})
+        MERGE (s)-[r:`{rel_label}`]->(t)
+        """
+        tx.run(query, batch=batch)
 
 try:
-    print("JSON 파일 로드")
-    with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-        kg_data = json.load(f)
+    print("Neo4j 연결 중")
     
-    if isinstance(kg_data, str):
-        kg_data = json.loads(kg_data)
+    if not os.path.exists(KG_DIR):
+        raise FileNotFoundError(f"'{KG_DIR}' 폴더가 없습니다")
 
-    print("Neo4j 데이터베이스에 연결 중")
+    kg_files = [f for f in os.listdir(KG_DIR) if f.endswith('.json')]
+
     with GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD)) as driver:
         with driver.session() as session:
-            session.execute_write(insert_graph_data, kg_data)
-            
-    print("Neo4j 업로드 성공")
+            for filename in kg_files:
+                filepath = os.path.join(KG_DIR, filename)
+                
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                entities = data.get('entities', [])
+                relations = data.get('relations', [])
+                
+                if entities or relations:
+                    session.execute_write(insert_kg_batch, entities, relations)
+                    print(f"{filename} 노드 {len(entities)}개, 관계 {len(relations)}개")
 
-except FileNotFoundError:
-    print(f"'{INPUT_FILE}' 파일을 찾을 수 없습니다.")
+    print("\n neo4j에 업로드 성공")
+
 except Exception as e:
-    print(f"업로드 중 오류 발생: {e}")
+    print(f"오류 발생: {e}")

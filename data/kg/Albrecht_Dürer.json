@@ -1,0 +1,149 @@
+{
+  "entities": [
+    "Italian artists",
+    "Emperor Maximilian I",
+    "books",
+    "mathematics",
+    "Giovanni Bellini",
+    "Albrecht Dürer",
+    "portraits",
+    "woodcut prints",
+    "watercolours",
+    "linear perspective",
+    "Leonardo da Vinci",
+    "Raphael",
+    "Northern Renaissance",
+    "altarpieces",
+    "Nuremberg",
+    "engravings",
+    "self-portraits",
+    "body proportions",
+    "theoretical treatises",
+    "German Renaissance",
+    "Europe",
+    "German humanists"
+  ],
+  "edges": [
+    "produced",
+    "was born in",
+    "established his reputation and influence across",
+    "introduced",
+    "secured his reputation as one of the most important figures of",
+    "was patronized by",
+    "involved principles of",
+    "was in contact with",
+    "was a"
+  ],
+  "relations": [
+    [
+      "Albrecht Dürer",
+      "was a",
+      "theorist of the German Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "the nude"
+    ],
+    [
+      "Albrecht Dürer",
+      "was in contact with",
+      "Leonardo da Vinci"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "printmaker"
+    ],
+    [
+      "Albrecht Dürer",
+      "involved principles of",
+      "mathematics"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "woodcut prints"
+    ],
+    [
+      "Albrecht Dürer",
+      "involved principles of",
+      "body proportions"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "engravings"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "watercolours"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "altarpieces"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "German painter"
+    ],
+    [
+      "Albrecht Dürer",
+      "was patronized by",
+      "Emperor Maximilian I"
+    ],
+    [
+      "Albrecht Dürer",
+      "secured his reputation as one of the most important figures of",
+      "the Northern Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "was in contact with",
+      "Giovanni Bellini"
+    ],
+    [
+      "Albrecht Dürer",
+      "established his reputation and influence across",
+      "Europe"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "books"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "self-portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "was born in",
+      "Nuremberg"
+    ],
+    [
+      "Albrecht Dürer",
+      "was in contact with",
+      "Raphael"
+    ],
+    [
+      "Albrecht Dürer",
+      "involved principles of",
+      "linear perspective"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "classical motifs"
+    ],
+    [
+      "Albrecht Dürer",
+      "produced",
+      "portraits"
+    ]
+  ]
+}

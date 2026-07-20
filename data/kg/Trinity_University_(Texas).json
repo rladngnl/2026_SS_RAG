@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "Tehuacana",
+    "Waxahachie",
+    "47 U.S. states",
+    "NCAA Division III Southern Athletic Association",
+    "58 countries",
+    "liberal arts and sciences curriculum",
+    "Cumberland Presbyterians",
+    "6 graduate programs",
+    "Trinity University",
+    "National Historic Landmark District",
+    "KRTU-FM",
+    "Trinitonian",
+    "288 faculty members",
+    "143 graduate students",
+    "100 student organizations",
+    "San Antonio",
+    "Texas",
+    "O'Neil Ford",
+    "57 majors",
+    "2,490 undergraduate students",
+    "Monte Vista Historic District",
+    "63 minors",
+    "Trinity Tigers",
+    "Olmos Park"
+  ],
+  "edges": [
+    "represents",
+    "offers",
+    "has a campus newspaper called",
+    "is located in",
+    "has an enrollment of",
+    "moved its campus to",
+    "has a campus radio station called",
+    "has",
+    "has a campus designed by",
+    "was founded by",
+    "has been designated as",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Trinity University",
+      "represents",
+      "47 U.S. states"
+    ],
+    [
+      "Trinity University",
+      "is located in",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "288 faculty members"
+    ],
+    [
+      "Trinity University",
+      "has been designated as",
+      "National Historic Landmark District"
+    ],
+    [
+      "Trinity University",
+      "has a campus designed by",
+      "O'Neil Ford"
+    ],
+    [
+      "Trinity University",
+      "has a campus newspaper called",
+      "Trinitonian"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "143 graduate students"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "57 majors"
+    ],
+    [
+      "Trinity University",
+      "represents",
+      "58 countries"
+    ],
+    [
+      "Trinity University",
+      "was founded by",
+      "Cumberland Presbyterians"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "6 graduate programs"
+    ],
+    [
+      "Trinity University",
+      "moved its campus to",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "competes in",
+      "NCAA Division III Southern Athletic Association"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "63 minors"
+    ],
+    [
+      "Trinity University",
+      "has an enrollment of",
+      "2,490 undergraduate students"
+    ],
+    [
+      "Trinity University",
+      "has a campus radio station called",
+      "KRTU-FM"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "100 student organizations"
+    ]
+  ]
+}

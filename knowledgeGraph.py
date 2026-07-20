@@ -5,65 +5,52 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_CONFIGS = {
-    "gemini": {
-        "model_name": "gemini/gemini-2.5-flash",
-        "env_key": "GEMINI_API_KEY"
-    },
-    "openai": {
-        "model_name": "gpt-4o-mini",
-        "env_key": "OPENAI_API_KEY"
-    }
-}
-
-ACTIVE_API = "openai"
-
-config = API_CONFIGS[ACTIVE_API]
-api_key = os.getenv(config["env_key"])
-
-if not api_key:
-    raise ValueError(f" '{config['env_key']}' .env 파일을 확인해주세요.")
-
-os.environ[config["env_key"]] = api_key
-kg = KGGen(model=config["model_name"])
+kg = KGGen(
+    model="gpt-4o-mini", 
+    temperature=0.0,
+    api_key=os.getenv("OPENAI_API_KEY")
+)
 
 INPUT_FILE = 'wikipedia_rag_data.jsonl'
-individual_graphs = []
+OUTPUT_DIR = os.path.join('data', 'kg')
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 try:
     with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-        # 개수 설정
         for i, line in enumerate(f):
-            if i >= 3: 
+            if i >= 10: 
                 break
                 
             data = json.loads(line)
-            entity_name = data['entity']
-            text_to_process = f"Entity: {data['title']}\nSummary: {data['summary']}"
-            
-            print(f"[{entity_name}] 그래프 추출 중...")
-            
-            graph = kg.generate(
-                input_data=text_to_process, 
-                cluster=False
-            )
-            individual_graphs.append(graph)
+            entity_name = data.get('entity', f'Unknown_{i}')
 
-    final_knowledge_graph = kg.aggregate(individual_graphs)
-    
-    with open('final_kg.json', 'w', encoding='utf-8') as out_f:
-        if hasattr(final_knowledge_graph, 'model_dump'):
-            graph_data = final_knowledge_graph.model_dump()
-        elif hasattr(final_knowledge_graph, 'dict'):
-            graph_data = final_knowledge_graph.dict()
-        else:
-            graph_data = final_knowledge_graph
+            output_path = os.path.join(OUTPUT_DIR, f"{entity_name.replace('/', '_')}.json")
+            if os.path.exists(output_path):
+                print(f"⏭️ [{entity_name}] 이미 존재하여 건너뜁니다.")
+                continue
             
-        json.dump(graph_data, out_f, ensure_ascii=False, indent=2, default=list)
-        
-    print("final_kg.json 저장")
-    
+            text = f"Entity: {entity_name}\nSummary: {data.get('summary', '')}"
+            print(f"⚙️ [{entity_name}] 지식 그래프 추출 중", end="")
+            
+            try:
+                graph = kg.generate(input_data=text, context=entity_name)
+                
+                result = {
+                    "entities": list(graph.entities),
+                    "edges": list(graph.edges),
+                    "relations": [list(r) for r in graph.relations]
+                }
+                
+                with open(output_path, 'w', encoding='utf-8') as out:
+                    json.dump(result, out, ensure_ascii=False, indent=2)
+                    
+                print(" -> 성공")
+                
+            except Exception as e:
+                print(f" -> 실패: {e}")
+
 except FileNotFoundError:
-    print(f"'{INPUT_FILE}' 파일이 존재하지 않습니다. 경로를 확인해주세요.")
+    print(f"'{INPUT_FILE}' 파일이 없습니다.")
 except Exception as e:
-    print(f"실행 중 오류가 발생했습니다: {e}")
+    print(f"전체 실행 중 오류 발생: {e}")
