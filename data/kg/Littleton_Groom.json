@@ -1,0 +1,143 @@
+{
+  "entities": [
+    "KC",
+    "Vice-President of the Executive Council",
+    "Sir Littleton Ernest Groom",
+    "backbencher",
+    "Liberals",
+    "Colony of Queensland",
+    "United Australia Party",
+    "Trade and Customs",
+    "Littleton Groom",
+    "1931",
+    "Prime Minister Stanley Bruce",
+    "federal parliament",
+    "External Affairs",
+    "UAP",
+    "Minister for Home Affairs",
+    "Nationalists",
+    "independent",
+    "1901 Darling Downs by-election",
+    "lawyer",
+    "politician",
+    "speaker",
+    "Alfred Deakin",
+    "KCMG",
+    "William Henry Groom",
+    "Australia",
+    "Deakin's Protectionists",
+    "1936",
+    "confidence motion",
+    "Attorney-General",
+    "Liberal",
+    "anti-socialist",
+    "1920s",
+    "Works and Railways"
+  ],
+  "edges": [
+    "was a",
+    "arrived in",
+    "entered",
+    "joined",
+    "continued as",
+    "served as",
+    "was first appointed to cabinet by",
+    "was expelled from",
+    "was re-elected as",
+    "was the son of",
+    "held ministerial office under",
+    "was"
+  ],
+  "relations": [
+    [
+      "Littleton Groom",
+      "was expelled from",
+      "Nationalists"
+    ],
+    [
+      "Littleton Groom",
+      "was re-elected as",
+      "independent"
+    ],
+    [
+      "Littleton Groom",
+      "continued as",
+      "backbencher"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "Trade and Customs"
+    ],
+    [
+      "Littleton Groom",
+      "was first appointed to cabinet by",
+      "Alfred Deakin"
+    ],
+    [
+      "William Henry Groom",
+      "arrived in",
+      "Australia"
+    ],
+    [
+      "Littleton Groom",
+      "was the son of",
+      "William Henry Groom"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "Works and Railways"
+    ],
+    [
+      "Littleton Groom",
+      "held ministerial office under",
+      "four prime ministers"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "Minister for Home Affairs"
+    ],
+    [
+      "Littleton Groom",
+      "entered",
+      "federal parliament"
+    ],
+    [
+      "Littleton Groom",
+      "was",
+      "politician"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "Attorney-General"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "Speaker of the House of Representatives"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "External Affairs"
+    ],
+    [
+      "Littleton Groom",
+      "served as",
+      "Vice-President of the Executive Council"
+    ],
+    [
+      "Littleton Groom",
+      "was a",
+      "lawyer"
+    ],
+    [
+      "Littleton Groom",
+      "joined",
+      "United Australia Party"
+    ]
+  ]
+}

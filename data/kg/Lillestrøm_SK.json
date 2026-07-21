@@ -1,0 +1,170 @@
+{
+  "entities": [
+    "Lillestrøm",
+    "Norwegian record",
+    "Malta",
+    "Nigeria",
+    "Oslo",
+    "Iceland",
+    "Tunisia",
+    "Canada",
+    "Somalia",
+    "Sweden",
+    "Slovenia",
+    "Lillestrøm Sportsklubb",
+    "Norwegian national team",
+    "Senegal",
+    "United States",
+    "South Africa",
+    "LSK-Hallen",
+    "Finland",
+    "Åråsen Stadion",
+    "Australia",
+    "Norwegian cup",
+    "1.divisjon",
+    "Lillestrøm stadion",
+    "Eliteserien"
+  ],
+  "edges": [
+    "played in",
+    "has indoor arena",
+    "is located outside of",
+    "has players from",
+    "plays in",
+    "has home ground",
+    "has capacity of",
+    "has principal training ground",
+    "holds",
+    "won",
+    "has represented",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "United States"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Iceland"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has represented",
+      "Norwegian national team"
+    ],
+    [
+      "Åråsen Stadion",
+      "has capacity of",
+      "12,250 people"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "was founded in",
+      "1917"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Finland"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "played in",
+      "1.divisjon"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Australia"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "won",
+      "Norwegian cup"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "South Africa"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has home ground",
+      "Åråsen Stadion"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Sweden"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "holds",
+      "Norwegian record"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Senegal"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Somalia"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Malta"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Canada"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Slovenia"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has principal training ground",
+      "Lillestrøm stadion"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "is based in",
+      "Lillestrøm"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "is located outside of",
+      "Oslo"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "plays in",
+      "Eliteserien"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has indoor arena",
+      "LSK-Hallen"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Tunisia"
+    ],
+    [
+      "Lillestrøm Sportsklubb",
+      "has players from",
+      "Nigeria"
+    ]
+  ]
+}

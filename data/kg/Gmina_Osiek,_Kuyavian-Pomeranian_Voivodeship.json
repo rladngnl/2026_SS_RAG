@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Osiek",
+    "4,096",
+    "75.12 square kilometres",
+    "Poland",
+    "Toruń",
+    "4,079",
+    "Kuyavian-Pomeranian Voivodeship",
+    "Gmina Osiek",
+    "Brodnica",
+    "Brodnica County"
+  ],
+  "edges": [
+    "is in",
+    "has its seat in",
+    "lies approximately 10 kilometres south of",
+    "had a population of",
+    "is approximately 54 km east of",
+    "is a rural gmina in",
+    "is located in",
+    "covers an area of"
+  ],
+  "relations": [
+    [
+      "Gmina Osiek",
+      "covers an area of",
+      "75.12 square kilometres"
+    ],
+    [
+      "Gmina Osiek",
+      "has its seat in",
+      "Osiek"
+    ],
+    [
+      "Gmina Osiek",
+      "is located in",
+      "Brodnica County"
+    ],
+    [
+      "Gmina Osiek",
+      "is a rural gmina in",
+      "Kuyavian-Pomeranian Voivodeship"
+    ],
+    [
+      "Brodnica",
+      "is approximately 54 km east of",
+      "Toruń"
+    ],
+    [
+      "Gmina Osiek",
+      "had a population of",
+      "4,096"
+    ],
+    [
+      "Gmina Osiek",
+      "had a population of",
+      "4,079"
+    ],
+    [
+      "Gmina Osiek",
+      "is in",
+      "Poland"
+    ],
+    [
+      "Osiek",
+      "lies approximately 10 kilometres south of",
+      "Brodnica"
+    ]
+  ]
+}

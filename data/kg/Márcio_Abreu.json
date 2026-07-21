@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "25 April 1980",
+    "Márcio Nuno Ornelas Abreu",
+    "footballer",
+    "Portugal",
+    "winger",
+    "Márcio Abreu"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Márcio Nuno Ornelas Abreu",
+      "is from",
+      "Portugal"
+    ],
+    [
+      "Márcio Nuno Ornelas Abreu",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Márcio Nuno Ornelas Abreu",
+      "was born on",
+      "25 April 1980"
+    ],
+    [
+      "Márcio Nuno Ornelas Abreu",
+      "played as a",
+      "winger"
+    ]
+  ]
+}

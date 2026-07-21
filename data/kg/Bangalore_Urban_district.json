@@ -1,0 +1,197 @@
+{
+  "entities": [
+    "Bengaluru Urban district",
+    "one Town Panchayat",
+    "ninety-six Grama Panchayats",
+    "nine towns",
+    "one tier-one city",
+    "eight Town Municipal Councils",
+    "Bengaluru City",
+    "Bengaluru Rural district",
+    "Census 2011",
+    "9,621,551",
+    "88.11%",
+    "Bengaluru South",
+    "4,378 people per square km",
+    "ninety-seven Taluk Panchayats",
+    "seventeen hoblies",
+    "1986",
+    "eleven rural habitations",
+    "Bangalore district",
+    "Ramanagara district",
+    "Yelahanka",
+    "908 females/males",
+    "two tier-three city",
+    "two City Municipal Council",
+    "five City Corporations",
+    "Karnataka",
+    "Tamil Nadu",
+    "Anekal",
+    "Bengaluru North",
+    "6,537,124",
+    "Krishnagiri district",
+    "872 villages"
+  ],
+  "edges": [
+    "has a density of",
+    "is administered by",
+    "was partitioned into",
+    "had a population as of Census",
+    "has a sex-ratio of",
+    "has",
+    "has increased to",
+    "came into being in",
+    "had a population of",
+    "includes",
+    "is urban",
+    "is surrounded by",
+    "is part of"
+  ],
+  "relations": [
+    [
+      "Bengaluru Urban district",
+      "is surrounded by",
+      "Bengaluru South"
+    ],
+    [
+      "Bengaluru Urban district",
+      "had a population of",
+      "6,537,124"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "ninety-seven Taluk Panchayats"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "one tier-one city"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is surrounded by",
+      "Krishnagiri district"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "one Town Panchayat"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "872 villages"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "three taluks"
+    ],
+    [
+      "Bengaluru Urban district",
+      "includes",
+      "Yelahanka"
+    ],
+    [
+      "Bangalore district",
+      "was partitioned into",
+      "Bangalore Rural district"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "nine towns"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "two tier-three city"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "two City Municipal Council"
+    ],
+    [
+      "Bengaluru Urban district",
+      "came into being in",
+      "1986"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has increased to",
+      "9,621,551"
+    ],
+    [
+      "Bengaluru Urban district",
+      "includes",
+      "Bengaluru City"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "seventeen hoblies"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is urban",
+      "88.11%"
+    ],
+    [
+      "Bengaluru Urban district",
+      "had a population as of Census",
+      "Census 2011"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "ninety-six Grama Panchayats"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "eight Town Municipal Councils"
+    ],
+    [
+      "Bengaluru Urban district",
+      "includes",
+      "Anekal"
+    ],
+    [
+      "Bangalore district",
+      "was partitioned into",
+      "Bengaluru Urban district"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has a sex-ratio of",
+      "908 females/males"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is part of",
+      "Karnataka"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "eleven rural habitations"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has a density of",
+      "4,378 people per square km"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is surrounded by",
+      "Bengaluru North"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "five City Corporations"
+    ]
+  ]
+}

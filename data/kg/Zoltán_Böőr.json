@@ -1,0 +1,73 @@
+{
+  "entities": [
+    "footballer",
+    "Hungarian",
+    "Hungarian XI",
+    "Manisaspor",
+    "San Marino",
+    "Debrecen",
+    "14 August 1978",
+    "Turkish Super Lig",
+    "Zoltán Böőr",
+    "11 June 2003",
+    "UEFA Euro 2004"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "scored on",
+    "played for",
+    "was a member of",
+    "scored during",
+    "was born in",
+    "scored his only goal against",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Zoltán Böőr",
+      "scored during",
+      "UEFA Euro 2004"
+    ],
+    [
+      "Zoltán Böőr",
+      "played for",
+      "Manisaspor"
+    ],
+    [
+      "Zoltán Böőr",
+      "was born in",
+      "Debrecen"
+    ],
+    [
+      "Zoltán Böőr",
+      "scored his only goal against",
+      "San Marino"
+    ],
+    [
+      "Zoltán Böőr",
+      "was born on",
+      "14 August 1978"
+    ],
+    [
+      "Zoltán Böőr",
+      "scored on",
+      "11 June 2003"
+    ],
+    [
+      "Manisaspor",
+      "is in",
+      "Turkish Super Lig"
+    ],
+    [
+      "Zoltán Böőr",
+      "is a",
+      "Hungarian footballer"
+    ],
+    [
+      "Zoltán Böőr",
+      "was a member of",
+      "Hungarian XI"
+    ]
+  ]
+}

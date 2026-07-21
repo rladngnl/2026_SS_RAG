@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "defender",
+    "11 June 1986",
+    "Danish",
+    "Leon Jessen",
+    "football"
+  ],
+  "edges": [
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Leon Jessen",
+      "is",
+      "Danish"
+    ],
+    [
+      "Leon Jessen",
+      "is",
+      "football defender"
+    ],
+    [
+      "Leon Jessen",
+      "was born on",
+      "11 June 1986"
+    ]
+  ]
+}

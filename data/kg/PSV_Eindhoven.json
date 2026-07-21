@@ -1,0 +1,177 @@
+{
+  "entities": [
+    "Mark van Bommel",
+    "Ronald Koeman",
+    "Philips Sport Vereniging",
+    "Memphis Depay",
+    "European Cup",
+    "Cody Gakpo",
+    "Denzel Dumfries",
+    "Ronaldo",
+    "Phillip Cocu",
+    "Romário",
+    "Jaap Stam",
+    "Johan Cruyff Shield",
+    "PSV Eindhoven",
+    "January 2026",
+    "KNVB Cup",
+    "Arjen Robben",
+    "Philips Stadion",
+    "Georginio Wijnaldum",
+    "Eindhoven",
+    "Boudewijn Zenden",
+    "Eredivisie",
+    "Ruud Gullit",
+    "Ruud van Nistelrooy",
+    "Netherlands",
+    "Feyenoord",
+    "Park Ji-sung",
+    "UEFA Cup",
+    "boeren",
+    "Ajax"
+  ],
+  "edges": [
+    "has won the KNVB Cup",
+    "is a sports club from",
+    "is also known as",
+    "has won the Johan Cruyff Shield",
+    "has played in",
+    "has developed a reputation as a stepping stone for players including",
+    "is ranked",
+    "has won the Eredivisie",
+    "was founded in",
+    "is one of the country's big three clubs along with"
+  ],
+  "relations": [
+    [
+      "PSV Eindhoven",
+      "has played in",
+      "Eredivisie"
+    ],
+    [
+      "PSV Eindhoven",
+      "is ranked",
+      "18th on the UEFA club coefficients ranking"
+    ],
+    [
+      "PSV Eindhoven",
+      "was founded in",
+      "1913"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Arjen Robben"
+    ],
+    [
+      "PSV Eindhoven",
+      "has won the KNVB Cup",
+      "11 times"
+    ],
+    [
+      "PSV Eindhoven",
+      "has played in",
+      "Philips Stadion"
+    ],
+    [
+      "PSV Eindhoven",
+      "is also known as",
+      "Philips Sport Vereniging"
+    ],
+    [
+      "PSV Eindhoven",
+      "has won the Johan Cruyff Shield",
+      "15 times"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Phillip Cocu"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Ronaldo"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Memphis Depay"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Jaap Stam"
+    ],
+    [
+      "PSV Eindhoven",
+      "is one of the country's big three clubs along with",
+      "Ajax"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Ruud van Nistelrooy"
+    ],
+    [
+      "PSV Eindhoven",
+      "is a sports club from",
+      "Eindhoven"
+    ],
+    [
+      "PSV Eindhoven",
+      "has won the Eredivisie",
+      "27 times"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Ronald Koeman"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Denzel Dumfries"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Mark van Bommel"
+    ],
+    [
+      "PSV Eindhoven",
+      "is one of the country's big three clubs along with",
+      "Feyenoord"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Ruud Gullit"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Boudewijn Zenden"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Romário"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Park Ji-sung"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Georginio Wijnaldum"
+    ],
+    [
+      "PSV Eindhoven",
+      "has developed a reputation as a stepping stone for players including",
+      "Cody Gakpo"
+    ]
+  ]
+}

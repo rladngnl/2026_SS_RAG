@@ -1,0 +1,393 @@
+{
+  "entities": [
+    "2026",
+    "2011",
+    "fertile agricultural land",
+    "education",
+    "Kampala",
+    "Milton Obote",
+    "oil reserves",
+    "Organisation of Islamic Cooperation",
+    "Rwanda",
+    "1971",
+    "English",
+    "LRA",
+    "African Great Lakes",
+    "South Sudan",
+    "Empire of Kitara",
+    "British explorers",
+    "Nilotic groups",
+    "Bantu",
+    "Buganda kingdom",
+    "health",
+    "service sector",
+    "volcanic hills",
+    "Arab traders",
+    "Mengo Crisis",
+    "tourism",
+    "2016",
+    "African Union",
+    "Tanzania",
+    "Luganda",
+    "gender inequality",
+    "United Nations",
+    "Kenya",
+    "Yoweri Museveni",
+    "Democratic Republic of the Congo",
+    "1986",
+    "natural resources",
+    "equatorial climate",
+    "1980 Ugandan general election",
+    "G77",
+    "maternal health",
+    "Lake Victoria",
+    "mountains",
+    "1962",
+    "East Africa",
+    "Protectorate of Uganda",
+    "National Resistance Movement",
+    "Republic of Uganda",
+    "Nile basin",
+    "Uganda–Tanzania War",
+    "2021",
+    "Uganda",
+    "Idi Amin",
+    "presidential system",
+    "East African Community",
+    "HIV infection",
+    "Lord's Resistance Army"
+  ],
+  "edges": [
+    "arrived in",
+    "has fertile",
+    "led",
+    "ruled",
+    "was overthrown in",
+    "converted from a parliamentary system to",
+    "won",
+    "was established by",
+    "is a member of",
+    "is located in",
+    "has a climate described as",
+    "is the capital and largest city of",
+    "is widely spoken in",
+    "returned to power following",
+    "dominates the economy of",
+    "is a vital sector for the economy of",
+    "is the world's second-largest",
+    "is diverse with",
+    "marked a significant conflict with",
+    "gained independence in",
+    "is in",
+    "faces challenges in",
+    "was the first prime minister of",
+    "has made progress in",
+    "overthrew",
+    "is shared by",
+    "encompasses a large portion of",
+    "lies within",
+    "includes",
+    "resulted in",
+    "established",
+    "is bordered by",
+    "has significant",
+    "is officially known as",
+    "is the official language of",
+    "has reduced",
+    "is named after",
+    "has untapped",
+    "has improved"
+  ],
+  "relations": [
+    [
+      "Uganda",
+      "is diverse with",
+      "mountains"
+    ],
+    [
+      "Arab traders",
+      "arrived in",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "faces challenges in",
+      "regional conflicts"
+    ],
+    [
+      "Luganda",
+      "is widely spoken in",
+      "Uganda"
+    ],
+    [
+      "Lake Victoria",
+      "is shared by",
+      "Tanzania"
+    ],
+    [
+      "service sector",
+      "dominates the economy of",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "is bordered by",
+      "Kenya"
+    ],
+    [
+      "Lake Victoria",
+      "is shared by",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "is bordered by",
+      "Democratic Republic of the Congo"
+    ],
+    [
+      "Uganda",
+      "is named after",
+      "Buganda kingdom"
+    ],
+    [
+      "Uganda",
+      "is bordered by",
+      "Tanzania"
+    ],
+    [
+      "English",
+      "is the official language of",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "is officially known as",
+      "Republic of Uganda"
+    ],
+    [
+      "Uganda",
+      "is a member of",
+      "Organisation of Islamic Cooperation"
+    ],
+    [
+      "Museveni's rule",
+      "resulted in",
+      "stability and economic growth"
+    ],
+    [
+      "tourism",
+      "is a vital sector for the economy of",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "is diverse with",
+      "volcanic hills"
+    ],
+    [
+      "Uganda",
+      "is bordered by",
+      "South Sudan"
+    ],
+    [
+      "Uganda",
+      "is located in",
+      "East Africa"
+    ],
+    [
+      "Uganda",
+      "faces challenges in",
+      "corruption"
+    ],
+    [
+      "Uganda",
+      "is bordered by",
+      "Rwanda"
+    ],
+    [
+      "Empire of Kitara",
+      "was established by",
+      "new inhabitants"
+    ],
+    [
+      "Uganda",
+      "has significant",
+      "natural resources"
+    ],
+    [
+      "Idi Amin",
+      "ruled",
+      "Uganda"
+    ],
+    [
+      "Buganda kingdom",
+      "encompasses a large portion of",
+      "the south"
+    ],
+    [
+      "Uganda",
+      "is a member of",
+      "G77"
+    ],
+    [
+      "Uganda",
+      "was overthrown in",
+      "Uganda–Tanzania War"
+    ],
+    [
+      "Uganda",
+      "faces challenges in",
+      "human rights issues"
+    ],
+    [
+      "Uganda",
+      "has made progress in",
+      "education"
+    ],
+    [
+      "Uganda",
+      "is diverse with",
+      "lakes"
+    ],
+    [
+      "Uganda",
+      "lies within",
+      "Nile basin"
+    ],
+    [
+      "Uganda",
+      "faces challenges in",
+      "gender inequality"
+    ],
+    [
+      "National Resistance Movement",
+      "won",
+      "the victory in 1986"
+    ],
+    [
+      "Uganda",
+      "has made progress in",
+      "health"
+    ],
+    [
+      "Uganda",
+      "faces challenges in",
+      "maternal health"
+    ],
+    [
+      "Lake Victoria",
+      "is the world's second-largest",
+      "freshwater lake"
+    ],
+    [
+      "British",
+      "established",
+      "Protectorate of Uganda"
+    ],
+    [
+      "Uganda",
+      "is a member of",
+      "African Union"
+    ],
+    [
+      "Kampala",
+      "is the capital and largest city of",
+      "Uganda"
+    ],
+    [
+      "Idi Amin",
+      "overthrew",
+      "Obote"
+    ],
+    [
+      "Uganda",
+      "is a member of",
+      "East African Community"
+    ],
+    [
+      "Uganda",
+      "is in",
+      "African Great Lakes"
+    ],
+    [
+      "British explorers",
+      "arrived in",
+      "Uganda"
+    ],
+    [
+      "Milton Obote",
+      "was the first prime minister of",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "gained independence in",
+      "1962"
+    ],
+    [
+      "Bantu and Nilotic groups",
+      "arrived in",
+      "Uganda"
+    ],
+    [
+      "Uganda",
+      "converted from a parliamentary system to",
+      "presidential system"
+    ],
+    [
+      "Uganda",
+      "has a climate described as",
+      "equatorial climate"
+    ],
+    [
+      "Obote",
+      "returned to power following",
+      "1980 Ugandan general election"
+    ],
+    [
+      "Uganda",
+      "has improved",
+      "literacy"
+    ],
+    [
+      "Buganda kingdom",
+      "includes",
+      "Kampala"
+    ],
+    [
+      "Uganda",
+      "has reduced",
+      "HIV infection"
+    ],
+    [
+      "Yoweri Museveni",
+      "led",
+      "National Resistance Movement"
+    ],
+    [
+      "Uganda",
+      "has untapped",
+      "oil reserves"
+    ],
+    [
+      "Uganda",
+      "is a member of",
+      "United Nations"
+    ],
+    [
+      "Mengo Crisis",
+      "marked a significant conflict with",
+      "Buganda kingdom"
+    ],
+    [
+      "Lake Victoria",
+      "is shared by",
+      "Kenya"
+    ],
+    [
+      "Uganda",
+      "has fertile",
+      "agricultural land"
+    ]
+  ]
+}

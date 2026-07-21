@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "September 20, 1981",
+    "Éber Luís Cucchi",
+    "Caxias do Sul",
+    "footballer",
+    "forward",
+    "Brazilian"
+  ],
+  "edges": [
+    "was born on",
+    "plays as",
+    "is a",
+    "was born in"
+  ],
+  "relations": [
+    [
+      "Éber Luís Cucchi",
+      "was born in",
+      "Caxias do Sul"
+    ],
+    [
+      "Éber Luís Cucchi",
+      "was born on",
+      "September 20, 1981"
+    ],
+    [
+      "Éber Luís Cucchi",
+      "plays as",
+      "forward"
+    ],
+    [
+      "Éber Luís Cucchi",
+      "is a",
+      "Brazilian footballer"
+    ]
+  ]
+}

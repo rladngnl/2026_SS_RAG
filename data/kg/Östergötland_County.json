@@ -1,0 +1,101 @@
+{
+  "entities": [
+    "Örebro",
+    "Jönköping",
+    "population",
+    "Princess Estelle",
+    "Gothenburg",
+    "Östergötland County",
+    "lake Vättern",
+    "Norrköping",
+    "Sweden",
+    "Södermanland",
+    "Kalmar",
+    "Linköping",
+    "Västra Götaland",
+    "Duchess of Östergötland",
+    "Fourth Metropolitan Region of Sweden",
+    "Linköping-Norrköping Corridor",
+    "Stockholm",
+    "Baltic Sea",
+    "Malmö"
+  ],
+  "edges": [
+    "form",
+    "is marketed as",
+    "borders",
+    "has capital city",
+    "has a sea border with",
+    "is a twin city of",
+    "is",
+    "has a population of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Linköping and Norrköping",
+      "form",
+      "Linköping-Norrköping Corridor"
+    ],
+    [
+      "Princess Estelle",
+      "is",
+      "Duchess of Östergötland"
+    ],
+    [
+      "Östergötland County",
+      "has capital city",
+      "Linköping"
+    ],
+    [
+      "Östergötland County",
+      "borders",
+      "Baltic Sea"
+    ],
+    [
+      "Östergötland County",
+      "has a population of",
+      "456,550"
+    ],
+    [
+      "Östergötland County",
+      "borders",
+      "Jönköping"
+    ],
+    [
+      "Östergötland County",
+      "borders",
+      "Södermanland"
+    ],
+    [
+      "Östergötland County",
+      "has a sea border with",
+      "Västra Götaland"
+    ],
+    [
+      "Östergötland County",
+      "is located in",
+      "Sweden"
+    ],
+    [
+      "Linköping",
+      "is a twin city of",
+      "Norrköping"
+    ],
+    [
+      "Linköping-Norrköping Corridor",
+      "is marketed as",
+      "Fourth Metropolitan Region of Sweden"
+    ],
+    [
+      "Östergötland County",
+      "borders",
+      "Örebro"
+    ],
+    [
+      "Östergötland County",
+      "borders",
+      "Kalmar"
+    ]
+  ]
+}

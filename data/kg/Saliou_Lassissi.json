@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "French citizenship",
+    "footballer",
+    "naturalization",
+    "Ivorian",
+    "defender",
+    "Saliou Lassissi",
+    "20 October 1997",
+    "right-back",
+    "centre-back"
+  ],
+  "edges": [
+    "acquired on",
+    "was also employed as",
+    "mainly in the role of",
+    "by",
+    "is",
+    "played as",
+    "acquired"
+  ],
+  "relations": [
+    [
+      "Saliou Lassissi",
+      "is",
+      "footballer"
+    ],
+    [
+      "Saliou Lassissi",
+      "acquired",
+      "French citizenship"
+    ],
+    [
+      "Saliou Lassissi",
+      "is",
+      "Ivorian"
+    ],
+    [
+      "Saliou Lassissi",
+      "played as",
+      "defender"
+    ],
+    [
+      "French citizenship",
+      "by",
+      "naturalization"
+    ],
+    [
+      "Saliou Lassissi",
+      "mainly in the role of",
+      "centre-back"
+    ],
+    [
+      "Saliou Lassissi",
+      "was also employed as",
+      "right-back"
+    ],
+    [
+      "Saliou Lassissi",
+      "acquired on",
+      "20 October 1997"
+    ]
+  ]
+}

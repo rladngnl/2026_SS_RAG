@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "2022",
+    "66,719",
+    "Romania",
+    "Vrancea County",
+    "Milcov",
+    "Moldavia",
+    "Focșani"
+  ],
+  "edges": [
+    "is the capital city of",
+    "has a population as of",
+    "is in the historical region of",
+    "has a population of",
+    "is on the banks of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Focșani",
+      "is on the banks of",
+      "Milcov"
+    ],
+    [
+      "Focșani",
+      "is located in",
+      "Romania"
+    ],
+    [
+      "Focșani",
+      "is in the historical region of",
+      "Moldavia"
+    ],
+    [
+      "Focșani",
+      "has a population as of",
+      "2022"
+    ],
+    [
+      "Focșani",
+      "is the capital city of",
+      "Vrancea County"
+    ],
+    [
+      "Focșani",
+      "has a population of",
+      "66,719"
+    ]
+  ]
+}

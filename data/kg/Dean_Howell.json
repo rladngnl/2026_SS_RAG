@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Dean George Howell",
+    "Dean Howell",
+    "left-back",
+    "left-midfield",
+    "29 November 1980",
+    "former professional footballer",
+    "English"
+  ],
+  "edges": [
+    "was born on",
+    "played at",
+    "is"
+  ],
+  "relations": [
+    [
+      "Dean George Howell",
+      "played at",
+      "left-back"
+    ],
+    [
+      "Dean George Howell",
+      "was born on",
+      "29 November 1980"
+    ],
+    [
+      "Dean George Howell",
+      "is",
+      "English"
+    ],
+    [
+      "Dean George Howell",
+      "played at",
+      "left-midfield"
+    ],
+    [
+      "Dean George Howell",
+      "is",
+      "former professional footballer"
+    ]
+  ]
+}

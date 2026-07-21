@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Hong Kong Premier League",
+    "2013–14 season",
+    "Hong Kong",
+    "professional football club",
+    "Hong Kong Third Division League",
+    "Sun Hei Sports Club",
+    "top flight"
+  ],
+  "edges": [
+    "is a",
+    "has a long history in playing in",
+    "declined to participate in",
+    "self-relegated in",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Sun Hei Sports Club",
+      "self-relegated in",
+      "2013–14 season"
+    ],
+    [
+      "Sun Hei Sports Club",
+      "has a long history in playing in",
+      "top flight"
+    ],
+    [
+      "Sun Hei Sports Club",
+      "competes in",
+      "Hong Kong Third Division League"
+    ],
+    [
+      "Sun Hei Sports Club",
+      "is a",
+      "professional football club"
+    ],
+    [
+      "Sun Hei Sports Club",
+      "declined to participate in",
+      "Hong Kong Premier League"
+    ]
+  ]
+}

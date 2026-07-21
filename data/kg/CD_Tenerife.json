@@ -1,0 +1,130 @@
+{
+  "entities": [
+    "Segunda División",
+    "22,824-seat capacity",
+    "Canary Islands",
+    "1922",
+    "2009–10 season",
+    "10-year stint",
+    "Santa Cruz de Tenerife",
+    "fifth in the league table",
+    "La Liga",
+    "Las Palmas",
+    "Club Deportivo Tenerife",
+    "Gran Canaria",
+    "Atlantic coast of Africa",
+    "1999",
+    "UEFA Cup",
+    "Canary Islands derby",
+    "Estadio Heliodoro Rodríguez López",
+    "Tenerife",
+    "1989",
+    "CD Tenerife",
+    "Canary archipelago"
+  ],
+  "edges": [
+    "was to",
+    "is a",
+    "has a capacity of",
+    "is from",
+    "is geographically isolated with",
+    "most recently played in",
+    "plays in",
+    "qualified for",
+    "has been promoted to",
+    "had a",
+    "contests",
+    "finished as high as",
+    "was from",
+    "holds home matches at",
+    "has a history playing in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "10-year stint",
+      "was from",
+      "1989"
+    ],
+    [
+      "CD Tenerife",
+      "is geographically isolated with",
+      "Las Palmas"
+    ],
+    [
+      "CD Tenerife",
+      "plays in",
+      "Segunda División"
+    ],
+    [
+      "Las Palmas",
+      "is from",
+      "Gran Canaria"
+    ],
+    [
+      "CD Tenerife",
+      "finished as high as",
+      "fifth in the league table"
+    ],
+    [
+      "CD Tenerife",
+      "has been promoted to",
+      "La Liga"
+    ],
+    [
+      "CD Tenerife",
+      "has a history playing in",
+      "La Liga"
+    ],
+    [
+      "10-year stint",
+      "was to",
+      "1999"
+    ],
+    [
+      "CD Tenerife",
+      "most recently played in",
+      "2009–10 season"
+    ],
+    [
+      "CD Tenerife",
+      "is based in",
+      "Santa Cruz de Tenerife"
+    ],
+    [
+      "CD Tenerife",
+      "had a",
+      "10-year stint"
+    ],
+    [
+      "CD Tenerife",
+      "is based in",
+      "Canary Islands"
+    ],
+    [
+      "Estadio Heliodoro Rodríguez López",
+      "has a capacity of",
+      "22,824-seat capacity"
+    ],
+    [
+      "CD Tenerife",
+      "holds home matches at",
+      "Estadio Heliodoro Rodríguez López"
+    ],
+    [
+      "CD Tenerife",
+      "contests",
+      "Canary Islands derby"
+    ],
+    [
+      "CD Tenerife",
+      "qualified for",
+      "UEFA Cup"
+    ],
+    [
+      "CD Tenerife",
+      "is a",
+      "Club Deportivo Tenerife"
+    ]
+  ]
+}

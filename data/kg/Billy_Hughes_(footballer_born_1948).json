@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "349 appearances",
+    "professional footballer",
+    "Sunderland",
+    "San Jose Earthquakes",
+    "20 December 2019",
+    "Scotland national football team",
+    "Carlisle United",
+    "Leicester City",
+    "William Hughes",
+    "Derby County",
+    "30 December 1948",
+    "Billy Hughes",
+    "Scottish",
+    "87 goals"
+  ],
+  "edges": [
+    "is a",
+    "died on",
+    "was born on",
+    "scored",
+    "made",
+    "played for",
+    "won one cap for"
+  ],
+  "relations": [
+    [
+      "William Hughes",
+      "died on",
+      "20 December 2019"
+    ],
+    [
+      "William Hughes",
+      "played for",
+      "Leicester City"
+    ],
+    [
+      "William Hughes",
+      "was born on",
+      "30 December 1948"
+    ],
+    [
+      "William Hughes",
+      "played for",
+      "Sunderland"
+    ],
+    [
+      "William Hughes",
+      "won one cap for",
+      "Scotland national football team"
+    ],
+    [
+      "William Hughes",
+      "played for",
+      "San Jose Earthquakes"
+    ],
+    [
+      "William Hughes",
+      "scored",
+      "87 goals"
+    ],
+    [
+      "William Hughes",
+      "is a",
+      "Scottish professional footballer"
+    ],
+    [
+      "William Hughes",
+      "made",
+      "349 appearances"
+    ],
+    [
+      "William Hughes",
+      "played for",
+      "Carlisle United"
+    ],
+    [
+      "William Hughes",
+      "played for",
+      "Derby County"
+    ]
+  ]
+}

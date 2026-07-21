@@ -1,0 +1,39 @@
+{
+  "entities": [
+    "FK Tarpeda-BelAZ Zhodzina",
+    "Torpedo Stadium",
+    "Belarus",
+    "BelAZ",
+    "Zhodzina",
+    "Belarusian Premier League",
+    "FC Torpedo-BelAZ Zhodino"
+  ],
+  "edges": [
+    "is based in",
+    "is sponsored by",
+    "plays in",
+    "has home stadium"
+  ],
+  "relations": [
+    [
+      "FC Torpedo-BelAZ Zhodino",
+      "is sponsored by",
+      "BelAZ"
+    ],
+    [
+      "FC Torpedo-BelAZ Zhodino",
+      "is based in",
+      "Zhodzina"
+    ],
+    [
+      "FC Torpedo-BelAZ Zhodino",
+      "has home stadium",
+      "Torpedo Stadium"
+    ],
+    [
+      "FC Torpedo-BelAZ Zhodino",
+      "plays in",
+      "Belarusian Premier League"
+    ]
+  ]
+}

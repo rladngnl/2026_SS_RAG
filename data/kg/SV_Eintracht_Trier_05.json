@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "2. Bundesliga",
+    "Trier Fußball Club 05",
+    "German Amateur Championship",
+    "DFB-Pokal",
+    "Regionalliga Südwest",
+    "Westmark 05 Trier",
+    "1998",
+    "Trier",
+    "Porta Nigra",
+    "Eintracht Trier",
+    "Germany",
+    "Eintracht Trier 06",
+    "Rhineland-Palatinate",
+    "SV Eintracht Trier 05"
+  ],
+  "edges": [
+    "reached the semi-finals of",
+    "is considered",
+    "has achieved notable successes such as winning",
+    "has a badge featuring",
+    "is located in",
+    "has competed in",
+    "reached the semi-finals in",
+    "was formed through the merger of",
+    "was established on",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "SV Eintracht Trier 05",
+      "is based in",
+      "Trier"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "has competed in",
+      "2. Bundesliga"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "was formed through the merger of",
+      "Westmark 05 Trier and Eintracht Trier 06"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "reached the semi-finals in",
+      "1998"
+    ],
+    [
+      "Porta Nigra",
+      "is considered",
+      "Germany's oldest city"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "is located in",
+      "Rhineland-Palatinate"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "reached the semi-finals of",
+      "DFB-Pokal"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "has a badge featuring",
+      "Porta Nigra"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "has achieved notable successes such as winning",
+      "German Amateur Championship"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "was established on",
+      "11 March 1948"
+    ],
+    [
+      "SV Eintracht Trier 05",
+      "has competed in",
+      "Regionalliga Südwest"
+    ]
+  ]
+}

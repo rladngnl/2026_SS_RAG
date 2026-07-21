@@ -1,0 +1,162 @@
+{
+  "entities": [
+    "Bohemians",
+    "League Cups",
+    "Inchicore",
+    "nine League Titles",
+    "Shelbourne",
+    "red and white colours",
+    "Championship",
+    "Supersaints",
+    "St Patrick's Athletic Football Club",
+    "Leinster Senior League",
+    "Irish Club Football",
+    "League of Ireland Premier Division",
+    "The Saints",
+    "Pat's",
+    "Richmond Park",
+    "Dublin",
+    "1990s",
+    "1951",
+    "Dublin Derby",
+    "May 1929",
+    "Phoenix Park",
+    "FAI Cups",
+    "Shamrock Rovers",
+    "1950s"
+  ],
+  "edges": [
+    "won the Championship at their first attempt in",
+    "moved to their current ground of",
+    "graduated through the ranks of",
+    "is commonly known as",
+    "had glory years in",
+    "has won",
+    "is located in",
+    "plays in",
+    "originally played in",
+    "has nicknames including",
+    "took their place in",
+    "is one of only two teams to never have been relegated from",
+    "was founded in",
+    "is based in",
+    "has Dublin Derby games with"
+  ],
+  "relations": [
+    [
+      "St Patrick's Athletic Football Club",
+      "originally played in",
+      "Phoenix Park"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "was founded in",
+      "May 1929"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "graduated through the ranks of",
+      "Leinster Senior League"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "plays in",
+      "League of Ireland Premier Division"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has won",
+      "League Cups"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "took their place in",
+      "League of Ireland"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has Dublin Derby games with",
+      "Shamrock Rovers"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has nicknames including",
+      "Supersaints"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "is commonly known as",
+      "The Saints"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "had glory years in",
+      "1990s"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has won",
+      "nine League Titles"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has won",
+      "FAI Cups"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "is based in",
+      "Inchicore"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "had glory years in",
+      "1950s"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "won the Championship at their first attempt in",
+      "1951"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "is commonly known as",
+      "Pat's"
+    ],
+    [
+      "Inchicore",
+      "is located in",
+      "Dublin"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "moved to their current ground of",
+      "Richmond Park"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "is one of only two teams to never have been relegated from",
+      "Premier Division"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "plays in",
+      "red and white colours"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has nicknames including",
+      "The Saints"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has Dublin Derby games with",
+      "Bohemians"
+    ],
+    [
+      "St Patrick's Athletic Football Club",
+      "has Dublin Derby games with",
+      "Shelbourne"
+    ]
+  ]
+}

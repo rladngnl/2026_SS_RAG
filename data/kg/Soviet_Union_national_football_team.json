@@ -1,0 +1,108 @@
+{
+  "entities": [
+    "FIFA",
+    "Russia national football team",
+    "1956",
+    "World Cup",
+    "military",
+    "Ukrainian SSR",
+    "gold medal",
+    "Andrei Kanchelskis",
+    "FIFA's prohibition",
+    "European Championships",
+    "1988",
+    "CIS national football team",
+    "Euro 1992",
+    "West Germany",
+    "UEFA",
+    "Soviet Union national football team",
+    "Yugoslavia",
+    "Olympic tournaments"
+  ],
+  "edges": [
+    "was transformed into",
+    "had best finish",
+    "continued to field",
+    "failed to qualify for",
+    "earned",
+    "required",
+    "considers",
+    "bent the rules by listing",
+    "qualified for",
+    "attended",
+    "won",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "FIFA",
+      "considers",
+      "Russia national football team"
+    ],
+    [
+      "Soviet Union national football team",
+      "failed to qualify for",
+      "World Cup"
+    ],
+    [
+      "Soviet Union national football team",
+      "earned",
+      "gold medal in 1988"
+    ],
+    [
+      "Soviet Union national football team",
+      "won",
+      "gold medal"
+    ],
+    [
+      "Soviet Union national football team",
+      "continued to field",
+      "national team players in Olympic tournaments"
+    ],
+    [
+      "Soviet Union national football team",
+      "was transformed into",
+      "CIS national football team"
+    ],
+    [
+      "Soviet Union national football team",
+      "bent the rules by listing",
+      "best players in the military"
+    ],
+    [
+      "Soviet Union national football team",
+      "attended",
+      "seven finals tournaments"
+    ],
+    [
+      "Soviet Union national football team",
+      "qualified for",
+      "five European Championships"
+    ],
+    [
+      "CIS national football team",
+      "participated in",
+      "Euro 1992"
+    ],
+    [
+      "Soviet Union national football team",
+      "had best finish",
+      "fourth in 1966"
+    ],
+    [
+      "FIFA",
+      "considers",
+      "CIS national football team"
+    ],
+    [
+      "Soviet Union national football team",
+      "earned",
+      "gold medal in 1956"
+    ],
+    [
+      "FIFA's prohibition",
+      "required",
+      "players in the Olympics to be amateurs"
+    ]
+  ]
+}

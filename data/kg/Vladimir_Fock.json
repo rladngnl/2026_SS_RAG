@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "quantum electrodynamics",
+    "Vladimir Aleksandrovich Fock",
+    "December 27, 1974",
+    "Vladimir Fock",
+    "December 22, 1898",
+    "quantum mechanics",
+    "Soviet physicist"
+  ],
+  "edges": [
+    "is a",
+    "died on",
+    "did foundational work on",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Vladimir Fock",
+      "was born on",
+      "December 22, 1898"
+    ],
+    [
+      "Vladimir Fock",
+      "did foundational work on",
+      "quantum electrodynamics"
+    ],
+    [
+      "Vladimir Fock",
+      "did foundational work on",
+      "quantum mechanics"
+    ],
+    [
+      "Vladimir Fock",
+      "died on",
+      "December 27, 1974"
+    ],
+    [
+      "Vladimir Fock",
+      "is",
+      "Vladimir Aleksandrovich Fock"
+    ],
+    [
+      "Vladimir Fock",
+      "is a",
+      "Soviet physicist"
+    ]
+  ]
+}

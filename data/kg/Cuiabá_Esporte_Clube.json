@@ -1,0 +1,92 @@
+{
+  "entities": [
+    "Campeonato Mato-Grossense",
+    "Campeonato Brasileiro Série A",
+    "Mato Grosso",
+    "Brazil",
+    "Cuiabá Esporte Clube",
+    "Luís Carlos Tóffoli",
+    "Cuiabá",
+    "2014 FIFA World Cup",
+    "Campeonato Brasileiro Série B",
+    "Campeonato Mato-Grossense championships",
+    "Copa Verde",
+    "Arena Pantanal",
+    "Grupo Dresch",
+    "12 December 2001"
+  ],
+  "edges": [
+    "has achievements including",
+    "is one of the stadiums of",
+    "reached",
+    "is located in",
+    "was founded on",
+    "plays at",
+    "was founded by",
+    "competes in",
+    "is based in",
+    "was bought and reactivated by"
+  ],
+  "relations": [
+    [
+      "Cuiabá Esporte Clube",
+      "is located in",
+      "Mato Grosso"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "competes in",
+      "Campeonato Mato-Grossense"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "was founded on",
+      "12 December 2001"
+    ],
+    [
+      "Arena Pantanal",
+      "is one of the stadiums of",
+      "2014 FIFA World Cup"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "was bought and reactivated by",
+      "Grupo Dresch"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "is based in",
+      "Cuiabá"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "reached",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "competes in",
+      "Campeonato Brasileiro Série B"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "was founded by",
+      "Luís Carlos Tóffoli"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "plays at",
+      "Arena Pantanal"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "has achievements including",
+      "Campeonato Mato-Grossense championships"
+    ],
+    [
+      "Cuiabá Esporte Clube",
+      "has achievements including",
+      "Copa Verde"
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "Coimbra District",
+    "2011",
+    "six seasons",
+    "União de Leiria",
+    "Figueira da Foz",
+    "Beira-Mar",
+    "9,000 spectators",
+    "União de Coimbra",
+    "Naval",
+    "Associação Naval 1º de Maio",
+    "Division of Honour",
+    "first division",
+    "1 May 1893",
+    "Centro Region",
+    "Coimbra Football Association",
+    "Estádio Municipal José Bento Pessoa",
+    "Académica de Coimbra",
+    "Primeira Liga",
+    "2017",
+    "2005"
+  ],
+  "edges": [
+    "was a",
+    "was alongside",
+    "was dissolved in",
+    "has a capacity of",
+    "was in the first division from",
+    "was in the first division until",
+    "was one of the main teams from",
+    "was founded on",
+    "last played in",
+    "held home games at",
+    "was based in",
+    "spent"
+  ],
+  "relations": [
+    [
+      "Estádio Municipal José Bento Pessoa",
+      "has a capacity of",
+      "9,000 spectators"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was a",
+      "Portuguese football club"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "spent",
+      "six seasons"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was in the first division from",
+      "2005"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "last played in",
+      "Division of Honour"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was dissolved in",
+      "2017"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was alongside",
+      "União de Leiria"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was one of the main teams from",
+      "Centro Region"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was founded on",
+      "1 May 1893"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was based in",
+      "Figueira da Foz"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was in the first division until",
+      "2011"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was alongside",
+      "Académica de Coimbra"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was alongside",
+      "União de Coimbra"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "held home games at",
+      "Estádio Municipal José Bento Pessoa"
+    ],
+    [
+      "Associação Naval 1º de Maio",
+      "was alongside",
+      "Beira-Mar"
+    ]
+  ]
+}

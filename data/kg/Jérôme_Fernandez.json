@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "French handball coach",
+    "former handball player",
+    "France men's national handball team",
+    "France's national team",
+    "French handball Hall of Fame",
+    "record for the number of goals",
+    "officer of the Ordre national du Mérite",
+    "knight of the Legion of Honour",
+    "Jérôme Fernandez"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is an",
+    "was captain of",
+    "holds the record for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jérôme Fernandez",
+      "is",
+      "former handball player"
+    ],
+    [
+      "Jérôme Fernandez",
+      "is an",
+      "officer of the Ordre national du Mérite"
+    ],
+    [
+      "Jérôme Fernandez",
+      "was captain of",
+      "France men's national handball team"
+    ],
+    [
+      "Jérôme Fernandez",
+      "is",
+      "French handball coach"
+    ],
+    [
+      "Jérôme Fernandez",
+      "is in",
+      "French handball Hall of Fame"
+    ],
+    [
+      "Jérôme Fernandez",
+      "is a",
+      "knight of the Legion of Honour"
+    ],
+    [
+      "Jérôme Fernandez",
+      "holds the record for",
+      "the number of goals"
+    ]
+  ]
+}

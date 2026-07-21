@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Norwegian",
+    "defender",
+    "Torgeir Bjarmann",
+    "24 June 1968",
+    "football"
+  ],
+  "edges": [
+    "was born on",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Torgeir Bjarmann",
+      "was born on",
+      "24 June 1968"
+    ],
+    [
+      "Torgeir Bjarmann",
+      "is a",
+      "football defender"
+    ],
+    [
+      "Torgeir Bjarmann",
+      "is a",
+      "Norwegian"
+    ]
+  ]
+}

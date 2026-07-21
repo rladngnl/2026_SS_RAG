@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Horace Jenkins",
+    "American",
+    "National Basketball Association",
+    "October 14, 1974",
+    "Europe",
+    "Israel",
+    "professional basketball player",
+    "NBA"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "played in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Horace Jenkins",
+      "is",
+      "American"
+    ],
+    [
+      "Horace Jenkins",
+      "played in",
+      "Europe"
+    ],
+    [
+      "Horace Jenkins",
+      "was born on",
+      "October 14, 1974"
+    ],
+    [
+      "Horace Jenkins",
+      "is a",
+      "professional basketball player"
+    ],
+    [
+      "Horace Jenkins",
+      "played in",
+      "National Basketball Association"
+    ],
+    [
+      "Horace Jenkins",
+      "played in",
+      "Israel"
+    ]
+  ]
+}

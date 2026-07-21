@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "silent film",
+    "Mutual",
+    "The Gold Rush",
+    "A Countess from Hong Kong",
+    "Fred Karno company",
+    "United Artists",
+    "Charlie Chaplin",
+    "Switzerland",
+    "The Chaplin Revue",
+    "First National",
+    "the Tramp",
+    "Victorian era",
+    "The Circus",
+    "Modern Times",
+    "City Lights",
+    "Federal Bureau of Investigation",
+    "United States",
+    "The Great Dictator",
+    "Adolf Hitler",
+    "Limelight",
+    "Essanay Studios",
+    "A Woman of Paris",
+    "Monsieur Verdoux",
+    "A King in New York",
+    "Sir Charles Spencer Chaplin Jr.",
+    "Honorary Academy Award",
+    "London",
+    "film industry",
+    "The Kid",
+    "Keystone Studios"
+  ],
+  "edges": [
+    "is considered one of the most important figures in",
+    "was active in",
+    "co-founded",
+    "produced",
+    "is known for",
+    "received",
+    "directed",
+    "was investigated by",
+    "was born in",
+    "settled in",
+    "satirises"
+  ],
+  "relations": [
+    [
+      "Charlie Chaplin",
+      "produced",
+      "City Lights"
+    ],
+    [
+      "Charlie Chaplin",
+      "produced",
+      "Modern Times"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Circus"
+    ],
+    [
+      "Charlie Chaplin",
+      "received",
+      "Honorary Academy Award"
+    ],
+    [
+      "Charlie Chaplin",
+      "co-founded",
+      "United Artists"
+    ],
+    [
+      "Charlie Chaplin",
+      "settled in",
+      "Switzerland"
+    ],
+    [
+      "Charlie Chaplin",
+      "is known for",
+      "the Tramp"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Great Dictator"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Kid"
+    ],
+    [
+      "Charlie Chaplin",
+      "is considered one of the most important figures in",
+      "film industry"
+    ],
+    [
+      "Charlie Chaplin",
+      "was investigated by",
+      "Federal Bureau of Investigation"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Gold Rush"
+    ],
+    [
+      "Charlie Chaplin",
+      "was active in",
+      "silent film"
+    ],
+    [
+      "The Great Dictator",
+      "satirises",
+      "Adolf Hitler"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "A Woman of Paris"
+    ],
+    [
+      "Charlie Chaplin",
+      "was born in",
+      "London"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "Stefan Håkans",
+    "Turun Palloseura",
+    "Finnish football",
+    "Veritas Stadion",
+    "Football Club International Turku",
+    "Finland",
+    "Finnish League Cups",
+    "Inter Turku",
+    "Veikkausliiga",
+    "Inter",
+    "FC Inter Turku",
+    "Finnish Cups",
+    "Finnish football championship",
+    "Turku"
+  ],
+  "edges": [
+    "is a professional football club based in",
+    "has a capacity of",
+    "competes in",
+    "has a rivalry with",
+    "was founded by",
+    "won two",
+    "is colloquially known as",
+    "plays home matches at",
+    "won one",
+    "is commonly referred to as",
+    "won three"
+  ],
+  "relations": [
+    [
+      "FC Inter Turku",
+      "is commonly referred to as",
+      "Inter Turku"
+    ],
+    [
+      "FC Inter Turku",
+      "is colloquially known as",
+      "Inter"
+    ],
+    [
+      "FC Inter Turku",
+      "won two",
+      "Finnish Cups"
+    ],
+    [
+      "FC Inter Turku",
+      "has a rivalry with",
+      "Turun Palloseura"
+    ],
+    [
+      "FC Inter Turku",
+      "plays home matches at",
+      "Veritas Stadion"
+    ],
+    [
+      "FC Inter Turku",
+      "competes in",
+      "Veikkausliiga"
+    ],
+    [
+      "Veritas Stadion",
+      "has a capacity of",
+      "9,372"
+    ],
+    [
+      "FC Inter Turku",
+      "won three",
+      "Finnish League Cups"
+    ],
+    [
+      "FC Inter Turku",
+      "won one",
+      "Finnish football championship"
+    ],
+    [
+      "FC Inter Turku",
+      "is a professional football club based in",
+      "Turku"
+    ],
+    [
+      "FC Inter Turku",
+      "was founded by",
+      "Stefan Håkans"
+    ]
+  ]
+}

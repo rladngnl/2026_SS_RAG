@@ -1,0 +1,181 @@
+{
+  "entities": [
+    "Dammam Airport",
+    "Saudi Aramco",
+    "SaudiGulf Airlines",
+    "COVID-19 pandemic",
+    "DACO",
+    "Flynas",
+    "Aramco Terminal",
+    "Yanbu",
+    "Saudia",
+    "KFIA",
+    "Royal Terminal",
+    "Saudi Arabia",
+    "Saudi Press Agency",
+    "King Fahd Airport",
+    "Shaybah",
+    "Saudi Aramco Aviation",
+    "Gulf War",
+    "King Fahd International Airport",
+    "Flyadeal",
+    "SPA",
+    "Dubai",
+    "Dammam Airports Company",
+    "Passenger Terminal",
+    "Eastern Province",
+    "US airbase",
+    "Sama airline",
+    "Dammam",
+    "Fahd ibn Abdulaziz",
+    "Tanajib",
+    "Dammam International Airport"
+  ],
+  "edges": [
+    "is a hub for",
+    "is reserved for",
+    "has runways",
+    "is abbreviated as",
+    "was used as",
+    "serves",
+    "was affected by",
+    "is also known as",
+    "is used by",
+    "is named after",
+    "announced the suspension of",
+    "is operated by",
+    "previously served as a hub for",
+    "consists of",
+    "uses",
+    "operates flights to",
+    "is located in",
+    "has been operated by"
+  ],
+  "relations": [
+    [
+      "King Fahd International Airport",
+      "serves",
+      "Eastern Province"
+    ],
+    [
+      "King Fahd International Airport",
+      "is a hub for",
+      "Flynas"
+    ],
+    [
+      "King Fahd International Airport",
+      "serves",
+      "Dammam"
+    ],
+    [
+      "Dammam Airports Company",
+      "is abbreviated as",
+      "DACO"
+    ],
+    [
+      "King Fahd International Airport",
+      "has been operated by",
+      "Dammam Airports Company"
+    ],
+    [
+      "Aramco Terminal",
+      "is used by",
+      "Aramco employees"
+    ],
+    [
+      "King Fahd International Airport",
+      "is a hub for",
+      "Flyadeal"
+    ],
+    [
+      "Saudi Aramco Aviation",
+      "is operated by",
+      "Saudi Aramco"
+    ],
+    [
+      "King Fahd International Airport",
+      "previously served as a hub for",
+      "Sama airline"
+    ],
+    [
+      "Passenger Terminal",
+      "serves",
+      "mainstream passengers"
+    ],
+    [
+      "King Fahd International Airport",
+      "was affected by",
+      "COVID-19 pandemic"
+    ],
+    [
+      "King Fahd International Airport",
+      "was used as",
+      "US airbase"
+    ],
+    [
+      "King Fahd International Airport",
+      "is also known as",
+      "King Fahd Airport"
+    ],
+    [
+      "King Fahd International Airport",
+      "is also known as",
+      "Dammam International Airport"
+    ],
+    [
+      "King Fahd International Airport",
+      "is located in",
+      "Saudi Arabia"
+    ],
+    [
+      "Royal Terminal",
+      "is reserved for",
+      "Saudi royal family"
+    ],
+    [
+      "King Fahd International Airport",
+      "is named after",
+      "Fahd ibn Abdulaziz"
+    ],
+    [
+      "King Fahd International Airport",
+      "operates flights to",
+      "Dubai"
+    ],
+    [
+      "King Fahd International Airport",
+      "previously served as a hub for",
+      "Saudia"
+    ],
+    [
+      "King Fahd International Airport",
+      "consists of",
+      "three terminal buildings"
+    ],
+    [
+      "Saudi Aramco Aviation",
+      "uses",
+      "King Fahd International Airport"
+    ],
+    [
+      "Saudi Press Agency",
+      "announced the suspension of",
+      "all domestic and international travel"
+    ],
+    [
+      "King Fahd International Airport",
+      "previously served as a hub for",
+      "SaudiGulf Airlines"
+    ],
+    [
+      "King Fahd International Airport",
+      "has runways",
+      "two runways"
+    ],
+    [
+      "King Fahd International Airport",
+      "is also known as",
+      "Dammam Airport"
+    ]
+  ]
+}

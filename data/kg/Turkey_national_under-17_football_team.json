@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "Turkey national under-17 football team",
+    "European Under-17 Football Championship",
+    "Turkey",
+    "2001",
+    "FIFA U-17 World Cup",
+    "2002",
+    "2025",
+    "Turkish Football Federation",
+    "1982",
+    "UEFA European Under-16 Football Championship",
+    "UEFA European Under-17 Football Championship"
+  ],
+  "edges": [
+    "has been held annually since",
+    "was held from",
+    "statistics are collated from",
+    "is controlled by",
+    "was held until",
+    "was renamed as",
+    "competes in",
+    "was called"
+  ],
+  "relations": [
+    [
+      "UEFA European Under-17 Football Championship",
+      "was called",
+      "UEFA European Under-16 Football Championship"
+    ],
+    [
+      "Turkey national under-17 football team",
+      "is controlled by",
+      "Turkish Football Federation"
+    ],
+    [
+      "Turkey national under-17 football team",
+      "competes in",
+      "UEFA European Under-17 Football Championship"
+    ],
+    [
+      "European Under-17 Football Championship",
+      "statistics are collated from",
+      "1982"
+    ],
+    [
+      "UEFA European Under-17 Football Championship",
+      "has been held annually since",
+      "2025"
+    ],
+    [
+      "UEFA European Under-16 Football Championship",
+      "was held until",
+      "2001"
+    ],
+    [
+      "Turkey national under-17 football team",
+      "competes in",
+      "FIFA U-17 World Cup"
+    ],
+    [
+      "UEFA European Under-16 Football Championship",
+      "was held from",
+      "1982"
+    ],
+    [
+      "UEFA European Under-17 Football Championship",
+      "was renamed as",
+      "European Under-17 Football Championship"
+    ]
+  ]
+}

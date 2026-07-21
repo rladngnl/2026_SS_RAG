@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "Malian Football Federation",
+    "FIFA",
+    "Mali national football team",
+    "Malian government",
+    "17 March 2017",
+    "Les Aigles",
+    "Africa Cup of Nations",
+    "29 April 2017",
+    "Confederation of African Football"
+  ],
+  "edges": [
+    "was re-instated by",
+    "re-introduced",
+    "qualified for",
+    "is governed by",
+    "has nickname",
+    "was suspended by",
+    "represents",
+    "has never qualified for"
+  ],
+  "relations": [
+    [
+      "Mali national football team",
+      "is governed by",
+      "Malian Football Federation"
+    ],
+    [
+      "Mali national football team",
+      "represents",
+      "Mali"
+    ],
+    [
+      "Mali national football team",
+      "qualified for",
+      "Africa Cup of Nations"
+    ],
+    [
+      "Mali national football team",
+      "was re-instated by",
+      "FIFA"
+    ],
+    [
+      "Mali national football team",
+      "has nickname",
+      "Les Aigles"
+    ],
+    [
+      "Malian government",
+      "re-introduced",
+      "executive committee"
+    ],
+    [
+      "Mali national football team",
+      "has never qualified for",
+      "FIFA World Cup finals"
+    ],
+    [
+      "Mali national football team",
+      "was suspended by",
+      "FIFA"
+    ]
+  ]
+}

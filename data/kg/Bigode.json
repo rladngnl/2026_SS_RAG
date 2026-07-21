@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "1950 FIFA World Cup",
+    "footballer",
+    "Bigode",
+    "João Ferreira",
+    "left back",
+    "Brazilian"
+  ],
+  "edges": [
+    "was a",
+    "played in",
+    "is known as",
+    "played as"
+  ],
+  "relations": [
+    [
+      "João Ferreira",
+      "is known as",
+      "Bigode"
+    ],
+    [
+      "Bigode",
+      "played as",
+      "left back"
+    ],
+    [
+      "Bigode",
+      "was a",
+      "Brazilian footballer"
+    ],
+    [
+      "Bigode",
+      "played in",
+      "1950 FIFA World Cup"
+    ]
+  ]
+}

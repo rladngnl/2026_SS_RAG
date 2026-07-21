@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "Sugbo",
+    "Negros Occidental",
+    "Metro Manila",
+    "municipalities",
+    "Mactan Island",
+    "Philippines",
+    "Mactan–Cebu International Airport",
+    "Metro Davao",
+    "Province of Cebu",
+    "Mandaue",
+    "heavy industry",
+    "Cebu City",
+    "tourism",
+    "Cebuano",
+    "Metro Cebu",
+    "Central Visayas",
+    "furniture-making",
+    "Cebu",
+    "Cebu Metropolitan Area",
+    "Region VII",
+    "Queen City of the South",
+    "Lapu-Lapu City",
+    "cities",
+    "shipping",
+    "business processing services"
+  ],
+  "edges": [
+    "is the second busiest airport in",
+    "has the second highest number of cities after",
+    "is a province of",
+    "is the third largest metropolitan area in",
+    "is located in",
+    "has capital and largest city",
+    "is nicknamed",
+    "has",
+    "has the most combined cities and municipalities of any province in",
+    "is the main center of commerce, trade, education and industry in",
+    "consists of",
+    "is the oldest city and first capital of",
+    "is located on"
+  ],
+  "relations": [
+    [
+      "Cebu City",
+      "is the main center of commerce, trade, education and industry in",
+      "Visayas"
+    ],
+    [
+      "Cebu",
+      "has",
+      "53 cities and municipalities"
+    ],
+    [
+      "Mactan–Cebu International Airport",
+      "is located on",
+      "Mactan Island"
+    ],
+    [
+      "Cebu Metropolitan Area",
+      "is the third largest metropolitan area in",
+      "Philippines"
+    ],
+    [
+      "Cebu",
+      "has",
+      "9 cities in total"
+    ],
+    [
+      "Cebu",
+      "has the second highest number of cities after",
+      "Negros Occidental"
+    ],
+    [
+      "Cebu",
+      "has the most combined cities and municipalities of any province in",
+      "Philippines"
+    ],
+    [
+      "Cebu",
+      "consists of",
+      "a main island and 167 surrounding islands and islets"
+    ],
+    [
+      "Cebu",
+      "has capital and largest city",
+      "Cebu City"
+    ],
+    [
+      "Cebu City",
+      "is the oldest city and first capital of",
+      "Philippines"
+    ],
+    [
+      "Mactan–Cebu International Airport",
+      "is the second busiest airport in",
+      "Philippines"
+    ],
+    [
+      "Cebu",
+      "is a province of",
+      "Philippines"
+    ],
+    [
+      "Cebu",
+      "is located in",
+      "Central Visayas"
+    ],
+    [
+      "Cebu City",
+      "is nicknamed",
+      "Queen City of the South"
+    ]
+  ]
+}

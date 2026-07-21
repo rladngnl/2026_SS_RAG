@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "footballer",
+    "Macclesfield Town",
+    "two goals",
+    "defender",
+    "Hyde United",
+    "Altrincham",
+    "119 league appearances",
+    "86 games",
+    "Karl Augustus Munroe"
+  ],
+  "edges": [
+    "is a",
+    "had spells with",
+    "scored",
+    "played as a",
+    "made",
+    "played"
+  ],
+  "relations": [
+    [
+      "Karl Augustus Munroe",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "played",
+      "86 games"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "had spells with",
+      "Hyde United"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "had spells with",
+      "Macclesfield Town"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "scored",
+      "two goals"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "had spells with",
+      "Altrincham"
+    ],
+    [
+      "Karl Augustus Munroe",
+      "made",
+      "119 league appearances"
+    ]
+  ]
+}

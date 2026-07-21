@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "Karthik",
+    "29 August 1996",
+    "Mettukudi",
+    "U. K. Senthil Kumar",
+    "Gemini Ganesan",
+    "P. Sai Suresh",
+    "Sundar C",
+    "His Highness Abdullah",
+    "1990 Malayalam film",
+    "Nagma",
+    "Goundamani",
+    "Manivannan",
+    "Sirpy"
+  ],
+  "edges": [
+    "is a",
+    "stars",
+    "has music composed by",
+    "has editing by",
+    "features",
+    "is directed by",
+    "was released on",
+    "is a remake of",
+    "has cinematography by"
+  ],
+  "relations": [
+    [
+      "Mettukudi",
+      "has cinematography by",
+      "U. K. Senthil Kumar"
+    ],
+    [
+      "Mettukudi",
+      "features",
+      "Goundamani"
+    ],
+    [
+      "Mettukudi",
+      "is a remake of",
+      "His Highness Abdullah"
+    ],
+    [
+      "Mettukudi",
+      "has music composed by",
+      "Sirpy"
+    ],
+    [
+      "Mettukudi",
+      "was released on",
+      "29 August 1996"
+    ],
+    [
+      "Mettukudi",
+      "stars",
+      "Karthik"
+    ],
+    [
+      "Mettukudi",
+      "has editing by",
+      "P. Sai Suresh"
+    ],
+    [
+      "His Highness Abdullah",
+      "is a",
+      "1990 Malayalam film"
+    ],
+    [
+      "Mettukudi",
+      "is directed by",
+      "Sundar C"
+    ],
+    [
+      "Mettukudi",
+      "stars",
+      "Nagma"
+    ],
+    [
+      "Mettukudi",
+      "features",
+      "Manivannan"
+    ],
+    [
+      "Mettukudi",
+      "features",
+      "Gemini Ganesan"
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "entities": [
+    "Serbian",
+    "6 ft 3 in",
+    "coach",
+    "Macedonian",
+    "Janko Lukovski",
+    "point guard",
+    "85 kg",
+    "Sport Key",
+    "Novi Sad",
+    "Serbia",
+    "professional basketball player",
+    "Dragan Lukovski",
+    "1.91 m"
+  ],
+  "edges": [
+    "is born on",
+    "weighs",
+    "is in",
+    "is a",
+    "is owner of",
+    "is tall",
+    "plays as",
+    "is son of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Janko Lukovski",
+      "is a",
+      "coach"
+    ],
+    [
+      "Dragan Lukovski",
+      "is tall",
+      "6 ft 3 in"
+    ],
+    [
+      "Sport Key",
+      "is located in",
+      "Novi Sad"
+    ],
+    [
+      "Dragan Lukovski",
+      "is born on",
+      "21 March 1975"
+    ],
+    [
+      "Dragan Lukovski",
+      "is tall",
+      "1.91 m"
+    ],
+    [
+      "Novi Sad",
+      "is in",
+      "Serbia"
+    ],
+    [
+      "Dragan Lukovski",
+      "is a",
+      "professional basketball player"
+    ],
+    [
+      "Dragan Lukovski",
+      "plays as",
+      "point guard"
+    ],
+    [
+      "Dragan Lukovski",
+      "is a",
+      "Macedonian"
+    ],
+    [
+      "Dragan Lukovski",
+      "weighs",
+      "85 kg"
+    ],
+    [
+      "Dragan Lukovski",
+      "is a",
+      "Serbian"
+    ],
+    [
+      "Dragan Lukovski",
+      "is owner of",
+      "Sport Key"
+    ],
+    [
+      "Dragan Lukovski",
+      "is son of",
+      "Janko Lukovski"
+    ]
+  ]
+}

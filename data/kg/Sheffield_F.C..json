@@ -1,0 +1,136 @@
+{
+  "entities": [
+    "Sheffield Football Club",
+    "FA Amateur Cup",
+    "Dronfield",
+    "FA Vase",
+    "United Counties League Premier Division North",
+    "English Football Hall of Fame",
+    "2007",
+    "1878",
+    "150th anniversary",
+    "Sheffield Rules",
+    "1977",
+    "FIFA Order of Merit",
+    "FIFA",
+    "Real Madrid",
+    "1904",
+    "October 1857",
+    "Hallam",
+    "English football pyramid",
+    "Rules derby",
+    "Derbyshire",
+    "FA rules"
+  ],
+  "edges": [
+    "commemorated",
+    "competes in",
+    "adopted",
+    "is located in",
+    "is near neighbours with",
+    "was given",
+    "initially played under",
+    "were adopted in",
+    "was won in",
+    "was finished as runners up in",
+    "is considered by",
+    "finished as runners up of",
+    "won",
+    "was given to",
+    "was inducted into",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Sheffield Football Club",
+      "was given",
+      "FIFA Order of Merit"
+    ],
+    [
+      "Sheffield Football Club",
+      "is located in",
+      "Derbyshire"
+    ],
+    [
+      "Sheffield Football Club",
+      "is based in",
+      "Dronfield"
+    ],
+    [
+      "FA rules",
+      "were adopted in",
+      "1878"
+    ],
+    [
+      "English Football Hall of Fame",
+      "commemorated",
+      "150th anniversary"
+    ],
+    [
+      "Sheffield Football Club",
+      "won",
+      "FA Amateur Cup"
+    ],
+    [
+      "FA Vase",
+      "was finished as runners up in",
+      "1977"
+    ],
+    [
+      "Sheffield Football Club",
+      "initially played under",
+      "Sheffield Rules"
+    ],
+    [
+      "FIFA Order of Merit",
+      "was given to",
+      "Real Madrid"
+    ],
+    [
+      "Sheffield Football Club",
+      "was inducted into",
+      "English Football Hall of Fame"
+    ],
+    [
+      "Sheffield Football Club",
+      "competes in",
+      "Rules derby"
+    ],
+    [
+      "Sheffield Football Club",
+      "finished as runners up of",
+      "FA Vase"
+    ],
+    [
+      "Sheffield Football Club",
+      "competes in",
+      "United Counties League Premier Division North"
+    ],
+    [
+      "Sheffield Football Club",
+      "is considered by",
+      "FIFA"
+    ],
+    [
+      "FA Amateur Cup",
+      "was won in",
+      "1904"
+    ],
+    [
+      "Sheffield Football Club",
+      "adopted",
+      "FA rules"
+    ],
+    [
+      "Sheffield Football Club",
+      "was founded in",
+      "October 1857"
+    ],
+    [
+      "Sheffield Football Club",
+      "is near neighbours with",
+      "Hallam"
+    ]
+  ]
+}

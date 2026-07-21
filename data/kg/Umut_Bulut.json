@@ -1,0 +1,59 @@
+{
+  "entities": [
+    "39 appearances",
+    "footballer",
+    "Turkey",
+    "March 15, 1983",
+    "10 goals",
+    "Turkey national team",
+    "Umut Bulut",
+    "24th June 2024",
+    "age 41"
+  ],
+  "edges": [
+    "is a",
+    "played for",
+    "scored",
+    "was at the age of",
+    "made",
+    "was born on",
+    "ended his career on"
+  ],
+  "relations": [
+    [
+      "Umut Bulut",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Umut Bulut",
+      "was at the age of",
+      "age 41"
+    ],
+    [
+      "Umut Bulut",
+      "played for",
+      "Turkey national team"
+    ],
+    [
+      "Umut Bulut",
+      "scored",
+      "10 goals"
+    ],
+    [
+      "Umut Bulut",
+      "made",
+      "39 appearances"
+    ],
+    [
+      "Umut Bulut",
+      "ended his career on",
+      "24th June 2024"
+    ],
+    [
+      "Umut Bulut",
+      "was born on",
+      "March 15, 1983"
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entities": [
+    "Michael Scot",
+    "Mike_Scott_(musician)",
+    "Michael Scott",
+    "Mickey Scott"
+  ],
+  "edges": [
+    "is also known as"
+  ],
+  "relations": [
+    [
+      "Mike_Scott_(musician)",
+      "is also known as",
+      "Mickey Scott"
+    ],
+    [
+      "Mike_Scott_(musician)",
+      "is also known as",
+      "Michael Scott"
+    ],
+    [
+      "Mike_Scott_(musician)",
+      "is also known as",
+      "Michael Scot"
+    ]
+  ]
+}

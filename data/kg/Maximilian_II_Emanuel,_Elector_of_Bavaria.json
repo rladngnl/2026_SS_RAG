@@ -1,0 +1,59 @@
+{
+  "entities": [
+    "Spanish Netherlands",
+    "Maximilian II Emanuel",
+    "Holy Roman Empire",
+    "Munich",
+    "Duke of Luxembourg",
+    "Princess Henriette Adelaide of Savoy",
+    "Ferdinand Maria",
+    "Wittelsbach",
+    "Elector of Bavaria"
+  ],
+  "edges": [
+    "is Duke of",
+    "is a ruler of",
+    "is the father of",
+    "is a prince-elector of",
+    "was born in",
+    "was the last governor of",
+    "is the mother of"
+  ],
+  "relations": [
+    [
+      "Maximilian II Emanuel",
+      "was born in",
+      "Munich"
+    ],
+    [
+      "Maximilian II Emanuel",
+      "is a prince-elector of",
+      "Holy Roman Empire"
+    ],
+    [
+      "Ferdinand Maria",
+      "is the father of",
+      "Maximilian II Emanuel"
+    ],
+    [
+      "Maximilian II Emanuel",
+      "was the last governor of",
+      "Spanish Netherlands"
+    ],
+    [
+      "Maximilian II Emanuel",
+      "is a ruler of",
+      "Bavaria"
+    ],
+    [
+      "Princess Henriette Adelaide of Savoy",
+      "is the mother of",
+      "Maximilian II Emanuel"
+    ],
+    [
+      "Maximilian II Emanuel",
+      "is Duke of",
+      "Luxembourg"
+    ]
+  ]
+}

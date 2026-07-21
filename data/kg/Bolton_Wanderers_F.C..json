@@ -1,0 +1,226 @@
+{
+  "entities": [
+    "Bolton",
+    "2001",
+    "2020–21",
+    "Christ Church FC",
+    "EFL League One",
+    "Sam Allardyce",
+    "Greater Manchester",
+    "1971",
+    "2022–23",
+    "Reebok Stadium",
+    "2019",
+    "73 seasons",
+    "1929",
+    "Toughsheet Community Stadium",
+    "England",
+    "Third Division",
+    "1987",
+    "Horwich",
+    "1877",
+    "Football League Trophy",
+    "1977–78",
+    "1964",
+    "Wembley Stadium",
+    "2016",
+    "Premier League",
+    "1972–73",
+    "Football League",
+    "BWFC",
+    "1994–95",
+    "1996–97",
+    "White Horse Final",
+    "1986",
+    "2016–17",
+    "League Cup",
+    "1888",
+    "Pike's Lane",
+    "1874",
+    "Second Division",
+    "1926",
+    "EFL Championship",
+    "1908–09",
+    "2020",
+    "UEFA Cup",
+    "Burnden Park",
+    "1987–88",
+    "FA Cup",
+    "1992–93",
+    "May 2026",
+    "2025-26",
+    "1989",
+    "Fourth Division",
+    "2004",
+    "EFL Trophy",
+    "Bolton Wanderers Football Club",
+    "1923",
+    "League Two",
+    "1958"
+  ],
+  "edges": [
+    "entered administration in",
+    "became known as",
+    "has spent",
+    "won",
+    "is part of",
+    "competes in",
+    "is located in",
+    "is currently known as",
+    "was among the founding members of",
+    "is based in",
+    "won the FA Cup in",
+    "is in",
+    "was relegated from",
+    "played home matches at",
+    "returned after winning",
+    "moved to",
+    "was founded in",
+    "was promoted from",
+    "was founded as",
+    "secured promotion in",
+    "was acquired by"
+  ],
+  "relations": [
+    [
+      "Bolton Wanderers Football Club",
+      "was relegated from",
+      "top division"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "has spent",
+      "73 seasons"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "returned after winning",
+      "Third Division"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "moved to",
+      "Reebok Stadium"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won the FA Cup in",
+      "1929"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "secured promotion in",
+      "2016–17"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "was promoted from",
+      "EFL League One"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "secured promotion in",
+      "2025-26"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "is located in",
+      "Bolton"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won",
+      "Football League Trophy"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "was founded as",
+      "Christ Church FC"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "secured promotion in",
+      "2020–21"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "is currently known as",
+      "Toughsheet Community Stadium"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "is based in",
+      "Horwich"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won the FA Cup in",
+      "1958"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won the FA Cup in",
+      "1926"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "was acquired by",
+      "new ownership"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "entered administration in",
+      "2019"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "competes in",
+      "EFL Championship"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won",
+      "EFL Trophy"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won the FA Cup in",
+      "1923"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "was founded in",
+      "1874"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "was among the founding members of",
+      "Football League"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "won",
+      "Second Division"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "played home matches at",
+      "Burnden Park"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "became known as",
+      "Bolton Wanderers"
+    ],
+    [
+      "Bolton Wanderers Football Club",
+      "is part of",
+      "Greater Manchester"
+    ]
+  ]
+}

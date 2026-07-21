@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "French men-at-arms",
+    "Milanese cavalry",
+    "Scottish archers",
+    "English longbowmen",
+    "English army",
+    "Agincourt",
+    "Duke of Alençon",
+    "Marshal de La Fayette",
+    "earls of Douglas",
+    "Army of Scotland",
+    "Scots",
+    "Franco-Scottish force",
+    "Hundred Years' War",
+    "Battle of Verneuil",
+    "John, Duke of Bedford",
+    "Normandy",
+    "Verneuil-sur-Avre",
+    "Milanese heavy cavalry",
+    "earls of Buchan",
+    "17 August 1424",
+    "English men-at-arms",
+    "Burgundian chronicler Jean de Wavrin"
+  ],
+  "edges": [
+    "received no quarter from",
+    "was fought on",
+    "were killed in the",
+    "fought in the",
+    "led the",
+    "was taken prisoner among",
+    "captured and looted the",
+    "was a significant victory for",
+    "charged the",
+    "was fought near",
+    "is a battle of",
+    "was described by",
+    "routed one wing of",
+    "clashed with",
+    "claimed to have lost",
+    "was fought in",
+    "ceased to play a significant part in"
+  ],
+  "relations": [
+    [
+      "earls of Buchan",
+      "were killed in the",
+      "Battle of Verneuil"
+    ],
+    [
+      "Milanese heavy cavalry",
+      "charged the",
+      "English army"
+    ],
+    [
+      "Battle of Verneuil",
+      "was fought on",
+      "17 August 1424"
+    ],
+    [
+      "Milanese heavy cavalry",
+      "captured and looted the",
+      "English baggage train"
+    ],
+    [
+      "Battle of Verneuil",
+      "was fought near",
+      "Verneuil-sur-Avre"
+    ],
+    [
+      "Battle of Verneuil",
+      "was a significant victory for",
+      "English army"
+    ],
+    [
+      "earls of Douglas",
+      "led the",
+      "Scots army"
+    ],
+    [
+      "Duke of Alençon",
+      "was taken prisoner among",
+      "many French nobles"
+    ],
+    [
+      "Scots",
+      "received no quarter from",
+      "English"
+    ],
+    [
+      "Battle of Verneuil",
+      "is a battle of",
+      "Hundred Years' War"
+    ],
+    [
+      "Burgundian chronicler Jean de Wavrin",
+      "fought in the",
+      "Battle of Verneuil"
+    ],
+    [
+      "English men-at-arms",
+      "clashed with",
+      "French men-at-arms"
+    ],
+    [
+      "Battle of Verneuil",
+      "was described by",
+      "Agincourt"
+    ],
+    [
+      "Army of Scotland",
+      "ceased to play a significant part in",
+      "Hundred Years' War"
+    ],
+    [
+      "Marshal de La Fayette",
+      "was taken prisoner among",
+      "many French nobles"
+    ],
+    [
+      "John, Duke of Bedford",
+      "claimed to have lost",
+      "two men-at-arms"
+    ],
+    [
+      "Milanese heavy cavalry",
+      "routed one wing of",
+      "English longbowmen"
+    ],
+    [
+      "Battle of Verneuil",
+      "was fought in",
+      "Normandy"
+    ]
+  ]
+}

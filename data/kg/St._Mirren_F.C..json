@@ -1,0 +1,197 @@
+{
+  "entities": [
+    "UEFA Conference League",
+    "Paisley",
+    "1985–86",
+    "Scottish Cup",
+    "1959",
+    "1987",
+    "1877",
+    "European competition",
+    "The Buddies",
+    "8,000",
+    "The Saints",
+    "1983–84",
+    "Scottish Premiership",
+    "2013",
+    "St Mirren Park",
+    "2017–18 Scottish Championship",
+    "Anglo-Scottish Cup",
+    "Love Street",
+    "2024–25",
+    "Greenhill Road",
+    "2025",
+    "Bristol City",
+    "1926",
+    "1979–80",
+    "Scottish League Cup",
+    "UEFA Cup",
+    "1987–88",
+    "1980–81",
+    "UEFA Cup Winners' Cup",
+    "St Mirren Football Club"
+  ],
+  "edges": [
+    "is the only Scottish team to win",
+    "played in",
+    "had former home",
+    "has capacity",
+    "has home ground",
+    "has nickname",
+    "includes",
+    "won in",
+    "beat",
+    "was founded in",
+    "won",
+    "competes in",
+    "is located in",
+    "is located on"
+  ],
+  "relations": [
+    [
+      "St Mirren Football Club",
+      "has home ground",
+      "St Mirren Park"
+    ],
+    [
+      "St Mirren Football Club",
+      "has nickname",
+      "The Saints"
+    ],
+    [
+      "Anglo-Scottish Cup",
+      "won in",
+      "1979–80"
+    ],
+    [
+      "Scottish League Cup",
+      "won in",
+      "2025"
+    ],
+    [
+      "St Mirren Football Club",
+      "played in",
+      "European competition"
+    ],
+    [
+      "St Mirren Football Club",
+      "won",
+      "Scottish Cup"
+    ],
+    [
+      "European competition",
+      "includes",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "St Mirren Park",
+      "has capacity",
+      "8,000"
+    ],
+    [
+      "European competition",
+      "includes",
+      "UEFA Cup"
+    ],
+    [
+      "Scottish Cup",
+      "won in",
+      "1926"
+    ],
+    [
+      "UEFA Cup",
+      "played in",
+      "1980–81"
+    ],
+    [
+      "St Mirren Park",
+      "is located in",
+      "Paisley"
+    ],
+    [
+      "European competition",
+      "includes",
+      "UEFA Conference League"
+    ],
+    [
+      "UEFA Conference League",
+      "played in",
+      "2024–25"
+    ],
+    [
+      "Scottish Cup",
+      "won in",
+      "1959"
+    ],
+    [
+      "St Mirren Football Club",
+      "won",
+      "Scottish League Cup"
+    ],
+    [
+      "UEFA Cup Winners' Cup",
+      "played in",
+      "1987–88"
+    ],
+    [
+      "UEFA Cup",
+      "played in",
+      "1985–86"
+    ],
+    [
+      "St Mirren Football Club",
+      "competes in",
+      "Scottish Premiership"
+    ],
+    [
+      "St Mirren Football Club",
+      "is the only Scottish team to win",
+      "Anglo-Scottish Cup"
+    ],
+    [
+      "UEFA Cup",
+      "played in",
+      "1983–84"
+    ],
+    [
+      "Scottish Cup",
+      "won in",
+      "1987"
+    ],
+    [
+      "St Mirren Football Club",
+      "has nickname",
+      "The Buddies"
+    ],
+    [
+      "St Mirren Park",
+      "is located on",
+      "Greenhill Road"
+    ],
+    [
+      "St Mirren Football Club",
+      "won",
+      "2017–18 Scottish Championship"
+    ],
+    [
+      "Anglo-Scottish Cup",
+      "beat",
+      "Bristol City"
+    ],
+    [
+      "Scottish League Cup",
+      "won in",
+      "2013"
+    ],
+    [
+      "St Mirren Football Club",
+      "was founded in",
+      "1877"
+    ],
+    [
+      "St Mirren Football Club",
+      "had former home",
+      "Love Street"
+    ]
+  ]
+}

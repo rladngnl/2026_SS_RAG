@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "Seaton Carew",
+    "England",
+    "South Durham",
+    "The Hartlepools",
+    "Hartlepool Marina",
+    "Imperial German Navy",
+    "County Palatine of Durham",
+    "Tees Valley",
+    "Hartlepool",
+    "Stockton-on-Tees",
+    "West Hartlepool",
+    "County Durham",
+    "Hartlepool Abbey",
+    "First World War"
+  ],
+  "edges": [
+    "is part of the devolved",
+    "was formally merged into a single borough called",
+    "served as the official port of the",
+    "is an industrial port town in",
+    "was targeted by the",
+    "has a seaside resort called",
+    "saw a rise in the town's prospects after the redevelopment of the docks area into",
+    "was created in",
+    "was founded around the monastery of",
+    "was created after a new port was built in",
+    "was affected by the"
+  ],
+  "relations": [
+    [
+      "Hartlepool",
+      "is part of the devolved",
+      "Tees Valley"
+    ],
+    [
+      "Hartlepool",
+      "saw a rise in the town's prospects after the redevelopment of the docks area into",
+      "Hartlepool Marina"
+    ],
+    [
+      "Hartlepool",
+      "has a seaside resort called",
+      "Seaton Carew"
+    ],
+    [
+      "Hartlepool",
+      "is an industrial port town in",
+      "County Durham"
+    ],
+    [
+      "Hartlepool",
+      "served as the official port of the",
+      "County Palatine of Durham"
+    ],
+    [
+      "Hartlepool",
+      "was founded around the monastery of",
+      "Hartlepool Abbey"
+    ],
+    [
+      "West Hartlepool",
+      "was created after a new port was built in",
+      "1835"
+    ],
+    [
+      "The Hartlepools",
+      "was created in",
+      "1867"
+    ],
+    [
+      "Hartlepool",
+      "was formally merged into a single borough called",
+      "Hartlepool"
+    ],
+    [
+      "Hartlepool",
+      "was targeted by the",
+      "Imperial German Navy"
+    ],
+    [
+      "Hartlepool",
+      "was affected by the",
+      "First World War"
+    ]
+  ]
+}

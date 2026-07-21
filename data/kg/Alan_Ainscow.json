@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Alan Ainscow",
+    "former professional footballer",
+    "15 July 1953",
+    "Football League",
+    "English",
+    "450 appearances"
+  ],
+  "edges": [
+    "made",
+    "was born on",
+    "played in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Alan Ainscow",
+      "played in",
+      "Football League"
+    ],
+    [
+      "Alan Ainscow",
+      "is",
+      "English"
+    ],
+    [
+      "Alan Ainscow",
+      "made",
+      "450 appearances"
+    ],
+    [
+      "Alan Ainscow",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Alan Ainscow",
+      "was born on",
+      "15 July 1953"
+    ]
+  ]
+}

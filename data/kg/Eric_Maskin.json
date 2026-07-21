@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "American",
+    "2011",
+    "December 12, 1950",
+    "Roger Myerson",
+    "Adams University Professor",
+    "Princeton University",
+    "economist",
+    "mathematician",
+    "2007 Nobel Memorial Prize in Economic Sciences",
+    "Institute for Advanced Study",
+    "Professor of Economics",
+    "Albert O. Hirschman Professor of Social Science",
+    "Eric Stark Maskin",
+    "Leonid Hurwicz",
+    "Professor of Mathematics",
+    "Harvard University",
+    "mechanism design theory"
+  ],
+  "edges": [
+    "is Professor of",
+    "was a visiting lecturer with the rank of",
+    "was at",
+    "is the",
+    "was the",
+    "is an",
+    "was awarded",
+    "was born on",
+    "laid the foundations of"
+  ],
+  "relations": [
+    [
+      "Eric Stark Maskin",
+      "is Professor of",
+      "Mathematics"
+    ],
+    [
+      "Eric Stark Maskin",
+      "is an",
+      "mathematician"
+    ],
+    [
+      "Eric Stark Maskin",
+      "is an",
+      "American economist"
+    ],
+    [
+      "Eric Stark Maskin",
+      "was the",
+      "Albert O. Hirschman Professor of Social Science"
+    ],
+    [
+      "Eric Stark Maskin",
+      "is Professor of",
+      "Economics"
+    ],
+    [
+      "Eric Stark Maskin",
+      "laid the foundations of",
+      "mechanism design theory"
+    ],
+    [
+      "Eric Stark Maskin",
+      "was born on",
+      "December 12, 1950"
+    ],
+    [
+      "Eric Stark Maskin",
+      "was awarded",
+      "2007 Nobel Memorial Prize in Economic Sciences"
+    ],
+    [
+      "Eric Stark Maskin",
+      "was at",
+      "Institute for Advanced Study"
+    ],
+    [
+      "Eric Stark Maskin",
+      "was a visiting lecturer with the rank of",
+      "professor at Princeton University"
+    ],
+    [
+      "Eric Stark Maskin",
+      "is the",
+      "Adams University Professor"
+    ]
+  ]
+}

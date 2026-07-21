@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "1910",
+    "Poland",
+    "Radomiak Spółka Akcyjna",
+    "Stadion im. Braci Czachorów",
+    "Radomiak Radom",
+    "Ekstraklasa",
+    "Radom"
+  ],
+  "edges": [
+    "is commonly known as",
+    "is based in",
+    "is located in",
+    "plays home matches at",
+    "competes in",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Radomiak Radom",
+      "plays home matches at",
+      "Stadion im. Braci Czachorów"
+    ],
+    [
+      "Radomiak Radom",
+      "is based in",
+      "Radom"
+    ],
+    [
+      "Radomiak Spółka Akcyjna",
+      "is commonly known as",
+      "Radomiak Radom"
+    ],
+    [
+      "Radomiak Radom",
+      "is located in",
+      "Poland"
+    ],
+    [
+      "Radomiak Radom",
+      "competes in",
+      "Ekstraklasa"
+    ],
+    [
+      "Radomiak Radom",
+      "was founded in",
+      "1910"
+    ]
+  ]
+}

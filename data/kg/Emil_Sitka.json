@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "Harold Brauer",
+    "Larry Fine",
+    "The Three Stooges",
+    "Shemp Howard",
+    "Joe Besser",
+    "Curly Howard",
+    "Joe DeRita",
+    "heart attack",
+    "Moe Howard",
+    "stooge",
+    "American actor",
+    "publicity photographs",
+    "fourth stooge",
+    "Middle Stooge",
+    "stroke",
+    "short films",
+    "television shows",
+    "Emil Sitka"
+  ],
+  "edges": [
+    "served the role of",
+    "earned the informal title of being the",
+    "posed for",
+    "was tapped to be",
+    "is one of only two actors to have worked with",
+    "is best known for",
+    "suffered a",
+    "died from a"
+  ],
+  "relations": [
+    [
+      "Emil Sitka",
+      "is one of only two actors to have worked with",
+      "The Three Stooges"
+    ],
+    [
+      "Moe Howard",
+      "died from a",
+      "heart attack"
+    ],
+    [
+      "Emil Sitka",
+      "is best known for",
+      "The Three Stooges"
+    ],
+    [
+      "Emil Sitka",
+      "was tapped to be",
+      "Middle Stooge"
+    ],
+    [
+      "Emil Sitka",
+      "earned the informal title of being the",
+      "fourth stooge"
+    ],
+    [
+      "Emil Sitka",
+      "posed for",
+      "publicity photographs"
+    ],
+    [
+      "Emil Sitka",
+      "served the role of",
+      "stooge"
+    ],
+    [
+      "Larry Fine",
+      "suffered a",
+      "stroke"
+    ]
+  ]
+}

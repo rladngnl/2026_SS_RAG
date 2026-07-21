@@ -1,0 +1,155 @@
+{
+  "entities": [
+    "Blackpool",
+    "Blackburn Rovers",
+    "Hull City",
+    "Portsmouth",
+    "York City",
+    "Leicester City",
+    "former professional footballer",
+    "West Bromwich Albion",
+    "English",
+    "Sunderland",
+    "Gateshead",
+    "Sheffield Wednesday",
+    "Premier League",
+    "Football League",
+    "Leeds United",
+    "Aberdeen",
+    "Aston Villa",
+    "Steve Agnew",
+    "Middlesbrough",
+    "Stephen Mark Agnew",
+    "non-League",
+    "Newcastle United",
+    "Hartlepool Utd",
+    "midfielder",
+    "Barnsley",
+    "football coach"
+  ],
+  "edges": [
+    "was a",
+    "played in",
+    "finished his career in",
+    "worked as a coach in",
+    "is",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Sheffield Wednesday"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "is",
+      "English football coach"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Leeds United"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Gateshead"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played for",
+      "Blackburn Rovers"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played for",
+      "Barnsley"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Middlesbrough"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played in",
+      "Premier League"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Hull City"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played for",
+      "York City"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Aberdeen"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Aston Villa"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "was a",
+      "midfielder"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played in",
+      "Football League"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played for",
+      "Sunderland"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Newcastle United"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played for",
+      "Portsmouth"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "played for",
+      "Leicester City"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "West Bromwich Albion"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Hartlepool Utd"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "worked as a coach in",
+      "Blackpool"
+    ],
+    [
+      "Stephen Mark Agnew",
+      "finished his career in",
+      "non-League"
+    ]
+  ]
+}

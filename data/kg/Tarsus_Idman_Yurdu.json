@@ -1,0 +1,23 @@
+{
+  "entities": [
+    "Turkish sports club",
+    "Tarsus",
+    "Tarsus İdman Yurdu"
+  ],
+  "edges": [
+    "is a",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Tarsus İdman Yurdu",
+      "is a",
+      "Turkish sports club"
+    ],
+    [
+      "Tarsus İdman Yurdu",
+      "is based in",
+      "Tarsus"
+    ]
+  ]
+}

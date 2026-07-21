@@ -1,0 +1,67 @@
+{
+  "entities": [
+    "England",
+    "Scotland",
+    "Sweden",
+    "defender",
+    "Congolese",
+    "international football player",
+    "semi-professional football",
+    "Slovenia",
+    "Kangana Lord Savimbi Ndiwa"
+  ],
+  "edges": [
+    "is a",
+    "played semi-professional football in",
+    "played professionally for",
+    "played as a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played professionally for",
+      "clubs in England"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played semi-professional football in",
+      "England"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played professionally for",
+      "clubs in Sweden"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played semi-professional football in",
+      "Scotland"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "is",
+      "Congolese"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played semi-professional football in",
+      "Sweden"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "played professionally for",
+      "clubs in Slovenia"
+    ],
+    [
+      "Kangana Lord Savimbi Ndiwa",
+      "is a",
+      "international football player"
+    ]
+  ]
+}

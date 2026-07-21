@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "bankruptcy",
+    "FK Budva",
+    "youth sections",
+    "FK Mogren",
+    "Budva",
+    "Montenegrin Cup",
+    "2015",
+    "Mogren 1920",
+    "Ministry of Sports",
+    "1920",
+    "Third Montenegrin league",
+    "2017",
+    "Montenegrin First League",
+    "Montenegro"
+  ],
+  "edges": [
+    "was founded instead of",
+    "is based in",
+    "is located in",
+    "was rejected by",
+    "is winner of",
+    "started with",
+    "is champion of",
+    "was expelled from",
+    "was founded in",
+    "was extinguished in",
+    "was relegated due to"
+  ],
+  "relations": [
+    [
+      "FK Mogren",
+      "was extinguished in",
+      "2017"
+    ],
+    [
+      "FK Mogren",
+      "was founded in",
+      "1920"
+    ],
+    [
+      "FK Mogren",
+      "was relegated due to",
+      "bankruptcy"
+    ],
+    [
+      "FK Mogren",
+      "is champion of",
+      "Montenegrin First League"
+    ],
+    [
+      "FK Mogren",
+      "is located in",
+      "Montenegro"
+    ],
+    [
+      "FK Mogren",
+      "is winner of",
+      "Montenegrin Cup"
+    ],
+    [
+      "FK Budva",
+      "was founded instead of",
+      "Mogren 1920"
+    ],
+    [
+      "FK Budva",
+      "started with",
+      "youth sections"
+    ],
+    [
+      "FK Mogren",
+      "is based in",
+      "Budva"
+    ],
+    [
+      "FK Mogren",
+      "was expelled from",
+      "Third Montenegrin league"
+    ],
+    [
+      "Mogren 1920",
+      "was rejected by",
+      "Ministry of Sports"
+    ]
+  ]
+}

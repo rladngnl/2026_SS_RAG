@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "Richard Sydney Anthony",
+    "trade unionist",
+    "politician",
+    "3 January 1962",
+    "Irish",
+    "20 October 1875"
+  ],
+  "edges": [
+    "born on",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Richard Sydney Anthony",
+      "died on",
+      "3 January 1962"
+    ],
+    [
+      "Richard Sydney Anthony",
+      "born on",
+      "20 October 1875"
+    ],
+    [
+      "Richard Sydney Anthony",
+      "was",
+      "Irish"
+    ],
+    [
+      "Richard Sydney Anthony",
+      "was",
+      "politician"
+    ],
+    [
+      "Richard Sydney Anthony",
+      "was",
+      "trade unionist"
+    ]
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "Paul von Hindenburg",
+    "Germany's highest military honor",
+    "Commandant of the Imperial Grand Headquarters",
+    "collapse of the monarchy",
+    "Kaiser Wilhelm II",
+    "Imperial German Army",
+    "His Majesty's Orderly Adjutant General",
+    "Canon of Brandenburg",
+    "World War I",
+    "Kaiser",
+    "November 1918",
+    "Hans Georg Hermann von Plessen",
+    "Prussian Colonel General",
+    "Pour le Mérite",
+    "Generalfeldmarschall"
+  ],
+  "edges": [
+    "was a recipient of",
+    "held the office of",
+    "served as",
+    "was the oldest serving officer in",
+    "remained devoted to",
+    "to",
+    "is",
+    "falsely claimed",
+    "occurred in",
+    "was"
+  ],
+  "relations": [
+    [
+      "Hans Georg Hermann von Plessen",
+      "was",
+      "Generalfeldmarschall"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "was",
+      "Canon of Brandenburg"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "was the oldest serving officer in",
+      "Imperial German Army"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "was a recipient of",
+      "Pour le Mérite"
+    ],
+    [
+      "collapse of the monarchy",
+      "occurred in",
+      "November 1918"
+    ],
+    [
+      "Pour le Mérite",
+      "is",
+      "Germany's highest military honor"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "was",
+      "Prussian Colonel General"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "held the office of",
+      "His Majesty's Orderly Adjutant General"
+    ],
+    [
+      "Paul von Hindenburg",
+      "falsely claimed",
+      "oldest serving officer in the Imperial German Army"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "served as",
+      "Commandant of the Imperial Grand Headquarters"
+    ],
+    [
+      "Hans Georg Hermann von Plessen",
+      "remained devoted to",
+      "Kaiser"
+    ],
+    [
+      "His Majesty's Orderly Adjutant General",
+      "to",
+      "Kaiser Wilhelm II"
+    ]
+  ]
+}

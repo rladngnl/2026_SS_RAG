@@ -1,0 +1,101 @@
+{
+  "entities": [
+    "The Best FIFA Football Awards",
+    "FIFA World Player of the Year",
+    "The Best FIFA Men's Player",
+    "Ronaldo",
+    "Ronaldinho",
+    "Fabio Cannavaro",
+    "The Best FIFA Women's Player",
+    "Birgit Prinz",
+    "Mia Hamm",
+    "Marta",
+    "Japan",
+    "FIFA",
+    "United States",
+    "Zinedine Zidane",
+    "Nadine Angerer",
+    "FIFA World Player Gala",
+    "FIFA Ballon d'Or",
+    "Brazil",
+    "France",
+    "Germany"
+  ],
+  "edges": [
+    "is the only goalkeeper to win",
+    "was awarded at",
+    "won the award at age",
+    "has won",
+    "won the award",
+    "is presented by",
+    "is the youngest recipient at age",
+    "won the award in successive years with"
+  ],
+  "relations": [
+    [
+      "Zinedine Zidane",
+      "won the award",
+      "three times"
+    ],
+    [
+      "Ronaldo",
+      "won the award",
+      "three times"
+    ],
+    [
+      "Fabio Cannavaro",
+      "won the award at age",
+      "33 years old"
+    ],
+    [
+      "Ronaldo",
+      "won the award at age",
+      "20 years old"
+    ],
+    [
+      "Birgit Prinz",
+      "won the award",
+      "three times in a row"
+    ],
+    [
+      "Ronaldo",
+      "won the award in successive years with",
+      "Ronaldinho"
+    ],
+    [
+      "Marta",
+      "is the youngest recipient at age",
+      "20 in 2006"
+    ],
+    [
+      "FIFA World Player of the Year",
+      "was awarded at",
+      "FIFA World Player Gala"
+    ],
+    [
+      "Marta",
+      "has won",
+      "five successive awards"
+    ],
+    [
+      "FIFA World Player of the Year",
+      "is presented by",
+      "FIFA"
+    ],
+    [
+      "Nadine Angerer",
+      "won the award at age",
+      "35 in 2013"
+    ],
+    [
+      "Nadine Angerer",
+      "is the only goalkeeper to win",
+      "the award"
+    ],
+    [
+      "Mia Hamm",
+      "won the award",
+      "twice in a row"
+    ]
+  ]
+}

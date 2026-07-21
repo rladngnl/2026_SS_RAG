@@ -1,0 +1,164 @@
+{
+  "entities": [
+    "CSKA Moscow",
+    "green wood",
+    "Ignas Brazdeikis",
+    "one EuroLeague championship",
+    "Šarūnas Jasikevičius",
+    "Lithuanian Basketball League",
+    "New Town",
+    "Donatas Motiejūnas",
+    "Modestas Paulauskas",
+    "EuroLeague",
+    "BC Žalgiris",
+    "Arvydas Sabonis",
+    "Battle of Grunwald",
+    "Polish–Lithuanian–Teutonic War",
+    "Kaunas",
+    "Kingdom of Poland",
+    "Battle of Žalgiris",
+    "Martynas Andriuškevičius",
+    "medieval Europe",
+    "Grand Duchy of Lithuania",
+    "National Basketball Association",
+    "Arnoldas Kulboka",
+    "five Soviet Union National League championships",
+    "Darius Songaila",
+    "Teutonic Order",
+    "Lithuania",
+    "2025-26",
+    "Mindaugas Kuzminskas",
+    "26 domestic championships",
+    "Žalgiris Arena",
+    "Basketball Club Žalgiris"
+  ],
+  "edges": [
+    "is a",
+    "has won",
+    "is located in",
+    "is also known as",
+    "defeated",
+    "plays its home games at",
+    "played for",
+    "competes in",
+    "is based in",
+    "is commemorated by"
+  ],
+  "relations": [
+    [
+      "Šarūnas Jasikevičius",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "BC Žalgiris",
+      "has won",
+      "one EuroLeague championship"
+    ],
+    [
+      "Donatas Motiejūnas",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "Martynas Andriuškevičius",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "Arvydas Sabonis",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "BC Žalgiris",
+      "has won",
+      "five Soviet Union National League championships"
+    ],
+    [
+      "BC Žalgiris",
+      "competes in",
+      "EuroLeague"
+    ],
+    [
+      "BC Žalgiris",
+      "has won",
+      "26 domestic championships"
+    ],
+    [
+      "BC Žalgiris",
+      "is located in",
+      "Lithuania"
+    ],
+    [
+      "BC Žalgiris",
+      "is based in",
+      "Kaunas"
+    ],
+    [
+      "Mindaugas Kuzminskas",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "Žalgiris Arena",
+      "is located in",
+      "New Town"
+    ],
+    [
+      "BC Žalgiris",
+      "competes in",
+      "Lithuanian Basketball League"
+    ],
+    [
+      "Arnoldas Kulboka",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "Grand Duchy of Lithuania",
+      "defeated",
+      "Teutonic Order"
+    ],
+    [
+      "Kingdom of Poland",
+      "defeated",
+      "Teutonic Order"
+    ],
+    [
+      "Battle of Žalgiris",
+      "is also known as",
+      "Battle of Grunwald"
+    ],
+    [
+      "Battle of Žalgiris",
+      "is commemorated by",
+      "BC Žalgiris"
+    ],
+    [
+      "BC Žalgiris",
+      "is a",
+      "Basketball Club Žalgiris"
+    ],
+    [
+      "Ignas Brazdeikis",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "Darius Songaila",
+      "played for",
+      "BC Žalgiris"
+    ],
+    [
+      "BC Žalgiris",
+      "plays its home games at",
+      "Žalgiris Arena"
+    ],
+    [
+      "Modestas Paulauskas",
+      "played for",
+      "BC Žalgiris"
+    ]
+  ]
+}

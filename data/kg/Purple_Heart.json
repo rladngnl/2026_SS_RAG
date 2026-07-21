@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "Badge of Military Merit",
+    "Purple Heart",
+    "New Windsor",
+    "purple cloth",
+    "United States",
+    "National Purple Heart Hall of Honor",
+    "U.S. military members",
+    "president",
+    "heart",
+    "New York",
+    "oldest military award",
+    "military decoration"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is the",
+    "is for those",
+    "is awarded in the name of",
+    "is a forerunner of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Purple Heart",
+      "is awarded in the name of",
+      "president"
+    ],
+    [
+      "Purple Heart",
+      "is the",
+      "oldest military award"
+    ],
+    [
+      "Badge of Military Merit",
+      "is a forerunner of",
+      "Purple Heart"
+    ],
+    [
+      "National Purple Heart Hall of Honor",
+      "is located in",
+      "New Windsor"
+    ],
+    [
+      "New Windsor",
+      "is in",
+      "New York"
+    ],
+    [
+      "Purple Heart",
+      "is a",
+      "military decoration"
+    ],
+    [
+      "Purple Heart",
+      "is for those",
+      "U.S. military members"
+    ]
+  ]
+}

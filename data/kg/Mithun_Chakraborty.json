@@ -1,0 +1,284 @@
+{
+  "entities": [
+    "2022",
+    "Pranab Mukherjee",
+    "Mithun Chakraborty",
+    "January 2024",
+    "Dadasaheb Phalke Award",
+    "Dilip Kumar",
+    "Cine & T.V Artistes Association",
+    "Film Studios Setting & Allied Mazdoor Union",
+    "Agneepath",
+    "1978",
+    "Member of Parliament",
+    "Mrinal Sen",
+    "Mrigayaa",
+    "Gouranga Chakraborty",
+    "1982",
+    "film producer",
+    "2012 Indian presidential election",
+    "Guinness World Records",
+    "BJP",
+    "Disco Dancer",
+    "Union Ministry of Information and Broadcasting",
+    "1992",
+    "Mamata Banerjee",
+    "Mahaguru",
+    "Padma Bhushan",
+    "Rajya Sabha",
+    "National Film Awards",
+    "educational sectors",
+    "Indian",
+    "16 June 1950",
+    "1976",
+    "politician",
+    "Monarch Group",
+    "Paparatzy Productions",
+    "Nadi Theke Sagare",
+    "September 2024",
+    "Filmfare Award for Best Supporting Actor",
+    "Bharatiya Janata Party",
+    "Limca Book of Records",
+    "entrepreneur",
+    "Indian National Congress",
+    "Government of India",
+    "Dance India Dance",
+    "CINTAA",
+    "7 March 2021",
+    "actor",
+    "All India Trinamool Congress",
+    "hospitality",
+    "Sunil Dutt",
+    "Filmfare Awards",
+    "2021 West Bengal Legislative Assembly election",
+    "1990"
+  ],
+  "edges": [
+    "joined on",
+    "is a",
+    "set up a trust with",
+    "entered in",
+    "is referred to as",
+    "gained greater fame with",
+    "is an",
+    "is also known as",
+    "made his acting debut with",
+    "was won in",
+    "won",
+    "was born on",
+    "is born as",
+    "is from",
+    "was a major box office success in",
+    "was awarded",
+    "was directed by",
+    "has interests in",
+    "joined ahead of",
+    "was the Chairperson of",
+    "started",
+    "owns",
+    "was awarded for the year",
+    "joined",
+    "was the Grand Master of",
+    "is a former",
+    "played a crucial mediating role between",
+    "is the recipient of",
+    "is awarded by"
+  ],
+  "relations": [
+    [
+      "Mithun Chakraborty",
+      "made his acting debut with",
+      "Mrigayaa"
+    ],
+    [
+      "Monarch Group",
+      "has interests in",
+      "hospitality"
+    ],
+    [
+      "Dadasaheb Phalke Award",
+      "was awarded for the year",
+      "2022"
+    ],
+    [
+      "Mithun Chakraborty",
+      "gained greater fame with",
+      "Disco Dancer"
+    ],
+    [
+      "Pranab Mukherjee",
+      "is from",
+      "Indian National Congress"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is an",
+      "entrepreneur"
+    ],
+    [
+      "Mithun Chakraborty",
+      "was born on",
+      "16 June 1950"
+    ],
+    [
+      "Padma Bhushan",
+      "is awarded by",
+      "Government of India"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is a",
+      "politician"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is born as",
+      "Gouranga Chakraborty"
+    ],
+    [
+      "Mithun Chakraborty",
+      "started",
+      "Paparatzy Productions"
+    ],
+    [
+      "Disco Dancer",
+      "was a major box office success in",
+      "India"
+    ],
+    [
+      "Mithun Chakraborty",
+      "won",
+      "Filmfare Award for Best Supporting Actor"
+    ],
+    [
+      "Mithun Chakraborty",
+      "played a crucial mediating role between",
+      "Pranab Mukherjee"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is a",
+      "film producer"
+    ],
+    [
+      "Mithun Chakraborty",
+      "was the Grand Master of",
+      "Dance India Dance"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is an",
+      "Indian actor"
+    ],
+    [
+      "Mithun Chakraborty",
+      "set up a trust with",
+      "Dilip Kumar"
+    ],
+    [
+      "Bharatiya Janata Party",
+      "is also known as",
+      "BJP"
+    ],
+    [
+      "Mithun Chakraborty",
+      "was the Chairperson of",
+      "Film Studios Setting & Allied Mazdoor Union"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is referred to as",
+      "Mahaguru"
+    ],
+    [
+      "Mrigayaa",
+      "was directed by",
+      "Mrinal Sen"
+    ],
+    [
+      "Mithun Chakraborty",
+      "joined ahead of",
+      "2021 West Bengal Legislative Assembly election"
+    ],
+    [
+      "Mithun Chakraborty",
+      "joined",
+      "Bharatiya Janata Party"
+    ],
+    [
+      "Mithun Chakraborty",
+      "set up a trust with",
+      "Sunil Dutt"
+    ],
+    [
+      "Disco Dancer",
+      "was a major box office success in",
+      "the Soviet Union"
+    ],
+    [
+      "Filmfare Award for Best Supporting Actor",
+      "was won in",
+      "1990"
+    ],
+    [
+      "Mithun Chakraborty",
+      "played a crucial mediating role between",
+      "Mamata Banerjee"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is the recipient of",
+      "Filmfare Awards"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is the recipient of",
+      "National Film Awards"
+    ],
+    [
+      "Mithun Chakraborty",
+      "owns",
+      "Monarch Group"
+    ],
+    [
+      "Dance India Dance",
+      "entered in",
+      "Guinness World Records"
+    ],
+    [
+      "Mamata Banerjee",
+      "is from",
+      "All India Trinamool Congress"
+    ],
+    [
+      "Mithun Chakraborty",
+      "joined on",
+      "7 March 2021"
+    ],
+    [
+      "Mithun Chakraborty",
+      "was awarded",
+      "Padma Bhushan"
+    ],
+    [
+      "Monarch Group",
+      "has interests in",
+      "educational sectors"
+    ],
+    [
+      "Mithun Chakraborty",
+      "is a former",
+      "Rajya Sabha Member of Parliament"
+    ],
+    [
+      "Dance India Dance",
+      "entered in",
+      "Limca Book of Records"
+    ],
+    [
+      "Mithun Chakraborty",
+      "was awarded",
+      "Dadasaheb Phalke Award"
+    ]
+  ]
+}

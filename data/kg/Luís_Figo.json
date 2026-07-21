@@ -1,0 +1,193 @@
+{
+  "entities": [
+    "Portugal national team",
+    "2006 World Cup",
+    "Florentino Pérez",
+    "FIFA World Player of the Year",
+    "Luís Figo",
+    "Sporting CP",
+    "Rivaldo",
+    "UEFA Super Cups",
+    "Euro 2004",
+    "Portugal",
+    "Champions League",
+    "Italian Cup",
+    "La Liga",
+    "UEFA Champions League",
+    "FIFA 100",
+    "Italian Super Cups",
+    "Inter Milan",
+    "Real Madrid",
+    "Spanish Cups",
+    "Barcelona",
+    "Portuguese Cup",
+    "Intercontinental Cup",
+    "Spanish Super Cups",
+    "Serie A",
+    "UEFA Cup Winners' Cup",
+    "Ballon d'Or"
+  ],
+  "edges": [
+    "had a successful career highlighted by several trophy wins, including",
+    "is regarded as one of the best players of",
+    "helped Portugal reach the final but finish as runners-up at",
+    "had a transfer from",
+    "ranks second for the all-time Portuguese top assist providers in",
+    "was named in",
+    "played for both",
+    "won caps for",
+    "is regarded as one of the greatest wingers in the history of",
+    "is a former professional footballer for",
+    "won",
+    "represented the nation at",
+    "helped Portugal reach the semi-finals at",
+    "scored goals for"
+  ],
+  "relations": [
+    [
+      "Luís Figo",
+      "played for both",
+      "Barcelona and Real Madrid"
+    ],
+    [
+      "Luís Figo",
+      "was named in",
+      "FIFA 100"
+    ],
+    [
+      "Luís Figo",
+      "is a former professional footballer for",
+      "Sporting CP"
+    ],
+    [
+      "Luís Figo",
+      "is a former professional footballer for",
+      "Barcelona"
+    ],
+    [
+      "Luís Figo",
+      "scored goals for",
+      "Portugal"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "four Serie A titles"
+    ],
+    [
+      "Luís Figo",
+      "is regarded as one of the best players of",
+      "his generation"
+    ],
+    [
+      "Luís Figo",
+      "represented the nation at",
+      "two World Cups"
+    ],
+    [
+      "Luís Figo",
+      "won",
+      "FIFA World Player of the Year"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "one Intercontinental Cup"
+    ],
+    [
+      "Luís Figo",
+      "helped Portugal reach the final but finish as runners-up at",
+      "Euro 2004"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "one Italian Cup"
+    ],
+    [
+      "Luís Figo",
+      "ranks second for the all-time Portuguese top assist providers in",
+      "UEFA Champions League"
+    ],
+    [
+      "Luís Figo",
+      "won caps for",
+      "Portugal national team"
+    ],
+    [
+      "Luís Figo",
+      "helped Portugal reach the semi-finals at",
+      "2006 World Cup"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "Portuguese Cup"
+    ],
+    [
+      "Luís Figo",
+      "is regarded as one of the greatest wingers in the history of",
+      "the sport"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "three Italian Super Cups"
+    ],
+    [
+      "Luís Figo",
+      "represented the nation at",
+      "three European Championships"
+    ],
+    [
+      "Luís Figo",
+      "is a former professional footballer for",
+      "Real Madrid"
+    ],
+    [
+      "Luís Figo",
+      "won",
+      "Ballon d'Or"
+    ],
+    [
+      "Luís Figo",
+      "is a former professional footballer for",
+      "Inter Milan"
+    ],
+    [
+      "Luís Figo",
+      "had a transfer from",
+      "Barcelona to Real Madrid"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "one UEFA Cup Winners' Cup"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "two UEFA Super Cups"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "two Spanish Cups"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "one Champions League title"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "four La Liga titles"
+    ],
+    [
+      "Luís Figo",
+      "had a successful career highlighted by several trophy wins, including",
+      "three Spanish Super Cups"
+    ]
+  ]
+}

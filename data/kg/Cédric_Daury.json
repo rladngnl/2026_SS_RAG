@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "12 August 2024",
+    "football manager",
+    "19 October 1969",
+    "Auxerre",
+    "French",
+    "football player",
+    "sporting director",
+    "Cédric Daury"
+  ],
+  "edges": [
+    "was",
+    "was born on",
+    "was the sporting director of",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Cédric Daury",
+      "was the sporting director of",
+      "Auxerre"
+    ],
+    [
+      "Cédric Daury",
+      "died on",
+      "12 August 2024"
+    ],
+    [
+      "Cédric Daury",
+      "was",
+      "football manager"
+    ],
+    [
+      "Cédric Daury",
+      "was",
+      "football player"
+    ],
+    [
+      "Cédric Daury",
+      "was born on",
+      "19 October 1969"
+    ]
+  ]
+}

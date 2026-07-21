@@ -1,0 +1,111 @@
+{
+  "entities": [
+    "comedy",
+    "artist",
+    "Kevin Kline",
+    "critics",
+    "neo-noir",
+    "The January Man",
+    "serial killer",
+    "Alan Rickman",
+    "police commissioner",
+    "John Patrick Shanley",
+    "American",
+    "thriller",
+    "Nick Starkey",
+    "Ed",
+    "Harvey Keitel",
+    "Pat O'Connor",
+    "city",
+    "NYPD",
+    "1989",
+    "Mary Elizabeth Mastrantonio",
+    "mayor's daughter"
+  ],
+  "edges": [
+    "plays",
+    "is a",
+    "has a screenplay by",
+    "is involved with",
+    "stars",
+    "is aided in his investigation by",
+    "is lured back into service by",
+    "received",
+    "is directed by",
+    "is an",
+    "is played by",
+    "is"
+  ],
+  "relations": [
+    [
+      "Nick Starkey",
+      "is involved with",
+      "the mayor's daughter"
+    ],
+    [
+      "his police commissioner brother",
+      "is",
+      "Harvey Keitel"
+    ],
+    [
+      "The January Man",
+      "has a screenplay by",
+      "John Patrick Shanley"
+    ],
+    [
+      "Kevin Kline",
+      "plays",
+      "Nick Starkey"
+    ],
+    [
+      "Nick Starkey",
+      "is aided in his investigation by",
+      "Ed"
+    ],
+    [
+      "the mayor's daughter",
+      "is",
+      "Mary Elizabeth Mastrantonio"
+    ],
+    [
+      "Ed",
+      "is an",
+      "artist"
+    ],
+    [
+      "The January Man",
+      "is directed by",
+      "Pat O'Connor"
+    ],
+    [
+      "Nick Starkey",
+      "is a",
+      "smart ex-NYPD detective"
+    ],
+    [
+      "Ed",
+      "is played by",
+      "Alan Rickman"
+    ],
+    [
+      "Nick Starkey",
+      "is lured back into service by",
+      "his police commissioner brother"
+    ],
+    [
+      "The January Man",
+      "received",
+      "negative reviews from critics"
+    ],
+    [
+      "The January Man",
+      "is a",
+      "1989 American neo-noir comedy thriller film"
+    ],
+    [
+      "The January Man",
+      "stars",
+      "Kevin Kline"
+    ]
+  ]
+}

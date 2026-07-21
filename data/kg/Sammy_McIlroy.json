@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "Samuel Baxter McIlroy",
+    "Northern Ireland",
+    "Football League Two",
+    "Örgryte",
+    "VfB Mödling",
+    "association football",
+    "Morecambe",
+    "Member of the Order of the British Empire",
+    "Stoke City",
+    "1986 Birthday Honours",
+    "Macclesfield Town",
+    "Bury",
+    "Northern Ireland national team",
+    "footballer",
+    "Sammy McIlroy",
+    "Manchester United",
+    "Manchester City",
+    "MBE",
+    "English Football League",
+    "Preston North End"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "was appointed",
+    "managed",
+    "was guided to",
+    "was awarded in",
+    "played for",
+    "was most recently the manager of"
+  ],
+  "relations": [
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "VfB Mödling"
+    ],
+    [
+      "Member of the Order of the British Empire",
+      "was awarded in",
+      "1986 Birthday Honours"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "is from",
+      "Northern Ireland"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Bury"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Stoke City"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "managed",
+      "Northern Ireland national team"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Örgryte"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Manchester City"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Preston North End"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Manchester United"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "played for",
+      "Northern Ireland national team"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "managed",
+      "Macclesfield Town"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "was most recently the manager of",
+      "Morecambe"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Morecambe",
+      "was guided to",
+      "English Football League"
+    ],
+    [
+      "Samuel Baxter McIlroy",
+      "was appointed",
+      "Member of the Order of the British Empire"
+    ]
+  ]
+}

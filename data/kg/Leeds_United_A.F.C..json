@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "Chelsea",
+    "Leeds United Football Club",
+    "White Rose of York",
+    "white socks",
+    "Charity Shield",
+    "West Yorkshire",
+    "Leeds",
+    "England",
+    "Premier League",
+    "1960s",
+    "1970s",
+    "League Cup",
+    "League Championship",
+    "white shirts",
+    "Inter-Cities Fairs Cup",
+    "Yorkshire",
+    "Don Revie",
+    "FA Cup",
+    "Manchester United",
+    "white shorts"
+  ],
+  "edges": [
+    "had their most successful period under the management of",
+    "share rivalries with",
+    "features the badge of",
+    "has won",
+    "is located in",
+    "has traditional kit colours of",
+    "won",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Leeds United Football Club",
+      "has won",
+      "League Championship"
+    ],
+    [
+      "Leeds United Football Club",
+      "had their most successful period under the management of",
+      "Don Revie"
+    ],
+    [
+      "Leeds United Football Club",
+      "has traditional kit colours of",
+      "white shorts"
+    ],
+    [
+      "Leeds United Football Club",
+      "won",
+      "League title"
+    ],
+    [
+      "Leeds United Football Club",
+      "is located in",
+      "West Yorkshire"
+    ],
+    [
+      "Leeds United Football Club",
+      "is based in",
+      "Leeds"
+    ],
+    [
+      "Leeds United Football Club",
+      "has won",
+      "Charity Shield"
+    ],
+    [
+      "Leeds United Football Club",
+      "won",
+      "League Cup"
+    ],
+    [
+      "Leeds United Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Leeds United Football Club",
+      "won",
+      "FA Cup"
+    ],
+    [
+      "Leeds United Football Club",
+      "won",
+      "Inter-Cities Fairs Cup"
+    ],
+    [
+      "Leeds United Football Club",
+      "has won",
+      "League Cup"
+    ],
+    [
+      "Leeds United Football Club",
+      "has won",
+      "FA Cup"
+    ],
+    [
+      "Leeds United Football Club",
+      "has won",
+      "Inter-Cities Fairs Cup"
+    ],
+    [
+      "Leeds United Football Club",
+      "has traditional kit colours of",
+      "white shirts"
+    ],
+    [
+      "Leeds United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Leeds United Football Club",
+      "share rivalries with",
+      "Chelsea"
+    ],
+    [
+      "Leeds United Football Club",
+      "share rivalries with",
+      "Manchester United"
+    ],
+    [
+      "Leeds United Football Club",
+      "has traditional kit colours of",
+      "white socks"
+    ],
+    [
+      "Leeds United Football Club",
+      "features the badge of",
+      "White Rose of York"
+    ]
+  ]
+}

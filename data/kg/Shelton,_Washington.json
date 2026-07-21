@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "mayor–commission form of government",
+    "population",
+    "Shelton",
+    "council–manager form of government",
+    "Washington",
+    "Mason County",
+    "2020 census",
+    "Puget Sound"
+  ],
+  "edges": [
+    "is a city in",
+    "is the county seat of",
+    "was the last city in Washington to use",
+    "is the westernmost city on",
+    "had a population according to",
+    "has a",
+    "has a population of"
+  ],
+  "relations": [
+    [
+      "Shelton",
+      "is the westernmost city on",
+      "Puget Sound"
+    ],
+    [
+      "Shelton",
+      "was the last city in Washington to use",
+      "mayor–commission form of government"
+    ],
+    [
+      "Shelton",
+      "is the county seat of",
+      "Mason County"
+    ],
+    [
+      "Shelton",
+      "has a",
+      "council–manager form of government"
+    ],
+    [
+      "Shelton",
+      "had a population according to",
+      "2020 census"
+    ],
+    [
+      "Shelton",
+      "has a population of",
+      "10,371"
+    ],
+    [
+      "Shelton",
+      "is a city in",
+      "Mason County"
+    ]
+  ]
+}

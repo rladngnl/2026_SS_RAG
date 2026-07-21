@@ -1,0 +1,144 @@
+{
+  "entities": [
+    "FARC",
+    "Kirchnerism",
+    "Carlos Menem",
+    "Buenos Aires Province",
+    "2009 midterm election",
+    "Duhalde",
+    "Cristina Fernández de Kirchner",
+    "International Monetary Fund",
+    "Secretary General of UNASUR",
+    "Argentina",
+    "National University of La Plata",
+    "state funeral",
+    "Néstor Carlos Kirchner Ostoić",
+    "Dirty War",
+    "National Institute of Statistics and Census",
+    "Peronist",
+    "Supreme Court",
+    "Operation Emmanuel",
+    "Santa Cruz Province",
+    "Roberto Lavagna",
+    "Route of the K-Money",
+    "Justicialist Party",
+    "Río Gallegos",
+    "2001 riots",
+    "2003 presidential election",
+    "2005 midterm elections",
+    "Fernando de la Rúa",
+    "Adolfo Rodríguez Saá"
+  ],
+  "edges": [
+    "was president of",
+    "studied law at",
+    "negotiated a swap of defaulted debt with",
+    "was mayor of",
+    "became president as a result of",
+    "died of",
+    "was retained as minister of economy by",
+    "ran for governor of",
+    "was first gentleman of",
+    "was involved in",
+    "served as Governor of",
+    "married",
+    "took office on",
+    "received a",
+    "was appointed Secretary General of",
+    "identified himself as",
+    "ran for mayor of",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "was involved in",
+      "Route of the K-Money"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "served as Governor of",
+      "Santa Cruz Province"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "participated in",
+      "Operation Emmanuel"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "married",
+      "Cristina Fernández de Kirchner"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "took office on",
+      "25 May 2003"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "was mayor of",
+      "Río Gallegos"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "was retained as minister of economy by",
+      "Roberto Lavagna"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "was president of",
+      "Argentina"
+    ],
+    [
+      "Argentina",
+      "negotiated a swap of defaulted debt with",
+      "International Monetary Fund"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "was appointed Secretary General of",
+      "UNASUR"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "identified himself as",
+      "Peronist"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "ran for governor of",
+      "Santa Cruz Province"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "ran for mayor of",
+      "Río Gallegos"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "became president as a result of",
+      "2003 presidential election"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "died of",
+      "cardiac arrest"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "studied law at",
+      "National University of La Plata"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "was first gentleman of",
+      "Argentina"
+    ],
+    [
+      "Néstor Carlos Kirchner Ostoić",
+      "received a",
+      "state funeral"
+    ]
+  ]
+}

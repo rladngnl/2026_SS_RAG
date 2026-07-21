@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "2006",
+    "American soccer pyramid",
+    "Ventura College",
+    "2011",
+    "American soccer team",
+    "United States",
+    "blue",
+    "VC SportsPlex",
+    "California",
+    "orange",
+    "Ventura",
+    "fourth tier",
+    "USL League Two",
+    "Ventura County Fusion",
+    "white",
+    "CAPS TV",
+    "YouTube channel"
+  ],
+  "edges": [
+    "is in",
+    "is based in",
+    "is the",
+    "streams home games on",
+    "of the",
+    "is an",
+    "plays in",
+    "plays its home games in",
+    "is located on the campus of",
+    "has played since",
+    "has colors",
+    "broadcasts in conjunction with",
+    "was founded in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Ventura County Fusion",
+      "is located in",
+      "California"
+    ],
+    [
+      "CAPS TV",
+      "is located in",
+      "Ventura"
+    ],
+    [
+      "USL League Two",
+      "is the",
+      "fourth tier"
+    ],
+    [
+      "Ventura County Fusion",
+      "is in",
+      "United States"
+    ],
+    [
+      "VC SportsPlex",
+      "is located on the campus of",
+      "Ventura College"
+    ],
+    [
+      "Ventura County Fusion",
+      "has played since",
+      "2011"
+    ],
+    [
+      "Ventura County Fusion",
+      "was founded in",
+      "2006"
+    ],
+    [
+      "Ventura County Fusion",
+      "is an",
+      "American soccer team"
+    ],
+    [
+      "Ventura County Fusion",
+      "plays in",
+      "USL League Two"
+    ],
+    [
+      "Ventura County Fusion",
+      "is based in",
+      "Ventura"
+    ],
+    [
+      "Ventura County Fusion",
+      "plays its home games in",
+      "VC SportsPlex"
+    ],
+    [
+      "fourth tier",
+      "of the",
+      "American soccer pyramid"
+    ],
+    [
+      "Ventura County Fusion",
+      "has colors",
+      "blue, orange and white"
+    ],
+    [
+      "Ventura County Fusion",
+      "broadcasts in conjunction with",
+      "CAPS TV"
+    ],
+    [
+      "Ventura County Fusion",
+      "streams home games on",
+      "YouTube channel"
+    ]
+  ]
+}

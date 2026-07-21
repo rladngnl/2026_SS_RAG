@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "Romania",
+    "Astra Giurgiu",
+    "Cypriot citizen",
+    "2015",
+    "9 September 1984",
+    "professional footballer",
+    "2007",
+    "national team",
+    "Vincent_Laban",
+    "French",
+    "Cypriot",
+    "2013",
+    "championship title",
+    "Nantes",
+    "Digenis Akritas Morphou",
+    "Vincent Fabien Laban Bounayre",
+    "2012",
+    "Anorthosis",
+    "Cyprus",
+    "midfielder"
+  ],
+  "edges": [
+    "is born on",
+    "began his career with",
+    "is a",
+    "returned to",
+    "played in",
+    "transferred to",
+    "began playing for",
+    "plays as",
+    "had a stint at",
+    "moved to",
+    "won",
+    "began playing in",
+    "became a"
+  ],
+  "relations": [
+    [
+      "Vincent Fabien Laban Bounayre",
+      "began playing in",
+      "2012"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "is born on",
+      "9 September 1984"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "had a stint at",
+      "Astra Giurgiu"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "won",
+      "championship title"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "began playing for",
+      "national team"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "returned to",
+      "Cyprus"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "plays as",
+      "midfielder"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "transferred to",
+      "Anorthosis"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "played in",
+      "Romania"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "began his career with",
+      "Nantes"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "became a",
+      "Cypriot citizen"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "is a",
+      "Cypriot"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "is a",
+      "French"
+    ],
+    [
+      "Vincent Fabien Laban Bounayre",
+      "moved to",
+      "Digenis Akritas Morphou"
+    ]
+  ]
+}

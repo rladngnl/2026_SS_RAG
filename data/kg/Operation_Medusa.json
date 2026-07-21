@@ -1,0 +1,144 @@
+{
+  "entities": [
+    "United States Army",
+    "87th Infantry Regiment",
+    "NATO",
+    "September 2–17, 2006",
+    "Battle of Panjwaii",
+    "The Royal Canadian Regiment Battle Group",
+    "Canada",
+    "12 Canadian soldiers",
+    "two",
+    "2nd Battalion",
+    "Taliban",
+    "1st Battalion",
+    "10th Mtn Division",
+    "fourteen British military personnel",
+    "3rd Special Forces Group (Airborne)",
+    "A Co",
+    "2-4 Infantry BN",
+    "reconstruction phase",
+    "district of Panjwayi",
+    "Afghan National Army",
+    "mortar/RPG attack",
+    "five",
+    "plane crash",
+    "International Security Assistance Force",
+    "bombings",
+    "4th BDE",
+    "C Company",
+    "Operation Medusa",
+    "Operation Falcon Summit",
+    "War in Afghanistan",
+    "Kandahar Province",
+    "Kandahar city"
+  ],
+  "edges": [
+    "aimed to establish",
+    "was the most significant land battle ever undertaken by",
+    "was fought primarily by",
+    "centers in",
+    "was supported by",
+    "is part of",
+    "resulted in the deaths of",
+    "were killed during",
+    "includes",
+    "were killed when",
+    "occurred during",
+    "were killed in",
+    "was",
+    "retained their presence in"
+  ],
+  "relations": [
+    [
+      "United States Army",
+      "includes",
+      "3rd Special Forces Group (Airborne)"
+    ],
+    [
+      "12 Canadian soldiers",
+      "were killed in",
+      "bombings"
+    ],
+    [
+      "Operation Medusa",
+      "was",
+      "a Canadian-led offensive"
+    ],
+    [
+      "12 Canadian soldiers",
+      "were killed in",
+      "a mortar/RPG attack"
+    ],
+    [
+      "Operation Medusa",
+      "was fought primarily by",
+      "1st Battalion"
+    ],
+    [
+      "Operation Medusa",
+      "resulted in the deaths of",
+      "12 Canadian soldiers"
+    ],
+    [
+      "Operation Medusa",
+      "was supported by",
+      "the Afghan National Army"
+    ],
+    [
+      "United States Army",
+      "includes",
+      "1st Battalion"
+    ],
+    [
+      "12 Canadian soldiers",
+      "were killed during",
+      "the major combat operations"
+    ],
+    [
+      "Operation Medusa",
+      "was the most significant land battle ever undertaken by",
+      "NATO"
+    ],
+    [
+      "1st Battalion",
+      "is part of",
+      "The Royal Canadian Regiment Battle Group"
+    ],
+    [
+      "Operation Medusa",
+      "was supported by",
+      "a team from the United States Army"
+    ],
+    [
+      "Taliban",
+      "retained their presence in",
+      "Kandahar province"
+    ],
+    [
+      "Operation Medusa",
+      "resulted in the deaths of",
+      "fourteen British military personnel"
+    ],
+    [
+      "fourteen British military personnel",
+      "were killed when",
+      "their plane crashed"
+    ],
+    [
+      "Kandahar Province",
+      "centers in",
+      "the district of Panjwayi"
+    ],
+    [
+      "Operation Medusa",
+      "occurred during",
+      "the second Battle of Panjwaii"
+    ],
+    [
+      "Operation Medusa",
+      "aimed to establish",
+      "government control over an area of Kandahar Province"
+    ]
+  ]
+}

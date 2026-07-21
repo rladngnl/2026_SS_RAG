@@ -1,0 +1,178 @@
+{
+  "entities": [
+    "EFL Championship",
+    "West Bromwich Albion F.C.",
+    "England",
+    "Wolverhampton Wanderers",
+    "Football League Cup",
+    "FA Cup",
+    "West Bromwich",
+    "The Hawthorns",
+    "West Brom",
+    "Premier League",
+    "Football League",
+    "Aston Villa",
+    "Black Country derby",
+    "The Albion",
+    "The Baggies",
+    "West Midlands"
+  ],
+  "edges": [
+    "had its longest continuous period in the top division spanning",
+    "has played at its home ground",
+    "competes in",
+    "is located in",
+    "had its longest spell out of the top division from",
+    "most recently competed in",
+    "has reached a further",
+    "has played for",
+    "is based in",
+    "was formed in",
+    "is commonly known as",
+    "won the Football League Cup at the first attempt in",
+    "has long-standing rivalries with",
+    "has been champions of",
+    "contests the",
+    "was a founder member of",
+    "has won",
+    "has reached",
+    "won the Cup in"
+  ],
+  "relations": [
+    [
+      "West Bromwich Albion F.C.",
+      "competes in",
+      "EFL Championship"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has reached",
+      "ten FA Cup finals"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "was a founder member of",
+      "Football League"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "was formed in",
+      "1878"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has been champions of",
+      "England"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "had its longest spell out of the top division from",
+      "1986 to 2002"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has reached a further",
+      "two finals"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "contests the",
+      "Black Country derby"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "is located in",
+      "West Midlands"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "most recently competed in",
+      "Premier League"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has long-standing rivalries with",
+      "Aston Villa"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "is commonly known as",
+      "The Albion"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "is located in",
+      "England"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "is based in",
+      "West Bromwich"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "won the Cup in",
+      "1968"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "won the Cup in",
+      "1954"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has long-standing rivalries with",
+      "Wolverhampton Wanderers"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has won",
+      "FA Cup"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "won the Cup in",
+      "1931"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "won the Cup in",
+      "1888"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has played for",
+      "82 seasons"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "has played at its home ground",
+      "The Hawthorns"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "is commonly known as",
+      "West Brom"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "won the Football League Cup at the first attempt in",
+      "1966"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "won the Cup in",
+      "1892"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "had its longest continuous period in the top division spanning",
+      "24 years"
+    ],
+    [
+      "West Bromwich Albion F.C.",
+      "is commonly known as",
+      "The Baggies"
+    ]
+  ]
+}

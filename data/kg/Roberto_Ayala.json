@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "El Ratón",
+    "Real Zaragoza",
+    "footballer",
+    "FIFA World Cups",
+    "Argentina",
+    "international appearances",
+    "Valencia",
+    "Ferro Carril",
+    "Racing Club",
+    "Roberto Ayala",
+    "Milan",
+    "River Plate",
+    "Argentina national football team",
+    "leadership",
+    "centre back",
+    "Napoli",
+    "defenders"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "played as a",
+    "made a total of",
+    "is nicknamed",
+    "is regarded as one of the best",
+    "played for",
+    "stood out for his",
+    "captained"
+  ],
+  "relations": [
+    [
+      "Roberto Ayala",
+      "played for",
+      "Ferro Carril"
+    ],
+    [
+      "Roberto Ayala",
+      "captained",
+      "Argentina"
+    ],
+    [
+      "Roberto Ayala",
+      "is regarded as one of the best",
+      "defenders"
+    ],
+    [
+      "Roberto Ayala",
+      "played as a",
+      "centre back"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "Argentina national football team"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "Milan"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "Racing Club"
+    ],
+    [
+      "Roberto Ayala",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "Napoli"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "River Plate"
+    ],
+    [
+      "Roberto Ayala",
+      "stood out for his",
+      "leadership"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "Valencia"
+    ],
+    [
+      "Roberto Ayala",
+      "played for",
+      "Real Zaragoza"
+    ],
+    [
+      "Roberto Ayala",
+      "made a total of",
+      "international appearances"
+    ],
+    [
+      "Roberto Ayala",
+      "played in",
+      "FIFA World Cups"
+    ],
+    [
+      "Roberto Ayala",
+      "is nicknamed",
+      "El Ratón"
+    ]
+  ]
+}

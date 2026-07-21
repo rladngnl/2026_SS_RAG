@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "Auckland",
+    "Wellington Phoenix",
+    "A-League",
+    "Football Kingz Football Club",
+    "New Zealand",
+    "New Zealand Knights FC",
+    "2004",
+    "New Zealand Knights Football Club"
+  ],
+  "edges": [
+    "formed from",
+    "played in",
+    "were the only professional association football club in",
+    "were based in",
+    "have since been replaced by",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "New Zealand Knights Football Club",
+      "played in",
+      "A-League"
+    ],
+    [
+      "New Zealand Knights Football Club",
+      "were based in",
+      "Auckland"
+    ],
+    [
+      "New Zealand Knights Football Club",
+      "was formed in",
+      "2004"
+    ],
+    [
+      "New Zealand Knights Football Club",
+      "formed from",
+      "Football Kingz Football Club"
+    ],
+    [
+      "New Zealand Knights Football Club",
+      "were the only professional association football club in",
+      "New Zealand"
+    ],
+    [
+      "New Zealand Knights Football Club",
+      "have since been replaced by",
+      "Wellington Phoenix"
+    ]
+  ]
+}

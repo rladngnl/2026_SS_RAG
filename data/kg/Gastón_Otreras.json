@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "footballer",
+    "Argentina",
+    "Buenos Aires",
+    "Argentine",
+    "August 24, 1985",
+    "Gastón Otreras"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "is an",
+    "was born in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Gastón Otreras",
+      "is from",
+      "Argentina"
+    ],
+    [
+      "Gastón Otreras",
+      "was born in",
+      "Buenos Aires"
+    ],
+    [
+      "Gastón Otreras",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Gastón Otreras",
+      "was born on",
+      "August 24, 1985"
+    ],
+    [
+      "Gastón Otreras",
+      "is an",
+      "Argentine"
+    ]
+  ]
+}

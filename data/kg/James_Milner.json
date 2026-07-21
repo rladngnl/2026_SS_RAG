@@ -1,0 +1,172 @@
+{
+  "entities": [
+    "UEFA Intertoto Cup",
+    "FIFA World Cup",
+    "Moldova",
+    "Ryan Giggs",
+    "English",
+    "Liverpool",
+    "PFA Young Player of the Year",
+    "FIFA Club World Cup",
+    "Teddy Sheringham",
+    "Leeds Youth Academy",
+    "Premier League",
+    "Kevin Phillips",
+    "UEFA Champions League",
+    "UEFA European Championships",
+    "Gordon Strachan",
+    "Leeds United",
+    "Brighton & Hove Albion",
+    "League Cup",
+    "FA Community Shield",
+    "UEFA European Under-21 Championships",
+    "Swindon Town",
+    "Aston Villa",
+    "James Milner",
+    "England national under-21 football team",
+    "EFL Cup",
+    "footballer",
+    "FA Cup",
+    "Newcastle United",
+    "Manchester City",
+    "UEFA Super Cup"
+  ],
+  "edges": [
+    "signed for",
+    "scored against",
+    "is a",
+    "played in",
+    "made his debut for",
+    "joined",
+    "ended his career with",
+    "won caps for",
+    "was sold to",
+    "played at",
+    "won",
+    "was selected for",
+    "made appearances for",
+    "was signed by"
+  ],
+  "relations": [
+    [
+      "James Milner",
+      "was selected for",
+      "FIFA World Cup"
+    ],
+    [
+      "James Milner",
+      "made his debut for",
+      "Leeds United"
+    ],
+    [
+      "James Milner",
+      "won",
+      "League Cup"
+    ],
+    [
+      "James Milner",
+      "won",
+      "EFL Cup"
+    ],
+    [
+      "James Milner",
+      "was selected for",
+      "UEFA European Championships"
+    ],
+    [
+      "James Milner",
+      "won",
+      "FA Cup"
+    ],
+    [
+      "James Milner",
+      "won caps for",
+      "England national team"
+    ],
+    [
+      "James Milner",
+      "won",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "James Milner",
+      "signed for",
+      "Aston Villa"
+    ],
+    [
+      "James Milner",
+      "won",
+      "PFA Young Player of the Year"
+    ],
+    [
+      "James Milner",
+      "is a",
+      "footballer"
+    ],
+    [
+      "James Milner",
+      "won",
+      "UEFA Champions League"
+    ],
+    [
+      "James Milner",
+      "played at",
+      "UEFA European Under-21 Championships"
+    ],
+    [
+      "James Milner",
+      "won",
+      "FA Community Shield"
+    ],
+    [
+      "James Milner",
+      "was sold to",
+      "Newcastle United"
+    ],
+    [
+      "James Milner",
+      "played in",
+      "Premier League"
+    ],
+    [
+      "James Milner",
+      "ended his career with",
+      "Brighton & Hove Albion"
+    ],
+    [
+      "James Milner",
+      "won",
+      "FIFA Club World Cup"
+    ],
+    [
+      "James Milner",
+      "was signed by",
+      "Manchester City"
+    ],
+    [
+      "James Milner",
+      "signed for",
+      "Liverpool"
+    ],
+    [
+      "James Milner",
+      "made appearances for",
+      "England national under-21 football team"
+    ],
+    [
+      "James Milner",
+      "won",
+      "UEFA Super Cup"
+    ],
+    [
+      "James Milner",
+      "scored against",
+      "Moldova"
+    ],
+    [
+      "James Milner",
+      "joined",
+      "Leeds Youth Academy"
+    ]
+  ]
+}

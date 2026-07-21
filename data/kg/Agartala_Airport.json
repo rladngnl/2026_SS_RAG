@@ -1,0 +1,140 @@
+{
+  "entities": [
+    "Airports Authority of India",
+    "taxiway",
+    "VEAT",
+    "IXA",
+    "Guwahati",
+    "aerobridges",
+    "integrated terminal",
+    "Maharaja Bir Bikram Airport",
+    "Escalators",
+    "Tripura",
+    "check-in counters",
+    "Cross Border Xpress",
+    "Bengali",
+    "conveyor belts",
+    "North-East India",
+    "Agartala_Airport",
+    "In-Line Baggage System",
+    "Lokpriya Gopinath Bordoloi Airport",
+    "Mexico",
+    "United States",
+    "runway",
+    "AAI",
+    "ICAO",
+    "IATA",
+    "parking bays",
+    "Tijuana International Airport",
+    "Imphal Airport",
+    "ILBS",
+    "Bangladesh",
+    "hangars",
+    "Lifts"
+  ],
+  "edges": [
+    "is situated",
+    "is the second busiest airport in",
+    "is the third international airport in",
+    "is administered by",
+    "is similar to",
+    "is also known as",
+    "will access",
+    "will be built as an extension of",
+    "has",
+    "is building",
+    "is located along the border of"
+  ],
+  "relations": [
+    [
+      "Agartala_Airport",
+      "is also known as",
+      "Maharaja Bir Bikram Airport"
+    ],
+    [
+      "Cross Border Xpress",
+      "is similar to",
+      "the arrangement for the new terminal"
+    ],
+    [
+      "Agartala_Airport",
+      "is the second busiest airport in",
+      "North-East India"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "six parking bays"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "conveyor belts"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "Lifts"
+    ],
+    [
+      "Tijuana International Airport",
+      "is located along the border of",
+      "the United States and Mexico"
+    ],
+    [
+      "Agartala_Airport",
+      "is building",
+      "two new hangars"
+    ],
+    [
+      "Agartala_Airport",
+      "will be built as an extension of",
+      "the airport across the border with Bangladesh"
+    ],
+    [
+      "Bangladesh",
+      "will access",
+      "the airport without having to enter Indian territory"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "In-Line Baggage System"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "20 check-in counters"
+    ],
+    [
+      "Agartala_Airport",
+      "is situated",
+      "12 kilometres northwest of Agartala"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "four aerobridges"
+    ],
+    [
+      "Agartala_Airport",
+      "is building",
+      "a new parallel taxiway to the runway"
+    ],
+    [
+      "Agartala_Airport",
+      "has",
+      "Escalators"
+    ],
+    [
+      "Agartala_Airport",
+      "is the third international airport in",
+      "North-East India"
+    ],
+    [
+      "Agartala_Airport",
+      "is administered by",
+      "Airports Authority of India"
+    ]
+  ]
+}

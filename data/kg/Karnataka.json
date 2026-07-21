@@ -1,0 +1,241 @@
+{
+  "entities": [
+    "Konkani",
+    "Dakshina Kannada",
+    "15 million",
+    "Hindustani",
+    "Telugu",
+    "61,130,704",
+    "Kerala",
+    "Andhra Pradesh",
+    "Kannada",
+    "Beary",
+    "Telangana",
+    "10.2%",
+    "Malayalam",
+    "Carnatic",
+    "2011 census",
+    "Goa",
+    "74,051 mi2",
+    "Marathi",
+    "Tulu",
+    "Tamil",
+    "Silicon Valley of India",
+    "1,973 companies",
+    "Maharashtra",
+    "Kodava",
+    "Lakshadweep Sea",
+    "Hubli–Dharwad",
+    "US$260 billion",
+    "5.83%",
+    "1 November 1956",
+    "₹25.01 trillion",
+    "financial year 2023–24",
+    "Karnataka",
+    "Tamil Nadu",
+    "191,791 km2",
+    "Sanskrit",
+    "Bengaluru",
+    "₹332,926",
+    "Belagavi",
+    "Mysore State",
+    "US$3,500",
+    "Urdu",
+    "Paleolithic",
+    "1973",
+    "States Reorganisation Act"
+  ],
+  "edges": [
+    "experienced GSDP growth of",
+    "is the largest city in",
+    "has antiquity that dates to",
+    "was renamed to",
+    "has minority languages including",
+    "has inhabitants recorded in",
+    "is the most widely spoken language in",
+    "is known as",
+    "has contributed significantly to",
+    "contains villages where",
+    "was formed as",
+    "is the sixth-largest Indian state by area",
+    "is bordered by",
+    "has GSDP of",
+    "is the capital of",
+    "has per capita GSDP of",
+    "contains",
+    "has population of",
+    "covers an area of"
+  ],
+  "relations": [
+    [
+      "Mysore State",
+      "was renamed to",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "was formed as",
+      "Mysore State"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Konkani"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Tamil Nadu"
+    ],
+    [
+      "Karnataka",
+      "covers an area of",
+      "191,791 km2"
+    ],
+    [
+      "Kannada",
+      "is the most widely spoken language in",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Beary"
+    ],
+    [
+      "Karnataka",
+      "has inhabitants recorded in",
+      "2011 census"
+    ],
+    [
+      "Karnataka",
+      "contains villages where",
+      "Sanskrit is primarily spoken"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Goa"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Malayalam"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Kerala"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Tulu"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Telugu"
+    ],
+    [
+      "Karnataka",
+      "has contributed significantly to",
+      "Carnatic"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Maharashtra"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Lakshadweep Sea"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Urdu"
+    ],
+    [
+      "Karnataka",
+      "has contributed significantly to",
+      "Hindustani"
+    ],
+    [
+      "Karnataka",
+      "has per capita GSDP of",
+      "₹332,926"
+    ],
+    [
+      "Karnataka",
+      "experienced GSDP growth of",
+      "10.2%"
+    ],
+    [
+      "Karnataka",
+      "has population of",
+      "61,130,704"
+    ],
+    [
+      "Karnataka",
+      "is the largest city in",
+      "Karnataka"
+    ],
+    [
+      "Bengaluru",
+      "is the capital of",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "has antiquity that dates to",
+      "Paleolithic"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Telangana"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Andhra Pradesh"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Kodava"
+    ],
+    [
+      "Karnataka",
+      "has GSDP of",
+      "₹25.01 trillion"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Tamil"
+    ],
+    [
+      "Karnataka",
+      "is the sixth-largest Indian state by area",
+      "74,051 mi2"
+    ],
+    [
+      "Karnataka",
+      "contains",
+      "1,973 companies"
+    ],
+    [
+      "Bengaluru",
+      "is known as",
+      "Silicon Valley of India"
+    ],
+    [
+      "Karnataka",
+      "has minority languages including",
+      "Marathi"
+    ]
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "entities": [
+    "2022",
+    "population",
+    "2011",
+    "23,325",
+    "Great Northern Railway",
+    "Middlesex",
+    "22,536",
+    "Ganwick Corner",
+    "England",
+    "Oakmere",
+    "13th century",
+    "Bentley Heath",
+    "Hertfordshire",
+    "Potters Bar",
+    "1965",
+    "Parkfield",
+    "London commuter belt",
+    "2021 census",
+    "1850",
+    "Furzefield",
+    "Bentley Heath & The Royds",
+    "London"
+  ],
+  "edges": [
+    "arrived in",
+    "had a combined population in the 2021 census of",
+    "is part of the",
+    "had a population in 2022 of",
+    "is north of",
+    "experienced the arrival of",
+    "is a town in",
+    "dates to the early",
+    "was within the historic county of",
+    "is located in",
+    "had a population in 2011 of"
+  ],
+  "relations": [
+    [
+      "Potters Bar",
+      "had a population in 2011 of",
+      "21,882"
+    ],
+    [
+      "Potters Bar",
+      "was within the historic county of",
+      "Middlesex"
+    ],
+    [
+      "Potters Bar",
+      "is north of",
+      "London"
+    ],
+    [
+      "Potters Bar",
+      "is part of the",
+      "London commuter belt"
+    ],
+    [
+      "Potters Bar",
+      "had a combined population in the 2021 census of",
+      "22,536"
+    ],
+    [
+      "Potters Bar",
+      "is a town in",
+      "Hertfordshire"
+    ],
+    [
+      "Potters Bar",
+      "had a population in 2022 of",
+      "23,325"
+    ],
+    [
+      "Potters Bar",
+      "dates to the early",
+      "13th century"
+    ],
+    [
+      "Potters Bar",
+      "is located in",
+      "England"
+    ],
+    [
+      "Great Northern Railway",
+      "arrived in",
+      "1850"
+    ],
+    [
+      "Potters Bar",
+      "experienced the arrival of",
+      "Great Northern Railway"
+    ]
+  ]
+}

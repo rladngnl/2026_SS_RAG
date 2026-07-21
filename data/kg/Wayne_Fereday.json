@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "professional footballer",
+    "England",
+    "Newcastle United",
+    "under-21 level",
+    "winger",
+    "West Bromwich Albion",
+    "Wayne Fereday",
+    "16 June 1963",
+    "Football League",
+    "English",
+    "Cardiff City",
+    "AFC Bournemouth",
+    "Queens Park Rangers"
+  ],
+  "edges": [
+    "is a",
+    "played in the",
+    "was capped at",
+    "was born on",
+    "was capped by",
+    "played as a",
+    "is",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Wayne Fereday",
+      "played in the",
+      "Football League"
+    ],
+    [
+      "Wayne Fereday",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Wayne Fereday",
+      "was born on",
+      "16 June 1963"
+    ],
+    [
+      "Wayne Fereday",
+      "played as a",
+      "winger"
+    ],
+    [
+      "Wayne Fereday",
+      "played for",
+      "Queens Park Rangers"
+    ],
+    [
+      "Wayne Fereday",
+      "is",
+      "English"
+    ],
+    [
+      "Wayne Fereday",
+      "played for",
+      "AFC Bournemouth"
+    ],
+    [
+      "Wayne Fereday",
+      "played for",
+      "Cardiff City"
+    ],
+    [
+      "Wayne Fereday",
+      "was capped by",
+      "England"
+    ],
+    [
+      "Wayne Fereday",
+      "played for",
+      "West Bromwich Albion"
+    ],
+    [
+      "Wayne Fereday",
+      "was capped at",
+      "under-21 level"
+    ],
+    [
+      "Wayne Fereday",
+      "played for",
+      "Newcastle United"
+    ]
+  ]
+}

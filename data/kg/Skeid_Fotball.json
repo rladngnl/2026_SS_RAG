@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "Leif Hagen",
+    "Skeid_Fotball",
+    "Norwegian football club",
+    "Oslo",
+    "Tippeligaen",
+    "Daniel Fredheim Holm",
+    "NOK 30 million",
+    "2. divisjon",
+    "Omar Elabdellaoui",
+    "Daniel Braaten",
+    "Bislett",
+    "1999",
+    "Sagene",
+    "Nordre Åsen",
+    "Mohammed Abdellaoue",
+    "Porno-Hagen",
+    "1. divisjon",
+    "2008",
+    "2009",
+    "World War II",
+    "Paul Miller"
+  ],
+  "edges": [
+    "has home field at",
+    "is a",
+    "bequeathed a substantial amount to",
+    "relegated to",
+    "produced players for",
+    "stopped playing at",
+    "played in the Norwegian top flight between",
+    "plays in",
+    "finished champions of",
+    "recent season in the top division was in",
+    "won",
+    "was a fan of",
+    "will inherit"
+  ],
+  "relations": [
+    [
+      "Skeid_Fotball",
+      "recent season in the top division was in",
+      "1999 Tippeligaen"
+    ],
+    [
+      "Skeid_Fotball",
+      "relegated to",
+      "2. divisjon"
+    ],
+    [
+      "Skeid_Fotball",
+      "played in the Norwegian top flight between",
+      "1938 and 1970"
+    ],
+    [
+      "Skeid_Fotball",
+      "finished champions of",
+      "the Second Group of 2. divisjon"
+    ],
+    [
+      "Skeid_Fotball",
+      "won",
+      "2. divisjon group 1"
+    ],
+    [
+      "Leif Hagen",
+      "bequeathed a substantial amount to",
+      "Skeid_Fotball"
+    ],
+    [
+      "Skeid_Fotball",
+      "will inherit",
+      "NOK 30 million"
+    ],
+    [
+      "Skeid_Fotball",
+      "produced players for",
+      "the national team"
+    ],
+    [
+      "Skeid_Fotball",
+      "plays in",
+      "2. divisjon"
+    ],
+    [
+      "Skeid_Fotball",
+      "stopped playing at",
+      "Bislett"
+    ],
+    [
+      "Skeid_Fotball",
+      "has home field at",
+      "Nordre Åsen"
+    ],
+    [
+      "Skeid_Fotball",
+      "is a",
+      "Norwegian football club"
+    ],
+    [
+      "Leif Hagen",
+      "was a fan of",
+      "Skeid_Fotball"
+    ]
+  ]
+}

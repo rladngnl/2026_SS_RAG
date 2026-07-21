@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "East Renfrewshire",
+    "Glasgow",
+    "2011 census",
+    "Scotland",
+    "Gleniffer Braes",
+    "Barrhead",
+    "17,268"
+  ],
+  "edges": [
+    "is in",
+    "reported the population of",
+    "is southwest of",
+    "had a population according to",
+    "is on the edge of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Barrhead",
+      "is located in",
+      "East Renfrewshire"
+    ],
+    [
+      "Barrhead",
+      "is southwest of",
+      "Glasgow"
+    ],
+    [
+      "Barrhead",
+      "had a population according to",
+      "2011 census"
+    ],
+    [
+      "Barrhead",
+      "is in",
+      "Scotland"
+    ],
+    [
+      "Barrhead",
+      "is on the edge of",
+      "Gleniffer Braes"
+    ],
+    [
+      "2011 census",
+      "reported the population of",
+      "17,268"
+    ]
+  ]
+}

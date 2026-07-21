@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Barcelona",
+    "Albert Jorquera Fortià",
+    "Spanish",
+    "goalkeeper",
+    "2009",
+    "former professional footballer",
+    "Girona"
+  ],
+  "edges": [
+    "left the club in",
+    "is",
+    "played as",
+    "signed with",
+    "spent the bulk of his career with"
+  ],
+  "relations": [
+    [
+      "Albert Jorquera Fortià",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Albert Jorquera Fortià",
+      "played as",
+      "goalkeeper"
+    ],
+    [
+      "Albert Jorquera Fortià",
+      "left the club in",
+      "2009"
+    ],
+    [
+      "Albert Jorquera Fortià",
+      "is",
+      "Spanish"
+    ],
+    [
+      "Albert Jorquera Fortià",
+      "spent the bulk of his career with",
+      "Barcelona"
+    ],
+    [
+      "Albert Jorquera Fortià",
+      "signed with",
+      "Girona"
+    ]
+  ]
+}

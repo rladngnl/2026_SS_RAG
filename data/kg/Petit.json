@@ -1,0 +1,198 @@
+{
+  "entities": [
+    "John F. Petit",
+    "Gabrielle Petit (feminist)",
+    "Philippe Petit",
+    "Paul Petit (aviator)",
+    "Antoni Martí Petit",
+    "Sauveur Abel Aubert Petit de la Saussaye",
+    "Rosa Petit",
+    "Pierre Petit (composer)",
+    "Jean-Martin Petit",
+    "Pierre Petit (politician)",
+    "Gabrielle Petit",
+    "Paul Petit (racing driver)",
+    "Cavelier Petit",
+    "Amandine Petit",
+    "Pierre Petit (cinematographer)",
+    "Henriette Petit",
+    "Luis Romero Petit",
+    "Pierre Petit (photographer)",
+    "Petit",
+    "John Louis Petit",
+    "Roland Petit",
+    "Monique Ruck-Petit",
+    "François Pourfour du Petit",
+    "Pierre Petit (driver)",
+    "Yusmeiro Petit",
+    "Pierre Petit (engineer)",
+    "Pierre Petit (scholar)",
+    "The Petit Family",
+    "Alexis Thérèse Petit",
+    "Rattanbai Petit",
+    "Adriana Petit",
+    "Antoine Petit",
+    "Dinshaw Maneckji Petit"
+  ],
+  "edges": [
+    "is a",
+    "is the granddaughter of"
+  ],
+  "relations": [
+    [
+      "Pierre Petit (composer)",
+      "is a",
+      "French composer"
+    ],
+    [
+      "Pierre Petit (cinematographer)",
+      "is a",
+      "French cinematographer"
+    ],
+    [
+      "Pierre Petit (scholar)",
+      "is a",
+      "French scholar, medical writer, and poet"
+    ],
+    [
+      "Yusmeiro Petit",
+      "is a",
+      "Venezuelan baseball player"
+    ],
+    [
+      "Antoni Martí Petit",
+      "is a",
+      "prime minister of Andorra"
+    ],
+    [
+      "Gabrielle Petit (feminist)",
+      "is a",
+      "French feminist activist, anticlerical, libertarian socialist, newspaper editor"
+    ],
+    [
+      "Paul Petit (aviator)",
+      "is a",
+      "French flying ace"
+    ],
+    [
+      "Pierre Petit (engineer)",
+      "is a",
+      "French military engineer, mathematician, and physicist"
+    ],
+    [
+      "Rosa Petit",
+      "is a",
+      "Venezuelan politician"
+    ],
+    [
+      "Cavelier Petit",
+      "is a",
+      "American politician"
+    ],
+    [
+      "Dinshaw Maneckji Petit",
+      "is a",
+      "Indian industrialist"
+    ],
+    [
+      "John Louis Petit",
+      "is a",
+      "English clergyman and architectural artist"
+    ],
+    [
+      "Philippe Petit",
+      "is a",
+      "French high-wire artist"
+    ],
+    [
+      "Sauveur Abel Aubert Petit de la Saussaye",
+      "is a",
+      "French malacologist"
+    ],
+    [
+      "Henriette Petit",
+      "is a",
+      "Chilean painter"
+    ],
+    [
+      "Antoine Petit",
+      "is a",
+      "French physician"
+    ],
+    [
+      "Gabrielle Petit",
+      "is a",
+      "Belgian spy"
+    ],
+    [
+      "Luis Romero Petit",
+      "is a",
+      "Venezuelan baseball player"
+    ],
+    [
+      "Monique Ruck-Petit",
+      "is a",
+      "Swiss and French chess master"
+    ],
+    [
+      "Roland Petit",
+      "is a",
+      "French choreographer and dancer"
+    ],
+    [
+      "John F. Petit",
+      "is a",
+      "American businessman and politician"
+    ],
+    [
+      "Pierre Petit (photographer)",
+      "is a",
+      "French photographer"
+    ],
+    [
+      "Adriana Petit",
+      "is a",
+      "Spanish multidisciplinary artist"
+    ],
+    [
+      "Alexis Thérèse Petit",
+      "is a",
+      "French physicist"
+    ],
+    [
+      "Paul Petit (racing driver)",
+      "is a",
+      "French racing driver"
+    ],
+    [
+      "Pierre Petit (politician)",
+      "is a",
+      "Martinique politician"
+    ],
+    [
+      "Amandine Petit",
+      "is a",
+      "French model, beauty pageant titleholder, and Miss France 2021"
+    ],
+    [
+      "François Pourfour du Petit",
+      "is a",
+      "French anatomist"
+    ],
+    [
+      "Jean-Martin Petit",
+      "is a",
+      "French General during the Napoleonic Wars"
+    ],
+    [
+      "Rattanbai Petit",
+      "is the granddaughter of",
+      "Dinshaw Maneckji Petit"
+    ],
+    [
+      "Pierre Petit (driver)",
+      "is a",
+      "French racecar driver"
+    ]
+  ]
+}

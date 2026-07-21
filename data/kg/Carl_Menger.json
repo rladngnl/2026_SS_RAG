@@ -1,0 +1,105 @@
+{
+  "entities": [
+    "Austrian school of economics",
+    "Friedrich von Wieser",
+    "Rudolf von Habsburg",
+    "University of Vienna",
+    "marginal theory of value",
+    "Austrian economist",
+    "German school",
+    "Karl Marx",
+    "subjective theory of value",
+    "cost-of-production theory of value",
+    "Friedrich Hayek",
+    "Carl Menger",
+    "Adam Smith",
+    "Eugen von Böhm-Bawerk",
+    "David Ricardo",
+    "crown prince of Austria"
+  ],
+  "edges": [
+    "emphasized role of",
+    "was private tutor and confidant to",
+    "wrote that",
+    "brought theories of",
+    "is prevailing theory of",
+    "contributed to",
+    "is founder of",
+    "is",
+    "rejected",
+    "taught at",
+    "disputed the view of"
+  ],
+  "relations": [
+    [
+      "cost-of-production theory of value",
+      "is prevailing theory of",
+      "David Ricardo"
+    ],
+    [
+      "cost-of-production theory of value",
+      "is prevailing theory of",
+      "Karl Marx"
+    ],
+    [
+      "Friedrich von Wieser",
+      "brought theories of",
+      "Carl Menger"
+    ],
+    [
+      "cost-of-production theory of value",
+      "is prevailing theory of",
+      "Adam Smith"
+    ],
+    [
+      "Carl Menger",
+      "rejected",
+      "cost-of-production theory of value"
+    ],
+    [
+      "Carl Menger",
+      "disputed the view of",
+      "German school"
+    ],
+    [
+      "Carl Menger",
+      "contributed to",
+      "marginal theory of value"
+    ],
+    [
+      "Carl Menger",
+      "emphasized role of",
+      "subjective theory of value"
+    ],
+    [
+      "Eugen von Böhm-Bawerk",
+      "brought theories of",
+      "Carl Menger"
+    ],
+    [
+      "Carl Menger",
+      "is founder of",
+      "Austrian school of economics"
+    ],
+    [
+      "Carl Menger",
+      "was private tutor and confidant to",
+      "Rudolf von Habsburg"
+    ],
+    [
+      "Carl Menger",
+      "taught at",
+      "University of Vienna"
+    ],
+    [
+      "Friedrich Hayek",
+      "wrote that",
+      "fundamental ideas belong fully and wholly to Carl Menger"
+    ],
+    [
+      "Rudolf von Habsburg",
+      "is",
+      "crown prince of Austria"
+    ]
+  ]
+}

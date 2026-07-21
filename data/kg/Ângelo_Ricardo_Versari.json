@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Joinville Esporte Clube",
+    "right wingback",
+    "Brazil",
+    "April 27, 1984",
+    "Ângelo Ricardo Versari",
+    "Campo Mourão"
+  ],
+  "edges": [
+    "is from",
+    "plays for",
+    "plays as",
+    "was born in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Ângelo Ricardo Versari",
+      "plays as",
+      "right wingback"
+    ],
+    [
+      "Ângelo Ricardo Versari",
+      "was born in",
+      "Campo Mourão"
+    ],
+    [
+      "Ângelo Ricardo Versari",
+      "was born on",
+      "April 27, 1984"
+    ],
+    [
+      "Ângelo Ricardo Versari",
+      "is from",
+      "Brazil"
+    ],
+    [
+      "Ângelo Ricardo Versari",
+      "plays for",
+      "Joinville Esporte Clube"
+    ]
+  ]
+}

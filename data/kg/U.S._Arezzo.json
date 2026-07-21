@@ -1,0 +1,80 @@
+{
+  "entities": [
+    "Serie B",
+    "Italian association football club",
+    "Associazione Calcio Arezzo",
+    "2026–27 season",
+    "Serie C",
+    "Arezzo",
+    "Group B",
+    "Società Sportiva Arezzo",
+    "1993",
+    "Tuscany",
+    "1923",
+    "U.S. Arezzo",
+    "Associazione Sportiva Dilettantistica Atletico Arezzo",
+    "2010"
+  ],
+  "edges": [
+    "was refounded in",
+    "is a",
+    "is located in",
+    "currently plays in",
+    "will play in",
+    "will be promoted in",
+    "is based in",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "U.S. Arezzo",
+      "is a",
+      "Italian association football club"
+    ],
+    [
+      "U.S. Arezzo",
+      "is located in",
+      "Tuscany"
+    ],
+    [
+      "U.S. Arezzo",
+      "will play in",
+      "Serie B"
+    ],
+    [
+      "U.S. Arezzo",
+      "currently plays in",
+      "Serie C"
+    ],
+    [
+      "U.S. Arezzo",
+      "is based in",
+      "Arezzo"
+    ],
+    [
+      "U.S. Arezzo",
+      "will be promoted in",
+      "Group B"
+    ],
+    [
+      "U.S. Arezzo",
+      "was formed in",
+      "1923"
+    ],
+    [
+      "U.S. Arezzo",
+      "was refounded in",
+      "2010"
+    ],
+    [
+      "U.S. Arezzo",
+      "will play in",
+      "2026–27 season"
+    ],
+    [
+      "U.S. Arezzo",
+      "was refounded in",
+      "1993"
+    ]
+  ]
+}

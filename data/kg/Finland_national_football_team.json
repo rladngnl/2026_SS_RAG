@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "FIFA",
+    "2007",
+    "Finlands fotbollslandslag",
+    "FIFA World Rankings",
+    "October 2025",
+    "72nd place",
+    "110th in the FIFA Rankings",
+    "2017",
+    "Suomen jalkapallomaajoukkue",
+    "Finland national football team",
+    "UEFA",
+    "UEFA Euro 2020",
+    "Football Association of Finland"
+  ],
+  "edges": [
+    "is the time when",
+    "is controlled by",
+    "qualified for",
+    "achieved notable results against",
+    "has been a member of",
+    "declined to",
+    "sits at",
+    "represents",
+    "reached a peak of",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Finland national football team",
+      "achieved notable results against",
+      "established European teams"
+    ],
+    [
+      "Finland national football team",
+      "has been a member of",
+      "FIFA"
+    ],
+    [
+      "Finland national football team",
+      "is controlled by",
+      "Football Association of Finland"
+    ],
+    [
+      "Finland national football team",
+      "qualified for",
+      "UEFA Euro 2020"
+    ],
+    [
+      "Football Association of Finland",
+      "was founded in",
+      "1907"
+    ],
+    [
+      "Finland national football team",
+      "reached a peak of",
+      "33rd in the FIFA World Rankings"
+    ],
+    [
+      "Finland national football team",
+      "sits at",
+      "72nd place"
+    ],
+    [
+      "October 2025",
+      "is the time when",
+      "Finland national football team sits at 72nd place"
+    ],
+    [
+      "Finland national football team",
+      "represents",
+      "Finland"
+    ],
+    [
+      "Finland national football team",
+      "has been a member of",
+      "UEFA"
+    ],
+    [
+      "Finland national football team",
+      "declined to",
+      "110th in the FIFA Rankings"
+    ]
+  ]
+}

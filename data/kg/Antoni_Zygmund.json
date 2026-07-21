@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "mathematical analysis",
+    "National Medal of Science",
+    "harmonic analysis",
+    "mathematician",
+    "Alberto Calderón",
+    "20th century",
+    "Polish-American",
+    "Chicago school of mathematical analysis",
+    "Antoni Zygmund",
+    "1986"
+  ],
+  "edges": [
+    "was responsible for creating",
+    "is considered one of the greatest analysts of",
+    "was awarded in",
+    "was awarded",
+    "together with",
+    "worked mostly in the area of",
+    "was"
+  ],
+  "relations": [
+    [
+      "Antoni Zygmund",
+      "is considered one of the greatest analysts of",
+      "20th century"
+    ],
+    [
+      "Antoni Zygmund",
+      "was responsible for creating",
+      "Chicago school of mathematical analysis"
+    ],
+    [
+      "National Medal of Science",
+      "was awarded in",
+      "1986"
+    ],
+    [
+      "Antoni Zygmund",
+      "was awarded",
+      "National Medal of Science"
+    ],
+    [
+      "Antoni Zygmund",
+      "worked mostly in the area of",
+      "harmonic analysis"
+    ],
+    [
+      "Antoni Zygmund",
+      "worked mostly in the area of",
+      "mathematical analysis"
+    ],
+    [
+      "Antoni Zygmund",
+      "together with",
+      "Alberto Calderón"
+    ],
+    [
+      "Antoni Zygmund",
+      "was",
+      "Polish-American"
+    ],
+    [
+      "Antoni Zygmund",
+      "was",
+      "mathematician"
+    ]
+  ]
+}

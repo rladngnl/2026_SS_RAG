@@ -1,0 +1,77 @@
+{
+  "entities": [
+    "Uruguay national team",
+    "footballer",
+    "September 4, 1959",
+    "Peru",
+    "goalkeeper",
+    "Brazil",
+    "Argentina",
+    "Colombia",
+    "1986 FIFA World Cup",
+    "Uruguayan",
+    "1990 FIFA World Cup",
+    "Uruguay",
+    "Fernando Harry Álvez Mosquera",
+    "1980",
+    "Paraguay",
+    "Montevideo"
+  ],
+  "edges": [
+    "is a",
+    "was born on",
+    "obtained",
+    "played as a",
+    "was a member of",
+    "was born in",
+    "made his debut on",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Fernando Harry Álvez Mosquera",
+      "was a member of",
+      "1990 FIFA World Cup"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "played for",
+      "Uruguay national team"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "made his debut on",
+      "July 18, 1980"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "was born in",
+      "Montevideo"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "obtained",
+      "40 caps for the Uruguay national team"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "played as a",
+      "goalkeeper"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "was a member of",
+      "1986 FIFA World Cup"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "is a",
+      "Uruguayan footballer"
+    ],
+    [
+      "Fernando Harry Álvez Mosquera",
+      "was born on",
+      "September 4, 1959"
+    ]
+  ]
+}

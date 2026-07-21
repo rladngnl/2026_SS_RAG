@@ -1,0 +1,134 @@
+{
+  "entities": [
+    "FC Progresul București",
+    "Progresul București",
+    "Cotroceni Stadium",
+    "National Bank of Romania",
+    "Divizia B",
+    "Progresul Finanțe Bănci București",
+    "Romanian Cup",
+    "Liga II",
+    "Dan Petrescu",
+    "Progresul",
+    "Liga I All-Time Table",
+    "B.N.R. București",
+    "Divizia A"
+  ],
+  "edges": [
+    "finished his career at",
+    "is ranked",
+    "was promoted to",
+    "was declared",
+    "was the owner of",
+    "is commonly known as",
+    "has experienced",
+    "was finalist of the Cup",
+    "made its debut in",
+    "was excluded from",
+    "was kicked out from",
+    "drew the sympathy of",
+    "was not historically supported by",
+    "spent",
+    "won",
+    "was renamed to",
+    "was founded in",
+    "was runner-up of the league"
+  ],
+  "relations": [
+    [
+      "FC Progresul București",
+      "is commonly known as",
+      "Progresul București"
+    ],
+    [
+      "FC Progresul București",
+      "is commonly known as",
+      "Progresul"
+    ],
+    [
+      "Progresul",
+      "was declared",
+      "bankrupt"
+    ],
+    [
+      "B.N.R. București",
+      "made its debut in",
+      "Divizia A"
+    ],
+    [
+      "Progresul",
+      "was finalist of the Cup",
+      "four other occasions"
+    ],
+    [
+      "Progresul",
+      "won",
+      "Romanian Cup"
+    ],
+    [
+      "Progresul",
+      "is ranked",
+      "15th in the Liga I All-Time Table"
+    ],
+    [
+      "B.N.R. București",
+      "was promoted to",
+      "Divizia B"
+    ],
+    [
+      "B.N.R. București",
+      "was founded in",
+      "1944"
+    ],
+    [
+      "Progresul",
+      "was excluded from",
+      "Liga II"
+    ],
+    [
+      "Dan Petrescu",
+      "finished his career at",
+      "Progresul"
+    ],
+    [
+      "Progresul",
+      "has experienced",
+      "various successes and setbacks"
+    ],
+    [
+      "B.N.R. București",
+      "was renamed to",
+      "Progresul Finanțe Bănci București"
+    ],
+    [
+      "Progresul",
+      "spent",
+      "32 seasons in the top flight"
+    ],
+    [
+      "Progresul",
+      "was kicked out from",
+      "Cotroceni Stadium"
+    ],
+    [
+      "Progresul",
+      "was not historically supported by",
+      "the communist regime"
+    ],
+    [
+      "Progresul",
+      "drew the sympathy of",
+      "many supporters"
+    ],
+    [
+      "Progresul",
+      "was runner-up of the league",
+      "three times"
+    ],
+    [
+      "National Bank of Romania",
+      "was the owner of",
+      "Cotroceni Stadium"
+    ]
+  ]
+}

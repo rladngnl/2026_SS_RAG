@@ -1,0 +1,226 @@
+{
+  "entities": [
+    "Tynecastle Park",
+    "5–1",
+    "Hibernian",
+    "Hearts",
+    "Terrible Trio",
+    "3–2",
+    "Scottish Cup",
+    "1957–58",
+    "1988–89 UEFA Cup",
+    "Scottish top-flight",
+    "132",
+    "Scotland",
+    "Edinburgh derby",
+    "European competition",
+    "Bayern Munich",
+    "Walter Scott",
+    "League and League Cup double",
+    "1958",
+    "1960s",
+    "Willie Bauld",
+    "19,852",
+    "Scottish Premiership",
+    "Alfie Conn Sr.",
+    "2013",
+    "1959–60",
+    "Scottish league championship",
+    "Scottish national performance centre for sport",
+    "Royal Mile",
+    "John Cumming",
+    "St Mirren",
+    "The Heart of Midlothian",
+    "Edinburgh",
+    "Tommy Walker",
+    "Oriam",
+    "Kilmarnock",
+    "Jimmy Wardhaugh",
+    "1962",
+    "maroon",
+    "Scottish League Cup",
+    "Dave Mackay",
+    "2012",
+    "Heart of Midlothian Football Club",
+    "white",
+    "1950s",
+    "1990"
+  ],
+  "edges": [
+    "was converted into an all-seater stadium in",
+    "was part of the Terrible Trio with",
+    "has played home matches at",
+    "won two league titles and five major cups during",
+    "was the manager during Hearts' most successful period",
+    "lost to",
+    "won their most recent League Cup Final against",
+    "competes in",
+    "finished inside the league's top four positions for",
+    "has a capacity of",
+    "won against",
+    "set the record for the number of goals scored in a Scottish top-flight winning campaign",
+    "is Scotland's national performance centre for sport",
+    "most recently won the Scottish league championship in",
+    "is the oldest football club in",
+    "most recently won the Scottish Cup in",
+    "was formed in",
+    "retained the Scottish League Cup in",
+    "has won the Scottish league championship",
+    "is commonly known as",
+    "was part of another notable Hearts attacking trinity in",
+    "achieved a League and League Cup double",
+    "became the only side to finish a season in the Scottish top tier with a goal difference exceeding",
+    "became the third Scottish team to compete in",
+    "has training facilities at",
+    "reached the quarter-finals of the",
+    "have won the Scottish Cup",
+    "have been runners up in"
+  ],
+  "relations": [
+    [
+      "Hearts",
+      "won their most recent League Cup Final against",
+      "Kilmarnock"
+    ],
+    [
+      "Jimmy Wardhaugh",
+      "was part of the Terrible Trio with",
+      "Willie Bauld and Alfie Conn Sr."
+    ],
+    [
+      "Tynecastle Park",
+      "was converted into an all-seater stadium in",
+      "1990"
+    ],
+    [
+      "Hearts",
+      "was formed in",
+      "1874"
+    ],
+    [
+      "Hearts",
+      "has won the Scottish league championship",
+      "four times"
+    ],
+    [
+      "Hearts",
+      "has training facilities at",
+      "Oriam"
+    ],
+    [
+      "Hearts",
+      "won two league titles and five major cups during",
+      "Tommy Walker's management"
+    ],
+    [
+      "Hearts",
+      "reached the quarter-finals of the",
+      "1988–89 UEFA Cup"
+    ],
+    [
+      "Hearts",
+      "competes in",
+      "Scottish Premiership"
+    ],
+    [
+      "Hearts",
+      "won against",
+      "Hibernian"
+    ],
+    [
+      "Hearts",
+      "have won the Scottish Cup",
+      "eight times"
+    ],
+    [
+      "Heart of Midlothian Football Club",
+      "is commonly known as",
+      "Hearts"
+    ],
+    [
+      "Hearts",
+      "achieved a League and League Cup double",
+      "the only club outside of the Old Firm"
+    ],
+    [
+      "Hearts",
+      "lost to",
+      "Bayern Munich"
+    ],
+    [
+      "Hearts",
+      "has played home matches at",
+      "Tynecastle Park"
+    ],
+    [
+      "Hearts",
+      "retained the Scottish League Cup in",
+      "1959–60"
+    ],
+    [
+      "Hearts",
+      "finished inside the league's top four positions for",
+      "11 consecutive seasons"
+    ],
+    [
+      "Hearts",
+      "became the only side to finish a season in the Scottish top tier with a goal difference exceeding",
+      "100"
+    ],
+    [
+      "Hearts",
+      "is the oldest football club in",
+      "Edinburgh"
+    ],
+    [
+      "Tynecastle Park",
+      "has a capacity of",
+      "19,852"
+    ],
+    [
+      "Oriam",
+      "is Scotland's national performance centre for sport",
+      ""
+    ],
+    [
+      "Hearts",
+      "most recently won the Scottish Cup in",
+      "2012"
+    ],
+    [
+      "Tommy Walker",
+      "was the manager during Hearts' most successful period",
+      "early 1950s to mid 1960s"
+    ],
+    [
+      "Heart of Midlothian",
+      "became the third Scottish team to compete in",
+      "European competition"
+    ],
+    [
+      "Wardhaugh",
+      "was part of another notable Hearts attacking trinity in",
+      "1957–58"
+    ],
+    [
+      "Hearts",
+      "lost to",
+      "St Mirren"
+    ],
+    [
+      "Hearts",
+      "have been runners up in",
+      "2019, 2020 and 2022"
+    ],
+    [
+      "Hearts",
+      "set the record for the number of goals scored in a Scottish top-flight winning campaign",
+      "132"
+    ],
+    [
+      "Hearts",
+      "most recently won the Scottish league championship in",
+      "1959–60"
+    ]
+  ]
+}

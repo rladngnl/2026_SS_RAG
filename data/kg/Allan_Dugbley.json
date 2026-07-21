@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Allan Dugbley",
+    "Allan Dzhoakimovich Dugblei",
+    "professional football player",
+    "January 4, 1985",
+    "Russian"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Allan Dugbley",
+      "was born on",
+      "January 4, 1985"
+    ],
+    [
+      "Allan Dugbley",
+      "is a",
+      "professional football player"
+    ],
+    [
+      "Allan Dugbley",
+      "is from",
+      "Russian"
+    ],
+    [
+      "Allan Dugbley",
+      "is",
+      "Allan Dzhoakimovich Dugblei"
+    ]
+  ]
+}

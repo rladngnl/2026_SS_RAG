@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Tacuarembó F.C.",
+    "Uruguayan football club",
+    "Tacuarembó",
+    "Tacuarembó Fútbol Club"
+  ],
+  "edges": [
+    "is a",
+    "is also known as",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Tacuarembó F.C.",
+      "is based in",
+      "Tacuarembó"
+    ],
+    [
+      "Tacuarembó F.C.",
+      "is also known as",
+      "Tacuarembó Fútbol Club"
+    ],
+    [
+      "Tacuarembó F.C.",
+      "is a",
+      "Uruguayan football club"
+    ]
+  ]
+}

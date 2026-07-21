@@ -1,0 +1,139 @@
+{
+  "entities": [
+    "Fudbalski klub Jagodina",
+    "2020–21",
+    "Serbian Cup",
+    "Serbian League East",
+    "2014",
+    "Yugoslavia",
+    "2019–20",
+    "2013",
+    "FK Morava",
+    "Đurđevo brdo",
+    "Rubin Kazan",
+    "Serbian First League",
+    "Serbia and Montenegro",
+    "Serbian League",
+    "Jagodina",
+    "Jagodina City Stadium",
+    "World War I",
+    "FK Jagodina",
+    "CFR Cluj",
+    "SuperLiga",
+    "JSK Zora"
+  ],
+  "edges": [
+    "was known as",
+    "played in",
+    "relegated after",
+    "finished at",
+    "plays in",
+    "reached the final of",
+    "played against",
+    "earned promotion to",
+    "was previously known as",
+    "was founded in",
+    "won",
+    "hosts its matches at",
+    "is part of",
+    "earned promotion from",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FK Jagodina",
+      "hosts its matches at",
+      "Jagodina City Stadium"
+    ],
+    [
+      "FK Jagodina",
+      "earned promotion from",
+      "third tier"
+    ],
+    [
+      "FK Jagodina",
+      "relegated after",
+      "one season"
+    ],
+    [
+      "FK Jagodina",
+      "played in",
+      "Serbia and Montenegro"
+    ],
+    [
+      "FK Jagodina",
+      "plays in",
+      "Serbian League East"
+    ],
+    [
+      "FK Jagodina",
+      "won",
+      "Serbian Cup"
+    ],
+    [
+      "FK Jagodina",
+      "played in",
+      "Yugoslavia"
+    ],
+    [
+      "FK Jagodina",
+      "reached the final of",
+      "Serbian Cup"
+    ],
+    [
+      "FK Jagodina",
+      "won",
+      "Serbian League East"
+    ],
+    [
+      "FK Jagodina",
+      "finished at",
+      "third place in the 2014 SuperLiga season"
+    ],
+    [
+      "FK Jagodina",
+      "earned promotion to",
+      "SuperLiga"
+    ],
+    [
+      "FK Jagodina",
+      "was previously known as",
+      "JSK Zora"
+    ],
+    [
+      "FK Jagodina",
+      "is based in",
+      "Jagodina"
+    ],
+    [
+      "FK Jagodina",
+      "played against",
+      "Rubin Kazan"
+    ],
+    [
+      "FK Jagodina",
+      "played in",
+      "Serbian First League"
+    ],
+    [
+      "FK Jagodina",
+      "was founded in",
+      "1919"
+    ],
+    [
+      "FK Jagodina",
+      "played against",
+      "CFR Cluj"
+    ],
+    [
+      "Jagodina City Stadium",
+      "is part of",
+      "Đurđevo brdo"
+    ],
+    [
+      "FK Jagodina",
+      "was known as",
+      "FK Morava"
+    ]
+  ]
+}

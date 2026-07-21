@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "Dijon",
+    "Dijon Football Côte d'Or",
+    "Ligue 1",
+    "2011–12 season",
+    "2022–23 season",
+    "Dijon city",
+    "professional leagues",
+    "Ligue 2",
+    "DFCO",
+    "Dijon FCO",
+    "Olivier Delcourt",
+    "French football club",
+    "Stade Gaston Gérard",
+    "2015–16 season"
+  ],
+  "edges": [
+    "earned promotion back to",
+    "is a",
+    "plays its home matches at",
+    "saw relegations in",
+    "competed in",
+    "is the president of",
+    "remained in",
+    "was founded in",
+    "is located in",
+    "suffered relegation from"
+  ],
+  "relations": [
+    [
+      "Dijon FCO",
+      "plays its home matches at",
+      "Stade Gaston Gérard"
+    ],
+    [
+      "Dijon FCO",
+      "is a",
+      "French football club"
+    ],
+    [
+      "Dijon FCO",
+      "is located in",
+      "Dijon city"
+    ],
+    [
+      "Dijon FCO",
+      "was founded in",
+      "1998"
+    ],
+    [
+      "Dijon FCO",
+      "suffered relegation from",
+      "Ligue 1"
+    ],
+    [
+      "Dijon FCO",
+      "remained in",
+      "Ligue 1"
+    ],
+    [
+      "Dijon FCO",
+      "saw relegations in",
+      "2022–23 season"
+    ],
+    [
+      "Olivier Delcourt",
+      "is the president of",
+      "Dijon FCO"
+    ],
+    [
+      "Dijon FCO",
+      "earned promotion back to",
+      "Ligue 1"
+    ],
+    [
+      "Dijon FCO",
+      "competed in",
+      "Ligue 2"
+    ]
+  ]
+}

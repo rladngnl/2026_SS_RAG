@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "books",
+    "American",
+    "consultant",
+    "Adrian J. Slywotzky",
+    "New York City",
+    "management",
+    "1951",
+    "author",
+    "economic theory",
+    "Ukrainian"
+  ],
+  "edges": [
+    "writes about",
+    "is a",
+    "is of origin",
+    "was born in the year",
+    "is an",
+    "was born in",
+    "is",
+    "has written"
+  ],
+  "relations": [
+    [
+      "Adrian J. Slywotzky",
+      "is a",
+      "consultant"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "is an",
+      "author"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "is of origin",
+      "Ukrainian"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "writes about",
+      "management"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "was born in the year",
+      "1951"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "writes about",
+      "economic theory"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "is",
+      "American"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "was born in",
+      "New York City"
+    ],
+    [
+      "Adrian J. Slywotzky",
+      "has written",
+      "books"
+    ]
+  ]
+}

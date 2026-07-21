@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "UEFA European Under-21 Championship",
+    "Republic of Ireland national under-21 football team",
+    "Football Association of Ireland",
+    "1978",
+    "1988",
+    "national teams",
+    "Irish football players",
+    "Under-21 level"
+  ],
+  "edges": [
+    "played its first match in",
+    "has competed since",
+    "is governed by",
+    "competed in",
+    "is a representative team of",
+    "represents them at"
+  ],
+  "relations": [
+    [
+      "Republic of Ireland national under-21 football team",
+      "is a representative team of",
+      "Irish football players"
+    ],
+    [
+      "Republic of Ireland national under-21 football team",
+      "is governed by",
+      "Football Association of Ireland"
+    ],
+    [
+      "Republic of Ireland national under-21 football team",
+      "played its first match in",
+      "1978"
+    ],
+    [
+      "Republic of Ireland national under-21 football team",
+      "competed in",
+      "UEFA European Under-21 Championship"
+    ],
+    [
+      "Republic of Ireland national under-21 football team",
+      "represents them at",
+      "Under-21 level"
+    ],
+    [
+      "Republic of Ireland national under-21 football team",
+      "has competed since",
+      "1988"
+    ]
+  ]
+}

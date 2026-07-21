@@ -1,0 +1,53 @@
+{
+  "entities": [
+    "Nunavut",
+    "Canada",
+    "Cambridge Bay Airport",
+    "government of Nunavut",
+    "Cambridge Bay",
+    "CYCB",
+    "YCB",
+    "ICAO",
+    "IATA"
+  ],
+  "edges": [
+    "is in",
+    "has IATA code",
+    "is located southwest of",
+    "has ICAO code",
+    "is operated by",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Cambridge Bay Airport",
+      "is located in",
+      "Nunavut"
+    ],
+    [
+      "Cambridge Bay Airport",
+      "has IATA code",
+      "YCB"
+    ],
+    [
+      "Nunavut",
+      "is in",
+      "Canada"
+    ],
+    [
+      "Cambridge Bay Airport",
+      "is operated by",
+      "government of Nunavut"
+    ],
+    [
+      "Cambridge Bay Airport",
+      "has ICAO code",
+      "CYCB"
+    ],
+    [
+      "Cambridge Bay Airport",
+      "is located southwest of",
+      "Cambridge Bay"
+    ]
+  ]
+}

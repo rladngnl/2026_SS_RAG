@@ -1,0 +1,189 @@
+{
+  "entities": [
+    "Ernie Moss",
+    "SMH Group Stadium",
+    "EFL League Two",
+    "Sheffield & District League",
+    "Saltergate",
+    "England",
+    "The Miners Strike Derby",
+    "Midland League",
+    "2013–14 season",
+    "Peterborough United",
+    "League One",
+    "Wembley",
+    "Chesterfield",
+    "2017–18 season",
+    "Chesterfield Football Club",
+    "Anglo-Scottish Cup",
+    "Swindon Town",
+    "Mansfield Town",
+    "Bury",
+    "National League",
+    "Dave Blakey",
+    "FA Cup",
+    "Football League Second Division",
+    "League Trophy",
+    "2023–24 season",
+    "Derbyshire",
+    "Sheffield & Hallamshire Senior Cup"
+  ],
+  "edges": [
+    "is a notable former player of",
+    "won",
+    "competes in",
+    "is located in",
+    "plays home games at",
+    "were relegated out of the English Football League in",
+    "was renamed",
+    "contests rivalries with",
+    "won the Fourth Division in",
+    "is based in",
+    "was established in",
+    "won the Third Division North title in",
+    "returned to League Two after winning the title in",
+    "reached the FA Cup semi-finals in",
+    "won the League Trophy in",
+    "became founder members of",
+    "won the Anglo-Scottish Cup in",
+    "moved from",
+    "won the title in",
+    "was reformed as",
+    "finished as runners-up after losing to",
+    "secured their return to the third tier with a win over",
+    "were crowned champions of League Two in",
+    "recorded their best league finish in"
+  ],
+  "relations": [
+    [
+      "Chesterfield Football Club",
+      "is located in",
+      "Derbyshire"
+    ],
+    [
+      "Chesterfield Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Chesterfield Football Club",
+      "finished as runners-up after losing to",
+      "Peterborough United"
+    ],
+    [
+      "Chesterfield Football Club",
+      "won",
+      "National League"
+    ],
+    [
+      "Chesterfield Football Club",
+      "were relegated out of the English Football League in",
+      "2017–18 season"
+    ],
+    [
+      "Chesterfield Football Club",
+      "won the Third Division North title in",
+      "1935–36"
+    ],
+    [
+      "Ernie Moss",
+      "is a notable former player of",
+      "Chesterfield Football Club"
+    ],
+    [
+      "Chesterfield Football Club",
+      "secured their return to the third tier with a win over",
+      "Bury"
+    ],
+    [
+      "Chesterfield Football Club",
+      "was established in",
+      "1867"
+    ],
+    [
+      "Chesterfield Football Club",
+      "competes in",
+      "EFL League Two"
+    ],
+    [
+      "Chesterfield Football Club",
+      "is based in",
+      "Chesterfield"
+    ],
+    [
+      "Chesterfield Football Club",
+      "won the title in",
+      "1930–31"
+    ],
+    [
+      "Chesterfield Football Club",
+      "returned to League Two after winning the title in",
+      "2023–24 season"
+    ],
+    [
+      "Chesterfield Football Club",
+      "won the League Trophy in",
+      "2012"
+    ],
+    [
+      "Chesterfield Football Club",
+      "won the Fourth Division in",
+      "1969–70"
+    ],
+    [
+      "Chesterfield Football Club",
+      "were crowned champions of League Two in",
+      "2013–14 season"
+    ],
+    [
+      "Chesterfield Football Club",
+      "was renamed",
+      "Chesterfield FC"
+    ],
+    [
+      "Chesterfield Football Club",
+      "recorded their best league finish in",
+      "1946–47"
+    ],
+    [
+      "Chesterfield Football Club",
+      "won the Anglo-Scottish Cup in",
+      "1980"
+    ],
+    [
+      "Chesterfield Football Club",
+      "moved from",
+      "Saltergate"
+    ],
+    [
+      "Chesterfield Football Club",
+      "became founder members of",
+      "Third Division North"
+    ],
+    [
+      "Chesterfield Football Club",
+      "reached the FA Cup semi-finals in",
+      "1997"
+    ],
+    [
+      "Chesterfield Football Club",
+      "was reformed as",
+      "Chesterfield Municipal"
+    ],
+    [
+      "Dave Blakey",
+      "is a notable former player of",
+      "Chesterfield Football Club"
+    ],
+    [
+      "Chesterfield Football Club",
+      "contests rivalries with",
+      "Mansfield Town"
+    ],
+    [
+      "Chesterfield Football Club",
+      "plays home games at",
+      "SMH Group Stadium"
+    ]
+  ]
+}

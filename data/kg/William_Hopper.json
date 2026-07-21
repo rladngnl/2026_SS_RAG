@@ -1,0 +1,106 @@
+{
+  "entities": [
+    "American",
+    "Hedda Hopper",
+    "March 6, 1970",
+    "William Wellman",
+    "CBS",
+    "Paul Drake",
+    "January 26, 1915",
+    "William Hopper",
+    "stage actor",
+    "television actor",
+    "film actor",
+    "World War II",
+    "DeWolf Hopper",
+    "Perry Mason",
+    "United States Navy",
+    "1950s",
+    "William DeWolf Hopper Jr."
+  ],
+  "edges": [
+    "served in",
+    "resumed career in",
+    "served during",
+    "died on",
+    "is best known for portrayal of",
+    "is in series",
+    "is in network",
+    "is actor",
+    "was born on",
+    "was persuaded by",
+    "is child of"
+  ],
+  "relations": [
+    [
+      "William DeWolf Hopper Jr.",
+      "is best known for portrayal of",
+      "Paul Drake"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "is child of",
+      "Hedda Hopper"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "is actor",
+      "television actor"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "is actor",
+      "film actor"
+    ],
+    [
+      "Paul Drake",
+      "is in network",
+      "CBS"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "is actor",
+      "stage actor"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "is child of",
+      "DeWolf Hopper"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "was born on",
+      "January 26, 1915"
+    ],
+    [
+      "Paul Drake",
+      "is in series",
+      "Perry Mason"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "was persuaded by",
+      "William Wellman"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "resumed career in",
+      "1950s"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "served during",
+      "World War II"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "served in",
+      "United States Navy"
+    ],
+    [
+      "William DeWolf Hopper Jr.",
+      "died on",
+      "March 6, 1970"
+    ]
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "1976",
+    "UEFA European Under-21 Championship",
+    "France national under-21 football team",
+    "Switzerland",
+    "Eric Cantona",
+    "Stade Auguste-Delaune II",
+    "Laurent Blanc",
+    "Jocelyn Angloma",
+    "Stade Reims",
+    "Ligue 2",
+    "Les Espoirs",
+    "Czech Republic",
+    "French Football Federation",
+    "Franck Sauzée",
+    "Equipe de France Espoirs"
+  ],
+  "edges": [
+    "is known as",
+    "is home of",
+    "was a notable player on",
+    "has won",
+    "is controlled by",
+    "plays in",
+    "was won in",
+    "finished in",
+    "was formed after",
+    "has played numerous matches at",
+    "competes in",
+    "finished runners-up to",
+    "has established"
+  ],
+  "relations": [
+    [
+      "France national under-21 football team",
+      "has won",
+      "Under-21 Championship"
+    ],
+    [
+      "France national under-21 football team",
+      "is known as",
+      "Les Espoirs"
+    ],
+    [
+      "Franck Sauzée",
+      "was a notable player on",
+      "France national under-21 football team"
+    ],
+    [
+      "France national under-21 football team",
+      "finished in",
+      "Switzerland"
+    ],
+    [
+      "France national under-21 football team",
+      "finished runners-up to",
+      "Czech Republic"
+    ],
+    [
+      "France national under-21 football team",
+      "has played numerous matches at",
+      "Stade Auguste-Delaune II"
+    ],
+    [
+      "France national under-21 football team",
+      "competes in",
+      "UEFA European Under-21 Championship"
+    ],
+    [
+      "Laurent Blanc",
+      "was a notable player on",
+      "France national under-21 football team"
+    ],
+    [
+      "Stade Auguste-Delaune II",
+      "is home of",
+      "Stade Reims"
+    ],
+    [
+      "France national under-21 football team",
+      "has established",
+      "Stade Auguste-Delaune II"
+    ],
+    [
+      "France national under-21 football team",
+      "was formed after",
+      "1976"
+    ],
+    [
+      "Eric Cantona",
+      "was a notable player on",
+      "France national under-21 football team"
+    ],
+    [
+      "France national under-21 football team",
+      "plays in",
+      "stadiums located all around France"
+    ],
+    [
+      "Jocelyn Angloma",
+      "was a notable player on",
+      "France national under-21 football team"
+    ],
+    [
+      "France national under-21 football team",
+      "is controlled by",
+      "French Football Federation"
+    ],
+    [
+      "Under-21 Championship",
+      "was won in",
+      "1988"
+    ]
+  ]
+}

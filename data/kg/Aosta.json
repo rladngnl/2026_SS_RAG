@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "Alps",
+    "Little St Bernard Pass",
+    "Great St Bernard Pass",
+    "Aosta Valley",
+    "Great St Bernard Tunnel",
+    "Dora Baltea",
+    "Buthier",
+    "Turin",
+    "Aoste",
+    "Aosta",
+    "Italy",
+    "Mont Blanc Tunnel",
+    "Valdôtain",
+    "33,127 inhabitants"
+  ],
+  "edges": [
+    "is at the junction of",
+    "is the capital of",
+    "is situated near",
+    "has",
+    "is the largest city of",
+    "is located in",
+    "is at the confluence of"
+  ],
+  "relations": [
+    [
+      "Aosta",
+      "is the capital of",
+      "Aosta Valley"
+    ],
+    [
+      "Aosta",
+      "is situated near",
+      "Mont Blanc Tunnel"
+    ],
+    [
+      "Aosta",
+      "is at the junction of",
+      "Great St Bernard Pass"
+    ],
+    [
+      "Aosta",
+      "is at the junction of",
+      "Little St Bernard Pass"
+    ],
+    [
+      "Aosta",
+      "is at the confluence of",
+      "Dora Baltea"
+    ],
+    [
+      "Aosta",
+      "is at the confluence of",
+      "Buthier"
+    ],
+    [
+      "Aosta",
+      "is the largest city of",
+      "Aosta Valley"
+    ],
+    [
+      "Aosta",
+      "is located in",
+      "Italy"
+    ],
+    [
+      "Aosta",
+      "is situated near",
+      "Great St Bernard Tunnel"
+    ],
+    [
+      "Aosta",
+      "has",
+      "33,127 inhabitants"
+    ]
+  ]
+}

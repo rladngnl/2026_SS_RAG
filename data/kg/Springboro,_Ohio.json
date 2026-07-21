@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "Greater Cincinnati",
+    "population",
+    "Metro Dayton",
+    "Warren County",
+    "Springboro",
+    "Springboro Community City School District",
+    "United States",
+    "Dayton",
+    "Miami Valley",
+    "Ohio",
+    "2020 census",
+    "Cincinnati",
+    "Montgomery County",
+    "Springboro High School"
+  ],
+  "edges": [
+    "is in",
+    "is a suburb located between",
+    "had a population according to",
+    "oversees",
+    "is served by",
+    "has a population of",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Springboro",
+      "is part of",
+      "Metro Dayton"
+    ],
+    [
+      "Springboro",
+      "is in",
+      "Montgomery County"
+    ],
+    [
+      "Springboro",
+      "is a suburb located between",
+      "Cincinnati and Dayton"
+    ],
+    [
+      "Springboro",
+      "is located in",
+      "Ohio"
+    ],
+    [
+      "Springboro Community City School District",
+      "oversees",
+      "Springboro High School"
+    ],
+    [
+      "Springboro",
+      "is in",
+      "Warren County"
+    ],
+    [
+      "Springboro",
+      "is part of",
+      "Greater Cincinnati"
+    ],
+    [
+      "Springboro",
+      "has a population of",
+      "19,062"
+    ],
+    [
+      "Springboro",
+      "is part of",
+      "Miami Valley"
+    ],
+    [
+      "Springboro",
+      "is served by",
+      "Springboro Community City School District"
+    ],
+    [
+      "Springboro",
+      "is in",
+      "United States"
+    ],
+    [
+      "Springboro",
+      "had a population according to",
+      "2020 census"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "1 January 1990",
+    "Fatih",
+    "Serkan Kurtuluş",
+    "football player",
+    "Turkish"
+  ],
+  "edges": [
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Serkan Kurtuluş",
+      "was born on",
+      "1 January 1990"
+    ],
+    [
+      "Serkan Kurtuluş",
+      "is",
+      "football player"
+    ],
+    [
+      "Serkan Kurtuluş",
+      "is",
+      "Turkish"
+    ],
+    [
+      "Serkan Kurtuluş",
+      "is",
+      "Fatih"
+    ]
+  ]
+}

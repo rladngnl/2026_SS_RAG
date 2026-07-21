@@ -1,0 +1,210 @@
+{
+  "entities": [
+    "Cold War",
+    "Declaration of Independence",
+    "House of Representatives",
+    "USA",
+    "Allies",
+    "Lee Resolution",
+    "British",
+    "legislative",
+    "innovation",
+    "Oceania",
+    "China",
+    "executive",
+    "American Revolution",
+    "July 2, 1776",
+    "judicial",
+    "military spending",
+    "nuclear weapons",
+    "constitution",
+    "North America",
+    "Canada",
+    "higher education",
+    "Great Britain",
+    "North Asia",
+    "OECD",
+    "global GDP",
+    "global economic affairs",
+    "Washington, D.C.",
+    "representative democracy",
+    "Alaska",
+    "U.S.",
+    "global cultural affairs",
+    "Thirteen Colonies",
+    "Mexico",
+    "Hawaii",
+    "1775–1783 Revolutionary War",
+    "Virginia",
+    "United States",
+    "Paleo-Indians",
+    "American Enlightenment",
+    "Congress",
+    "federalism",
+    "president",
+    "global military affairs",
+    "United Nations Security Council",
+    "1492",
+    "18th century",
+    "Fourth of July",
+    "1991",
+    "1941",
+    "federal government",
+    "Senate",
+    "Caribbean",
+    "World War I",
+    "global political affairs",
+    "British Crown",
+    "World War II",
+    "economic competitiveness",
+    "wealth inequality",
+    "Pearl Harbor",
+    "Soviet Union",
+    "armed forces",
+    "America"
+  ],
+  "edges": [
+    "is also known as",
+    "colonized",
+    "migrated from",
+    "won",
+    "consists of",
+    "is a member of",
+    "is located in",
+    "competed with",
+    "collapsed in",
+    "led to",
+    "spread throughout",
+    "borders",
+    "established itself as",
+    "is a megadiverse country",
+    "was the first of",
+    "entered",
+    "was involved in",
+    "plays a major role in",
+    "has a federal capital district",
+    "asserts sovereignty over"
+  ],
+  "relations": [
+    [
+      "Virginia",
+      "was the first of",
+      "the Thirteen Colonies"
+    ],
+    [
+      "Paleo-Indians",
+      "migrated from",
+      "North Asia"
+    ],
+    [
+      "U.S.",
+      "is a member of",
+      "the United Nations Security Council"
+    ],
+    [
+      "United States",
+      "asserts sovereignty over",
+      "five major island territories"
+    ],
+    [
+      "U.S.",
+      "entered",
+      "World War II"
+    ],
+    [
+      "United States",
+      "borders",
+      "Mexico"
+    ],
+    [
+      "American Revolution",
+      "led to",
+      "the Declaration of Independence"
+    ],
+    [
+      "United States",
+      "is a megadiverse country",
+      ""
+    ],
+    [
+      "U.S.",
+      "competed with",
+      "the Soviet Union"
+    ],
+    [
+      "United States",
+      "borders",
+      "Canada"
+    ],
+    [
+      "British",
+      "colonized",
+      "Virginia"
+    ],
+    [
+      "United States",
+      "is also known as",
+      "USA"
+    ],
+    [
+      "U.S.",
+      "plays a major role in",
+      "global cultural affairs"
+    ],
+    [
+      "U.S.",
+      "plays a major role in",
+      "global military affairs"
+    ],
+    [
+      "United States",
+      "has a federal capital district",
+      "Washington, D.C."
+    ],
+    [
+      "United States",
+      "established itself as",
+      "a great power"
+    ],
+    [
+      "United States",
+      "consists of",
+      "50 states"
+    ],
+    [
+      "Soviet Union",
+      "collapsed in",
+      "1991"
+    ],
+    [
+      "U.S.",
+      "was involved in",
+      "World War I"
+    ],
+    [
+      "American Enlightenment",
+      "spread throughout",
+      "the colonies"
+    ],
+    [
+      "U.S.",
+      "plays a major role in",
+      "global political affairs"
+    ],
+    [
+      "U.S.",
+      "plays a major role in",
+      "global economic affairs"
+    ],
+    [
+      "United States",
+      "is located in",
+      "North America"
+    ],
+    [
+      "United States",
+      "won",
+      "the 1775–1783 Revolutionary War"
+    ]
+  ]
+}

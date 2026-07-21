@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "Italian",
+    "manager",
+    "former player",
+    "Serie C",
+    "Emanuele Pesoli",
+    "Viterbese",
+    "August 31, 1980",
+    "football coach"
+  ],
+  "edges": [
+    "is born on",
+    "is in charge as",
+    "is a",
+    "manages",
+    "is a club in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Emanuele Pesoli",
+      "is born on",
+      "August 31, 1980"
+    ],
+    [
+      "Emanuele Pesoli",
+      "is a",
+      "football coach"
+    ],
+    [
+      "Emanuele Pesoli",
+      "is a",
+      "former player"
+    ],
+    [
+      "Viterbese",
+      "is a club in",
+      "Serie C"
+    ],
+    [
+      "Emanuele Pesoli",
+      "manages",
+      "Viterbese"
+    ],
+    [
+      "Emanuele Pesoli",
+      "is",
+      "Italian"
+    ],
+    [
+      "Emanuele Pesoli",
+      "is in charge as",
+      "manager"
+    ]
+  ]
+}

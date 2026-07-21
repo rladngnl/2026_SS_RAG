@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "1959",
+    "The Three Stooges",
+    "Larry Fine",
+    "Shemp Howard",
+    "190 shorts",
+    "1934",
+    "1949",
+    "Moe Howard",
+    "Columbia Pictures",
+    "Edward Bernds",
+    "Fuelin'_Around"
+  ],
+  "edges": [
+    "released",
+    "were active between",
+    "stars",
+    "is directed by",
+    "is released by",
+    "includes",
+    "were active until"
+  ],
+  "relations": [
+    [
+      "The Three Stooges",
+      "includes",
+      "Shemp Howard"
+    ],
+    [
+      "The Three Stooges",
+      "were active between",
+      "1934"
+    ],
+    [
+      "The Three Stooges",
+      "were active until",
+      "1959"
+    ],
+    [
+      "Fuelin'_Around",
+      "is directed by",
+      "Edward Bernds"
+    ],
+    [
+      "The Three Stooges",
+      "includes",
+      "Larry Fine"
+    ],
+    [
+      "Fuelin'_Around",
+      "is released by",
+      "Columbia Pictures"
+    ],
+    [
+      "The Three Stooges",
+      "includes",
+      "Moe Howard"
+    ],
+    [
+      "Fuelin'_Around",
+      "stars",
+      "The Three Stooges"
+    ],
+    [
+      "The Three Stooges",
+      "released",
+      "190 shorts"
+    ]
+  ]
+}

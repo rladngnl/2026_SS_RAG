@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "blue and white striped shirt",
+    "7 June 1922",
+    "blue shorts",
+    "Sociedad Deportiva Ponferradina",
+    "Primera Federación - Group 1",
+    "Estadio El Toralín",
+    "Castile and León",
+    "Ponferrada",
+    "SD_Ponferradina",
+    "8,400 spectators",
+    "El Bierzo"
+  ],
+  "edges": [
+    "has a seating capacity of",
+    "is part of the autonomous community of",
+    "is a football team based in",
+    "has a kit consisting of",
+    "plays in",
+    "was founded on",
+    "holds home matches at",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "SD_Ponferradina",
+      "holds home matches at",
+      "Estadio El Toralín"
+    ],
+    [
+      "SD_Ponferradina",
+      "has a kit consisting of",
+      "blue shorts"
+    ],
+    [
+      "Estadio El Toralín",
+      "has a seating capacity of",
+      "8,400 spectators"
+    ],
+    [
+      "SD_Ponferradina",
+      "was founded on",
+      "7 June 1922"
+    ],
+    [
+      "SD_Ponferradina",
+      "plays in",
+      "Primera Federación - Group 1"
+    ],
+    [
+      "SD_Ponferradina",
+      "is located in",
+      "El Bierzo"
+    ],
+    [
+      "SD_Ponferradina",
+      "is a football team based in",
+      "Ponferrada"
+    ],
+    [
+      "SD_Ponferradina",
+      "has a kit consisting of",
+      "blue and white striped shirt"
+    ],
+    [
+      "SD_Ponferradina",
+      "is part of the autonomous community of",
+      "Castile and León"
+    ]
+  ]
+}

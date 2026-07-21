@@ -1,0 +1,216 @@
+{
+  "entities": [
+    "University of London",
+    "hormones",
+    "Institute of Ophthalmology",
+    "vacuum tube",
+    "modern statistics",
+    "League of European Research Universities",
+    "Eastman Dental Institute",
+    "East London",
+    "England",
+    "School of Pharmacy",
+    "University College London",
+    "School of Slavonic and East European Studies",
+    "Russell Group",
+    "Fields Medal",
+    "Stratford",
+    "University College, Bristol",
+    "Royal Free Hospital Medical School",
+    "UK economy",
+    "Orwell Prize",
+    "Institute of Neurology",
+    "UCL Partners",
+    "DNA",
+    "Institute of Education",
+    "UCL",
+    "noble gases",
+    "Bloomsbury",
+    "Christopher Nolan",
+    "Queen Elizabeth Olympic Park",
+    "Jeremy Bentham",
+    "Ricky Gervais",
+    "Coldplay",
+    "London",
+    "Nobel Prize"
+  ],
+  "edges": [
+    "has made advances in",
+    "has affiliated Fields Medal recipients",
+    "is one of the founding colleges of",
+    "admitted women alongside men in",
+    "is also known as",
+    "administers the annual",
+    "achieved formal university status in",
+    "is part of",
+    "is a member of",
+    "is located in",
+    "generates around",
+    "is the first university in England to be entirely secular",
+    "has a second campus at",
+    "was founded by",
+    "was established in",
+    "is in",
+    "had a total income of",
+    "has notable alumni including",
+    "has contributed to the discovery of",
+    "operates several museums including",
+    "has affiliated Nobel Prize laureates",
+    "is organised into",
+    "has invented",
+    "has its main campus in",
+    "received a royal charter in"
+  ],
+  "relations": [
+    [
+      "University College London",
+      "has invented",
+      "vacuum tube"
+    ],
+    [
+      "University College London",
+      "is part of",
+      "UCL Partners"
+    ],
+    [
+      "University College London",
+      "is part of",
+      "Russell Group"
+    ],
+    [
+      "University College London",
+      "was founded by",
+      "Jeremy Bentham"
+    ],
+    [
+      "University College London",
+      "is located in",
+      "London"
+    ],
+    [
+      "University College London",
+      "operates several museums including",
+      "Petrie Museum of Egyptian Archaeology"
+    ],
+    [
+      "University College London",
+      "has contributed to the discovery of",
+      "hormones"
+    ],
+    [
+      "University College London",
+      "was established in",
+      "1826"
+    ],
+    [
+      "University College London",
+      "has affiliated Nobel Prize laureates",
+      "33"
+    ],
+    [
+      "University College London",
+      "is also known as",
+      "UCL"
+    ],
+    [
+      "University College London",
+      "generates around",
+      "£10 billion annually for the UK economy"
+    ],
+    [
+      "University College London",
+      "is part of",
+      "League of European Research Universities"
+    ],
+    [
+      "University College London",
+      "has notable alumni including",
+      "Christopher Nolan"
+    ],
+    [
+      "University College London",
+      "is a member of",
+      "University of London"
+    ],
+    [
+      "University College London",
+      "has contributed to the discovery of",
+      "noble gases"
+    ],
+    [
+      "University College London",
+      "received a royal charter in",
+      "1836"
+    ],
+    [
+      "University College London",
+      "admitted women alongside men in",
+      "1878"
+    ],
+    [
+      "University College London",
+      "has made advances in",
+      "modern statistics"
+    ],
+    [
+      "University College London",
+      "has its main campus in",
+      "Bloomsbury"
+    ],
+    [
+      "University College London",
+      "has a second campus at",
+      "Queen Elizabeth Olympic Park"
+    ],
+    [
+      "University College London",
+      "is organised into",
+      "11 constituent faculties"
+    ],
+    [
+      "University College London",
+      "has notable alumni including",
+      "Ricky Gervais"
+    ],
+    [
+      "University College London",
+      "administers the annual",
+      "Orwell Prize"
+    ],
+    [
+      "University College London",
+      "achieved formal university status in",
+      "2023"
+    ],
+    [
+      "University College London",
+      "is one of the founding colleges of",
+      "University of London"
+    ],
+    [
+      "University College London",
+      "has notable alumni including",
+      "Coldplay"
+    ],
+    [
+      "University College London",
+      "has affiliated Fields Medal recipients",
+      "3"
+    ],
+    [
+      "University College London",
+      "is the first university in England to be entirely secular",
+      "true"
+    ],
+    [
+      "University College London",
+      "is in",
+      "England"
+    ],
+    [
+      "University College London",
+      "had a total income of",
+      "£2.16 billion"
+    ]
+  ]
+}

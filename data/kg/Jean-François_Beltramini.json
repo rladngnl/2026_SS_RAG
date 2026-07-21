@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "professional footballer",
+    "striker",
+    "5 February 1948",
+    "Jean-François Beltramini",
+    "27 August 2014",
+    "French"
+  ],
+  "edges": [
+    "played as",
+    "born on",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Jean-François Beltramini",
+      "died on",
+      "27 August 2014"
+    ],
+    [
+      "Jean-François Beltramini",
+      "born on",
+      "5 February 1948"
+    ],
+    [
+      "Jean-François Beltramini",
+      "was",
+      "French"
+    ],
+    [
+      "Jean-François Beltramini",
+      "was",
+      "professional footballer"
+    ],
+    [
+      "Jean-François Beltramini",
+      "played as",
+      "striker"
+    ]
+  ]
+}

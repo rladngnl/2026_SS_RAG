@@ -1,0 +1,48 @@
+{
+  "entities": [
+    "Francis Caracciolo",
+    "Clerics Regular Minor",
+    "Francesco Caracciolo (naval officer)",
+    "Francesco Caracciolo (theologian)",
+    "Francesco Caracciolo-class battleship",
+    "Neapolitan admiral",
+    "Francesco Caracciolo"
+  ],
+  "edges": [
+    "co-founder of",
+    "may refer to",
+    "is"
+  ],
+  "relations": [
+    [
+      "Francesco Caracciolo",
+      "may refer to",
+      "Francesco Caracciolo (theologian)"
+    ],
+    [
+      "Francesco Caracciolo",
+      "may refer to",
+      "Francis Caracciolo"
+    ],
+    [
+      "Francesco Caracciolo (naval officer)",
+      "is",
+      "Neapolitan admiral"
+    ],
+    [
+      "Francesco Caracciolo",
+      "may refer to",
+      "Francesco Caracciolo (naval officer)"
+    ],
+    [
+      "Francis Caracciolo",
+      "co-founder of",
+      "Clerics Regular Minor"
+    ],
+    [
+      "Francesco Caracciolo",
+      "may refer to",
+      "Francesco Caracciolo-class battleship"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "entities": [
+    "Priboy",
+    "Neftyanik",
+    "SDYSOR-Sibnefteprovod",
+    "Fakel",
+    "FC Tyumen",
+    "Dinamo-Gazovik",
+    "Stroitel",
+    "Geolog",
+    "Tyumen",
+    "Russian Premier League",
+    "Russian Second League Division A"
+  ],
+  "edges": [
+    "was a member of",
+    "is based in",
+    "will play in",
+    "was previously known as"
+  ],
+  "relations": [
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "Neftyanik"
+    ],
+    [
+      "FC Tyumen",
+      "is based in",
+      "Tyumen"
+    ],
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "Geolog"
+    ],
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "Fakel"
+    ],
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "SDYSOR-Sibnefteprovod"
+    ],
+    [
+      "FC Tyumen",
+      "was a member of",
+      "Russian Premier League"
+    ],
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "Dinamo-Gazovik"
+    ],
+    [
+      "FC Tyumen",
+      "will play in",
+      "Russian Second League Division A"
+    ],
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "Stroitel"
+    ],
+    [
+      "FC Tyumen",
+      "was previously known as",
+      "Priboy"
+    ]
+  ]
+}

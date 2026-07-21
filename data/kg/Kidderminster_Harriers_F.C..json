@@ -1,0 +1,160 @@
+{
+  "entities": [
+    "Kidderminster",
+    "England",
+    "Third Division",
+    "Kidderminster F.C.",
+    "Midland League",
+    "Alliance Premier League",
+    "Kidderminster Olympic",
+    "play-off final",
+    "Southern League",
+    "Football League",
+    "Graham Allner",
+    "National League North",
+    "Conference",
+    "Birmingham & District League",
+    "Jan Mølby",
+    "Worcestershire",
+    "Worcestershire Senior Cup",
+    "Aggborough Stadium",
+    "National League",
+    "play-offs",
+    "Kidderminster Harriers F.C.",
+    "FA Trophy",
+    "League Two"
+  ],
+  "edges": [
+    "won the",
+    "has spent their entire history at",
+    "qualified for",
+    "won",
+    "finished as high as",
+    "was relegated out of",
+    "merged with",
+    "competes in",
+    "is located in",
+    "finished second in",
+    "was the manager of",
+    "is based in",
+    "was relegated from",
+    "was admitted to",
+    "were crowned",
+    "is a founder member of",
+    "joined",
+    "has won",
+    "was formerly known as"
+  ],
+  "relations": [
+    [
+      "Kidderminster Harriers F.C.",
+      "is located in",
+      "Worcestershire"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "joined",
+      "Southern League"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "finished as high as",
+      "tenth in the Third Division"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "won",
+      "FA Trophy"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "finished second in",
+      "Conference"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "has spent their entire history at",
+      "Aggborough Stadium"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "is located in",
+      "England"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "is based in",
+      "Kidderminster"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "competes in",
+      "National League"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "is a founder member of",
+      "Birmingham & District League"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "has won",
+      "Worcestershire Senior Cup"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "was relegated out of",
+      "League Two"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "was admitted to",
+      "Football League"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "won the",
+      "play-off final"
+    ],
+    [
+      "Graham Allner",
+      "was the manager of",
+      "Kidderminster Harriers F.C."
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "were crowned",
+      "Conference champions"
+    ],
+    [
+      "Jan Mølby",
+      "was the manager of",
+      "Kidderminster Harriers F.C."
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "was relegated from",
+      "National League"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "qualified for",
+      "National League North play-offs"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "won the",
+      "National League North play-offs"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "merged with",
+      "Kidderminster Olympic"
+    ],
+    [
+      "Kidderminster Harriers F.C.",
+      "was formerly known as",
+      "Kidderminster F.C."
+    ]
+  ]
+}

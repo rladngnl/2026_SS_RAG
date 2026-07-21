@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "corporate hospitality department",
+    "striker",
+    "Scottish",
+    "Liverpool",
+    "Glasgow",
+    "central defender",
+    "Scotland",
+    "Player of the Year awards",
+    "7 goals",
+    "Hall of Fame",
+    "29 caps",
+    "Escape to Victory",
+    "Ipswich Town",
+    "Wark On",
+    "international football",
+    "Middlesbrough",
+    "footballer",
+    "1982 FIFA World Cup",
+    "1996",
+    "John Wark",
+    "2009",
+    "midfielder"
+  ],
+  "edges": [
+    "spent most of his playing time with",
+    "is a",
+    "has been in the",
+    "published his autobiography",
+    "is one of the",
+    "represented",
+    "scored",
+    "had long spells at",
+    "appeared in the film",
+    "won a record four",
+    "has worked for",
+    "won",
+    "was selected for",
+    "was published in",
+    "retired as a professional player in"
+  ],
+  "relations": [
+    [
+      "John Wark",
+      "scored",
+      "7 goals"
+    ],
+    [
+      "John Wark",
+      "appeared in the film",
+      "Escape to Victory"
+    ],
+    [
+      "John Wark",
+      "retired as a professional player in",
+      "1996"
+    ],
+    [
+      "John Wark",
+      "published his autobiography",
+      "Wark On"
+    ],
+    [
+      "John Wark",
+      "is a",
+      "Scottish footballer"
+    ],
+    [
+      "John Wark",
+      "has worked for",
+      "Ipswich Town"
+    ],
+    [
+      "John Wark",
+      "represented",
+      "Scotland in international football"
+    ],
+    [
+      "Wark On",
+      "was published in",
+      "2009"
+    ],
+    [
+      "John Wark",
+      "was selected for",
+      "1982 FIFA World Cup"
+    ],
+    [
+      "John Wark",
+      "won",
+      "29 caps"
+    ],
+    [
+      "John Wark",
+      "is one of the",
+      "four inaugural members of the Hall of Fame"
+    ],
+    [
+      "John Wark",
+      "has been in the",
+      "corporate hospitality department since September 2008"
+    ],
+    [
+      "John Wark",
+      "had long spells at",
+      "Ipswich Town"
+    ],
+    [
+      "John Wark",
+      "spent most of his playing time with",
+      "Ipswich Town"
+    ],
+    [
+      "John Wark",
+      "won a record four",
+      "Player of the Year awards"
+    ]
+  ]
+}

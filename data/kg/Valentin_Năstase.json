@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "Vasile Valentin Năstase",
+    "professional footballer",
+    "assistant coach",
+    "Liga III",
+    "defender",
+    "SCM Râmnicu Vâlcea",
+    "Romanian"
+  ],
+  "edges": [
+    "is a",
+    "is currently",
+    "is at",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Vasile Valentin Năstase",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Vasile Valentin Năstase",
+      "is currently",
+      "assistant coach"
+    ],
+    [
+      "Vasile Valentin Năstase",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Vasile Valentin Năstase",
+      "is at",
+      "SCM Râmnicu Vâlcea"
+    ],
+    [
+      "Vasile Valentin Năstase",
+      "is a",
+      "Romanian"
+    ],
+    [
+      "Vasile Valentin Năstase",
+      "is at",
+      "Liga III"
+    ]
+  ]
+}

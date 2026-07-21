@@ -1,0 +1,66 @@
+{
+  "entities": [
+    "2024–25 season",
+    "Veneto",
+    "Stadio Pier Cesare Tombolato",
+    "Serie C Group A",
+    "7,623 seats",
+    "Italy",
+    "Associazione Sportiva Cittadella",
+    "A.S. Cittadella",
+    "Cittadella",
+    "1973"
+  ],
+  "edges": [
+    "is currently playing in",
+    "has a capacity of",
+    "following relegation in",
+    "is an Italian professional football club based in",
+    "plays its home games at",
+    "was founded in",
+    "is commonly referred to as",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "A.S. Cittadella",
+      "plays its home games at",
+      "Stadio Pier Cesare Tombolato"
+    ],
+    [
+      "A.S. Cittadella",
+      "following relegation in",
+      "2024–25 season"
+    ],
+    [
+      "A.S. Cittadella",
+      "is located in",
+      "Veneto"
+    ],
+    [
+      "A.S. Cittadella",
+      "was founded in",
+      "1973"
+    ],
+    [
+      "A.S. Cittadella",
+      "is commonly referred to as",
+      "Cittadella"
+    ],
+    [
+      "Stadio Pier Cesare Tombolato",
+      "has a capacity of",
+      "7,623 seats"
+    ],
+    [
+      "A.S. Cittadella",
+      "is currently playing in",
+      "Serie C Group A"
+    ],
+    [
+      "A.S. Cittadella",
+      "is an Italian professional football club based in",
+      "Cittadella"
+    ]
+  ]
+}

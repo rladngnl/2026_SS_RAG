@@ -1,0 +1,298 @@
+{
+  "entities": [
+    "Vellore Institute of Technology",
+    "Vijayanagara Empire",
+    "tanneries",
+    "24th best city in India",
+    "British",
+    "educational infrastructure",
+    "Member of Parliament",
+    "16th century CE",
+    "Indian state of Madras",
+    "mayor",
+    "agriculture",
+    "Global Cities Index",
+    "Vellore Mutiny",
+    "India",
+    "Eastern Ghats",
+    "Vellore",
+    "Javadi Hills",
+    "2024",
+    "2011 census",
+    "British rule",
+    "1947",
+    "early 2010s",
+    "councilors",
+    "Chola period",
+    "healthcare",
+    "GDP",
+    "Anglo-Mysore Wars",
+    "1806",
+    "Christian Medical College & Hospital",
+    "Vellore state assembly constituency",
+    "Madras Presidency",
+    "Oxford Economics",
+    "Palar River",
+    "Vellore Fort",
+    "Jalakandeswarar Temple",
+    "Mysore Kingdom",
+    "leather exports",
+    "leather",
+    "Carnatic Wars",
+    "tobacco",
+    "Vellore Municipal Corporation",
+    "Lok Sabha",
+    "leather hub of India",
+    "Vellore district",
+    "Government of India",
+    "Tamil Nadu Legislative Assembly",
+    "19th century",
+    "Smart Cities Mission",
+    "Tamil Nadu",
+    "leather-related products",
+    "Vellore Lok Sabha constituency",
+    "manufacturing industries",
+    "urban renewal programme",
+    "French",
+    "British Raj",
+    "9th century CE"
+  ],
+  "edges": [
+    "elects its member to",
+    "is a city in",
+    "were between",
+    "is located on the banks of",
+    "accounted for more than",
+    "is elected by",
+    "is chosen as a part of",
+    "has a robust",
+    "was ranked in",
+    "elects its",
+    "was ranked as",
+    "took place in",
+    "is surrounded by",
+    "is part of",
+    "was under",
+    "is the administrative headquarters of",
+    "is headed by",
+    "was part of",
+    "had a GDP of",
+    "was built during the reign of",
+    "dates back to",
+    "is known as",
+    "is administered by",
+    "had a population according to",
+    "has hundreds of",
+    "is an extension of",
+    "was published by",
+    "was renamed as",
+    "is in the",
+    "is home to",
+    "is an urban renewal programme by",
+    "was involved in",
+    "came under",
+    "became part of"
+  ],
+  "relations": [
+    [
+      "Carnatic Wars",
+      "were between",
+      "British and French"
+    ],
+    [
+      "Vellore",
+      "is part of",
+      "Vellore Lok Sabha constituency"
+    ],
+    [
+      "Anglo-Mysore Wars",
+      "were between",
+      "British and Mysore Kingdom"
+    ],
+    [
+      "Vellore",
+      "is known as",
+      "leather hub of India"
+    ],
+    [
+      "Vellore",
+      "is chosen as a part of",
+      "Smart Cities Mission"
+    ],
+    [
+      "Vellore Mutiny",
+      "took place in",
+      "1806"
+    ],
+    [
+      "Vellore",
+      "is home to",
+      "Vellore Institute of Technology"
+    ],
+    [
+      "Vellore",
+      "is surrounded by",
+      "Javadi Hills"
+    ],
+    [
+      "Vellore",
+      "is administered by",
+      "Vellore Municipal Corporation"
+    ],
+    [
+      "Vellore",
+      "was ranked as",
+      "24th best city in India"
+    ],
+    [
+      "Vellore",
+      "had a population according to",
+      "2011 census"
+    ],
+    [
+      "Vellore",
+      "had a GDP of",
+      "$4 billion"
+    ],
+    [
+      "Vellore",
+      "has a robust",
+      "healthcare and educational infrastructure"
+    ],
+    [
+      "Vellore",
+      "is home to",
+      "Christian Medical College & Hospital"
+    ],
+    [
+      "Vellore",
+      "is part of",
+      "Vellore state assembly constituency"
+    ],
+    [
+      "Smart Cities Mission",
+      "is an urban renewal programme by",
+      "Government of India"
+    ],
+    [
+      "Vellore",
+      "was involved in",
+      "Anglo-Mysore Wars"
+    ],
+    [
+      "Vellore Lok Sabha constituency",
+      "elects its",
+      "Member of Parliament"
+    ],
+    [
+      "mayor",
+      "is elected by",
+      "councilors"
+    ],
+    [
+      "Vellore",
+      "was involved in",
+      "Carnatic Wars"
+    ],
+    [
+      "Vellore",
+      "is the administrative headquarters of",
+      "Vellore district"
+    ],
+    [
+      "Vellore",
+      "has hundreds of",
+      "tanneries"
+    ],
+    [
+      "Madras Presidency",
+      "was under",
+      "British Raj"
+    ],
+    [
+      "Leather exports from the region",
+      "accounted for more than",
+      "37% of India's leather exports"
+    ],
+    [
+      "Vellore",
+      "is located on the banks of",
+      "Palar River"
+    ],
+    [
+      "Jalakandeswarar Temple",
+      "was built during the reign of",
+      "Vijayanagara Empire"
+    ],
+    [
+      "Chola period",
+      "is in the",
+      "9th century CE"
+    ],
+    [
+      "Vellore",
+      "dates back to",
+      "Chola period"
+    ],
+    [
+      "Vellore",
+      "was ranked in",
+      "Global Cities Index"
+    ],
+    [
+      "Vellore Municipal Corporation",
+      "is headed by",
+      "mayor"
+    ],
+    [
+      "Vellore",
+      "was ranked in",
+      "2024"
+    ],
+    [
+      "Vellore",
+      "is a city in",
+      "Tamil Nadu"
+    ],
+    [
+      "Indian state of Madras",
+      "was renamed as",
+      "Tamil Nadu"
+    ],
+    [
+      "Global Cities Index",
+      "was published by",
+      "Oxford Economics"
+    ],
+    [
+      "Vellore",
+      "became part of",
+      "Indian state of Madras"
+    ],
+    [
+      "Vellore",
+      "came under",
+      "British rule"
+    ],
+    [
+      "Vellore Fort",
+      "was built during the reign of",
+      "Vijayanagara Empire"
+    ],
+    [
+      "Vellore",
+      "was part of",
+      "Madras Presidency"
+    ],
+    [
+      "Javadi Hills",
+      "is an extension of",
+      "Eastern Ghats"
+    ],
+    [
+      "Vellore state assembly constituency",
+      "elects its member to",
+      "Tamil Nadu Legislative Assembly"
+    ]
+  ]
+}

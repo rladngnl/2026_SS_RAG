@@ -1,0 +1,155 @@
+{
+  "entities": [
+    "African empowerment",
+    "Italy",
+    "first president of Senegal",
+    "authoritarian one-party state",
+    "Mamadou Dia",
+    "coup",
+    "opposition parties",
+    "International Nonino Prize",
+    "African socialist",
+    "cultural theorist",
+    "20th century",
+    "civil and political rights",
+    "African culture",
+    "Senegal",
+    "politician",
+    "African intellectuals",
+    "French-African ties",
+    "Académie française",
+    "France",
+    "Senegalese Democratic Bloc",
+    "prime minister of Senegal",
+    "Léopold Sédar Senghor",
+    "poet",
+    "black identity",
+    "Abdou Diouf",
+    "Négritude"
+  ],
+  "edges": [
+    "arrested",
+    "was ideologically",
+    "was the founder of",
+    "was the first African elected as a member of",
+    "fell out with",
+    "was a proponent of",
+    "was one of the major theoreticians of",
+    "advocated for",
+    "served as",
+    "permitted",
+    "handed power to",
+    "was awarded in",
+    "won",
+    "is regarded by many as",
+    "established",
+    "was"
+  ],
+  "relations": [
+    [
+      "Léopold Sédar Senghor",
+      "permitted",
+      "opposition parties"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was a proponent of",
+      "black identity"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "handed power to",
+      "Abdou Diouf"
+    ],
+    [
+      "Mamadou Dia",
+      "was",
+      "prime minister of Senegal"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was one of the major theoreticians of",
+      "Négritude"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "advocated for",
+      "civil and political rights"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was ideologically",
+      "African socialist"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was a proponent of",
+      "African empowerment"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was the first African elected as a member of",
+      "Académie française"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "is regarded by many as",
+      "one of the most important African intellectuals of the 20th century"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "fell out with",
+      "Mamadou Dia"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "established",
+      "authoritarian one-party state"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was a proponent of",
+      "African culture"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was the founder of",
+      "Senegalese Democratic Bloc"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "arrested",
+      "Mamadou Dia"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was",
+      "poet"
+    ],
+    [
+      "International Nonino Prize",
+      "was awarded in",
+      "Italy"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was",
+      "Senegalese politician"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "served as",
+      "first president of Senegal"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "won",
+      "International Nonino Prize"
+    ],
+    [
+      "Léopold Sédar Senghor",
+      "was",
+      "cultural theorist"
+    ]
+  ]
+}

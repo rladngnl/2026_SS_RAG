@@ -1,0 +1,96 @@
+{
+  "entities": [
+    "2021–22 season",
+    "Jena",
+    "Carl Zeiss",
+    "German reunification",
+    "Thuringia",
+    "DDR-Oberliga",
+    "FDGB-Pokal",
+    "1981 European Cup Winners' Cup Final",
+    "FC Carl Zeiss Jena",
+    "Germany",
+    "Fußballclub Carl Zeiss Jena e. V.",
+    "Regionalliga Nordost"
+  ],
+  "edges": [
+    "was initially associated with",
+    "has been since",
+    "reached",
+    "is located in",
+    "has competed no higher than",
+    "won",
+    "was one of the top-ranked clubs in",
+    "is playing in",
+    "occurred in",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FC Carl Zeiss Jena",
+      "is located in",
+      "Germany"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "was one of the top-ranked clubs in",
+      "East Germany"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "is located in",
+      "Thuringia"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "is based in",
+      "Jena"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "is playing in",
+      "Regionalliga Nordost"
+    ],
+    [
+      "German reunification",
+      "occurred in",
+      "1990"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "was initially associated with",
+      "Carl Zeiss"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "reached",
+      "1981 European Cup Winners' Cup Final"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "has competed no higher than",
+      "the second tier"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "has been since",
+      "2021–22 season"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "won",
+      "FDGB-Pokal"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "won",
+      "DDR-Oberliga"
+    ],
+    [
+      "FC Carl Zeiss Jena",
+      "was founded in",
+      "1903"
+    ]
+  ]
+}

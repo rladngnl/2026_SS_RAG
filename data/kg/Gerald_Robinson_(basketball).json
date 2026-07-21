@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Gerald Robinson (basketball, born 1989)",
+    "Gerald Robinson (born 1938)",
+    "Margaret Ann Pahl",
+    "Gerald Robinson (basketball, born 1984)",
+    "Gerald Robinson (American football)"
+  ],
+  "edges": [
+    "played college basketball at",
+    "was convicted of the murder of"
+  ],
+  "relations": [
+    [
+      "Gerald Robinson (born 1938)",
+      "was convicted of the murder of",
+      "Margaret Ann Pahl"
+    ],
+    [
+      "Gerald Robinson (basketball, born 1984)",
+      "played college basketball at",
+      "Tennessee–Aiken"
+    ],
+    [
+      "Gerald Robinson (basketball, born 1989)",
+      "played college basketball at",
+      "Georgia"
+    ]
+  ]
+}

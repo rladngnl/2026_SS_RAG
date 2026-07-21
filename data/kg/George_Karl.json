@@ -1,0 +1,121 @@
+{
+  "entities": [
+    "2022",
+    "Seattle SuperSonics",
+    "professional basketball coach",
+    "San Antonio Spurs",
+    "1996 NBA Finals",
+    "player",
+    "American",
+    "May 12, 1951",
+    "George Karl",
+    "Cleveland Cavaliers",
+    "Naismith Memorial Basketball Hall of Fame",
+    "George Matthew Karl",
+    "National Basketball Association",
+    "Coach of the Year",
+    "CBA",
+    "Montana Golden Nuggets",
+    "FIBA Saporta Cup",
+    "Continental Basketball Association",
+    "NBA"
+  ],
+  "edges": [
+    "was inducted in",
+    "is a",
+    "coached",
+    "was head coach of",
+    "made the postseason",
+    "was born on",
+    "is one of the youngest",
+    "was inducted into",
+    "is a former",
+    "is",
+    "won",
+    "played for",
+    "went to",
+    "was named"
+  ],
+  "relations": [
+    [
+      "George Karl",
+      "is",
+      "American"
+    ],
+    [
+      "George Karl",
+      "was born on",
+      "May 12, 1951"
+    ],
+    [
+      "George Karl",
+      "is one of the youngest",
+      "NBA head coaches in history"
+    ],
+    [
+      "George Karl",
+      "was named",
+      "Coach of the Year"
+    ],
+    [
+      "George Karl",
+      "won",
+      "1,000 NBA games"
+    ],
+    [
+      "George Karl",
+      "was inducted into",
+      "Naismith Memorial Basketball Hall of Fame"
+    ],
+    [
+      "George Karl",
+      "went to",
+      "1996 NBA Finals"
+    ],
+    [
+      "George Karl",
+      "played for",
+      "San Antonio Spurs"
+    ],
+    [
+      "George Karl",
+      "was inducted in",
+      "2022"
+    ],
+    [
+      "George Karl",
+      "is a",
+      "professional basketball coach"
+    ],
+    [
+      "George Karl",
+      "coached",
+      "Cleveland Cavaliers"
+    ],
+    [
+      "George Karl",
+      "is a former",
+      "player"
+    ],
+    [
+      "George Karl",
+      "was head coach of",
+      "Montana Golden Nuggets"
+    ],
+    [
+      "George Karl",
+      "coached",
+      "Seattle SuperSonics"
+    ],
+    [
+      "George Karl",
+      "made the postseason",
+      "22 times"
+    ],
+    [
+      "George Karl",
+      "coached",
+      "nine different teams"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "Slovakia national team",
+    "Poprad",
+    "Riga 2000",
+    "ice-hockey coach",
+    "Július Šupler",
+    "Slovak",
+    "HC Dukla Trenčín",
+    "27 October 1950",
+    "Czechoslovakia"
+  ],
+  "edges": [
+    "is a",
+    "was the first coach of",
+    "has been coach of",
+    "was born in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Július Šupler",
+      "was born in",
+      "Poprad"
+    ],
+    [
+      "Július Šupler",
+      "is a",
+      "Slovak ice-hockey coach"
+    ],
+    [
+      "Július Šupler",
+      "was the first coach of",
+      "Slovakia national team"
+    ],
+    [
+      "Július Šupler",
+      "has been coach of",
+      "Riga 2000"
+    ],
+    [
+      "Július Šupler",
+      "has been coach of",
+      "HC Dukla Trenčín"
+    ],
+    [
+      "Július Šupler",
+      "was born on",
+      "27 October 1950"
+    ]
+  ]
+}

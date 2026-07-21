@@ -1,0 +1,165 @@
+{
+  "entities": [
+    "2014–15",
+    "Huntley & Palmers",
+    "Reading",
+    "EFL League One",
+    "Madejski Stadium",
+    "The Royals",
+    "Reading Football Club",
+    "Championship",
+    "2005–06 Football League Championship",
+    "England",
+    "Berkshire",
+    "2011–12 season",
+    "The Biscuitmen",
+    "Luton Town",
+    "The Football League",
+    "1920",
+    "2006–07 season",
+    "Wembley",
+    "Sir John Madejski",
+    "1985–86 Third Division",
+    "1871",
+    "eighth",
+    "top flight club",
+    "2012–13 Premier League season",
+    "1987–88 Full Members' Cup",
+    "1926–27",
+    "Elm Park",
+    "FA Cup",
+    "106",
+    "2021",
+    "Select Car Leasing Stadium",
+    "1998"
+  ],
+  "edges": [
+    "is nicknamed",
+    "won",
+    "set a new record for",
+    "competes in",
+    "is located in",
+    "announced that the ground would be known as",
+    "holds the record for",
+    "played at",
+    "was previously known as",
+    "is based in",
+    "was established in",
+    "was named after",
+    "achieved their highest finish of",
+    "beat",
+    "moved to",
+    "gained promotion at the end of",
+    "plays home matches at",
+    "joined",
+    "competed in",
+    "first played in"
+  ],
+  "relations": [
+    [
+      "Reading Football Club",
+      "played at",
+      "Elm Park"
+    ],
+    [
+      "Reading Football Club",
+      "plays home matches at",
+      "Select Car Leasing Stadium"
+    ],
+    [
+      "Reading Football Club",
+      "holds the record for",
+      "the number of successive league wins at the start of a season"
+    ],
+    [
+      "Reading Football Club",
+      "set a new record for",
+      "the highest number of points gained in a professional league season"
+    ],
+    [
+      "Reading Football Club",
+      "was established in",
+      "1871"
+    ],
+    [
+      "Reading Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Reading Football Club",
+      "is nicknamed",
+      "The Royals"
+    ],
+    [
+      "Reading Football Club",
+      "competed in",
+      "2012–13 Premier League season"
+    ],
+    [
+      "Reading Football Club",
+      "joined",
+      "The Football League"
+    ],
+    [
+      "Reading Football Club",
+      "announced that the ground would be known as",
+      "Select Car Leasing Stadium"
+    ],
+    [
+      "Reading Football Club",
+      "gained promotion at the end of",
+      "2011–12 season"
+    ],
+    [
+      "Reading Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Reading Football Club",
+      "is located in",
+      "Berkshire"
+    ],
+    [
+      "Reading Football Club",
+      "achieved their highest finish of",
+      "eighth"
+    ],
+    [
+      "Reading Football Club",
+      "beat",
+      "Luton Town"
+    ],
+    [
+      "Reading Football Club",
+      "moved to",
+      "Madejski Stadium"
+    ],
+    [
+      "Reading Football Club",
+      "won",
+      "1987–88 Full Members' Cup"
+    ],
+    [
+      "Reading Football Club",
+      "first played in",
+      "2006–07 season"
+    ],
+    [
+      "Reading Football Club",
+      "is based in",
+      "Reading"
+    ],
+    [
+      "Reading Football Club",
+      "was previously known as",
+      "The Biscuitmen"
+    ],
+    [
+      "Madejski Stadium",
+      "was named after",
+      "Sir John Madejski"
+    ]
+  ]
+}

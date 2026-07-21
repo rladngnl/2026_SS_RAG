@@ -1,0 +1,165 @@
+{
+  "entities": [
+    "2000",
+    "BBC Radio 5 Live",
+    "Hull City",
+    "7 March 1973",
+    "four FA Cup",
+    "former professional footballer",
+    "Ray_Parlour",
+    "fans' favourite",
+    "English",
+    "2007",
+    "England",
+    "commitment",
+    "high work rate",
+    "1992",
+    "32 goals",
+    "Raymond Parlour",
+    "1994 UEFA Cup Winners' Cup",
+    "Wembley",
+    "radio",
+    "sports radio pundit",
+    "unsung hero",
+    "television",
+    "Arsenal",
+    "1999",
+    "Paul Day",
+    "The Romford Pelé",
+    "466 games",
+    "Talksport",
+    "Middlesbrough",
+    "FA Cup fixtures",
+    "2012",
+    "three Premier League titles",
+    "midfielder"
+  ],
+  "edges": [
+    "played in",
+    "was nicknamed",
+    "has",
+    "scored",
+    "became",
+    "is",
+    "totalled",
+    "came out of retirement to play for",
+    "won",
+    "played for",
+    "has been praised as",
+    "has been described as",
+    "was",
+    "was coined by"
+  ],
+  "relations": [
+    [
+      "Raymond Parlour",
+      "has been praised as",
+      "fans' favourite"
+    ],
+    [
+      "Raymond Parlour",
+      "won",
+      "1994 UEFA Cup Winners' Cup"
+    ],
+    [
+      "Raymond Parlour",
+      "is",
+      "sports radio pundit"
+    ],
+    [
+      "Raymond Parlour",
+      "has been described as",
+      "unsung hero"
+    ],
+    [
+      "Raymond Parlour",
+      "played in",
+      "FA Cup fixtures"
+    ],
+    [
+      "The Romford Pelé",
+      "was coined by",
+      "Paul Day"
+    ],
+    [
+      "Raymond Parlour",
+      "scored",
+      "32 goals"
+    ],
+    [
+      "Raymond Parlour",
+      "became",
+      "pundit on television"
+    ],
+    [
+      "Raymond Parlour",
+      "has",
+      "high work rate"
+    ],
+    [
+      "Raymond Parlour",
+      "played for",
+      "Middlesbrough"
+    ],
+    [
+      "Raymond Parlour",
+      "became",
+      "pundit on radio"
+    ],
+    [
+      "Raymond Parlour",
+      "played for",
+      "England"
+    ],
+    [
+      "Raymond Parlour",
+      "played for",
+      "Arsenal"
+    ],
+    [
+      "Raymond Parlour",
+      "played for",
+      "Hull City"
+    ],
+    [
+      "Raymond Parlour",
+      "has",
+      "commitment"
+    ],
+    [
+      "Raymond Parlour",
+      "was nicknamed",
+      "The Romford Pelé"
+    ],
+    [
+      "Raymond Parlour",
+      "won",
+      "four FA Cup"
+    ],
+    [
+      "Raymond Parlour",
+      "totalled",
+      "466 games"
+    ],
+    [
+      "Raymond Parlour",
+      "came out of retirement to play for",
+      "Wembley"
+    ],
+    [
+      "Raymond Parlour",
+      "won",
+      "three Premier League titles"
+    ],
+    [
+      "Raymond Parlour",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Raymond Parlour",
+      "was",
+      "midfielder"
+    ]
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "entities": [
+    "UEFA Conference League",
+    "League Cups",
+    "First Division championship",
+    "Tottenham Hotspur",
+    "FA Community Shields",
+    "1971",
+    "UEFA Cup Winners' Cups",
+    "2019",
+    "UEFA Super Cups",
+    "England",
+    "Stamford Bridge",
+    "Full Members' Cups",
+    "Premier League",
+    "Chelsea Football Club",
+    "West London",
+    "Leeds United",
+    "2013",
+    "UEFA Champions Leagues",
+    "Arsenal",
+    "2025",
+    "Fulham",
+    "UEFA Europa Leagues",
+    "FIFA Club World Cups",
+    "2004–05 season",
+    "2012",
+    "FA Cups",
+    "2021",
+    "1998"
+  ],
+  "edges": [
+    "repeated the feat in",
+    "is in",
+    "won their first Premier League title in",
+    "won the UEFA Conference League in",
+    "shares rivalries with",
+    "competes in",
+    "won the Cup Winners' Cup in",
+    "has won",
+    "is located in",
+    "won their first European trophy in",
+    "became the first club to win all four main UEFA competitions in",
+    "won the UEFA Europa League in",
+    "won their first UEFA Champions League title in",
+    "won the FIFA Club World Cup in",
+    "won their first major domestic trophy in",
+    "was founded in",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Super Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Chelsea Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "FIFA Club World Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "plays at",
+      "Stamford Bridge"
+    ],
+    [
+      "Chelsea Football Club",
+      "shares rivalries with",
+      "Leeds United"
+    ],
+    [
+      "Chelsea Football Club",
+      "was founded in",
+      "1905"
+    ],
+    [
+      "Chelsea Football Club",
+      "is located in",
+      "West London"
+    ],
+    [
+      "Chelsea Football Club",
+      "won their first Premier League title in",
+      "2004–05 season"
+    ],
+    [
+      "Chelsea Football Club",
+      "won the UEFA Conference League in",
+      "2025"
+    ],
+    [
+      "Chelsea Football Club",
+      "won their first European trophy in",
+      "1971"
+    ],
+    [
+      "Chelsea Football Club",
+      "won the FIFA Club World Cup in",
+      "2021"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "League Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "won the UEFA Europa League in",
+      "2019"
+    ],
+    [
+      "Chelsea Football Club",
+      "shares rivalries with",
+      "Arsenal"
+    ],
+    [
+      "Chelsea Football Club",
+      "is based in",
+      "Fulham"
+    ],
+    [
+      "Chelsea Football Club",
+      "won the Cup Winners' Cup in",
+      "1998"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "FA Community Shields"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Conference League"
+    ],
+    [
+      "Chelsea Football Club",
+      "won their first major domestic trophy in",
+      "1955"
+    ],
+    [
+      "Chelsea Football Club",
+      "repeated the feat in",
+      "2021"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Champions Leagues"
+    ],
+    [
+      "Chelsea Football Club",
+      "won the UEFA Europa League in",
+      "2013"
+    ],
+    [
+      "Chelsea Football Club",
+      "became the first club to win all four main UEFA competitions in",
+      "2025"
+    ],
+    [
+      "Chelsea Football Club",
+      "won the FIFA Club World Cup in",
+      "2025"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Europa Leagues"
+    ],
+    [
+      "Chelsea Football Club",
+      "shares rivalries with",
+      "Tottenham Hotspur"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "FA Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Cup Winners' Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "won their first UEFA Champions League title in",
+      "2012"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "Full Members' Cups"
+    ]
+  ]
+}

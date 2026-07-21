@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "New York Arrows",
+    "indoor soccer team",
+    "four championships",
+    "first dynasty",
+    "1978",
+    "MISL",
+    "Major Indoor Soccer League",
+    "1984"
+  ],
+  "edges": [
+    "played from",
+    "played in",
+    "were the",
+    "is also known as",
+    "is an",
+    "played until",
+    "won"
+  ],
+  "relations": [
+    [
+      "New York Arrows",
+      "played in",
+      "Major Indoor Soccer League"
+    ],
+    [
+      "Major Indoor Soccer League",
+      "is also known as",
+      "MISL"
+    ],
+    [
+      "New York Arrows",
+      "played from",
+      "1978"
+    ],
+    [
+      "New York Arrows",
+      "won",
+      "four championships"
+    ],
+    [
+      "New York Arrows",
+      "played until",
+      "1984"
+    ],
+    [
+      "New York Arrows",
+      "were the",
+      "first dynasty"
+    ],
+    [
+      "New York Arrows",
+      "is an",
+      "indoor soccer team"
+    ]
+  ]
+}

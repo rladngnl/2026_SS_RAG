@@ -1,0 +1,73 @@
+{
+  "entities": [
+    "Championnat National 1",
+    "AS Beauvais Oise",
+    "1945",
+    "city of Beauvais",
+    "football club",
+    "merger",
+    "AS Beauvais",
+    "Beauvais",
+    "Association Sportive Beauvais Oise",
+    "Stade Pierre Brisson",
+    "ASBO",
+    "fourth level of French football"
+  ],
+  "edges": [
+    "is a",
+    "was formed as a result of",
+    "is the",
+    "is located within the",
+    "plays its home matches at",
+    "currently play in",
+    "is commonly referred to as",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "Championnat National 1",
+      "is the",
+      "fourth level of French football"
+    ],
+    [
+      "Stade Pierre Brisson",
+      "is located within the",
+      "city of Beauvais"
+    ],
+    [
+      "AS Beauvais Oise",
+      "is commonly referred to as",
+      "ASBO"
+    ],
+    [
+      "AS Beauvais Oise",
+      "was formed as a result of",
+      "merger"
+    ],
+    [
+      "AS Beauvais Oise",
+      "currently play in",
+      "Championnat National 1"
+    ],
+    [
+      "AS Beauvais Oise",
+      "plays its home matches at",
+      "Stade Pierre Brisson"
+    ],
+    [
+      "AS Beauvais Oise",
+      "is a",
+      "football club"
+    ],
+    [
+      "AS Beauvais Oise",
+      "is commonly referred to as",
+      "AS Beauvais"
+    ],
+    [
+      "AS Beauvais Oise",
+      "was formed in",
+      "1945"
+    ]
+  ]
+}

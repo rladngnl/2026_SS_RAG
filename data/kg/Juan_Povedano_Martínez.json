@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "Madrid",
+    "Juan Povedano Martínez",
+    "Spain"
+  ],
+  "edges": [
+    "is a",
+    "was born in",
+    "is from",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Juan Povedano Martínez",
+      "was born in",
+      "Madrid"
+    ],
+    [
+      "Juan Povedano Martínez",
+      "played as a",
+      "central defender"
+    ],
+    [
+      "Juan Povedano Martínez",
+      "is from",
+      "Spain"
+    ],
+    [
+      "Juan Povedano Martínez",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

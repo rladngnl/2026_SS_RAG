@@ -1,0 +1,31 @@
+{
+  "entities": [
+    "1976",
+    "age limit",
+    "Danish Football Association",
+    "23 years",
+    "Denmark national under-21 football team"
+  ],
+  "edges": [
+    "has played since",
+    "is controlled by",
+    "was"
+  ],
+  "relations": [
+    [
+      "Denmark national under-21 football team",
+      "has played since",
+      "1976"
+    ],
+    [
+      "Denmark national under-21 football team",
+      "is controlled by",
+      "Danish Football Association"
+    ],
+    [
+      "age limit",
+      "was",
+      "23 years"
+    ]
+  ]
+}

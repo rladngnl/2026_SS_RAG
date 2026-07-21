@@ -1,0 +1,125 @@
+{
+  "entities": [
+    "Hebron",
+    "Kentucky",
+    "Boone County",
+    "National Plan of Integrated Airport Systems",
+    "ABX Air",
+    "North America",
+    "2023–2027",
+    "Kalitta Air",
+    "Atlas Air",
+    "5th busiest airport",
+    "cargo traffic",
+    "DHL Aviation",
+    "Covington",
+    "Cincinnati/Northern Kentucky International Airport",
+    "KCVG",
+    "United States",
+    "12th largest airport",
+    "Federal Aviation Administration",
+    "Amazon Air",
+    "Europe",
+    "CVG"
+  ],
+  "edges": [
+    "is the primary commercial airport for",
+    "is derived from",
+    "is the 5th busiest airport in the United States by",
+    "is included in",
+    "is located in",
+    "is the 12th largest airport in the world",
+    "is near",
+    "is the fastest-growing cargo airport in",
+    "is a cargo global hub for",
+    "offers nonstop passenger service to",
+    "is categorized as"
+  ],
+  "relations": [
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is a cargo global hub for",
+      "Kalitta Air"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is located in",
+      "United States"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is the fastest-growing cargo airport in",
+      "North America"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is near",
+      "Hebron"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is categorized as",
+      "medium-hub primary commercial service facility"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is a cargo global hub for",
+      "Atlas Air"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is the primary commercial airport for",
+      "Cincinnati"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is derived from",
+      "Covington"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is located in",
+      "Kentucky"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is a cargo global hub for",
+      "ABX Air"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is the 5th busiest airport in the United States by",
+      "cargo traffic"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is the 12th largest airport in the world",
+      "cargo traffic"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is a cargo global hub for",
+      "Amazon Air"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is a cargo global hub for",
+      "DHL Aviation"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is located in",
+      "Boone County"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "offers nonstop passenger service to",
+      "over 50 destinations in North America and Europe"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "is included in",
+      "Federal Aviation Administration"
+    ]
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "entities": [
+    "Cabezón",
+    "FIFA World Cup",
+    "DR Congo",
+    "football manager",
+    "Copa del Rey",
+    "Georgia",
+    "Argentina",
+    "Ferro Carril Oeste",
+    "defender",
+    "Parma",
+    "La Liga",
+    "UEFA Champions League",
+    "Africa Cup of Nations",
+    "Inter Milan",
+    "Egypt",
+    "Mallorca",
+    "Racing Santander",
+    "Betis",
+    "Héctor Cúper",
+    "former player",
+    "Peruvian club Universitario",
+    "Valencia",
+    "Uzbekistan",
+    "Serie A",
+    "UEFA Cup Winners' Cup"
+  ],
+  "edges": [
+    "was a",
+    "managed",
+    "took",
+    "is current manager of",
+    "coached national teams of",
+    "is",
+    "played for",
+    "reached the final of"
+  ],
+  "relations": [
+    [
+      "Héctor Cúper",
+      "managed",
+      "Parma"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Mallorca"
+    ],
+    [
+      "Héctor Cúper",
+      "is",
+      "former player"
+    ],
+    [
+      "Héctor Cúper",
+      "is",
+      "football manager"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Betis"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Inter Milan"
+    ],
+    [
+      "Héctor Cúper",
+      "is current manager of",
+      "Peruvian club Universitario"
+    ],
+    [
+      "Héctor Cúper",
+      "reached the final of",
+      "Copa del Rey"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Racing Santander"
+    ],
+    [
+      "Héctor Cúper",
+      "coached national teams of",
+      "Uzbekistan"
+    ],
+    [
+      "Héctor Cúper",
+      "took",
+      "Egypt to the Africa Cup of Nations final"
+    ],
+    [
+      "Héctor Cúper",
+      "took",
+      "Egypt to the FIFA World Cup"
+    ],
+    [
+      "Héctor Cúper",
+      "coached national teams of",
+      "Egypt"
+    ],
+    [
+      "Héctor Cúper",
+      "coached national teams of",
+      "Georgia"
+    ],
+    [
+      "Héctor Cúper",
+      "reached the final of",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "Héctor Cúper",
+      "coached national teams of",
+      "DR Congo"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Valencia"
+    ],
+    [
+      "Héctor Cúper",
+      "played for",
+      "Ferro Carril Oeste"
+    ],
+    [
+      "Héctor Cúper",
+      "was a",
+      "defender"
+    ],
+    [
+      "Héctor Cúper",
+      "reached the final of",
+      "UEFA Champions League"
+    ]
+  ]
+}

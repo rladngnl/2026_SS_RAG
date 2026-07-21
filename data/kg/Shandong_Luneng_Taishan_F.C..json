@@ -1,0 +1,154 @@
+{
+  "entities": [
+    "1999 league season",
+    "Shandong",
+    "$126 million",
+    "2015",
+    "2008 league title",
+    "Weibo",
+    "Beijing Guoan",
+    "2021 league title",
+    "2 December 1993",
+    "Jinan Olympic Sports Center Stadium",
+    "Chinese Super League",
+    "Mount Tai",
+    "Forbes",
+    "2010 league title",
+    "Jinan",
+    "Shandong Electric Power Group Corporation",
+    "$24 million",
+    "2006 league title",
+    "Shandong Provincial team",
+    "State Grid Corporation of China",
+    "10 April 1956",
+    "Shandong Taishan Football Club",
+    "Guangzhou Evergrande",
+    "Lixia District",
+    "5th most valuable football team in China"
+  ],
+  "edges": [
+    "has majority shareholder",
+    "won league titles in",
+    "is the year when",
+    "has an estimated revenue of",
+    "was one of the clubs with at least 5 million followers on",
+    "competes in",
+    "is ranked as",
+    "is located within",
+    "plays its home matches at",
+    "was founded on",
+    "has a team value of",
+    "won its first league title in",
+    "derives its name from",
+    "is part of",
+    "was established on",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Shandong Taishan Football Club",
+      "is ranked as",
+      "5th most valuable football team in China"
+    ],
+    [
+      "Shandong Provincial team",
+      "was founded on",
+      "10 April 1956"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "plays its home matches at",
+      "Jinan Olympic Sports Center Stadium"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "won league titles in",
+      "2006 league title"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "has a team value of",
+      "$126 million"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "is based in",
+      "Jinan"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "was established on",
+      "2 December 1993"
+    ],
+    [
+      "Shandong Electric Power Group Corporation",
+      "is part of",
+      "State Grid Corporation of China"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "won league titles in",
+      "2008 league title"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "won league titles in",
+      "2021 league title"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "has an estimated revenue of",
+      "$24 million"
+    ],
+    [
+      "2015",
+      "is the year when",
+      "Shandong Taishan Football Club"
+    ],
+    [
+      "Jinan Olympic Sports Center Stadium",
+      "is located within",
+      "Lixia District"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "derives its name from",
+      "Mount Tai"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "won its first league title in",
+      "1999 league season"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "competes in",
+      "Chinese Super League"
+    ],
+    [
+      "Guangzhou Evergrande",
+      "was one of the clubs with at least 5 million followers on",
+      "Weibo"
+    ],
+    [
+      "Beijing Guoan",
+      "was one of the clubs with at least 5 million followers on",
+      "Weibo"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "has majority shareholder",
+      "Shandong Electric Power Group Corporation"
+    ],
+    [
+      "Shandong Taishan Football Club",
+      "won league titles in",
+      "2010 league title"
+    ],
+    [
+      "Shandong Luneng Taishan",
+      "was one of the clubs with at least 5 million followers on",
+      "Weibo"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "footballer",
+    "1994",
+    "striker",
+    "Roman Kosecki",
+    "Polish",
+    "Polish Footballer of the Year"
+  ],
+  "edges": [
+    "played as",
+    "was voted",
+    "is",
+    "is the year when"
+  ],
+  "relations": [
+    [
+      "Roman Kosecki",
+      "was voted",
+      "Polish Footballer of the Year"
+    ],
+    [
+      "Roman Kosecki",
+      "is",
+      "Polish footballer"
+    ],
+    [
+      "1994",
+      "is the year when",
+      "Roman Kosecki was voted Polish Footballer of the Year"
+    ],
+    [
+      "Roman Kosecki",
+      "played as",
+      "striker"
+    ]
+  ]
+}

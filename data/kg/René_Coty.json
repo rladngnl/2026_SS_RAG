@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "1954",
+    "Fourth French Republic",
+    "1959",
+    "Gustave Jules René Coty",
+    "President of France",
+    "René Coty",
+    "22 November 1962",
+    "20 March 1882"
+  ],
+  "edges": [
+    "was president of",
+    "was",
+    "served from",
+    "died on",
+    "was born on",
+    "served until"
+  ],
+  "relations": [
+    [
+      "Gustave Jules René Coty",
+      "was born on",
+      "20 March 1882"
+    ],
+    [
+      "Gustave Jules René Coty",
+      "served until",
+      "1959"
+    ],
+    [
+      "Gustave Jules René Coty",
+      "served from",
+      "1954"
+    ],
+    [
+      "Gustave Jules René Coty",
+      "was president of",
+      "Fourth French Republic"
+    ],
+    [
+      "Gustave Jules René Coty",
+      "was",
+      "President of France"
+    ],
+    [
+      "Gustave Jules René Coty",
+      "died on",
+      "22 November 1962"
+    ]
+  ]
+}

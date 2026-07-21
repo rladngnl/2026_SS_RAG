@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "former striker",
+    "Aarón Padilla (footballer, born 1942)",
+    "art director",
+    "Aarón Padilla (footballer, born 1977)",
+    "Aaron Padilla (artist)",
+    "Mexican football forward",
+    "American artist",
+    "son of footballer born 1942",
+    "Mexican football manager"
+  ],
+  "edges": [
+    "is son of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Aarón Padilla (footballer, born 1977)",
+      "is",
+      "former striker"
+    ],
+    [
+      "Aarón Padilla (footballer, born 1942)",
+      "is",
+      "Mexican football forward"
+    ],
+    [
+      "Aarón Padilla (footballer, born 1977)",
+      "is son of",
+      "Aarón Padilla (footballer, born 1942)"
+    ],
+    [
+      "Aaron Padilla (artist)",
+      "is",
+      "American artist"
+    ],
+    [
+      "Aaron Padilla (artist)",
+      "is",
+      "art director"
+    ],
+    [
+      "Aarón Padilla (footballer, born 1977)",
+      "is",
+      "Mexican football manager"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Algeria",
+    "Hocine Metref",
+    "defender",
+    "1 January 1984",
+    "midfielder",
+    "football player"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "plays as a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Hocine Metref",
+      "plays as a",
+      "defender"
+    ],
+    [
+      "Hocine Metref",
+      "plays as a",
+      "midfielder"
+    ],
+    [
+      "Hocine Metref",
+      "was born on",
+      "1 January 1984"
+    ],
+    [
+      "Hocine Metref",
+      "is a",
+      "football player"
+    ],
+    [
+      "Hocine Metref",
+      "is from",
+      "Algeria"
+    ]
+  ]
+}

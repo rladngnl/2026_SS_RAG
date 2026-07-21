@@ -1,0 +1,185 @@
+{
+  "entities": [
+    "Holy Roman Empire",
+    "Lunéville",
+    "Habsburgs",
+    "Austrian Empire",
+    "Napoleon I",
+    "Napoleonic Wars",
+    "Battle of Campo Tenese",
+    "Duc d'Enghien",
+    "Sweden",
+    "Confederation of the Rhine",
+    "Sicily",
+    "Royal Navy",
+    "United Kingdom",
+    "Alexander I of Russia",
+    "Battle of Austerlitz",
+    "Naples",
+    "Spain",
+    "Francis II",
+    "Campo Formio",
+    "Russian Empire",
+    "Ulm Campaign",
+    "Emperor of Austria",
+    "War of the Fourth Coalition",
+    "Grande Armée",
+    "War of the Third Coalition",
+    "Prussia",
+    "Battle of Trafalgar",
+    "France",
+    "Guerre de la Troisième Coalition",
+    "Francis I",
+    "Peace of Amiens",
+    "Treaty of Pressburg",
+    "Third Coalition"
+  ],
+  "edges": [
+    "assured naval dominance at",
+    "did not establish lasting peace on",
+    "brought an end to",
+    "was a decisive victory over",
+    "imposed an indemnity on",
+    "reinforced treaties of",
+    "is a conflict of",
+    "sparked",
+    "was at war with",
+    "spurred Austria and Russia into joining",
+    "signed",
+    "remained neutral during",
+    "prompted",
+    "opposed",
+    "abdicated the Imperial throne, becoming",
+    "was made up of",
+    "is the Emperor of",
+    "pledged to raise an army of",
+    "took Austria out of"
+  ],
+  "relations": [
+    [
+      "Battle of Austerlitz",
+      "was a decisive victory over",
+      "Austro-Russian force"
+    ],
+    [
+      "Royal Navy",
+      "assured naval dominance at",
+      "Battle of Trafalgar"
+    ],
+    [
+      "Francis I",
+      "is the Emperor of",
+      "Austria"
+    ],
+    [
+      "Third Coalition",
+      "was made up of",
+      "Sweden"
+    ],
+    [
+      "Napoleon I",
+      "spurred Austria and Russia into joining",
+      "Britain"
+    ],
+    [
+      "Third Coalition",
+      "was made up of",
+      "Austrian Empire"
+    ],
+    [
+      "Third Coalition",
+      "was made up of",
+      "Naples"
+    ],
+    [
+      "Prussia",
+      "remained neutral during",
+      "War of the Third Coalition"
+    ],
+    [
+      "Treaty of Pressburg",
+      "reinforced treaties of",
+      "Campo Formio"
+    ],
+    [
+      "Victory at Austerlitz",
+      "prompted",
+      "Napoleon to create Confederation of the Rhine"
+    ],
+    [
+      "Prussian worries",
+      "sparked",
+      "War of the Fourth Coalition"
+    ],
+    [
+      "Austerlitz",
+      "did not establish lasting peace on",
+      "continent"
+    ],
+    [
+      "Treaty of Pressburg",
+      "reinforced treaties of",
+      "Lunéville"
+    ],
+    [
+      "Third Coalition",
+      "was made up of",
+      "Sicily"
+    ],
+    [
+      "Treaty of Pressburg",
+      "took Austria out of",
+      "War of the Third Coalition"
+    ],
+    [
+      "Third Coalition",
+      "was made up of",
+      "Russian Empire"
+    ],
+    [
+      "Austerlitz",
+      "brought an end to",
+      "Third Coalition"
+    ],
+    [
+      "Austria",
+      "signed",
+      "Treaty of Pressburg"
+    ],
+    [
+      "Britain",
+      "was at war with",
+      "France"
+    ],
+    [
+      "War of the Third Coalition",
+      "is a conflict of",
+      "Napoleonic Wars"
+    ],
+    [
+      "Confederation of the Rhine",
+      "pledged to raise an army of",
+      "63,000 men"
+    ],
+    [
+      "Francis II",
+      "abdicated the Imperial throne, becoming",
+      "Francis I"
+    ],
+    [
+      "Third Coalition",
+      "was made up of",
+      "United Kingdom"
+    ],
+    [
+      "Treaty of Pressburg",
+      "imposed an indemnity on",
+      "Habsburgs"
+    ],
+    [
+      "France",
+      "opposed",
+      "Third Coalition"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "American",
+    "coached",
+    "North American Soccer League",
+    "collegiate level",
+    "1980–81 indoor NASL season",
+    "high school level",
+    "youth club level",
+    "American Soccer League",
+    "soccer defender",
+    "Frank D'Amelio"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "is",
+    "coached for over two decades on the"
+  ],
+  "relations": [
+    [
+      "Frank D'Amelio",
+      "coached for over two decades on the",
+      "collegiate level"
+    ],
+    [
+      "Frank D'Amelio",
+      "coached for over two decades on the",
+      "high school level"
+    ],
+    [
+      "Frank D'Amelio",
+      "played in",
+      "American Soccer League"
+    ],
+    [
+      "Frank D'Amelio",
+      "is a",
+      "soccer defender"
+    ],
+    [
+      "Frank D'Amelio",
+      "played in",
+      "1980–81 indoor NASL season"
+    ],
+    [
+      "Frank D'Amelio",
+      "played in",
+      "North American Soccer League"
+    ],
+    [
+      "Frank D'Amelio",
+      "is",
+      "American"
+    ],
+    [
+      "Frank D'Amelio",
+      "coached for over two decades on the",
+      "youth club level"
+    ]
+  ]
+}

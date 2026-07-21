@@ -1,0 +1,177 @@
+{
+  "entities": [
+    "Great Lakes",
+    "mining",
+    "Ohio",
+    "Manitoba",
+    "agriculture",
+    "Michigan",
+    "2,700-kilometre border",
+    "Pennsylvania",
+    "manufacturing",
+    "Central Canada",
+    "Canada",
+    "Minnesota",
+    "Ottawa",
+    "Toronto",
+    "Quebec",
+    "38.5%",
+    "Northern Ontario",
+    "Hudson Bay",
+    "Ontario",
+    "forestry",
+    "James Bay",
+    "Lake Erie",
+    "14 million people",
+    "Southern Ontario",
+    "New York",
+    "Height of Land Portage"
+  ],
+  "edges": [
+    "is bordered by the U.S. state of",
+    "is home to the nation's capital",
+    "is home to",
+    "has significant industry in",
+    "is the southernmost province of",
+    "is sparsely populated with",
+    "is part of the",
+    "contains the great majority of",
+    "has major industries of",
+    "is",
+    "is the second-largest province by total area (after)",
+    "depends highly on",
+    "has a border of",
+    "is home to its most populous city",
+    "is characterized by",
+    "is bordered by the province of",
+    "is located in",
+    "is bordered by"
+  ],
+  "relations": [
+    [
+      "Ontario",
+      "is home to",
+      "14 million people"
+    ],
+    [
+      "Southern Ontario",
+      "has significant industry in",
+      "agriculture"
+    ],
+    [
+      "Ontario",
+      "is part of the",
+      "Great Lakes drainage system"
+    ],
+    [
+      "Ontario",
+      "is located in",
+      "Central Canada"
+    ],
+    [
+      "14 million people",
+      "is",
+      "38.5% of the country's population"
+    ],
+    [
+      "Northern Ontario",
+      "is sparsely populated with",
+      "cold winters"
+    ],
+    [
+      "Northern Ontario",
+      "is characterized by",
+      "heavy forestation"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. state of",
+      "Michigan"
+    ],
+    [
+      "Northern Ontario",
+      "has major industries of",
+      "mining and forestry"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. state of",
+      "Pennsylvania"
+    ],
+    [
+      "Ontario",
+      "is home to the nation's capital",
+      "Ottawa"
+    ],
+    [
+      "Ontario",
+      "is bordered by",
+      "Hudson Bay"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. state of",
+      "Minnesota"
+    ],
+    [
+      "Ontario",
+      "is the southernmost province of",
+      "Canada"
+    ],
+    [
+      "Toronto",
+      "is",
+      "Ontario's provincial capital"
+    ],
+    [
+      "Ontario",
+      "is bordered by the province of",
+      "Manitoba"
+    ],
+    [
+      "Ontario",
+      "is the second-largest province by total area (after)",
+      "Quebec"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. state of",
+      "Ohio"
+    ],
+    [
+      "Southern Ontario",
+      "contains the great majority of",
+      "Ontario's population and arable land"
+    ],
+    [
+      "Southern Ontario",
+      "depends highly on",
+      "manufacturing"
+    ],
+    [
+      "Ontario",
+      "is bordered by the province of",
+      "Quebec"
+    ],
+    [
+      "Ontario",
+      "is bordered by",
+      "James Bay"
+    ],
+    [
+      "Ontario",
+      "has a border of",
+      "2,700-kilometre border"
+    ],
+    [
+      "Ontario",
+      "is home to its most populous city",
+      "Toronto"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. state of",
+      "New York"
+    ]
+  ]
+}

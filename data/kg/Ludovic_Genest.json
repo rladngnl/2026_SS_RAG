@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "18 September 1987",
+    "striker",
+    "former professional footballer",
+    "Ludovic Genest",
+    "French"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Ludovic Genest",
+      "was born on",
+      "18 September 1987"
+    ],
+    [
+      "Ludovic Genest",
+      "is",
+      "French"
+    ],
+    [
+      "Ludovic Genest",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Ludovic Genest",
+      "played as",
+      "striker"
+    ]
+  ]
+}

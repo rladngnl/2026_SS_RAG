@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "Balıkesir",
+    "Turkey",
+    "1996 UEFA European Championship",
+    "Bandırma",
+    "Bursaspor",
+    "Karabükspor",
+    "Galatasaray",
+    "Vestel Manisaspor",
+    "Soma Sotesspor",
+    "İstanbulspor",
+    "Turkey national football team",
+    "Vedat İnceefe"
+  ],
+  "edges": [
+    "played for",
+    "was a participant at",
+    "was born in",
+    "is a retired"
+  ],
+  "relations": [
+    [
+      "Vedat İnceefe",
+      "played for",
+      "Galatasaray"
+    ],
+    [
+      "Vedat İnceefe",
+      "played for",
+      "İstanbulspor"
+    ],
+    [
+      "Vedat İnceefe",
+      "played for",
+      "Vestel Manisaspor"
+    ],
+    [
+      "Vedat İnceefe",
+      "played for",
+      "Turkey national football team"
+    ],
+    [
+      "Vedat İnceefe",
+      "is a retired",
+      "Turkish football player"
+    ],
+    [
+      "Vedat İnceefe",
+      "played for",
+      "Soma Sotesspor"
+    ],
+    [
+      "Vedat İnceefe",
+      "was born in",
+      "Bandırma"
+    ],
+    [
+      "Vedat İnceefe",
+      "was born in",
+      "Balıkesir"
+    ],
+    [
+      "Vedat İnceefe",
+      "was a participant at",
+      "1996 UEFA European Championship"
+    ],
+    [
+      "Vedat İnceefe",
+      "played for",
+      "Karabükspor"
+    ],
+    [
+      "Vedat İnceefe",
+      "played for",
+      "Bursaspor"
+    ]
+  ]
+}

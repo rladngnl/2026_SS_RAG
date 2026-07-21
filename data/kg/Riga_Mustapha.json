@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Pune F.C.",
+    "Netherlands",
+    "Rahamat Riga Mustapha",
+    "Indian I-League",
+    "Ghana"
+  ],
+  "edges": [
+    "is in",
+    "was born in",
+    "is a former professional footballer who last played for",
+    "represented"
+  ],
+  "relations": [
+    [
+      "Pune F.C.",
+      "is in",
+      "Indian I-League"
+    ],
+    [
+      "Rahamat Riga Mustapha",
+      "represented",
+      "Netherlands"
+    ],
+    [
+      "Rahamat Riga Mustapha",
+      "is a former professional footballer who last played for",
+      "Pune F.C."
+    ],
+    [
+      "Rahamat Riga Mustapha",
+      "was born in",
+      "Ghana"
+    ]
+  ]
+}

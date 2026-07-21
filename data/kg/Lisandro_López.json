@@ -1,0 +1,23 @@
+{
+  "entities": [
+    "Lisandro López (footballer, born 1989)",
+    "Lisandro López (footballer, born 1983)",
+    "Lisandro López",
+    "Argentine footballer"
+  ],
+  "edges": [
+    "is a type of"
+  ],
+  "relations": [
+    [
+      "Lisandro López (footballer, born 1983)",
+      "is a type of",
+      "Argentine footballer"
+    ],
+    [
+      "Lisandro López (footballer, born 1989)",
+      "is a type of",
+      "Argentine footballer"
+    ]
+  ]
+}

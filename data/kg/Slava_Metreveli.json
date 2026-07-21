@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "manager",
+    "1962",
+    "Slava Metreveli",
+    "Soviet",
+    "1963",
+    "7 January 1998",
+    "Torpedo Moscow",
+    "Georgian",
+    "30 May 1936",
+    "1971",
+    "Dinamo Tbilisi",
+    "Russian",
+    "1956",
+    "football player",
+    "Slava Kalistratovich Metreveli"
+  ],
+  "edges": [
+    "played from",
+    "played most of his career for",
+    "died on",
+    "played until",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Slava Metreveli",
+      "was born on",
+      "30 May 1936"
+    ],
+    [
+      "Slava Metreveli",
+      "played from",
+      "1963"
+    ],
+    [
+      "Slava Metreveli",
+      "played until",
+      "1971"
+    ],
+    [
+      "Slava Metreveli",
+      "played most of his career for",
+      "Torpedo Moscow"
+    ],
+    [
+      "Slava Metreveli",
+      "played until",
+      "1962"
+    ],
+    [
+      "Slava Metreveli",
+      "played most of his career for",
+      "Dinamo Tbilisi"
+    ],
+    [
+      "Slava Metreveli",
+      "was",
+      "Soviet and Georgian football player and manager"
+    ],
+    [
+      "Slava Metreveli",
+      "died on",
+      "7 January 1998"
+    ],
+    [
+      "Slava Metreveli",
+      "played from",
+      "1956"
+    ]
+  ]
+}

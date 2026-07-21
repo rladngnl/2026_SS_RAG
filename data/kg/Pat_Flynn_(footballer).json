@@ -1,0 +1,31 @@
+{
+  "entities": [
+    "Pat Flynn",
+    "footballer",
+    "Patrick Flynn",
+    "Dublin",
+    "Ireland"
+  ],
+  "edges": [
+    "born in",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Patrick Flynn",
+      "is",
+      "footballer"
+    ],
+    [
+      "Patrick Flynn",
+      "is from",
+      "Ireland"
+    ],
+    [
+      "Patrick Flynn",
+      "born in",
+      "Dublin"
+    ]
+  ]
+}

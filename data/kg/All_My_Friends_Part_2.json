@@ -1,0 +1,94 @@
+{
+  "entities": [
+    "Italian",
+    "comedy film",
+    "Amici miei",
+    "Amici miei – Atto II",
+    "last roles",
+    "1975",
+    "My Friends",
+    "Mario Monicelli",
+    "1985",
+    "sequel",
+    "Nanni Loy",
+    "Amici miei – Atto III",
+    "1982",
+    "All_My_Friends_Part_2",
+    "Paolo Stoppa"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is sequel to",
+    "is directed by",
+    "has",
+    "was released in"
+  ],
+  "relations": [
+    [
+      "Amici miei – Atto III",
+      "is directed by",
+      "Nanni Loy"
+    ],
+    [
+      "Amici miei – Atto III",
+      "was released in",
+      "1985"
+    ],
+    [
+      "All_My_Friends_Part_2",
+      "is directed by",
+      "Mario Monicelli"
+    ],
+    [
+      "Paolo Stoppa",
+      "has",
+      "last roles"
+    ],
+    [
+      "All_My_Friends_Part_2",
+      "is sequel to",
+      "Amici miei"
+    ],
+    [
+      "Amici miei",
+      "was released in",
+      "1975"
+    ],
+    [
+      "Amici miei – Atto II",
+      "was released in",
+      "1982"
+    ],
+    [
+      "All_My_Friends_Part_2",
+      "is a",
+      "comedy film"
+    ],
+    [
+      "Amici miei – Atto II",
+      "is directed by",
+      "Mario Monicelli"
+    ],
+    [
+      "Amici miei – Atto II",
+      "is a",
+      "comedy film"
+    ],
+    [
+      "Amici miei – Atto II",
+      "is sequel to",
+      "Amici miei"
+    ],
+    [
+      "All_My_Friends_Part_2",
+      "was released in",
+      "1982"
+    ],
+    [
+      "Paolo Stoppa",
+      "is in",
+      "All_My_Friends_Part_2"
+    ]
+  ]
+}

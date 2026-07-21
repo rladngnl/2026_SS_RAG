@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Sremska Mitrovica City League",
+    "7th tier",
+    "national league system",
+    "Vojvodina",
+    "Sremska Mitrovica",
+    "Serbia",
+    "FK Srem"
+  ],
+  "edges": [
+    "is a",
+    "is based in",
+    "competed in",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "FK Srem",
+      "is located in",
+      "Serbia"
+    ],
+    [
+      "7th tier",
+      "is part of",
+      "national league system"
+    ],
+    [
+      "Sremska Mitrovica City League",
+      "is a",
+      "7th tier"
+    ],
+    [
+      "FK Srem",
+      "is located in",
+      "Vojvodina"
+    ],
+    [
+      "FK Srem",
+      "competed in",
+      "Sremska Mitrovica City League"
+    ],
+    [
+      "FK Srem",
+      "is based in",
+      "Sremska Mitrovica"
+    ]
+  ]
+}

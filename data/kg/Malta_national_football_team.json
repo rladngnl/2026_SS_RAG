@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "1974",
+    "Tim nazzjonali tal-futbol ta' Malta",
+    "Denmark",
+    "FIFA World Cup",
+    "1968",
+    "European Championship",
+    "Malta Football Association",
+    "1964 European Nations' Cup",
+    "Malta national football team",
+    "Maltese",
+    "Austria"
+  ],
+  "edges": [
+    "competed in every qualifier for",
+    "is controlled by",
+    "played against",
+    "has never made it to any finals of",
+    "represents"
+  ],
+  "relations": [
+    [
+      "Malta national football team",
+      "represents",
+      "Malta"
+    ],
+    [
+      "Malta national football team",
+      "has never made it to any finals of",
+      "European Championship"
+    ],
+    [
+      "Malta national football team",
+      "competed in every qualifier for",
+      "FIFA World Cup"
+    ],
+    [
+      "Malta national football team",
+      "has never made it to any finals of",
+      "FIFA World Cup"
+    ],
+    [
+      "Malta national football team",
+      "played against",
+      "Denmark"
+    ],
+    [
+      "Malta national football team",
+      "is controlled by",
+      "Malta Football Association"
+    ],
+    [
+      "Malta national football team",
+      "played against",
+      "Austria"
+    ],
+    [
+      "Malta national football team",
+      "has never made it to any finals of",
+      "1964 European Nations' Cup"
+    ],
+    [
+      "Malta national football team",
+      "competed in every qualifier for",
+      "European Championship"
+    ]
+  ]
+}

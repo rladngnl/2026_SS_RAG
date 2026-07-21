@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "number theory",
+    "arithmetic geometry",
+    "Orsay",
+    "Directeur de Recherches",
+    "French mathematician",
+    "Université Paris-Saclay",
+    "CNRS",
+    "Jean-Louis Colliot-Thélène"
+  ],
+  "edges": [
+    "studies",
+    "is",
+    "works at",
+    "is Directeur de Recherches at",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Jean-Louis Colliot-Thélène",
+      "studies",
+      "number theory"
+    ],
+    [
+      "Jean-Louis Colliot-Thélène",
+      "studies",
+      "arithmetic geometry"
+    ],
+    [
+      "Jean-Louis Colliot-Thélène",
+      "is",
+      "French mathematician"
+    ],
+    [
+      "Jean-Louis Colliot-Thélène",
+      "works at",
+      "Université Paris-Saclay"
+    ],
+    [
+      "Université Paris-Saclay",
+      "is located in",
+      "Orsay"
+    ],
+    [
+      "Jean-Louis Colliot-Thélène",
+      "is Directeur de Recherches at",
+      "CNRS"
+    ]
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "entities": [
+    "Stadio Diego Armando Maradona",
+    "Naples Foot-Ball Club",
+    "Campania",
+    "Roma",
+    "Juventus",
+    "Italian football",
+    "AC Milan",
+    "Naples",
+    "US Internazionale Napoli",
+    "Supercoppa Italiana",
+    "Nino D'Angelo",
+    "Associazione Calcio Napoli",
+    "Diego Maradona",
+    "Salernitana",
+    "Stadio San Paolo",
+    "UEFA Cup",
+    "Aurelio De Laurentiis",
+    "Internazionale",
+    "S.S.C. Napoli",
+    "Serie A",
+    "Società Sportiva Calcio Napoli",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "struggled financially after the departure of",
+    "returned to",
+    "was with",
+    "has played its home games at",
+    "traditionally wear",
+    "won two",
+    "has been among the top clubs in",
+    "has rivalries with",
+    "has an anthem",
+    "is located in",
+    "reached new heights following the arrival of",
+    "is one of the associate members of",
+    "was renamed",
+    "won the 1990",
+    "won three",
+    "is based in",
+    "was formed in",
+    "won the 1976",
+    "was ranked as the fifth-highest-earning football club in",
+    "won the 1987",
+    "is commonly known as",
+    "was re-founded in",
+    "is a major hit of",
+    "is a club of",
+    "re-founded",
+    "was formed following the merger of",
+    "won their first major trophy in",
+    "has the fourth-largest fan base in",
+    "plays in",
+    "won their first two league titles in",
+    "was estimated to be worth",
+    "won the 1989"
+  ],
+  "relations": [
+    [
+      "S.S.C. Napoli",
+      "has an anthem",
+      "Napoli"
+    ],
+    [
+      "S.S.C. Napoli",
+      "is one of the associate members of",
+      "European Club Association"
+    ],
+    [
+      "S.S.C. Napoli",
+      "is based in",
+      "Naples"
+    ],
+    [
+      "S.S.C. Napoli",
+      "is a club of",
+      "Italian football"
+    ],
+    [
+      "S.S.C. Napoli",
+      "traditionally wear",
+      "sky blue shirts, white shorts, and sky blue socks"
+    ],
+    [
+      "S.S.C. Napoli",
+      "reached new heights following the arrival of",
+      "Diego Maradona"
+    ],
+    [
+      "Diego Maradona",
+      "was with",
+      "S.S.C. Napoli"
+    ],
+    [
+      "S.S.C. Napoli",
+      "was estimated to be worth",
+      "$379 million"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won the 1976",
+      "Coppa Italia"
+    ],
+    [
+      "S.S.C. Napoli",
+      "is located in",
+      "Campania"
+    ],
+    [
+      "S.S.C. Napoli",
+      "has the fourth-largest fan base in",
+      "Italy"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won two",
+      "Supercoppa Italiana"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won their first two league titles in",
+      "1987 and 1990"
+    ],
+    [
+      "S.S.C. Napoli",
+      "plays in",
+      "Serie A"
+    ],
+    [
+      "S.S.C. Napoli",
+      "has rivalries with",
+      "Juventus, Roma, Internazionale, AC Milan and Salernitana"
+    ],
+    [
+      "S.S.C. Napoli",
+      "was formed in",
+      "1926"
+    ],
+    [
+      "S.S.C. Napoli",
+      "was ranked as the fifth-highest-earning football club in",
+      "Serie A"
+    ],
+    [
+      "S.S.C. Napoli",
+      "returned to",
+      "Serie A"
+    ],
+    [
+      "Aurelio De Laurentiis",
+      "re-founded",
+      "S.S.C. Napoli"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won their first major trophy in",
+      "1962 Coppa Italia"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won the 1989",
+      "UEFA Cup"
+    ],
+    [
+      "S.S.C. Napoli",
+      "struggled financially after the departure of",
+      "Diego Maradona"
+    ],
+    [
+      "Stadio San Paolo",
+      "was renamed",
+      "Stadio Diego Armando Maradona"
+    ],
+    [
+      "S.S.C. Napoli",
+      "was re-founded in",
+      "2004"
+    ],
+    [
+      "Napoli",
+      "is a major hit of",
+      "Nino D'Angelo"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won the 1990",
+      "Supercoppa Italiana"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won the 1987",
+      "Coppa Italia"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won two",
+      "Serie A titles"
+    ],
+    [
+      "S.S.C. Napoli",
+      "has been among the top clubs in",
+      "Italian football"
+    ],
+    [
+      "S.S.C. Napoli",
+      "won three",
+      "Coppa Italia"
+    ],
+    [
+      "S.S.C. Napoli",
+      "has played its home games at",
+      "Stadio San Paolo"
+    ],
+    [
+      "S.S.C. Napoli",
+      "is commonly known as",
+      "Società Sportiva Calcio Napoli"
+    ],
+    [
+      "Associazione Calcio Napoli",
+      "was formed following the merger of",
+      "US Internazionale Napoli and Naples Foot-Ball Club"
+    ]
+  ]
+}

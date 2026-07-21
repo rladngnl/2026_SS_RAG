@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Primera Nacional",
+    "Argentine football club",
+    "San Juan Province",
+    "Argentine football league system",
+    "San Martín de San Juan",
+    "San Juan",
+    "27 September 1907",
+    "Club Atlético San Martín"
+  ],
+  "edges": [
+    "is mostly known as",
+    "is considered the best club of",
+    "is an",
+    "plays in",
+    "was founded on",
+    "is part of",
+    "is from the city of"
+  ],
+  "relations": [
+    [
+      "Club Atlético San Martín",
+      "is mostly known as",
+      "San Martín de San Juan"
+    ],
+    [
+      "Club Atlético San Martín",
+      "was founded on",
+      "27 September 1907"
+    ],
+    [
+      "Club Atlético San Martín",
+      "is an",
+      "Argentine football club"
+    ],
+    [
+      "Club Atlético San Martín",
+      "is from the city of",
+      "San Juan"
+    ],
+    [
+      "Primera Nacional",
+      "is part of",
+      "Argentine football league system"
+    ],
+    [
+      "Club Atlético San Martín",
+      "is considered the best club of",
+      "San Juan Province"
+    ],
+    [
+      "Club Atlético San Martín",
+      "plays in",
+      "Primera Nacional"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "footballer",
+    "Ishref Sokratovich Magomedov",
+    "Ishref Magomedov",
+    "Russian",
+    "6 October 1980"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Ishref Sokratovich Magomedov",
+      "is from",
+      "Russian"
+    ],
+    [
+      "Ishref Sokratovich Magomedov",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Ishref Magomedov",
+      "is",
+      "Ishref Sokratovich Magomedov"
+    ],
+    [
+      "Ishref Sokratovich Magomedov",
+      "was born on",
+      "6 October 1980"
+    ]
+  ]
+}

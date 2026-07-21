@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "1992",
+    "continuation of the club",
+    "FC Tirol Innsbruck",
+    "FC Swarovski Tirol",
+    "Innsbruck",
+    "Tyrol",
+    "1986",
+    "Austrian association football club",
+    "Austria"
+  ],
+  "edges": [
+    "was dissolved in",
+    "is the continuation of",
+    "is based in",
+    "is located in",
+    "is an",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "FC Swarovski Tirol",
+      "is an",
+      "Austrian association football club"
+    ],
+    [
+      "FC Swarovski Tirol",
+      "is located in",
+      "Tyrol"
+    ],
+    [
+      "FC Swarovski Tirol",
+      "was founded in",
+      "1986"
+    ],
+    [
+      "FC Swarovski Tirol",
+      "was dissolved in",
+      "1992"
+    ],
+    [
+      "FC Swarovski Tirol",
+      "is located in",
+      "Austria"
+    ],
+    [
+      "FC Swarovski Tirol",
+      "is based in",
+      "Innsbruck"
+    ],
+    [
+      "FC Tirol Innsbruck",
+      "is the continuation of",
+      "FC Swarovski Tirol"
+    ]
+  ]
+}

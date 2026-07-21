@@ -1,0 +1,163 @@
+{
+  "entities": [
+    "Library of Congress",
+    "20 July 1973",
+    "Shih Kien",
+    "32",
+    "martial arts",
+    "action games",
+    "anime",
+    "$850,000",
+    "blaxploitation",
+    "26 July 1973",
+    "American-Hong Kong",
+    "spy film",
+    "John Saxon",
+    "19 August 1973",
+    "United States National Film Registry",
+    "Michael Allin",
+    "Ahna Capri",
+    "manga",
+    "Jim Kelly",
+    "television shows",
+    "action films",
+    "$2 billion",
+    "Bob Wall",
+    "2004",
+    "Bruce Lee",
+    "Enter the Dragon",
+    "$400 million",
+    "World War II",
+    "comic books",
+    "Robert Clouse"
+  ],
+  "edges": [
+    "is in",
+    "was aged",
+    "premiered in",
+    "had a budget of",
+    "died on",
+    "stars",
+    "is a co-production of",
+    "grossed",
+    "is equivalent to",
+    "is directed by",
+    "is considered one of the most influential action films of all time",
+    "is regarded as",
+    "premiered on",
+    "was selected for preservation by",
+    "is written by"
+  ],
+  "relations": [
+    [
+      "Enter the Dragon",
+      "had a budget of",
+      "$850,000"
+    ],
+    [
+      "Enter the Dragon",
+      "stars",
+      "Shih Kien"
+    ],
+    [
+      "Enter the Dragon",
+      "premiered in",
+      "Hong Kong"
+    ],
+    [
+      "Enter the Dragon",
+      "stars",
+      "Bruce Lee"
+    ],
+    [
+      "Bruce Lee",
+      "died on",
+      "20 July 1973"
+    ],
+    [
+      "Enter the Dragon",
+      "was selected for preservation by",
+      "Library of Congress"
+    ],
+    [
+      "Enter the Dragon",
+      "is equivalent to",
+      "$2 billion"
+    ],
+    [
+      "Enter the Dragon",
+      "is considered one of the most influential action films of all time",
+      "true"
+    ],
+    [
+      "Enter the Dragon",
+      "grossed",
+      "$400 million"
+    ],
+    [
+      "Enter the Dragon",
+      "is directed by",
+      "Robert Clouse"
+    ],
+    [
+      "Enter the Dragon",
+      "is regarded as",
+      "one of the greatest martial arts films of all time"
+    ],
+    [
+      "Enter the Dragon",
+      "premiered in",
+      "Los Angeles"
+    ],
+    [
+      "Enter the Dragon",
+      "stars",
+      "Ahna Capri"
+    ],
+    [
+      "Bruce Lee",
+      "was aged",
+      "32"
+    ],
+    [
+      "Enter the Dragon",
+      "is in",
+      "United States National Film Registry"
+    ],
+    [
+      "Enter the Dragon",
+      "stars",
+      "Jim Kelly"
+    ],
+    [
+      "Enter the Dragon",
+      "premiered on",
+      "19 August 1973"
+    ],
+    [
+      "Enter the Dragon",
+      "stars",
+      "John Saxon"
+    ],
+    [
+      "Enter the Dragon",
+      "is written by",
+      "Michael Allin"
+    ],
+    [
+      "Enter the Dragon",
+      "stars",
+      "Bob Wall"
+    ],
+    [
+      "Enter the Dragon",
+      "premiered on",
+      "26 July 1973"
+    ],
+    [
+      "Enter the Dragon",
+      "is a co-production of",
+      "American-Hong Kong"
+    ]
+  ]
+}

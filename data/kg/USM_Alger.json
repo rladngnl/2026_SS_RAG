@@ -1,0 +1,152 @@
+{
+  "entities": [
+    "USMA",
+    "Algerian War for independence",
+    "Algerian Cup",
+    "Union Sportive de la Médina d'Alger",
+    "Ali Haddad",
+    "CAF Super Cup",
+    "TP Mazembe",
+    "USM Alger",
+    "CAF Confederation Cup",
+    "Algerian Super Cup",
+    "Ligue 1",
+    "Algiers",
+    "African cups",
+    "UAFA Club Championship",
+    "CAF Champions League",
+    "Algerian Ligue Professionnelle 1",
+    "Algerian Championnat National",
+    "IFFHS",
+    "Omar Hamadi Stadium"
+  ],
+  "edges": [
+    "is currently playing in",
+    "was the winner of",
+    "has a capacity of",
+    "is known as",
+    "reached",
+    "ranks",
+    "has a home stadium",
+    "regularly qualifies for",
+    "has been solidly anchored in",
+    "is an investor of",
+    "suffered a defeat against",
+    "won",
+    "was founded in",
+    "is based in",
+    "has stronger financial support after being bought in"
+  ],
+  "relations": [
+    [
+      "USM Alger",
+      "is known as",
+      "USMA"
+    ],
+    [
+      "IFFHS",
+      "ranks",
+      "USM Alger in the 18th place of the best African teams of the decade between 2001–2010"
+    ],
+    [
+      "Ali Haddad",
+      "is an investor of",
+      "USM Alger"
+    ],
+    [
+      "USM Alger",
+      "regularly qualifies for",
+      "CAF Confederation Cup"
+    ],
+    [
+      "USM Alger",
+      "regularly qualifies for",
+      "CAF Champions League"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "CAF Confederation Cup twice"
+    ],
+    [
+      "Union Sportive Musulmane d'Alger",
+      "was the winner of",
+      "1962–63 Algerian Championnat National"
+    ],
+    [
+      "USM Alger",
+      "has stronger financial support after being bought in",
+      "2010"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "Ligue 1 in 2014"
+    ],
+    [
+      "USM Alger",
+      "has a home stadium",
+      "Omar Hamadi Stadium"
+    ],
+    [
+      "USM Alger",
+      "reached",
+      "2015 CAF Champions League final"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "CAF Super Cup once in 2023"
+    ],
+    [
+      "USM Alger",
+      "suffered a defeat against",
+      "TP Mazembe"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "UAFA Club Championship once in 2013"
+    ],
+    [
+      "USM Alger",
+      "is based in",
+      "Algiers"
+    ],
+    [
+      "USM Alger",
+      "was founded in",
+      "1937"
+    ],
+    [
+      "Omar Hamadi Stadium",
+      "has a capacity of",
+      "10,000 spectators"
+    ],
+    [
+      "USM Alger",
+      "has been solidly anchored in",
+      "Ligue 1"
+    ],
+    [
+      "USM Alger",
+      "is currently playing in",
+      "Algerian Ligue Professionnelle 1"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "Algerian Cup 10 times"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "Algerian Super Cup 3 times"
+    ],
+    [
+      "USM Alger",
+      "won",
+      "Algerian Ligue Professionnelle 1 8 times"
+    ]
+  ]
+}

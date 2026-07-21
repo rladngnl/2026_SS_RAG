@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "McGredy family",
+    "Portadown railway station",
+    "Irish League",
+    "club badge",
+    "Northern Ireland",
+    "red and white",
+    "Portadown_F.C.",
+    "Glenavon",
+    "red shorts",
+    "apple",
+    "Mid Ulster Derby",
+    "red socks",
+    "white trim",
+    "NIFL Premiership",
+    "Mid-Ulster Cup",
+    "Hub of the North",
+    "rose",
+    "shamrock",
+    "Glentoran",
+    "Mid-Ulster F.A.",
+    "Shamrock Park",
+    "Orchard County",
+    "red shirts",
+    "County Armagh",
+    "Portadown"
+  ],
+  "edges": [
+    "represent",
+    "is known as",
+    "matches with Glenavon are known as",
+    "is based in",
+    "home kit consists of",
+    "joined",
+    "main rivals are",
+    "plays in",
+    "colours are",
+    "badge shows",
+    "has a longstanding rivalry with",
+    "is a semi-professional football club in",
+    "plays home matches at",
+    "represents",
+    "is part of",
+    "is located in",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "Portadown_F.C.",
+      "badge shows",
+      "rose"
+    ],
+    [
+      "red and white stripes",
+      "represent",
+      "Portadown railway station"
+    ],
+    [
+      "rose",
+      "represents",
+      "McGredy family"
+    ],
+    [
+      "Portadown_F.C.",
+      "was formed in",
+      "1887"
+    ],
+    [
+      "Portadown_F.C.",
+      "colours are",
+      "red and white"
+    ],
+    [
+      "Portadown_F.C.",
+      "badge shows",
+      "apple"
+    ],
+    [
+      "Portadown_F.C.",
+      "is based in",
+      "Portadown"
+    ],
+    [
+      "Portadown_F.C.",
+      "main rivals are",
+      "Glenavon"
+    ],
+    [
+      "Portadown_F.C.",
+      "joined",
+      "Irish League"
+    ],
+    [
+      "Portadown_F.C.",
+      "plays in",
+      "NIFL Premiership"
+    ],
+    [
+      "Portadown_F.C.",
+      "plays home matches at",
+      "Shamrock Park"
+    ],
+    [
+      "Portadown_F.C.",
+      "badge shows",
+      "shamrock"
+    ],
+    [
+      "Portadown_F.C.",
+      "is a semi-professional football club in",
+      "Northern Ireland"
+    ],
+    [
+      "Portadown_F.C.",
+      "is part of",
+      "Mid-Ulster F.A."
+    ],
+    [
+      "Portadown_F.C.",
+      "matches with Glenavon are known as",
+      "Mid Ulster Derby"
+    ],
+    [
+      "Portadown_F.C.",
+      "is located in",
+      "County Armagh"
+    ],
+    [
+      "Portadown_F.C.",
+      "home kit consists of",
+      "red shirts, red shorts and red socks with white trim"
+    ],
+    [
+      "apple",
+      "represents",
+      "Orchard County"
+    ],
+    [
+      "Portadown railway station",
+      "is known as",
+      "Hub of the North"
+    ],
+    [
+      "Portadown_F.C.",
+      "has a longstanding rivalry with",
+      "Glentoran"
+    ]
+  ]
+}

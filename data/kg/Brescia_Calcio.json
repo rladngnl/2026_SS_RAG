@@ -1,0 +1,124 @@
+{
+  "entities": [
+    "AC Milan",
+    "Brescia Calcio",
+    "FC Barcelona",
+    "Roberto Baggio",
+    "UEFA Intertoto Cup",
+    "Andrea Pirlo",
+    "blue and white",
+    "Paris Saint-Germain",
+    "Juventus",
+    "Pep Guardiola",
+    "Bergamo",
+    "Stadio Mario Rigamonti",
+    "Atalanta",
+    "Brescia",
+    "Serie B",
+    "Lombardy"
+  ],
+  "edges": [
+    "is from",
+    "had colours",
+    "is located in",
+    "was eliminated by",
+    "had players including",
+    "qualified for",
+    "last played in",
+    "had a best finish in",
+    "had a rivalry with",
+    "won",
+    "held the record for",
+    "was led by",
+    "won trophies with",
+    "had a home ground",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Brescia Calcio",
+      "had a rivalry with",
+      "Atalanta"
+    ],
+    [
+      "Brescia Calcio",
+      "is based in",
+      "Brescia"
+    ],
+    [
+      "Brescia Calcio",
+      "held the record for",
+      "total number of seasons in Serie B"
+    ],
+    [
+      "Brescia Calcio",
+      "had colours",
+      "blue and white"
+    ],
+    [
+      "Brescia Calcio",
+      "was led by",
+      "Roberto Baggio"
+    ],
+    [
+      "Brescia Calcio",
+      "had a best finish in",
+      "Serie A"
+    ],
+    [
+      "Andrea Pirlo",
+      "won trophies with",
+      "Juventus"
+    ],
+    [
+      "Andrea Pirlo",
+      "won trophies with",
+      "AC Milan"
+    ],
+    [
+      "Brescia Calcio",
+      "qualified for",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "Brescia Calcio",
+      "last played in",
+      "Serie B"
+    ],
+    [
+      "Brescia Calcio",
+      "had players including",
+      "Pep Guardiola"
+    ],
+    [
+      "Atalanta",
+      "is from",
+      "Bergamo"
+    ],
+    [
+      "Brescia Calcio",
+      "had a home ground",
+      "Stadio Mario Rigamonti"
+    ],
+    [
+      "Brescia Calcio",
+      "is located in",
+      "Lombardy"
+    ],
+    [
+      "Brescia Calcio",
+      "was eliminated by",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Brescia Calcio",
+      "had players including",
+      "Andrea Pirlo"
+    ],
+    [
+      "Brescia Calcio",
+      "won",
+      "Serie B"
+    ]
+  ]
+}

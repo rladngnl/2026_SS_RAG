@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "public university",
+    "ESU",
+    "East Stroudsburg",
+    "PASSHE",
+    "Pennsylvania State System of Higher Education",
+    "Pennsylvania",
+    "East Stroudsburg University of Pennsylvania"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is also known as",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "East Stroudsburg University of Pennsylvania",
+      "is a",
+      "public university"
+    ],
+    [
+      "East Stroudsburg University of Pennsylvania",
+      "is in",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania State System of Higher Education",
+      "is also known as",
+      "PASSHE"
+    ],
+    [
+      "East Stroudsburg University of Pennsylvania",
+      "is located in",
+      "East Stroudsburg"
+    ],
+    [
+      "East Stroudsburg University of Pennsylvania",
+      "is part of",
+      "Pennsylvania State System of Higher Education"
+    ]
+  ]
+}

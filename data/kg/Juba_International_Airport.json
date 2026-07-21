@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "Juba",
+    "UNHAS",
+    "South Sudanese military",
+    "Central Equatoria State",
+    "ICRC",
+    "Juba International Airport",
+    "UNMISS",
+    "United Nations",
+    "Malakal Airport",
+    "NGOs",
+    "ICAO",
+    "World Food Programme",
+    "IATA",
+    "HJJJ",
+    "South Sudan",
+    "JUB"
+  ],
+  "edges": [
+    "is located in",
+    "is used by",
+    "is one of the two international airports in",
+    "handles"
+  ],
+  "relations": [
+    [
+      "Juba International Airport",
+      "is located in",
+      "Central Equatoria State"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "South Sudanese military"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "ICRC"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "UNMISS"
+    ],
+    [
+      "Juba International Airport",
+      "is one of the two international airports in",
+      "South Sudan"
+    ],
+    [
+      "Juba International Airport",
+      "handles",
+      "cargo air traffic"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "NGOs"
+    ],
+    [
+      "Juba International Airport",
+      "handles",
+      "international and local airlines"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "World Food Programme"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "United Nations"
+    ],
+    [
+      "Juba International Airport",
+      "is located in",
+      "South Sudan"
+    ],
+    [
+      "Juba International Airport",
+      "is located in",
+      "Juba"
+    ],
+    [
+      "Juba International Airport",
+      "is used by",
+      "UNHAS"
+    ]
+  ]
+}

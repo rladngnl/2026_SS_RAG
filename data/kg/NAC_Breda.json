@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "NAC Breda",
+    "KNVB Cup",
+    "Antoon 'Rat' Verlegh",
+    "Eerste Divisie",
+    "Eredivisie",
+    "Rat Verlegh Stadium",
+    "1921",
+    "NOAD",
+    "19 September 1912",
+    "ADVENDO",
+    "2012–13 season",
+    "Breda",
+    "NAC",
+    "1973",
+    "Netherlands"
+  ],
+  "edges": [
+    "won one KNVB Cup in",
+    "is located in",
+    "reinstated their first crest for",
+    "was relegated from",
+    "plays in",
+    "was founded on",
+    "is named after",
+    "will compete in",
+    "was formed by the merger of",
+    "won one national title in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "NAC Breda",
+      "was relegated from",
+      "Eredivisie"
+    ],
+    [
+      "NAC Breda",
+      "won one national title in",
+      "1921"
+    ],
+    [
+      "NAC Breda",
+      "is located in",
+      "Netherlands"
+    ],
+    [
+      "NAC Breda",
+      "will compete in",
+      "Eerste Divisie"
+    ],
+    [
+      "NAC Breda",
+      "reinstated their first crest for",
+      "2012–13 season"
+    ],
+    [
+      "NAC Breda",
+      "is based in",
+      "Breda"
+    ],
+    [
+      "NAC Breda",
+      "was founded on",
+      "19 September 1912"
+    ],
+    [
+      "NAC Breda",
+      "was formed by the merger of",
+      "ADVENDO and NOAD"
+    ],
+    [
+      "Rat Verlegh Stadium",
+      "is named after",
+      "Antoon 'Rat' Verlegh"
+    ],
+    [
+      "NAC Breda",
+      "won one KNVB Cup in",
+      "1973"
+    ],
+    [
+      "NAC Breda",
+      "plays in",
+      "Rat Verlegh Stadium"
+    ]
+  ]
+}

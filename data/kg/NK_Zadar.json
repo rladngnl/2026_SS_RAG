@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "top flight of Croatian football",
+    "Football Club Zadar",
+    "Zadar",
+    "Croatian football club",
+    "NK Zadar",
+    "Nogometni klub Zadar",
+    "Adriatic coast"
+  ],
+  "edges": [
+    "played in",
+    "is a",
+    "is also known as",
+    "is based in",
+    "is located on"
+  ],
+  "relations": [
+    [
+      "NK Zadar",
+      "is a",
+      "Croatian football club"
+    ],
+    [
+      "NK Zadar",
+      "is also known as",
+      "Nogometni klub Zadar"
+    ],
+    [
+      "NK Zadar",
+      "is also known as",
+      "Football Club Zadar"
+    ],
+    [
+      "Zadar",
+      "is located on",
+      "Adriatic coast"
+    ],
+    [
+      "NK Zadar",
+      "is based in",
+      "Zadar"
+    ],
+    [
+      "NK Zadar",
+      "played in",
+      "top flight of Croatian football"
+    ]
+  ]
+}

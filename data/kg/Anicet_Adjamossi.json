@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Anicet Kayodé Adjamossi",
+    "footballer",
+    "Benin",
+    "defender",
+    "15 March 1984"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Anicet Kayodé Adjamossi",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Anicet Kayodé Adjamossi",
+      "was born on",
+      "15 March 1984"
+    ],
+    [
+      "Anicet Kayodé Adjamossi",
+      "is from",
+      "Benin"
+    ],
+    [
+      "Anicet Kayodé Adjamossi",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

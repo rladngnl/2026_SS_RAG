@@ -1,0 +1,176 @@
+{
+  "entities": [
+    "la Repubblica dei magnifici",
+    "Republic of Pisa",
+    "Republic of Genoa",
+    "Lesbos",
+    "First French Empire",
+    "Battle of Meloria",
+    "Venice",
+    "Chios",
+    "Ligurian Republic",
+    "la Dominante dei mari",
+    "Tyrrhenian Sea",
+    "Monaco",
+    "Genoa",
+    "Southern Crimea",
+    "French First Republic",
+    "Serenìscima Repùblica de Zêna",
+    "merchant families",
+    "Compagna Communis Ianuensis",
+    "la Superba",
+    "doge",
+    "Corsica",
+    "Genoese navy",
+    "Spanish Empire",
+    "Kingdom of Sardinia",
+    "Black Sea",
+    "Liguria",
+    "la Dominante",
+    "Mediterranean"
+  ],
+  "edges": [
+    "was a",
+    "was an eternal rival of",
+    "was known as",
+    "was the ruler of",
+    "was located in",
+    "established colonies in",
+    "was annexed by",
+    "was conquered by",
+    "was a major commercial power in",
+    "became a partner to",
+    "was officially known as",
+    "fought against",
+    "was fought for dominance over",
+    "played a role in the wealth and power of",
+    "was ruled by"
+  ],
+  "relations": [
+    [
+      "Republic of Genoa",
+      "was a",
+      "medieval and early modern maritime republic"
+    ],
+    [
+      "Republic of Genoa",
+      "was officially known as",
+      "Compagna Communis Ianuensis"
+    ],
+    [
+      "Republic of Genoa",
+      "established colonies in",
+      "Monaco"
+    ],
+    [
+      "Republic of Genoa",
+      "was ruled by",
+      "merchant families"
+    ],
+    [
+      "Republic of Genoa",
+      "was officially known as",
+      "Serenìscima Repùblica de Zêna"
+    ],
+    [
+      "Republic of Genoa",
+      "established colonies in",
+      "Lesbos"
+    ],
+    [
+      "Ligurian Republic",
+      "was annexed by",
+      "First French Empire"
+    ],
+    [
+      "Republic of Genoa",
+      "became a partner to",
+      "Spanish Empire"
+    ],
+    [
+      "Republic of Genoa",
+      "was conquered by",
+      "French First Republic"
+    ],
+    [
+      "Republic of Genoa",
+      "was a major commercial power in",
+      "Black Sea"
+    ],
+    [
+      "Republic of Genoa",
+      "was located in",
+      "Liguria"
+    ],
+    [
+      "Republic of Genoa",
+      "established colonies in",
+      "Southern Crimea"
+    ],
+    [
+      "Ligurian Republic",
+      "was annexed by",
+      "Kingdom of Sardinia"
+    ],
+    [
+      "doge",
+      "was the ruler of",
+      "Republic of Genoa"
+    ],
+    [
+      "Genoa",
+      "fought against",
+      "Republic of Pisa"
+    ],
+    [
+      "Genoa",
+      "was known as",
+      "la Repubblica dei magnifici"
+    ],
+    [
+      "Battle of Meloria",
+      "was fought for dominance over",
+      "Tyrrhenian Sea"
+    ],
+    [
+      "Republic of Genoa",
+      "established colonies in",
+      "Chios"
+    ],
+    [
+      "Genoa",
+      "was known as",
+      "la Dominante"
+    ],
+    [
+      "Genoa",
+      "was known as",
+      "la Dominante dei mari"
+    ],
+    [
+      "Genoa",
+      "was an eternal rival of",
+      "Venice"
+    ],
+    [
+      "Genoa",
+      "was known as",
+      "la Superba"
+    ],
+    [
+      "Republic of Genoa",
+      "established colonies in",
+      "Corsica"
+    ],
+    [
+      "Republic of Genoa",
+      "was a major commercial power in",
+      "Mediterranean"
+    ],
+    [
+      "Genoese navy",
+      "played a role in the wealth and power of",
+      "Republic of Genoa"
+    ]
+  ]
+}

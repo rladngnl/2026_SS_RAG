@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "Campeonato Gaúcho Série A2",
+    "Esporte Clube Guarani",
+    "Rio Grande do Sul state football league",
+    "Venâncio Aires",
+    "Guarani de Venâncio Aires",
+    "Brazilian football club",
+    "Rio Grande do Sul"
+  ],
+  "edges": [
+    "is a",
+    "is located in",
+    "plays in",
+    "is the second level of",
+    "is commonly referred to as",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Esporte Clube Guarani",
+      "is based in",
+      "Venâncio Aires"
+    ],
+    [
+      "Venâncio Aires",
+      "is located in",
+      "Rio Grande do Sul"
+    ],
+    [
+      "Esporte Clube Guarani",
+      "is commonly referred to as",
+      "Guarani de Venâncio Aires"
+    ],
+    [
+      "Campeonato Gaúcho Série A2",
+      "is the second level of",
+      "Rio Grande do Sul state football league"
+    ],
+    [
+      "Esporte Clube Guarani",
+      "is a",
+      "Brazilian football club"
+    ],
+    [
+      "Esporte Clube Guarani",
+      "plays in",
+      "Campeonato Gaúcho Série A2"
+    ]
+  ]
+}

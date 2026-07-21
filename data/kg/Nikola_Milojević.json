@@ -1,0 +1,28 @@
+{
+  "entities": [
+    "Nikola Milojević (footballer)",
+    "Nikola Milojević (painter)",
+    "Nikola Milojević (tennis)",
+    "Nikola Milojević"
+  ],
+  "edges": [
+    "may refer to"
+  ],
+  "relations": [
+    [
+      "Nikola Milojević",
+      "may refer to",
+      "Nikola Milojević (footballer)"
+    ],
+    [
+      "Nikola Milojević",
+      "may refer to",
+      "Nikola Milojević (painter)"
+    ],
+    [
+      "Nikola Milojević",
+      "may refer to",
+      "Nikola Milojević (tennis)"
+    ]
+  ]
+}

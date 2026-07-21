@@ -1,0 +1,32 @@
+{
+  "entities": [
+    "English footballer",
+    "retired professional footballer",
+    "goalkeeper",
+    "John Sullivan",
+    "John Denis Sullivan",
+    "March 8, 1988"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "John Denis Sullivan",
+      "played as",
+      "goalkeeper"
+    ],
+    [
+      "John Denis Sullivan",
+      "was born on",
+      "March 8, 1988"
+    ],
+    [
+      "John Denis Sullivan",
+      "is",
+      "English retired professional footballer"
+    ]
+  ]
+}

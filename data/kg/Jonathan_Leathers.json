@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "American",
+    "retired soccer player",
+    "Jonathan Leathers",
+    "November 5, 1985"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jonathan Leathers",
+      "is a",
+      "retired soccer player"
+    ],
+    [
+      "Jonathan Leathers",
+      "is",
+      "American"
+    ],
+    [
+      "Jonathan Leathers",
+      "was born on",
+      "November 5, 1985"
+    ]
+  ]
+}

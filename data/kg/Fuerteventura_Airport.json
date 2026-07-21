@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "boarding gates",
+    "flight arrivals",
+    "8.2 million passengers per year",
+    "Puerto del Rosario",
+    "Fuerteventura Airport",
+    "El Matorral Airport",
+    "departures lounge",
+    "92,000 m2",
+    "Fuerteventura",
+    "terminal building",
+    "2019",
+    "FUE",
+    "ICAO",
+    "flight departures",
+    "IATA",
+    "GCFV"
+  ],
+  "edges": [
+    "has one",
+    "serves",
+    "is located southwest of",
+    "had over",
+    "is also known as",
+    "is situated in",
+    "has two floors",
+    "has the capacity to handle",
+    "has sections for",
+    "has",
+    "covers"
+  ],
+  "relations": [
+    [
+      "terminal building",
+      "has two floors",
+      "two floors"
+    ],
+    [
+      "first floor",
+      "has",
+      "departures lounge and 24 boarding gates"
+    ],
+    [
+      "terminal building",
+      "has the capacity to handle",
+      "8.2 million passengers per year"
+    ],
+    [
+      "Fuerteventura Airport",
+      "had over",
+      "5.6 million passengers in 2019"
+    ],
+    [
+      "Fuerteventura Airport",
+      "serves",
+      "Fuerteventura"
+    ],
+    [
+      "Fuerteventura Airport",
+      "is situated in",
+      "El Matorral"
+    ],
+    [
+      "terminal building",
+      "covers",
+      "92,000 m2"
+    ],
+    [
+      "Fuerteventura Airport",
+      "is also known as",
+      "El Matorral Airport"
+    ],
+    [
+      "Fuerteventura Airport",
+      "has one",
+      "terminal building"
+    ],
+    [
+      "terminal building",
+      "has sections for",
+      "flight arrivals and flight departures"
+    ],
+    [
+      "Fuerteventura Airport",
+      "is located southwest of",
+      "Puerto del Rosario"
+    ]
+  ]
+}

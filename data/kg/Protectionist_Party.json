@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "protectionism",
+    "Alfred Deakin",
+    "New South Wales",
+    "Protectionist Liberal Party",
+    "Protectionist Party",
+    "1909",
+    "Australian industry",
+    "Victoria",
+    "protective tariffs",
+    "prime ministers of Australia",
+    "1887",
+    "employment",
+    "Sir Edmund Barton",
+    "Liberal Protectionist Party",
+    "Australia"
+  ],
+  "edges": [
+    "was formally organised from",
+    "had greatest strength in",
+    "was formally organised until",
+    "was an",
+    "is also known as",
+    "had policies centred on",
+    "was a leader of",
+    "would provide",
+    "would allow",
+    "was the first",
+    "advocated",
+    "was the second"
+  ],
+  "relations": [
+    [
+      "Protectionist Party",
+      "was formally organised from",
+      "1887"
+    ],
+    [
+      "protective tariffs",
+      "would allow",
+      "Australian industry"
+    ],
+    [
+      "Protectionist Party",
+      "had policies centred on",
+      "protectionism"
+    ],
+    [
+      "Alfred Deakin",
+      "was a leader of",
+      "Protectionist Party"
+    ],
+    [
+      "Alfred Deakin",
+      "was the second",
+      "prime minister of Australia"
+    ],
+    [
+      "Protectionist Party",
+      "was formally organised until",
+      "1909"
+    ],
+    [
+      "Sir Edmund Barton",
+      "was a leader of",
+      "Protectionist Party"
+    ],
+    [
+      "Protectionist Party",
+      "is also known as",
+      "Protectionist Liberal Party"
+    ],
+    [
+      "Protectionist Party",
+      "advocated",
+      "protective tariffs"
+    ],
+    [
+      "Protectionist Party",
+      "was an",
+      "Australian political party"
+    ],
+    [
+      "Sir Edmund Barton",
+      "was the first",
+      "prime minister of Australia"
+    ],
+    [
+      "Protectionist Party",
+      "had greatest strength in",
+      "Victoria"
+    ],
+    [
+      "Protectionist Party",
+      "had greatest strength in",
+      "New South Wales"
+    ],
+    [
+      "protective tariffs",
+      "would provide",
+      "employment"
+    ],
+    [
+      "Protectionist Party",
+      "is also known as",
+      "Liberal Protectionist Party"
+    ]
+  ]
+}

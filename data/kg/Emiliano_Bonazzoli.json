@@ -1,0 +1,31 @@
+{
+  "entities": [
+    "20 January 1979",
+    "Italian",
+    "footballer",
+    "striker",
+    "Emiliano Bonazzoli"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Emiliano Bonazzoli",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Emiliano Bonazzoli",
+      "played as a",
+      "striker"
+    ],
+    [
+      "Emiliano Bonazzoli",
+      "was born on",
+      "20 January 1979"
+    ]
+  ]
+}

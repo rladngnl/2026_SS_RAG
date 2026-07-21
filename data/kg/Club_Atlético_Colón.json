@@ -1,0 +1,162 @@
+{
+  "entities": [
+    "Pelé",
+    "boxing",
+    "First Division",
+    "Copa de Honor",
+    "basketball",
+    "hockey",
+    "Argentine Primera División",
+    "swimming",
+    "2019",
+    "football",
+    "Argentina",
+    "volleyball",
+    "futsal",
+    "1950",
+    "1965",
+    "Santos FC",
+    "Club Atlético Colón",
+    "Argentine Football Association",
+    "Primera Nacional",
+    "Santa Fe",
+    "Provincia de Santa Fe",
+    "2021",
+    "Copa Sudamericana",
+    "women's football",
+    "Estadio Brigadier General Estanislao López"
+  ],
+  "edges": [
+    "has activities in",
+    "is in",
+    "achieved",
+    "was associated with",
+    "joined",
+    "ascended to",
+    "plays in",
+    "defeated",
+    "is named after",
+    "won",
+    "obtained its first championship in",
+    "occurred in",
+    "was runner up in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Estadio Brigadier General Estanislao López",
+      "is named after",
+      "Provincia de Santa Fe"
+    ],
+    [
+      "Club Atlético Colón",
+      "joined",
+      "Argentine Football Association"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "futsal"
+    ],
+    [
+      "Club Atlético Colón",
+      "won",
+      "Argentine Primera División"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "volleyball"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "football"
+    ],
+    [
+      "Copa Sudamericana",
+      "occurred in",
+      "2019"
+    ],
+    [
+      "Club Atlético Colón",
+      "obtained its first championship in",
+      "1965"
+    ],
+    [
+      "Club Atlético Colón",
+      "achieved",
+      "2021"
+    ],
+    [
+      "Club Atlético Colón",
+      "is in",
+      "Argentina"
+    ],
+    [
+      "Club Atlético Colón",
+      "was runner up in",
+      "Copa Sudamericana"
+    ],
+    [
+      "Club Atlético Colón",
+      "defeated",
+      "Santos FC"
+    ],
+    [
+      "Copa de Honor",
+      "occurred in",
+      "1950"
+    ],
+    [
+      "Club Atlético Colón",
+      "won",
+      "Copa de Honor"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "boxing"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "swimming"
+    ],
+    [
+      "Club Atlético Colón",
+      "ascended to",
+      "First Division"
+    ],
+    [
+      "Club Atlético Colón",
+      "is located in",
+      "Santa Fe"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "basketball"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "women's football"
+    ],
+    [
+      "Club Atlético Colón",
+      "plays in",
+      "Primera Nacional"
+    ],
+    [
+      "Club Atlético Colón",
+      "has activities in",
+      "hockey"
+    ],
+    [
+      "Santos FC",
+      "was associated with",
+      "Pelé"
+    ]
+  ]
+}

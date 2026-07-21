@@ -1,0 +1,143 @@
+{
+  "entities": [
+    "population",
+    "curative properties",
+    "Belgium",
+    "Liège",
+    "Spa mineral water",
+    "Tour de France",
+    "mineral baths",
+    "24 Hours of Spa",
+    "Concours de Beauté",
+    "European bathing culture",
+    "Wallonia",
+    "Francorchamps",
+    "tourist destinations",
+    "Ardennes mountains",
+    "19th century",
+    "Formula One Belgian Grand Prix",
+    "18th century",
+    "Spa",
+    "natural mineral springs",
+    "Aachen",
+    "Circuit de Spa-Francorchamps",
+    "Great Spa Towns of Europe"
+  ],
+  "edges": [
+    "hosts the annual",
+    "is associated with the",
+    "is a municipality and city of",
+    "is south-east of",
+    "is exported worldwide",
+    "is known for its famous",
+    "is renowned for its",
+    "was held in",
+    "produces",
+    "had a population of",
+    "became part of the transnational UNESCO World Heritage Site the",
+    "is in a valley in the",
+    "is known for its architectural testimony to the rise of",
+    "was hosted by",
+    "is one of Belgium's most popular",
+    "hosts various endurance races such as the",
+    "is located in the province of",
+    "is south-west of"
+  ],
+  "relations": [
+    [
+      "European bathing culture",
+      "is associated with the",
+      "18th century"
+    ],
+    [
+      "Spa mineral water",
+      "is exported worldwide",
+      ""
+    ],
+    [
+      "Spa",
+      "is one of Belgium's most popular",
+      "tourist destinations"
+    ],
+    [
+      "Spa",
+      "is a municipality and city of",
+      "Wallonia"
+    ],
+    [
+      "Great Spa Towns of Europe",
+      "is known for its architectural testimony to the rise of",
+      "European bathing culture"
+    ],
+    [
+      "Spa",
+      "became part of the transnational UNESCO World Heritage Site the",
+      "Great Spa Towns of Europe"
+    ],
+    [
+      "Spa",
+      "produces",
+      "Spa mineral water"
+    ],
+    [
+      "Spa",
+      "is in a valley in the",
+      "Ardennes mountains"
+    ],
+    [
+      "European bathing culture",
+      "is associated with the",
+      "19th century"
+    ],
+    [
+      "Circuit de Spa-Francorchamps",
+      "hosts the annual",
+      "Formula One Belgian Grand Prix"
+    ],
+    [
+      "Spa",
+      "is located in the province of",
+      "Liège"
+    ],
+    [
+      "Great Spa Towns of Europe",
+      "is known for its famous",
+      "mineral springs"
+    ],
+    [
+      "Concours de Beauté",
+      "was held in",
+      "Spa"
+    ],
+    [
+      "Spa",
+      "is renowned for its",
+      "natural mineral springs"
+    ],
+    [
+      "Tour de France",
+      "was hosted by",
+      "Spa"
+    ],
+    [
+      "Spa",
+      "is south-west of",
+      "Aachen"
+    ],
+    [
+      "Spa",
+      "is south-east of",
+      "Liège"
+    ],
+    [
+      "Spa",
+      "had a population of",
+      "10,543"
+    ],
+    [
+      "Circuit de Spa-Francorchamps",
+      "hosts various endurance races such as the",
+      "24 Hours of Spa"
+    ]
+  ]
+}

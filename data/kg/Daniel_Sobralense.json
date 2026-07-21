@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "footballer",
+    "Brazil",
+    "Daniel Sobralense",
+    "Daniel Lopes da Silva",
+    "attacking midfielder"
+  ],
+  "edges": [
+    "played as",
+    "is a",
+    "is known as",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Daniel Sobralense",
+      "played as",
+      "attacking midfielder"
+    ],
+    [
+      "Daniel Lopes da Silva",
+      "is known as",
+      "Daniel Sobralense"
+    ],
+    [
+      "Daniel Sobralense",
+      "is from",
+      "Brazil"
+    ],
+    [
+      "Daniel Sobralense",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

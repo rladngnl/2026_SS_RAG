@@ -1,0 +1,316 @@
+{
+  "entities": [
+    "UEFA Intertoto Cup",
+    "1978",
+    "EFL League One",
+    "2000–01",
+    "1911 FA Cup",
+    "2019",
+    "Huddersfield Town",
+    "Roy McFarland",
+    "Bradford (Park Avenue)",
+    "Bradford",
+    "West Yorkshire",
+    "Trevor Cherry",
+    "2007",
+    "Bradford City stadium fire",
+    "Bantams",
+    "56 supporters",
+    "1977",
+    "Premier League",
+    "77-year absence",
+    "11 May 1985",
+    "Bradford City Association Football Club",
+    "1907–08 Second Division title",
+    "1990",
+    "Leeds United",
+    "1969",
+    "Graham Alexander",
+    "claret and amber",
+    "1981–82",
+    "1972",
+    "Third Division title",
+    "Second Division",
+    "1962",
+    "1996",
+    "Football League Second Division",
+    "1998–99",
+    "24,840-capacity",
+    "1939",
+    "2013 League Cup",
+    "Third Division North title",
+    "Third Division North Cup",
+    "Valley Parade",
+    "Fourth Division",
+    "2004",
+    "1928–29",
+    "Phil Parkinson",
+    "League Two play-off final",
+    "1984–85"
+  ],
+  "edges": [
+    "found success under the management of",
+    "won",
+    "has a historic rivalry with",
+    "was relegated out of",
+    "was promoted back into",
+    "competes in",
+    "was relegated in",
+    "is located in",
+    "has a capacity of",
+    "won promotion in",
+    "ended the campaign with",
+    "has been known by various nicknames, with",
+    "was the site of",
+    "reached the semi-finals of",
+    "is in",
+    "found success under the stewardship of",
+    "was relegated from",
+    "secured another promotion in",
+    "marked a return to",
+    "is the only professional football club in England to wear",
+    "was elected into",
+    "was founded in",
+    "holds rivalries with",
+    "entered",
+    "secured promotions back into",
+    "reached",
+    "entered administration twice in",
+    "took the lives of",
+    "occurred on",
+    "is managed by",
+    "has a home ground at"
+  ],
+  "relations": [
+    [
+      "Bradford City Association Football Club",
+      "won",
+      "Third Division North Cup"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "1937"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "is managed by",
+      "Graham Alexander"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "is in",
+      "West Yorkshire"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "won",
+      "1907–08 Second Division title"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was founded in",
+      "1903"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated out of",
+      "Second Division"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "holds rivalries with",
+      "Huddersfield Town"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "reached the semi-finals of",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "1922"
+    ],
+    [
+      "Bradford City stadium fire",
+      "occurred on",
+      "11 May 1985"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "1927"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "holds rivalries with",
+      "Leeds United"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "won",
+      "Third Division title"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "entered administration twice in",
+      "two years"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "2007"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "1962"
+    ],
+    [
+      "Valley Parade",
+      "was the site of",
+      "Bradford City stadium fire"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated from",
+      "League One"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "has a historic rivalry with",
+      "Bradford (Park Avenue)"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "found success under the stewardship of",
+      "Roy McFarland"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was promoted back into",
+      "second tier"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "has been known by various nicknames, with",
+      "Bantams"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "secured promotions back into",
+      "third tier"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "is located in",
+      "Bradford"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "2004"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "won",
+      "1911 FA Cup"
+    ],
+    [
+      "Valley Parade",
+      "has a capacity of",
+      "24,840-capacity"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "won promotion in",
+      "1981–82"
+    ],
+    [
+      "Bradford City stadium fire",
+      "took the lives of",
+      "56 supporters"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "found success under the stewardship of",
+      "Trevor Cherry"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was elected into",
+      "Football League Second Division"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "found success under the management of",
+      "Phil Parkinson"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "1972"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "ended the campaign with",
+      "relegation from Premier League"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "has a home ground at",
+      "Valley Parade"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "reached",
+      "2013 League Cup"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "secured another promotion in",
+      "1998–99"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "is the only professional football club in England to wear",
+      "claret and amber"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "entered",
+      "Europe"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "won",
+      "League Two play-off final"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "reached",
+      "Premier League"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "marked a return to",
+      "top-flight"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "won",
+      "Third Division North title"
+    ],
+    [
+      "Bradford City Association Football Club",
+      "was relegated in",
+      "1978"
+    ]
+  ]
+}

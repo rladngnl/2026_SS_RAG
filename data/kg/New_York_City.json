@@ -1,0 +1,154 @@
+{
+  "entities": [
+    "New York State",
+    "New York City's combined statistical area",
+    "New York Harbor",
+    "millionaires",
+    "Munsee-speaking Lenape",
+    "New York City's metropolitan statistical area",
+    "Brooklyn",
+    "Nasdaq",
+    "Fort Amsterdam",
+    "Duke of York",
+    "Fifth Avenue",
+    "NYC",
+    "Staten Island",
+    "United Nations",
+    "New York metropolitan area",
+    "Charles II",
+    "New York Stock Exchange",
+    "Kingdom of Great Britain",
+    "billionaires",
+    "United States",
+    "New York City",
+    "Manhattan",
+    "Northeast megalopolis",
+    "New Amsterdam",
+    "Manhattan Island",
+    "Queens",
+    "the Bronx",
+    "1898 consolidation",
+    "Wall Street",
+    "New York County",
+    "Los Angeles",
+    "Financial District"
+  ],
+  "edges": [
+    "was the national capital of",
+    "is known for",
+    "is the most expensive city in",
+    "is home to the largest foreign-born population of any metropolitan region in",
+    "was inhabited by",
+    "was formed by the",
+    "is the most populous city in",
+    "was chartered as a city in",
+    "is one of the world's most populous",
+    "has been called both the world's premier financial and fintech center and the most economically powerful city in",
+    "is home to the world's two largest stock exchanges by market capitalization of their listed companies",
+    "is home to the highest number of",
+    "has more than double the population of",
+    "is located at",
+    "came under English control in",
+    "was established as a center of trade on",
+    "was temporarily renamed",
+    "is the most expensive U.S. county for the average home price per square foot",
+    "is the largest metropolitan economy in"
+  ],
+  "relations": [
+    [
+      "New York City",
+      "is the most populous city in",
+      "United States"
+    ],
+    [
+      "Fort Amsterdam",
+      "was established as a center of trade on",
+      "Manhattan Island"
+    ],
+    [
+      "New York City",
+      "is home to the world's two largest stock exchanges by market capitalization of their listed companies",
+      "New York Stock Exchange and Nasdaq"
+    ],
+    [
+      "New York metropolitan area",
+      "is the largest metropolitan economy in",
+      "the world"
+    ],
+    [
+      "New York City",
+      "came under English control in",
+      "1664"
+    ],
+    [
+      "New York City",
+      "was temporarily renamed",
+      "New York"
+    ],
+    [
+      "New York City",
+      "is located at",
+      "New York State"
+    ],
+    [
+      "New York City",
+      "has been called both the world's premier financial and fintech center and the most economically powerful city in",
+      "the world"
+    ],
+    [
+      "New Amsterdam",
+      "was chartered as a city in",
+      "1653"
+    ],
+    [
+      "New York City",
+      "was formed by the",
+      "1898 consolidation"
+    ],
+    [
+      "New York City",
+      "is home to the highest number of",
+      "billionaires and millionaires"
+    ],
+    [
+      "New York City",
+      "is home to the largest foreign-born population of any metropolitan region in",
+      "the world"
+    ],
+    [
+      "Manhattan Island",
+      "was inhabited by",
+      "Munsee-speaking Lenape"
+    ],
+    [
+      "New York City",
+      "has more than double the population of",
+      "Los Angeles"
+    ],
+    [
+      "New York County",
+      "is the most expensive U.S. county for the average home price per square foot",
+      "Manhattan"
+    ],
+    [
+      "New York City",
+      "is one of the world's most populous",
+      "megacities"
+    ],
+    [
+      "New York City",
+      "is known for",
+      "its fast pace and continuous urban energy"
+    ],
+    [
+      "New York City",
+      "was the national capital of",
+      "the United States"
+    ],
+    [
+      "New York City",
+      "is the most expensive city in",
+      "the world for expatriates"
+    ]
+  ]
+}

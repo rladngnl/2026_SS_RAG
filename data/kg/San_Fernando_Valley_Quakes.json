@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "2006",
+    "PDL",
+    "2008",
+    "United States",
+    "blue",
+    "California",
+    "San Fernando Valley Quakes",
+    "USL Premier Development League",
+    "black",
+    "Woodland Hills",
+    "John Shepard Stadium",
+    "Los Angeles Pierce College",
+    "Calabasas"
+  ],
+  "edges": [
+    "played in",
+    "folded in",
+    "is located in",
+    "is located on the campus of",
+    "was part of",
+    "played its home games at",
+    "had colors",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "John Shepard Stadium",
+      "is located on the campus of",
+      "Los Angeles Pierce College"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "is located in",
+      "United States"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "played in",
+      "USL Premier Development League"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "folded in",
+      "2008"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "is based in",
+      "Calabasas"
+    ],
+    [
+      "Los Angeles Pierce College",
+      "is located in",
+      "Woodland Hills"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "played its home games at",
+      "John Shepard Stadium"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "had colors",
+      "blue"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "is located in",
+      "California"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "was founded in",
+      "2006"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "had colors",
+      "black"
+    ],
+    [
+      "San Fernando Valley Quakes",
+      "was part of",
+      "PDL"
+    ]
+  ]
+}

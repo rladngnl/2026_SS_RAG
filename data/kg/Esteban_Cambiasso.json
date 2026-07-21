@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "Scudetti",
+    "Copa América",
+    "2007",
+    "Cuchu",
+    "2011",
+    "2000",
+    "Argentina",
+    "2005 Confederations Cup",
+    "2006 World Cup",
+    "2009–10 UEFA Champions League",
+    "52 caps",
+    "Esteban Cambiasso",
+    "Inter Milan"
+  ],
+  "edges": [
+    "is a former professional footballer from",
+    "was a full international from",
+    "represented Argentina at",
+    "is nicknamed",
+    "won",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Esteban Cambiasso",
+      "is nicknamed",
+      "Cuchu"
+    ],
+    [
+      "Esteban Cambiasso",
+      "was a full international from",
+      "2000 to 2011"
+    ],
+    [
+      "Esteban Cambiasso",
+      "won",
+      "21 official titles"
+    ],
+    [
+      "Esteban Cambiasso",
+      "won",
+      "five Scudetti"
+    ],
+    [
+      "Esteban Cambiasso",
+      "won",
+      "2009–10 UEFA Champions League"
+    ],
+    [
+      "Esteban Cambiasso",
+      "won",
+      "52 caps"
+    ],
+    [
+      "Esteban Cambiasso",
+      "represented Argentina at",
+      "2005 Confederations Cup"
+    ],
+    [
+      "Esteban Cambiasso",
+      "represented Argentina at",
+      "Copa América in 2011"
+    ],
+    [
+      "Esteban Cambiasso",
+      "represented Argentina at",
+      "Copa América in 2007"
+    ],
+    [
+      "Esteban Cambiasso",
+      "represented Argentina at",
+      "2006 World Cup"
+    ],
+    [
+      "Esteban Cambiasso",
+      "played for",
+      "Inter Milan"
+    ],
+    [
+      "Esteban Cambiasso",
+      "is a former professional footballer from",
+      "Argentina"
+    ]
+  ]
+}

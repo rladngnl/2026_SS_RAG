@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "manager",
+    "SVG Reichenau",
+    "Austrian",
+    "Stephan Marasek",
+    "professional football player"
+  ],
+  "edges": [
+    "last managed",
+    "is"
+  ],
+  "relations": [
+    [
+      "Stephan Marasek",
+      "last managed",
+      "SVG Reichenau"
+    ],
+    [
+      "Stephan Marasek",
+      "is",
+      "professional football player"
+    ],
+    [
+      "Stephan Marasek",
+      "is",
+      "manager"
+    ],
+    [
+      "Stephan Marasek",
+      "is",
+      "Austrian"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Foolad F.C.",
+    "defender position",
+    "Georgian",
+    "Jaba Mujiri",
+    "Tbilisi",
+    "Iran Pro League"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "plays for",
+    "plays in the",
+    "was born in"
+  ],
+  "relations": [
+    [
+      "Jaba Mujiri",
+      "was born in",
+      "Tbilisi"
+    ],
+    [
+      "Jaba Mujiri",
+      "is a",
+      "Georgian"
+    ],
+    [
+      "Jaba Mujiri",
+      "plays for",
+      "Foolad F.C."
+    ],
+    [
+      "Jaba Mujiri",
+      "plays in the",
+      "defender position"
+    ],
+    [
+      "Foolad F.C.",
+      "is in",
+      "Iran Pro League"
+    ]
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "entities": [
+    "Holy Roman Empire",
+    "central Italy",
+    "Western Europe",
+    "Belgium",
+    "Holy Roman Emperor",
+    "Central Europe",
+    "Burgundy",
+    "Italy",
+    "Carolingian Empire",
+    "Czech Republic",
+    "Switzerland",
+    "Otto of Saxony",
+    "Emperor Francis II",
+    "Confederation of the Rhine",
+    "Charlemagne",
+    "15th century",
+    "Slovenia",
+    "Monaco",
+    "Pope Leo III",
+    "Liechtenstein",
+    "Early Middle Ages",
+    "Pope John XII",
+    "Austria",
+    "Netherlands",
+    "Luxembourg",
+    "House of Hohenstaufen",
+    "eastern France",
+    "Western Roman Empire",
+    "Germany",
+    "northern Italy",
+    "western Poland",
+    "Otto the Great",
+    "Imperial Reform"
+  ],
+  "edges": [
+    "dissolved",
+    "was crowned by",
+    "was created by",
+    "was headed by",
+    "comprised",
+    "included",
+    "was transformed by",
+    "was King of",
+    "was powerful in"
+  ],
+  "relations": [
+    [
+      "Holy Roman Empire",
+      "comprised",
+      "Italy"
+    ],
+    [
+      "Holy Roman Empire",
+      "comprised",
+      "Germany"
+    ],
+    [
+      "Confederation of the Rhine",
+      "was created by",
+      "French emperor Napoleon"
+    ],
+    [
+      "Charlemagne",
+      "was crowned by",
+      "Pope Leo III"
+    ],
+    [
+      "Otto the Great",
+      "was King of",
+      "Germany"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Slovenia"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Belgium"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Czech Republic"
+    ],
+    [
+      "Holy Roman Empire",
+      "was transformed by",
+      "Imperial Reform"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Austria"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Monaco"
+    ],
+    [
+      "Holy Roman Empire",
+      "comprised",
+      "Burgundy"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Netherlands"
+    ],
+    [
+      "Emperor Francis II",
+      "dissolved",
+      "Holy Roman Empire"
+    ],
+    [
+      "Holy Roman Empire",
+      "was powerful in",
+      "Western Europe"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "western Poland"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "central Italy"
+    ],
+    [
+      "Holy Roman Empire",
+      "was headed by",
+      "Holy Roman Emperor"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Luxembourg"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "northern Italy"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Switzerland"
+    ],
+    [
+      "Otto of Saxony",
+      "was crowned by",
+      "Pope John XII"
+    ],
+    [
+      "Holy Roman Empire",
+      "was powerful in",
+      "Central Europe"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "eastern France"
+    ],
+    [
+      "Holy Roman Empire",
+      "included",
+      "Liechtenstein"
+    ]
+  ]
+}

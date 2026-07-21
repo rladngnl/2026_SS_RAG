@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "South African-born",
+    "British-American",
+    "actor",
+    "21 February 1985",
+    "Louis Hayward",
+    "Louis Charles Hayward",
+    "19 March 1909"
+  ],
+  "edges": [
+    "died on",
+    "was an",
+    "is also known as",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Louis Hayward",
+      "was born on",
+      "19 March 1909"
+    ],
+    [
+      "Louis Hayward",
+      "is also known as",
+      "Louis Charles Hayward"
+    ],
+    [
+      "Louis Hayward",
+      "died on",
+      "21 February 1985"
+    ],
+    [
+      "Louis Hayward",
+      "was",
+      "South African-born"
+    ],
+    [
+      "Louis Hayward",
+      "was an",
+      "actor"
+    ],
+    [
+      "Louis Hayward",
+      "was",
+      "British-American"
+    ]
+  ]
+}

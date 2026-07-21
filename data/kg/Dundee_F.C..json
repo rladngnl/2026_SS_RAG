@@ -1,0 +1,123 @@
+{
+  "entities": [
+    "George Anderson",
+    "European Cup",
+    "Dundee Football Club",
+    "The Dee",
+    "SFL",
+    "Scottish Cup",
+    "Old Firm",
+    "Scotland",
+    "Dundee United",
+    "Scottish Premiership",
+    "Dundee East End",
+    "Dens Park",
+    "Dundee",
+    "Bob Shankly",
+    "Scottish League Cup",
+    "Dundee Our Boys",
+    "Scottish football",
+    "The Dark Blues",
+    "Dundee derby"
+  ],
+  "edges": [
+    "reached the semi-finals of",
+    "are called",
+    "are considered one of the most exciting fixtures in",
+    "has a long-standing rivalry with",
+    "is situated on the same street as",
+    "finished as league runners-up",
+    "is located in",
+    "won the Scottish Football League title in",
+    "plays its home matches at",
+    "finished as Scottish Cup winners in",
+    "currently plays in",
+    "won the League Cup in",
+    "was formed after a merger between",
+    "experienced a revival under",
+    "is based in",
+    "is much friendlier than"
+  ],
+  "relations": [
+    [
+      "Dundee Football Club",
+      "was formed after a merger between",
+      "Dundee East End and Dundee Our Boys"
+    ],
+    [
+      "Dundee Football Club",
+      "is located in",
+      "Scotland"
+    ],
+    [
+      "Dundee Football Club",
+      "finished as league runners-up",
+      "three times in the 1900s"
+    ],
+    [
+      "Dundee Football Club",
+      "has a long-standing rivalry with",
+      "Dundee United"
+    ],
+    [
+      "Dundee Football Club and Dundee United",
+      "are considered one of the most exciting fixtures in",
+      "Scottish football"
+    ],
+    [
+      "Matches between Dundee Football Club and Dundee United",
+      "are called",
+      "the Dundee derby"
+    ],
+    [
+      "Dundee Football Club",
+      "plays its home matches at",
+      "Dens Park"
+    ],
+    [
+      "Dundee Football Club",
+      "reached the semi-finals of",
+      "the 1962–63 European Cup"
+    ],
+    [
+      "the rivalry",
+      "is much friendlier than",
+      "other Scottish derbies such as the Old Firm"
+    ],
+    [
+      "Dundee Football Club",
+      "is based in",
+      "Dundee"
+    ],
+    [
+      "Dundee United",
+      "is situated on the same street as",
+      "Dundee Football Club"
+    ],
+    [
+      "Dundee Football Club",
+      "currently plays in",
+      "Scottish Premiership"
+    ],
+    [
+      "Dundee Football Club",
+      "won the Scottish Football League title in",
+      "1962"
+    ],
+    [
+      "Dundee Football Club",
+      "experienced a revival under",
+      "George Anderson"
+    ],
+    [
+      "Dundee Football Club",
+      "finished as Scottish Cup winners in",
+      "1910"
+    ],
+    [
+      "Dundee Football Club",
+      "won the League Cup in",
+      "the 1973–74 season"
+    ]
+  ]
+}

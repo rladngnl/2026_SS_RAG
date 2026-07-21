@@ -1,0 +1,128 @@
+{
+  "entities": [
+    "Chelsea",
+    "Tianjin Tianhai",
+    "2008 Olympic bronze medal",
+    "Campeonato Paulista",
+    "Serie A Young Footballer of the Year",
+    "Villarreal",
+    "2011 Copa América",
+    "Golden Boy",
+    "2008 FIFA Confederations Cup",
+    "Alexandre Rodrigues da Silva",
+    "AC Milan",
+    "Corinthians",
+    "2012 Olympic silver medal",
+    "2006 FIFA Club World Cup",
+    "São Paulo",
+    "Alexandre Pato",
+    "Brazil",
+    "Serie A",
+    "Internacional"
+  ],
+  "edges": [
+    "signed for",
+    "is known as",
+    "transferred to",
+    "returned to Brazil, signing for",
+    "joined",
+    "began his career as a youth player for",
+    "is a former professional footballer",
+    "was part of the squads which won",
+    "won",
+    "went to",
+    "competed at"
+  ],
+  "relations": [
+    [
+      "Alexandre Pato",
+      "was part of the squads which won",
+      "2008 FIFA Confederations Cup"
+    ],
+    [
+      "Alexandre Pato",
+      "competed at",
+      "2011 Copa América"
+    ],
+    [
+      "Alexandre Pato",
+      "joined",
+      "São Paulo"
+    ],
+    [
+      "Alexandre Pato",
+      "transferred to",
+      "Chelsea"
+    ],
+    [
+      "Alexandre Pato",
+      "won",
+      "2008 Olympic bronze medal"
+    ],
+    [
+      "Alexandre Pato",
+      "signed for",
+      "Tianjin Tianhai"
+    ],
+    [
+      "Alexandre Pato",
+      "went to",
+      "Villarreal"
+    ],
+    [
+      "Alexandre Pato",
+      "began his career as a youth player for",
+      "Internacional"
+    ],
+    [
+      "Corinthians",
+      "won",
+      "Campeonato Paulista"
+    ],
+    [
+      "Alexandre Pato",
+      "won",
+      "Serie A Young Footballer of the Year"
+    ],
+    [
+      "Alexandre Pato",
+      "is known as",
+      "Alexandre Rodrigues da Silva"
+    ],
+    [
+      "Alexandre Pato",
+      "returned to Brazil, signing for",
+      "Corinthians"
+    ],
+    [
+      "AC Milan",
+      "won",
+      "Serie A"
+    ],
+    [
+      "Internacional",
+      "won",
+      "2006 FIFA Club World Cup"
+    ],
+    [
+      "Alexandre Pato",
+      "signed for",
+      "AC Milan"
+    ],
+    [
+      "Alexandre Pato",
+      "won",
+      "2012 Olympic silver medal"
+    ],
+    [
+      "Alexandre Pato",
+      "is a former professional footballer",
+      "Brazil"
+    ],
+    [
+      "Alexandre Pato",
+      "won",
+      "Golden Boy"
+    ]
+  ]
+}

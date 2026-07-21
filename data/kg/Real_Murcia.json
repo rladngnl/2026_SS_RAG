@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "Primera Federación",
+    "Group 2",
+    "Spanish Royal Federation Cup",
+    "Murcia",
+    "Segunda División",
+    "Estadio Nueva Condomina",
+    "1919",
+    "scarlet shirt",
+    "Real Murcia Club de Fútbol",
+    "white shorts",
+    "31,179 spectators",
+    "Spanish football club",
+    "Región de Murcia",
+    "Real Murcia"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is commonly known as",
+    "has won",
+    "is located in",
+    "plays in",
+    "has home colours of",
+    "holds",
+    "plays home matches at",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Real Murcia Club de Fútbol",
+      "is located in",
+      "Región de Murcia"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "is in",
+      "Group 2"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "is a",
+      "Spanish football club"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "plays in",
+      "Primera Federación"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "is based in",
+      "Murcia"
+    ],
+    [
+      "Estadio Nueva Condomina",
+      "holds",
+      "31,179 spectators"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "has won",
+      "1 Spanish Royal Federation Cup"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "was founded in",
+      "1919"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "has won",
+      "8 Segunda División titles"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "has home colours of",
+      "scarlet shirt"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "is commonly known as",
+      "Real Murcia"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "plays home matches at",
+      "Estadio Nueva Condomina"
+    ],
+    [
+      "Real Murcia Club de Fútbol",
+      "has home colours of",
+      "white shorts"
+    ]
+  ]
+}

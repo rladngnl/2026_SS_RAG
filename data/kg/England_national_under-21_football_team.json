@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "Wales",
+    "Calum Chambers",
+    "England",
+    "UEFA European Under-21 Championship",
+    "England U21(s)",
+    "England under-21s",
+    "Football Association",
+    "Emile Smith Rowe",
+    "England U21s",
+    "John Stones",
+    "Molineux Stadium",
+    "Wembley Stadium",
+    "Harry Kane",
+    "2007 FA Cup final",
+    "Italy U21",
+    "England national under-21 football team",
+    "Jack Butland"
+  ],
+  "edges": [
+    "hosted the required two events for",
+    "is controlled by",
+    "is also known as",
+    "played against",
+    "played in front of a crowd of",
+    "played at",
+    "is considered to be the feeder team for",
+    "came into existence in"
+  ],
+  "relations": [
+    [
+      "England national under-21 football team",
+      "is controlled by",
+      "Football Association"
+    ],
+    [
+      "England national under-21 football team",
+      "is also known as",
+      "England U21(s)"
+    ],
+    [
+      "England U21s",
+      "played against",
+      "Italy U21"
+    ],
+    [
+      "England national under-21 football team",
+      "is considered to be the feeder team for",
+      "England national football team"
+    ],
+    [
+      "England national under-21 football team",
+      "came into existence in",
+      "1976"
+    ],
+    [
+      "England national under-21 football team",
+      "is also known as",
+      "England under-21s"
+    ],
+    [
+      "England national under-21 football team",
+      "played against",
+      "Wales"
+    ],
+    [
+      "England U21s",
+      "played at",
+      "Wembley Stadium"
+    ],
+    [
+      "England U21s",
+      "played in front of a crowd of",
+      "just under 60,000"
+    ],
+    [
+      "Wembley Stadium",
+      "hosted the required two events for",
+      "2007 FA Cup final"
+    ]
+  ]
+}

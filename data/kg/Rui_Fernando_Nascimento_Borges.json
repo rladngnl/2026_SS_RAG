@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "footballer",
+    "Portugal",
+    "Rui Fernando Nascimento Borges",
+    "14 December 1973",
+    "attacking midfielder"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Rui Fernando Nascimento Borges",
+      "was born on",
+      "14 December 1973"
+    ],
+    [
+      "Rui Fernando Nascimento Borges",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Rui Fernando Nascimento Borges",
+      "played as",
+      "attacking midfielder"
+    ],
+    [
+      "Rui Fernando Nascimento Borges",
+      "is from",
+      "Portugal"
+    ]
+  ]
+}

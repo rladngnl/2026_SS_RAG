@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "1929",
+    "1993–94",
+    "Teramo",
+    "Italian association football club",
+    "Serie D championships",
+    "Abruzzo",
+    "Società Sportiva Dilettantistica Città di Teramo",
+    "2001-2002",
+    "S.S. Teramo Calcio",
+    "Serie C2 championships",
+    "1913",
+    "2011–12",
+    "1984 Anglo-Italian Cup",
+    "Serie C",
+    "Serie D",
+    "1985–86",
+    "1973–74"
+  ],
+  "edges": [
+    "is located in",
+    "plays in",
+    "has played mainly in",
+    "came 2nd place in",
+    "origin is traced back to",
+    "includes",
+    "won in",
+    "is",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Serie C2 championships",
+      "won in",
+      "1985–86"
+    ],
+    [
+      "Serie D championships",
+      "won in",
+      "1973–74"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "was founded in",
+      "1929"
+    ],
+    [
+      "Serie D championships",
+      "won in",
+      "2011–12"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "includes",
+      "Serie C2 championships"
+    ],
+    [
+      "Serie C2 championships",
+      "won in",
+      "2001-2002"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "includes",
+      "Serie D championships"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "is based in",
+      "Teramo"
+    ],
+    [
+      "Serie D championships",
+      "won in",
+      "1993–94"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "has played mainly in",
+      "Serie C"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "is",
+      "Società Sportiva Dilettantistica Città di Teramo"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "origin is traced back to",
+      "1913"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "is located in",
+      "Abruzzo"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "came 2nd place in",
+      "1984 Anglo-Italian Cup"
+    ],
+    [
+      "S.S. Teramo Calcio",
+      "plays in",
+      "Serie D"
+    ]
+  ]
+}

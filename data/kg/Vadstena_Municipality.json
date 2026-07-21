@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "1970s",
+    "Vadstena Municipality",
+    "Sweden",
+    "Motala Municipality",
+    "Östergötland County",
+    "Vadstena",
+    "1980",
+    "12 original units"
+  ],
+  "edges": [
+    "was merged into",
+    "was created in",
+    "contains",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Motala Municipality",
+      "was created in",
+      "1970s"
+    ],
+    [
+      "Vadstena Municipality",
+      "contains",
+      "12 original units"
+    ],
+    [
+      "Vadstena Municipality",
+      "was created in",
+      "1980"
+    ],
+    [
+      "Vadstena Municipality",
+      "is located in",
+      "Sweden"
+    ],
+    [
+      "Vadstena Municipality",
+      "is located in",
+      "Östergötland County"
+    ],
+    [
+      "Vadstena",
+      "was merged into",
+      "Motala Municipality"
+    ]
+  ]
+}

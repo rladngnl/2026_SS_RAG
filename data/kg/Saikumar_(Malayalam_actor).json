@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "villain role",
+    "Malayalam films",
+    "Kottarakkara Sreedharan Nair",
+    "hero role",
+    "Ramji Rao Speaking",
+    "Sai Kumar",
+    "Saikumar",
+    "Indian actor",
+    "Makkal Mahatmyam"
+  ],
+  "edges": [
+    "appears in",
+    "plays",
+    "notably plays in",
+    "is",
+    "is son of"
+  ],
+  "relations": [
+    [
+      "Saikumar",
+      "is son of",
+      "Kottarakkara Sreedharan Nair"
+    ],
+    [
+      "Saikumar",
+      "is",
+      "Indian actor"
+    ],
+    [
+      "Saikumar",
+      "notably plays in",
+      "Ramji Rao Speaking"
+    ],
+    [
+      "Saikumar",
+      "plays",
+      "villain role"
+    ],
+    [
+      "Saikumar",
+      "appears in",
+      "Malayalam films"
+    ],
+    [
+      "Saikumar",
+      "plays",
+      "hero role"
+    ],
+    [
+      "Saikumar",
+      "notably plays in",
+      "Makkal Mahatmyam"
+    ]
+  ]
+}

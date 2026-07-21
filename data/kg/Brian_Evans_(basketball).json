@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "Orlando Magic",
+    "Viola Reggio Calabria",
+    "1996 NBA draft",
+    "basketball",
+    "27th overall pick",
+    "220 lb",
+    "Italy",
+    "Montepaschi Siena",
+    "forward",
+    "professional basketball player",
+    "medical products",
+    "Lineltex Imola",
+    "Brian Keith Evans",
+    "co-owner",
+    "Indianapolis",
+    "2016",
+    "Big Ten MVP",
+    "Hoosiers",
+    "American",
+    "Indiana University",
+    "Terre Haute",
+    "Indiana South",
+    "National Basketball Association",
+    "1996",
+    "Precision Medical Group",
+    "6'8\"",
+    "NBA"
+  ],
+  "edges": [
+    "was the co-owner of",
+    "is a",
+    "played in",
+    "was selected with the",
+    "in the",
+    "played for",
+    "played professionally in",
+    "was named",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Brian Keith Evans",
+      "played professionally in",
+      "Italy"
+    ],
+    [
+      "Brian Keith Evans",
+      "was selected with the",
+      "27th overall pick"
+    ],
+    [
+      "Brian Keith Evans",
+      "was named",
+      "Big Ten MVP"
+    ],
+    [
+      "Brian Keith Evans",
+      "is a",
+      "professional basketball player"
+    ],
+    [
+      "Brian Keith Evans",
+      "played for",
+      "Hoosiers"
+    ],
+    [
+      "Brian Keith Evans",
+      "played in",
+      "National Basketball Association"
+    ],
+    [
+      "Brian Keith Evans",
+      "was the co-owner of",
+      "Precision Medical Group"
+    ],
+    [
+      "27th overall pick",
+      "in the",
+      "1996 NBA draft"
+    ],
+    [
+      "Precision Medical Group",
+      "is based in",
+      "Indianapolis"
+    ]
+  ]
+}

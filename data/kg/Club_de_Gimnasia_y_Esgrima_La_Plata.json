@@ -1,0 +1,182 @@
+{
+  "entities": [
+    "Buenos Aires Province",
+    "boxing",
+    "tennis",
+    "basketball",
+    "martial arts",
+    "football team",
+    "La Plata",
+    "swimming",
+    "weightlifting",
+    "1887",
+    "roller skating",
+    "artistic gymnastics",
+    "Argentina",
+    "futsal",
+    "volleyball",
+    "field hockey",
+    "taekwondo",
+    "Club de Gimnasia y Esgrima La Plata",
+    "aikido",
+    "Diego Maradona",
+    "fencing",
+    "athletics",
+    "November 2020",
+    "chess",
+    "September 2019",
+    "Primera División",
+    "Argentine football league system",
+    "kendo",
+    "karate",
+    "Gimnasia"
+  ],
+  "edges": [
+    "managed",
+    "is known for",
+    "plays in",
+    "hosts",
+    "was founded in",
+    "is part of",
+    "passed away in",
+    "is based in",
+    "was active from"
+  ],
+  "relations": [
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "is known for",
+      "football team"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "futsal"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "volleyball"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "karate"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "roller skating"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "is based in",
+      "La Plata"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "field hockey"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "was founded in",
+      "1887"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "aikido"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "artistic gymnastics"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "fencing"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "weightlifting"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "martial arts"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "kendo"
+    ],
+    [
+      "Diego Maradona",
+      "passed away in",
+      "November 2020"
+    ],
+    [
+      "football team",
+      "is part of",
+      "Argentine football league system"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "boxing"
+    ],
+    [
+      "Diego Maradona",
+      "managed",
+      "football team"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "swimming"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "tennis"
+    ],
+    [
+      "football team",
+      "plays in",
+      "Primera División"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "athletics"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "taekwondo"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "basketball"
+    ],
+    [
+      "Diego Maradona",
+      "managed",
+      "Club de Gimnasia y Esgrima La Plata"
+    ],
+    [
+      "Club de Gimnasia y Esgrima La Plata",
+      "hosts",
+      "chess"
+    ],
+    [
+      "Diego Maradona",
+      "was active from",
+      "September 2019"
+    ]
+  ]
+}

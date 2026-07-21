@@ -1,0 +1,122 @@
+{
+  "entities": [
+    "University of Vienna",
+    "1365",
+    "Nobel Prize laureates",
+    "Sigmund Freud",
+    "Austrian German",
+    "185 degree programmes",
+    "Friedrich Hayek",
+    "Erwin Schrödinger",
+    "Gregor Mendel",
+    "Karl Popper",
+    "Austria",
+    "Universität Wien",
+    "Gustav Mahler",
+    "Stefan Zweig",
+    "academic year 2024–2025",
+    "Europe",
+    "Duke Rudolph IV",
+    "Vienna",
+    "Ludwig von Mises"
+  ],
+  "edges": [
+    "is the oldest university in",
+    "is in",
+    "is a public research university in",
+    "is one of the largest institutions of higher learning in",
+    "has been home to",
+    "is associated with",
+    "offers",
+    "was founded by",
+    "was founded in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "University of Vienna",
+      "has been home to",
+      "Karl Popper"
+    ],
+    [
+      "University of Vienna",
+      "is the oldest university in",
+      "the German-speaking world"
+    ],
+    [
+      "University of Vienna",
+      "is located in",
+      "Vienna"
+    ],
+    [
+      "University of Vienna",
+      "offers",
+      "185 degree programmes"
+    ],
+    [
+      "University of Vienna",
+      "was founded by",
+      "Duke Rudolph IV"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Erwin Schrödinger"
+    ],
+    [
+      "University of Vienna",
+      "is a public research university in",
+      "Vienna"
+    ],
+    [
+      "University of Vienna",
+      "is one of the largest institutions of higher learning in",
+      "Europe"
+    ],
+    [
+      "University of Vienna",
+      "is in",
+      "Austria"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Gustav Mahler"
+    ],
+    [
+      "University of Vienna",
+      "was founded in",
+      "1365"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Sigmund Freud"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Gregor Mendel"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Friedrich Hayek"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Ludwig von Mises"
+    ],
+    [
+      "University of Vienna",
+      "has been home to",
+      "Stefan Zweig"
+    ],
+    [
+      "University of Vienna",
+      "is associated with",
+      "Nobel Prize laureates"
+    ]
+  ]
+}

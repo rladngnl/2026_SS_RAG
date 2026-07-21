@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "interim head coach",
+    "K League 1",
+    "K-League",
+    "defender",
+    "South Korea",
+    "Ulsan HD",
+    "Lee Kyung-soo",
+    "football"
+  ],
+  "edges": [
+    "is in",
+    "played in",
+    "is from",
+    "is the interim head coach of",
+    "is a former"
+  ],
+  "relations": [
+    [
+      "Lee Kyung-soo",
+      "is from",
+      "South Korea"
+    ],
+    [
+      "Lee Kyung-soo",
+      "is a former",
+      "defender"
+    ],
+    [
+      "Lee Kyung-soo",
+      "is the interim head coach of",
+      "Ulsan HD"
+    ],
+    [
+      "Ulsan HD",
+      "is in",
+      "K League 1"
+    ],
+    [
+      "Lee Kyung-soo",
+      "played in",
+      "K-League"
+    ]
+  ]
+}

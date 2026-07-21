@@ -1,0 +1,174 @@
+{
+  "entities": [
+    "December 1997",
+    "IBM calculating machines",
+    "Los Alamos Laboratory",
+    "sphere-packing",
+    "computer science",
+    "Manhattan Project",
+    "Hamming window",
+    "Naval Postgraduate School",
+    "Waldemar Trjitzinsky",
+    "heart attack",
+    "University of Nebraska",
+    "American mathematician",
+    "Hamming distance",
+    "Hamming matrix",
+    "Hamming graph",
+    "Hamming numbers",
+    "Hamming bound",
+    "Chicago",
+    "University of Chicago",
+    "University of Illinois at Urbana–Champaign",
+    "January 7, 1998",
+    "Bell Telephone Laboratories",
+    "ACM Turing Award",
+    "Monterey, California",
+    "Hamming code",
+    "Richard Hamming"
+  ],
+  "edges": [
+    "worked as",
+    "died from",
+    "died on",
+    "joined",
+    "received",
+    "wrote his doctoral thesis under the supervision of",
+    "took a position at",
+    "contributed to",
+    "was born in",
+    "attended",
+    "delivered his last lecture in",
+    "worked in",
+    "programmed",
+    "was",
+    "worked at"
+  ],
+  "relations": [
+    [
+      "Richard Hamming",
+      "attended",
+      "University of Illinois at Urbana–Champaign"
+    ],
+    [
+      "Richard Hamming",
+      "died on",
+      "January 7, 1998"
+    ],
+    [
+      "Richard Hamming",
+      "took a position at",
+      "Naval Postgraduate School"
+    ],
+    [
+      "Richard Hamming",
+      "was",
+      "American mathematician"
+    ],
+    [
+      "Richard Hamming",
+      "joined",
+      "Bell Telephone Laboratories"
+    ],
+    [
+      "Richard Hamming",
+      "worked in",
+      "computer science"
+    ],
+    [
+      "Richard Hamming",
+      "delivered his last lecture in",
+      "December 1997"
+    ],
+    [
+      "Richard Hamming",
+      "died from",
+      "heart attack"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming bound"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming matrix"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming window"
+    ],
+    [
+      "Richard Hamming",
+      "wrote his doctoral thesis under the supervision of",
+      "Waldemar Trjitzinsky"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "sphere-packing"
+    ],
+    [
+      "Richard Hamming",
+      "worked at",
+      "Los Alamos Laboratory"
+    ],
+    [
+      "Richard Hamming",
+      "joined",
+      "Manhattan Project"
+    ],
+    [
+      "Richard Hamming",
+      "attended",
+      "University of Chicago"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming distance"
+    ],
+    [
+      "Richard Hamming",
+      "worked as",
+      "adjunct professor"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming graph"
+    ],
+    [
+      "Richard Hamming",
+      "received",
+      "ACM Turing Award"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming code"
+    ],
+    [
+      "Richard Hamming",
+      "was born in",
+      "Chicago"
+    ],
+    [
+      "Richard Hamming",
+      "contributed to",
+      "Hamming numbers"
+    ],
+    [
+      "Richard Hamming",
+      "programmed",
+      "IBM calculating machines"
+    ],
+    [
+      "Richard Hamming",
+      "attended",
+      "University of Nebraska"
+    ]
+  ]
+}

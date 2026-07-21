@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Spanish",
+    "25 July 1979",
+    "goalkeeper",
+    "former professional footballer",
+    "David Rangel Pastor"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "David Rangel Pastor",
+      "is",
+      "Spanish"
+    ],
+    [
+      "David Rangel Pastor",
+      "was born on",
+      "25 July 1979"
+    ],
+    [
+      "David Rangel Pastor",
+      "played as",
+      "goalkeeper"
+    ],
+    [
+      "David Rangel Pastor",
+      "is a",
+      "former professional footballer"
+    ]
+  ]
+}

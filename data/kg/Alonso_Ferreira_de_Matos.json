@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "Villa Nova Atlético Clube",
+    "Cruzeiro",
+    "Marítimo",
+    "footballer",
+    "Paysandu",
+    "Portugal",
+    "Brazil",
+    "2009",
+    "Campeonato Brasileiro",
+    "Montes Claros",
+    "July 2004",
+    "C.D. Nacional",
+    "Benfica",
+    "left back",
+    "Criciúma",
+    "Fluminense",
+    "Alonso Ferreira de Matos"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "moved in",
+    "is a rival of",
+    "plays for",
+    "spent five seasons with",
+    "debuted with a goal against",
+    "was born in",
+    "moved to",
+    "signed with",
+    "plays as a",
+    "previously played for"
+  ],
+  "relations": [
+    [
+      "Alonso Ferreira de Matos",
+      "previously played for",
+      "Fluminense"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "moved in",
+      "July 2004"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "was born in",
+      "Montes Claros"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "moved to",
+      "Portugal"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "spent five seasons with",
+      "C.D. Nacional"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "previously played for",
+      "Criciúma"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "previously played for",
+      "Cruzeiro"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "previously played for",
+      "Paysandu"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "played in",
+      "Campeonato Brasileiro"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "plays as a",
+      "left back"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "signed with",
+      "Marítimo"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "plays for",
+      "Villa Nova Atlético Clube"
+    ],
+    [
+      "Alonso Ferreira de Matos",
+      "debuted with a goal against",
+      "Benfica"
+    ],
+    [
+      "Marítimo",
+      "is a rival of",
+      "C.D. Nacional"
+    ]
+  ]
+}

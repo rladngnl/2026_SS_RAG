@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "sexual intercourse",
+    "Fuck",
+    "intensifier",
+    "film",
+    "vulgar",
+    "interjection",
+    "English term"
+  ],
+  "edges": [
+    "refers to",
+    "is used as",
+    "is",
+    "is considered"
+  ],
+  "relations": [
+    [
+      "Fuck",
+      "is used as",
+      "interjection"
+    ],
+    [
+      "Fuck",
+      "is",
+      "English term"
+    ],
+    [
+      "Fuck",
+      "is considered",
+      "vulgar"
+    ],
+    [
+      "Fuck",
+      "refers to",
+      "sexual intercourse"
+    ],
+    [
+      "Fuck",
+      "is used as",
+      "intensifier"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "manager",
+    "Italian",
+    "footballer",
+    "Castel Rigone",
+    "Serie A",
+    "Lega Pro Seconda Divisione",
+    "head coach",
+    "Marco Di Loreto"
+  ],
+  "edges": [
+    "has played over",
+    "is former head coach of",
+    "is a club in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Castel Rigone",
+      "is a club in",
+      "Lega Pro Seconda Divisione"
+    ],
+    [
+      "Marco Di Loreto",
+      "is",
+      "footballer"
+    ],
+    [
+      "Marco Di Loreto",
+      "has played over",
+      "200 matches at Serie A"
+    ],
+    [
+      "Marco Di Loreto",
+      "is former head coach of",
+      "Castel Rigone"
+    ],
+    [
+      "Marco Di Loreto",
+      "is",
+      "Italian"
+    ],
+    [
+      "Marco Di Loreto",
+      "is",
+      "manager"
+    ]
+  ]
+}

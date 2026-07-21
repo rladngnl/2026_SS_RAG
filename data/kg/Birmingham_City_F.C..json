@@ -1,0 +1,181 @@
+{
+  "entities": [
+    "Birmingham",
+    "2011",
+    "First Division",
+    "Birmingham City Football Club",
+    "1963",
+    "1960",
+    "2002",
+    "St. Andrew's @ Knighthead Park",
+    "Championship",
+    "2024",
+    "England",
+    "1956 FA Cup",
+    "Football League Trophy",
+    "Blues",
+    "Second City derby",
+    "1955–56 season",
+    "1960s",
+    "St Andrew's",
+    "1986",
+    "Bordesley",
+    "Small Heath Alliance",
+    "League Cup",
+    "Bluenoses",
+    "Inter-Cities Fairs Cup",
+    "Aston Villa",
+    "Small Heath",
+    "Football Alliance",
+    "Football League Second Division",
+    "1950s"
+  ],
+  "edges": [
+    "plays the",
+    "has been home ground since",
+    "is known for",
+    "won",
+    "competes in",
+    "was the first English club side to reach",
+    "played in",
+    "was renamed",
+    "is currently known as",
+    "was renamed in",
+    "achieved highest finishing position of",
+    "is based in",
+    "was first champions of",
+    "is known as",
+    "was formed as",
+    "fans are known as",
+    "has a long-standing rivalry with",
+    "reached",
+    "has played in the top tier of"
+  ],
+  "relations": [
+    [
+      "Birmingham City Football Club",
+      "reached",
+      "1956 FA Cup final"
+    ],
+    [
+      "Birmingham City Football Club",
+      "achieved highest finishing position of",
+      "sixth in the First Division"
+    ],
+    [
+      "Birmingham City Football Club",
+      "is known as",
+      "Blues"
+    ],
+    [
+      "St Andrew's",
+      "has been home ground since",
+      "1906"
+    ],
+    [
+      "Birmingham City Football Club",
+      "is based in",
+      "Bordesley"
+    ],
+    [
+      "Birmingham City Football Club",
+      "is based in",
+      "England"
+    ],
+    [
+      "Birmingham City Football Club",
+      "was first champions of",
+      "Football League Second Division"
+    ],
+    [
+      "Birmingham City Football Club",
+      "is based in",
+      "Birmingham"
+    ],
+    [
+      "St Andrew's",
+      "is currently known as",
+      "St. Andrew's @ Knighthead Park"
+    ],
+    [
+      "Birmingham",
+      "was renamed",
+      "Birmingham City"
+    ],
+    [
+      "Birmingham City Football Club",
+      "has played in the top tier of",
+      "English football"
+    ],
+    [
+      "Birmingham City Football Club",
+      "competes in",
+      "Championship"
+    ],
+    [
+      "Birmingham City Football Club",
+      "fans are known as",
+      "Bluenoses"
+    ],
+    [
+      "Birmingham City Football Club",
+      "plays the",
+      "Second City derby"
+    ],
+    [
+      "Birmingham City Football Club",
+      "won",
+      "Football League Trophy"
+    ],
+    [
+      "Birmingham City Football Club",
+      "played in",
+      "Inter-Cities Fairs Cup"
+    ],
+    [
+      "Birmingham City Football Club",
+      "was the first English club side to reach",
+      "a major European final"
+    ],
+    [
+      "Small Heath Alliance",
+      "was renamed",
+      "Small Heath"
+    ],
+    [
+      "Birmingham City Football Club",
+      "was formed as",
+      "Small Heath Alliance"
+    ],
+    [
+      "Birmingham City Football Club",
+      "has a long-standing rivalry with",
+      "Aston Villa"
+    ],
+    [
+      "Birmingham City Football Club",
+      "won",
+      "League Cup"
+    ],
+    [
+      "St. Andrew's @ Knighthead Park",
+      "was renamed in",
+      "2024"
+    ],
+    [
+      "St. Andrew's @ Knighthead Park",
+      "is known for",
+      "sponsorship reasons"
+    ],
+    [
+      "Small Heath",
+      "was renamed",
+      "Birmingham"
+    ],
+    [
+      "Small Heath",
+      "played in",
+      "Football Alliance"
+    ]
+  ]
+}

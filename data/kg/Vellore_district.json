@@ -1,0 +1,68 @@
+{
+  "entities": [
+    "India",
+    "1,007 females",
+    "2011",
+    "smart city project",
+    "26 other cities",
+    "1,000 males",
+    "2017",
+    "Human Development Index",
+    "Vellore_district",
+    "Government of India",
+    "Vellore city",
+    "1,614,242",
+    "Tamil Nadu"
+  ],
+  "edges": [
+    "ranked eleventh in",
+    "had a population of",
+    "included",
+    "had a sex ratio of",
+    "has headquarters in",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Vellore_district",
+      "had a population of",
+      "1,614,242"
+    ],
+    [
+      "Vellore_district",
+      "ranked eleventh in",
+      "Human Development Index"
+    ],
+    [
+      "Vellore_district",
+      "is part of",
+      "India"
+    ],
+    [
+      "Government of India",
+      "included",
+      "Vellore city in smart city project"
+    ],
+    [
+      "Government of India",
+      "included",
+      "26 other cities in smart city project"
+    ],
+    [
+      "Vellore_district",
+      "had a sex ratio of",
+      "1,007 females for every 1,000 males"
+    ],
+    [
+      "Vellore_district",
+      "has headquarters in",
+      "Vellore city"
+    ],
+    [
+      "Vellore_district",
+      "is located in",
+      "Tamil Nadu"
+    ]
+  ]
+}

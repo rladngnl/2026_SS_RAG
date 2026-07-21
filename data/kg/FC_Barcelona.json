@@ -1,0 +1,243 @@
+{
+  "entities": [
+    "82 trophies",
+    "Cant del Barça",
+    "FIFA World Player of the Year",
+    "29 La Liga",
+    "two Latin Cups",
+    "Ronaldo",
+    "Més que un club",
+    "three Inter-Cities Fairs Cups",
+    "Rivaldo",
+    "Ronaldinho",
+    "Joan Gamper",
+    "Romário",
+    "five UEFA Champions League titles",
+    "Ballon d'Or",
+    "Catalanism",
+    "International Federation of Football History & Statistics",
+    "Pep Guardiola",
+    "La Liga",
+    "continental treble",
+    "Barça",
+    "Josep Maria Espinàs",
+    "€800.1 million",
+    "Spain",
+    "five UEFA Super Cups",
+    "Real Madrid",
+    "FC Barcelona",
+    "El Clásico",
+    "Blaugrana",
+    "$5.6 billion",
+    "32 Copa del Rey",
+    "Athletic Bilbao",
+    "Johan Cruyff",
+    "Catalan culture",
+    "three FIFA Club World Cups",
+    "Xavi",
+    "22 European titles",
+    "Barcelona",
+    "Lionel Messi",
+    "Futbol Club Barcelona",
+    "Andrés Iniesta",
+    "Luis Enrique",
+    "Catalonia",
+    "Primera División",
+    "2 Copa de la Liga",
+    "16 Supercopa de España",
+    "four UEFA Cup Winners' Cups",
+    "Jaume Picas i Guiu",
+    "Club World Ranking",
+    "3 Copa Eva Duarte"
+  ],
+  "edges": [
+    "became the first Spanish club to win",
+    "is referred to as",
+    "was ranked first in",
+    "is worth",
+    "has a motto",
+    "is one of three founding members of",
+    "became the first European football club to win",
+    "competes in",
+    "became European champions again in",
+    "became the first European football club in history to achieve",
+    "was founded by",
+    "is based in",
+    "has an annual turnover of",
+    "is commonly known as",
+    "has won a joint record",
+    "won fourteen trophies under",
+    "has become a symbol of",
+    "has a long-standing rivalry with",
+    "has won",
+    "was chosen as",
+    "has won a record"
+  ],
+  "relations": [
+    [
+      "FC Barcelona",
+      "has won",
+      "32 Copa del Rey"
+    ],
+    [
+      "FC Barcelona",
+      "has a motto",
+      "Més que un club"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "five UEFA Super Cups"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "three FIFA Club World Cups"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "29 La Liga"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "82 trophies"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "2 Copa de la Liga"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "3 Copa Eva Duarte"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "five UEFA Champions League titles"
+    ],
+    [
+      "FC Barcelona",
+      "became the first European football club in history to achieve",
+      "the continental treble twice"
+    ],
+    [
+      "FC Barcelona",
+      "is one of three founding members of",
+      "Primera División"
+    ],
+    [
+      "FC Barcelona",
+      "won fourteen trophies under",
+      "manager Pep Guardiola"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "four UEFA Cup Winners' Cups"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "two Latin Cups"
+    ],
+    [
+      "FC Barcelona",
+      "has become a symbol of",
+      "Catalan culture"
+    ],
+    [
+      "FC Barcelona",
+      "was founded by",
+      "Joan Gamper"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "three Inter-Cities Fairs Cups"
+    ],
+    [
+      "FC Barcelona",
+      "is worth",
+      "$5.6 billion"
+    ],
+    [
+      "FC Barcelona",
+      "became European champions again in",
+      "2011"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "16 Supercopa de España"
+    ],
+    [
+      "FC Barcelona",
+      "became the first European football club to win",
+      "six competitions in a single year"
+    ],
+    [
+      "FC Barcelona",
+      "has won a record",
+      "six FIFA World Player of the Year awards"
+    ],
+    [
+      "FC Barcelona",
+      "is based in",
+      "Barcelona"
+    ],
+    [
+      "FC Barcelona",
+      "is commonly known as",
+      "Barça"
+    ],
+    [
+      "FC Barcelona",
+      "has a long-standing rivalry with",
+      "Real Madrid"
+    ],
+    [
+      "FC Barcelona",
+      "is referred to as",
+      "El Clásico"
+    ],
+    [
+      "FC Barcelona",
+      "has won",
+      "22 European titles"
+    ],
+    [
+      "FC Barcelona",
+      "was ranked first in",
+      "International Federation of Football History & Statistics Club World Ranking"
+    ],
+    [
+      "FC Barcelona",
+      "competes in",
+      "La Liga"
+    ],
+    [
+      "FC Barcelona",
+      "has won a joint record",
+      "twelve Ballon d'Or awards"
+    ],
+    [
+      "FC Barcelona",
+      "became the first Spanish club to win",
+      "the continental treble"
+    ],
+    [
+      "FC Barcelona",
+      "has an annual turnover of",
+      "€800.1 million"
+    ],
+    [
+      "Lionel Messi",
+      "was chosen as",
+      "the best player in the world in the Ballon d'Or ranking"
+    ]
+  ]
+}

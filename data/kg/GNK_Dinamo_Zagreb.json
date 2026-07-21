@@ -1,0 +1,113 @@
+{
+  "entities": [
+    "Dinamo Zagreb Academy",
+    "GNK Dinamo Zagreb",
+    "Croatian Football League",
+    "Zagreb",
+    "UEFA Champions League",
+    "Hajduk Split",
+    "Leeds United",
+    "royal blue",
+    "Inter-Cities Fairs Cup",
+    "HNL",
+    "Croatia Zagreb",
+    "Yugoslav champions",
+    "Prva HNL",
+    "Eternal Derby",
+    "HAŠK Građanski",
+    "Yugoslav First League",
+    "Valencia",
+    "navy blue",
+    "Croatian professional football club"
+  ],
+  "edges": [
+    "was known as",
+    "is a",
+    "has biggest rivals",
+    "has won",
+    "has traditional colour",
+    "jointly contests",
+    "has youth academy",
+    "has replaced colour for European matches with",
+    "competes in",
+    "is based in",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "GNK Dinamo Zagreb",
+      "has biggest rivals",
+      "Hajduk Split"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "was known as",
+      "Croatia Zagreb"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "jointly contests",
+      "Eternal Derby"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has won",
+      "twenty-six league titles"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has won",
+      "eight Croatian Super Cups"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has youth academy",
+      "Dinamo Zagreb Academy"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has won",
+      "eighteen Croatian Cups"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "participated in",
+      "UEFA Champions League"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has traditional colour",
+      "royal blue"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "competes in",
+      "Croatian Football League"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has replaced colour for European matches with",
+      "navy blue"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "is a",
+      "Croatian professional football club"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "was known as",
+      "HAŠK Građanski"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "is based in",
+      "Zagreb"
+    ],
+    [
+      "GNK Dinamo Zagreb",
+      "has won",
+      "one Inter-Cities Fairs Cup"
+    ]
+  ]
+}

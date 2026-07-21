@@ -1,0 +1,109 @@
+{
+  "entities": [
+    "humanitarian organisation",
+    "November 2007",
+    "football team",
+    "SCAA",
+    "Asia",
+    "sports association",
+    "Hong Kong footballers",
+    "41 First Division titles",
+    "2016–17 season",
+    "South China",
+    "football league system",
+    "Hong Kong First Division",
+    "South China Athletic Association",
+    "Hong Kong",
+    "Hong Kong Red Cross",
+    "Shaolin Temple",
+    "Caroliners",
+    "10 FA Cups",
+    "31 Senior Shields",
+    "Happy Valley Recreation Ground",
+    "3 League Cups"
+  ],
+  "edges": [
+    "is known as",
+    "is abbreviated as",
+    "has produced",
+    "has won",
+    "is nicknamed",
+    "plays home matches at",
+    "self-relegated after",
+    "competes in",
+    "is the most successful club in",
+    "entered into a charity partnership with"
+  ],
+  "relations": [
+    [
+      "South China Athletic Association",
+      "has won",
+      "10 FA Cups"
+    ],
+    [
+      "South China Athletic Association",
+      "has produced",
+      "Hong Kong footballers"
+    ],
+    [
+      "South China Athletic Association",
+      "is nicknamed",
+      "Shaolin Temple"
+    ],
+    [
+      "South China Athletic Association",
+      "is the most successful club in",
+      "Asia"
+    ],
+    [
+      "South China Athletic Association",
+      "self-relegated after",
+      "2016–17 season"
+    ],
+    [
+      "South China Athletic Association",
+      "is nicknamed",
+      "Caroliners"
+    ],
+    [
+      "South China Athletic Association",
+      "plays home matches at",
+      "Happy Valley Recreation Ground"
+    ],
+    [
+      "South China Athletic Association",
+      "is known as",
+      "South China"
+    ],
+    [
+      "South China Athletic Association",
+      "has won",
+      "3 League Cups"
+    ],
+    [
+      "South China Athletic Association",
+      "entered into a charity partnership with",
+      "Hong Kong Red Cross"
+    ],
+    [
+      "South China Athletic Association",
+      "has won",
+      "41 First Division titles"
+    ],
+    [
+      "South China Athletic Association",
+      "has won",
+      "31 Senior Shields"
+    ],
+    [
+      "South China Athletic Association",
+      "competes in",
+      "Hong Kong First Division"
+    ],
+    [
+      "South China Athletic Association",
+      "is abbreviated as",
+      "SCAA"
+    ]
+  ]
+}

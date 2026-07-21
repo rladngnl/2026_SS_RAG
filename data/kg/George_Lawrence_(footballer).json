@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "George Lawrence (footballer, born 1889)",
+    "George Lawrence (politician)",
+    "Sir George St Patrick Lawrence",
+    "George Lawrence (painter)",
+    "George Hill Mathewson Lawrence",
+    "George R. Lawrence",
+    "George V. Lawrence",
+    "George Newbold Lawrence",
+    "George Alfred Lawrence",
+    "George Lawrence (footballer, born 1962)",
+    "George P. Lawrence"
+  ],
+  "edges": [
+    "is former professional footballer with"
+  ],
+  "relations": [
+    [
+      "George Lawrence (footballer, born 1962)",
+      "is former professional footballer with",
+      "Southampton F.C."
+    ],
+    [
+      "George Lawrence (footballer, born 1889)",
+      "is former professional footballer with",
+      "Derby County F.C."
+    ],
+    [
+      "George Lawrence (footballer, born 1962)",
+      "is former professional footballer with",
+      "A.F.C. Bournemouth"
+    ]
+  ]
+}

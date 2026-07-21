@@ -1,0 +1,126 @@
+{
+  "entities": [
+    "Romania",
+    "Greece",
+    "Turkey",
+    "Steaua București",
+    "Croatia",
+    "under-21",
+    "Viitorul Constanța",
+    "Sepsi OSK",
+    "attacking midfielder",
+    "Dinamo București",
+    "under-17",
+    "Cosmin Gabriel Matei",
+    "May 2014",
+    "Farul Constanța",
+    "footballer",
+    "under-19",
+    "winger",
+    "Astra Ploiești",
+    "Liga II"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "earned caps for",
+    "plays for",
+    "competed for teams in",
+    "made his full debut in",
+    "plays as",
+    "started out his senior career at",
+    "has represented"
+  ],
+  "relations": [
+    [
+      "Cosmin Gabriel Matei",
+      "started out his senior career at",
+      "Farul Constanța"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "earned caps for",
+      "under-17"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "plays as",
+      "winger"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "has represented",
+      "Astra Ploiești"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "competed for teams in",
+      "Greece"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "earned caps for",
+      "Romania"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "competed for teams in",
+      "Turkey"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "has represented",
+      "Steaua București"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "earned caps for",
+      "under-19"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "plays for",
+      "Sepsi OSK"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "made his full debut in",
+      "May 2014"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "plays as",
+      "attacking midfielder"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "earned caps for",
+      "under-21"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "has represented",
+      "Viitorul Constanța"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "competed for teams in",
+      "Croatia"
+    ],
+    [
+      "Sepsi OSK",
+      "is in",
+      "Liga II"
+    ],
+    [
+      "Cosmin Gabriel Matei",
+      "has represented",
+      "Dinamo București"
+    ]
+  ]
+}

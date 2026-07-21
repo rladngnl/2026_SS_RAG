@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "population",
+    "U.S. state",
+    "Louisiana",
+    "Reconstruction parishes",
+    "Vienna",
+    "Lincoln Parish",
+    "Ruston",
+    "Ruston micropolitan statistical area",
+    "railroad town",
+    "2020 census",
+    "Union",
+    "Jackson parishes",
+    "Bienville",
+    "Claiborne"
+  ],
+  "edges": [
+    "is one of the",
+    "was the parish seat of",
+    "is a railroad town in",
+    "is located in",
+    "was created from parts of",
+    "comprises the",
+    "has a population of",
+    "was created on"
+  ],
+  "relations": [
+    [
+      "Lincoln Parish",
+      "is one of the",
+      "Reconstruction parishes"
+    ],
+    [
+      "Lincoln Parish",
+      "is located in",
+      "Louisiana"
+    ],
+    [
+      "Lincoln Parish",
+      "was created from parts of",
+      "Bienville, Claiborne, Union, and Jackson parishes"
+    ],
+    [
+      "Lincoln Parish",
+      "has a population of",
+      "48,396"
+    ],
+    [
+      "Ruston",
+      "is a railroad town in",
+      "Lincoln Parish"
+    ],
+    [
+      "Lincoln Parish",
+      "comprises the",
+      "Ruston micropolitan statistical area"
+    ],
+    [
+      "Lincoln Parish",
+      "was created on",
+      "February 24, 1873"
+    ],
+    [
+      "Vienna",
+      "was the parish seat of",
+      "Lincoln Parish"
+    ]
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "24 June 1908",
+    "Italian",
+    "Tullio Pinelli",
+    "screenwriter",
+    "8½",
+    "La Strada",
+    "Federico Fellini",
+    "La Dolce Vita",
+    "7 March 2009",
+    "I Vitelloni"
+  ],
+  "edges": [
+    "was a",
+    "was directed by",
+    "died on",
+    "worked on",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Tullio Pinelli",
+      "worked on",
+      "I Vitelloni"
+    ],
+    [
+      "I Vitelloni",
+      "was directed by",
+      "Federico Fellini"
+    ],
+    [
+      "8½",
+      "was directed by",
+      "Federico Fellini"
+    ],
+    [
+      "Tullio Pinelli",
+      "worked on",
+      "8½"
+    ],
+    [
+      "Tullio Pinelli",
+      "died on",
+      "7 March 2009"
+    ],
+    [
+      "Tullio Pinelli",
+      "was",
+      "Italian"
+    ],
+    [
+      "Tullio Pinelli",
+      "was born on",
+      "24 June 1908"
+    ],
+    [
+      "Tullio Pinelli",
+      "worked on",
+      "La Strada"
+    ],
+    [
+      "Tullio Pinelli",
+      "worked on",
+      "La Dolce Vita"
+    ],
+    [
+      "La Strada",
+      "was directed by",
+      "Federico Fellini"
+    ],
+    [
+      "Tullio Pinelli",
+      "was a",
+      "screenwriter"
+    ],
+    [
+      "La Dolce Vita",
+      "was directed by",
+      "Federico Fellini"
+    ]
+  ]
+}

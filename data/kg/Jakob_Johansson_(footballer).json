@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "2013",
+    "Sweden national team",
+    "18 caps",
+    "footballer",
+    "Jakob Johansson",
+    "FIFA World Cup",
+    "Allsvenskan",
+    "Sweden",
+    "2018 FIFA World Cup",
+    "qualifying playoffs",
+    "2021",
+    "Rennes",
+    "2019",
+    "Italy",
+    "midfielder",
+    "IFK Göteborg",
+    "AEK Athens"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "represented",
+    "played as a",
+    "qualified for",
+    "retired at",
+    "is best remembered for scoring",
+    "won",
+    "played for",
+    "was a full international between"
+  ],
+  "relations": [
+    [
+      "Jakob Johansson",
+      "played for",
+      "IFK Göteborg"
+    ],
+    [
+      "Jakob Johansson",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Jakob Johansson",
+      "is best remembered for scoring",
+      "the winning goal in the 2018 FIFA World Cup qualifying playoffs against Italy"
+    ],
+    [
+      "Jakob Johansson",
+      "was a full international between",
+      "2013 and 2019"
+    ],
+    [
+      "Jakob Johansson",
+      "won",
+      "18 caps"
+    ],
+    [
+      "Jakob Johansson",
+      "represented",
+      "AEK Athens"
+    ],
+    [
+      "Sweden national team",
+      "qualified for",
+      "FIFA World Cup"
+    ],
+    [
+      "Jakob Johansson",
+      "played in",
+      "Allsvenskan"
+    ],
+    [
+      "Jakob Johansson",
+      "retired at",
+      "IFK Göteborg"
+    ],
+    [
+      "Jakob Johansson",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Jakob Johansson",
+      "represented",
+      "Rennes"
+    ]
+  ]
+}

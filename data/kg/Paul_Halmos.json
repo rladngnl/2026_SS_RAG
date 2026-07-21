@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "American",
+    "mathematical logic",
+    "Paul Halmos",
+    "Hungarian",
+    "probabilist",
+    "mathematician",
+    "operator theory",
+    "ergodic theory",
+    "functional analysis",
+    "probability theory",
+    "The Martians",
+    "Hilbert spaces"
+  ],
+  "edges": [
+    "was a",
+    "was recognized as",
+    "was born in",
+    "made advances in",
+    "has been described as",
+    "was"
+  ],
+  "relations": [
+    [
+      "Paul Halmos",
+      "made advances in",
+      "functional analysis"
+    ],
+    [
+      "Paul Halmos",
+      "has been described as",
+      "one of The Martians"
+    ],
+    [
+      "Paul Halmos",
+      "made advances in",
+      "Hilbert spaces"
+    ],
+    [
+      "Paul Halmos",
+      "was a",
+      "mathematician"
+    ],
+    [
+      "Paul Halmos",
+      "made advances in",
+      "probability theory"
+    ],
+    [
+      "Paul Halmos",
+      "was born in",
+      "Hungarian"
+    ],
+    [
+      "Paul Halmos",
+      "was recognized as",
+      "a great mathematical expositor"
+    ],
+    [
+      "Paul Halmos",
+      "was",
+      "American"
+    ],
+    [
+      "Paul Halmos",
+      "was a",
+      "probabilist"
+    ],
+    [
+      "Paul Halmos",
+      "made advances in",
+      "operator theory"
+    ],
+    [
+      "Paul Halmos",
+      "made advances in",
+      "mathematical logic"
+    ],
+    [
+      "Paul Halmos",
+      "made advances in",
+      "ergodic theory"
+    ]
+  ]
+}

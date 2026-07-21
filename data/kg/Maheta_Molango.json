@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "Chief Executive",
+    "Wales",
+    "Professional Footballers' Association",
+    "Italian",
+    "England",
+    "Switzerland",
+    "24 July 1982",
+    "Saint-Imier",
+    "Congolese",
+    "1 June 2021",
+    "Gordon Taylor",
+    "Maheta Matteo Molango"
+  ],
+  "edges": [
+    "replaced",
+    "became",
+    "became the Chief Executive of",
+    "was born in",
+    "is for",
+    "was born on",
+    "started on",
+    "is a citizen of"
+  ],
+  "relations": [
+    [
+      "Maheta Matteo Molango",
+      "started on",
+      "1 June 2021"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "replaced",
+      "Gordon Taylor"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "is a citizen of",
+      "Congolese"
+    ],
+    [
+      "Professional Footballers' Association",
+      "is for",
+      "Wales"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "is a citizen of",
+      "Italian"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "was born on",
+      "24 July 1982"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "was born in",
+      "Saint-Imier"
+    ],
+    [
+      "Professional Footballers' Association",
+      "is for",
+      "England"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "became",
+      "Chief Executive"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "became the Chief Executive of",
+      "Professional Footballers' Association"
+    ],
+    [
+      "Maheta Matteo Molango",
+      "was born in",
+      "Switzerland"
+    ]
+  ]
+}

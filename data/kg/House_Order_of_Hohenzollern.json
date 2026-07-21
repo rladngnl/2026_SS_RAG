@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Hausorden von Hohenzollern",
+    "German",
+    "House of Hohenzollern",
+    "Hohenzollernscher Hausorden",
+    "military commissioned officers",
+    "House Order of Hohenzollern",
+    "crosses",
+    "dynastic order of knighthood",
+    "medals",
+    "lower-ranking soldiers",
+    "civilians"
+  ],
+  "edges": [
+    "can be awarded to",
+    "is associated with",
+    "is awarded to",
+    "is a"
+  ],
+  "relations": [
+    [
+      "House Order of Hohenzollern",
+      "is associated with",
+      "crosses"
+    ],
+    [
+      "House Order of Hohenzollern",
+      "is a",
+      "dynastic order of knighthood"
+    ],
+    [
+      "House Order of Hohenzollern",
+      "is awarded to",
+      "military commissioned officers"
+    ],
+    [
+      "medals",
+      "can be awarded to",
+      "lower-ranking soldiers"
+    ],
+    [
+      "House Order of Hohenzollern",
+      "is awarded to",
+      "civilians"
+    ],
+    [
+      "crosses",
+      "can be awarded to",
+      "lower-ranking soldiers"
+    ],
+    [
+      "House Order of Hohenzollern",
+      "is associated with",
+      "medals"
+    ]
+  ]
+}

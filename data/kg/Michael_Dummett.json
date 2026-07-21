@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "anti-realism",
+    "metaphysics",
+    "Robin Farquharson",
+    "mathematics",
+    "Gödel–Dummett logic",
+    "Borda count",
+    "meaning",
+    "tarot card games",
+    "Michael Dummett",
+    "realism",
+    "Frege",
+    "University of Oxford",
+    "Kurt Gödel",
+    "truth",
+    "logic",
+    "Ann Dummett",
+    "language",
+    "Sir Michael Anthony Eardley Dummett",
+    "Quota Borda system",
+    "analytic philosophy",
+    "Gibbard–Satterthwaite theorem"
+  ],
+  "edges": [
+    "was known for his work on",
+    "helped to popularize",
+    "devised",
+    "developed",
+    "was professor of",
+    "was married to",
+    "conjectured",
+    "wrote on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Michael Dummett",
+      "was",
+      "Sir Michael Anthony Eardley Dummett"
+    ],
+    [
+      "Michael Dummett",
+      "helped to popularize",
+      "anti-realism"
+    ],
+    [
+      "Michael Dummett",
+      "conjectured",
+      "Gibbard–Satterthwaite theorem"
+    ],
+    [
+      "Michael Dummett",
+      "was professor of",
+      "University of Oxford"
+    ],
+    [
+      "Michael Dummett",
+      "was known for his work on",
+      "truth"
+    ],
+    [
+      "Michael Dummett",
+      "developed",
+      "Gödel–Dummett logic"
+    ],
+    [
+      "Michael Dummett",
+      "was married to",
+      "Ann Dummett"
+    ],
+    [
+      "Michael Dummett",
+      "devised",
+      "Quota Borda system"
+    ],
+    [
+      "Michael Dummett",
+      "wrote on",
+      "analytic philosophy"
+    ],
+    [
+      "Michael Dummett",
+      "was known for his work on",
+      "meaning"
+    ]
+  ]
+}

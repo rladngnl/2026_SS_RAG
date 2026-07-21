@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "Barcelona",
+    "Vitoria-Gasteiz",
+    "Sport Friends Club",
+    "Basque Country",
+    "Copa del Rey",
+    "Álava",
+    "Mendizorrotza Stadium",
+    "Deportivo Alavés",
+    "La Liga",
+    "Real Sociedad of San Sebastián",
+    "Ibaia",
+    "Liverpool",
+    "2001 UEFA Cup Final",
+    "Athletic Club of Bilbao"
+  ],
+  "edges": [
+    "is based in",
+    "is located in",
+    "was founded as",
+    "was played against",
+    "lost to",
+    "uses facilities located in",
+    "is recognized as the third-most successful team in",
+    "holds home matches at",
+    "is part of",
+    "competes in",
+    "reached the final of"
+  ],
+  "relations": [
+    [
+      "Deportivo Alavés",
+      "competes in",
+      "La Liga"
+    ],
+    [
+      "Deportivo Alavés",
+      "holds home matches at",
+      "Mendizorrotza Stadium"
+    ],
+    [
+      "Deportivo Alavés",
+      "is part of",
+      "Basque Country"
+    ],
+    [
+      "Deportivo Alavés",
+      "reached the final of",
+      "2001 UEFA Cup Final"
+    ],
+    [
+      "Deportivo Alavés",
+      "lost to",
+      "Barcelona"
+    ],
+    [
+      "Deportivo Alavés",
+      "was founded as",
+      "Sport Friends Club"
+    ],
+    [
+      "Deportivo Alavés",
+      "is recognized as the third-most successful team in",
+      "Basque Country"
+    ],
+    [
+      "2001 UEFA Cup Final",
+      "was played against",
+      "Liverpool"
+    ],
+    [
+      "Deportivo Alavés",
+      "is based in",
+      "Vitoria-Gasteiz"
+    ],
+    [
+      "Deportivo Alavés",
+      "is located in",
+      "Álava"
+    ],
+    [
+      "Deportivo Alavés",
+      "uses facilities located in",
+      "Ibaia"
+    ]
+  ]
+}

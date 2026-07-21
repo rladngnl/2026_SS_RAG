@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Holbeach",
+    "England",
+    "Carters Park",
+    "Holbeach United Football Club",
+    "Lincolnshire",
+    "Eastern Counties League Division One North"
+  ],
+  "edges": [
+    "play at",
+    "is based in",
+    "is located in",
+    "are members of"
+  ],
+  "relations": [
+    [
+      "Holbeach United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Holbeach United Football Club",
+      "are members of",
+      "Eastern Counties League Division One North"
+    ],
+    [
+      "Holbeach United Football Club",
+      "play at",
+      "Carters Park"
+    ],
+    [
+      "Holbeach United Football Club",
+      "is located in",
+      "Lincolnshire"
+    ],
+    [
+      "Holbeach United Football Club",
+      "is based in",
+      "Holbeach"
+    ]
+  ]
+}

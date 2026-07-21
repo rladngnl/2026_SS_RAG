@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "Qatar",
+    "England",
+    "football clubs",
+    "UEFA Euro 2008",
+    "France",
+    "Dino Patrick Melchiot",
+    "Netherlands national football team",
+    "Mario Melchiot"
+  ],
+  "edges": [
+    "are located in",
+    "represented",
+    "played as a defender",
+    "is a former professional footballer",
+    "played at",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Mario Melchiot",
+      "is a former professional footballer",
+      "Mario Melchiot"
+    ],
+    [
+      "Mario Melchiot",
+      "played for",
+      "football clubs"
+    ],
+    [
+      "Mario Melchiot",
+      "represented",
+      "Netherlands national football team"
+    ],
+    [
+      "football clubs",
+      "are located in",
+      "Qatar"
+    ],
+    [
+      "football clubs",
+      "are located in",
+      "England"
+    ],
+    [
+      "football clubs",
+      "are located in",
+      "France"
+    ],
+    [
+      "Mario Melchiot",
+      "played as a defender",
+      "Mario Melchiot"
+    ],
+    [
+      "Mario Melchiot",
+      "played at",
+      "UEFA Euro 2008"
+    ]
+  ]
+}

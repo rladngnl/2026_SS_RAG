@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "Halifax Town",
+    "professional footballer",
+    "Liburd Algernon Henry",
+    "Dover Athletic",
+    "Peterborough United",
+    "1988",
+    "Dominican",
+    "Maidstone United",
+    "forward",
+    "1995",
+    "Gillingham",
+    "Watford"
+  ],
+  "edges": [
+    "is a",
+    "played between",
+    "played as a",
+    "is",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Liburd Algernon Henry",
+      "played for",
+      "Peterborough United"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played for",
+      "Watford"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played for",
+      "Halifax Town"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played for",
+      "Dover Athletic"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played for",
+      "Maidstone United"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played as a",
+      "forward"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played between",
+      "1988 and 1995"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "is",
+      "Dominican"
+    ],
+    [
+      "Liburd Algernon Henry",
+      "played for",
+      "Gillingham"
+    ]
+  ]
+}

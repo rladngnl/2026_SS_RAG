@@ -1,0 +1,97 @@
+{
+  "entities": [
+    "Copa CONMEBOL",
+    "state titles",
+    "Altaneira star",
+    "Brazil",
+    "CBF's national club ranking",
+    "Campeonato Acreano",
+    "Rio Branco",
+    "Brazilian Série B",
+    "Acre",
+    "Copa Norte",
+    "Rio Branco Football Club"
+  ],
+  "edges": [
+    "achieved highest national league finish in",
+    "is the most successful club in",
+    "took part in",
+    "has won",
+    "has team mascot",
+    "is ranked at",
+    "was founded on",
+    "finished",
+    "has home colours",
+    "won",
+    "is currently ranked",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Rio Branco Football Club",
+      "finished",
+      "16th in the Brazilian Série B"
+    ],
+    [
+      "Rio Branco Football Club",
+      "is ranked at",
+      "98th place overall"
+    ],
+    [
+      "Rio Branco Football Club",
+      "is based in",
+      "Rio Branco"
+    ],
+    [
+      "Rio Branco Football Club",
+      "has home colours",
+      "red and white"
+    ],
+    [
+      "Rio Branco Football Club",
+      "competes in",
+      "Campeonato Acreano"
+    ],
+    [
+      "Rio Branco Football Club",
+      "has won",
+      "47 state titles"
+    ],
+    [
+      "Rio Branco Football Club",
+      "took part in",
+      "Copa CONMEBOL"
+    ],
+    [
+      "Rio Branco Football Club",
+      "won",
+      "Copa Norte"
+    ],
+    [
+      "Rio Branco Football Club",
+      "has team mascot",
+      "Altaneira star"
+    ],
+    [
+      "Rio Branco Football Club",
+      "is currently ranked",
+      "third among Acre teams in CBF's national club ranking"
+    ],
+    [
+      "Rio Branco Football Club",
+      "achieved highest national league finish in",
+      "1989"
+    ],
+    [
+      "Rio Branco Football Club",
+      "was founded on",
+      "8 June 1919"
+    ],
+    [
+      "Rio Branco Football Club",
+      "is the most successful club in",
+      "Acre"
+    ]
+  ]
+}

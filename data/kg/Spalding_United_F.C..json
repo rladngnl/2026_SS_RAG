@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "England",
+    "National League North",
+    "Sir Halley Stewart Field",
+    "Lincolnshire",
+    "Spalding",
+    "Spalding United Football Club"
+  ],
+  "edges": [
+    "play at",
+    "is based in",
+    "is located in",
+    "are members of"
+  ],
+  "relations": [
+    [
+      "Spalding United Football Club",
+      "play at",
+      "Sir Halley Stewart Field"
+    ],
+    [
+      "Spalding United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Spalding United Football Club",
+      "is located in",
+      "Lincolnshire"
+    ],
+    [
+      "Spalding United Football Club",
+      "is based in",
+      "Spalding"
+    ],
+    [
+      "Spalding United Football Club",
+      "are members of",
+      "National League North"
+    ]
+  ]
+}

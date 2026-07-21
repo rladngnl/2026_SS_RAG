@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Querétaro FC",
+    "América",
+    "Segunda División",
+    "Copa MX",
+    "Supercopa MX",
+    "Gallos Blancos de Querétaro",
+    "Antonio Valencia",
+    "Estadio Corregidora",
+    "Gallos Blancos UAQ",
+    "Guadalajara",
+    "Querétaro Fútbol Club",
+    "Ronaldinho",
+    "Liga MX"
+  ],
+  "edges": [
+    "has won",
+    "is also known as",
+    "plays its home matches at",
+    "featured various professional football stars including",
+    "was won by defeating",
+    "competes in",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Copa MX",
+      "was won by defeating",
+      "Guadalajara"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "has won",
+      "Copa MX"
+    ],
+    [
+      "Supercopa MX",
+      "was won by defeating",
+      "América"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "was founded in",
+      "1950"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "plays its home matches at",
+      "Estadio Corregidora"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "featured various professional football stars including",
+      "Ronaldinho"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "featured various professional football stars including",
+      "Antonio Valencia"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "competes in",
+      "Liga MX"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "is also known as",
+      "Gallos Blancos de Querétaro"
+    ],
+    [
+      "Querétaro Fútbol Club",
+      "has won",
+      "Supercopa MX"
+    ]
+  ]
+}

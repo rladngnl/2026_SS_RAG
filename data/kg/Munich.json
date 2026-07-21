@@ -1,0 +1,189 @@
+{
+  "entities": [
+    "Allianz SE",
+    "Berlin",
+    "Munich Re",
+    "Oktoberfest",
+    "Munich",
+    "Siemens",
+    "Monocle's Quality of Life Survey",
+    "Bavaria",
+    "1972 Summer Olympics",
+    "European Union",
+    "Hamburg",
+    "Alps",
+    "1974 FIFA World Cup",
+    "Bavarian Soviet Republic",
+    "BMW",
+    "Isar",
+    "Mercer survey",
+    "Nazi Party",
+    "Upper Bavarian",
+    "House of Wittelsbach",
+    "Germany",
+    "World War II"
+  ],
+  "edges": [
+    "is the third-largest city in",
+    "is the largest city in",
+    "is known for its annual",
+    "is the most populous city of",
+    "became the capital of the Kingdom of",
+    "has a high standard of living, ranking third worldwide in the",
+    "is among the most expensive German cities for real estate and rents",
+    "was known as the 'Capital of the Movement' during the rise of the",
+    "is home to multinational companies such as",
+    "has two research universities and many scientific institutions",
+    "is located on the river",
+    "was named the world's most liveable city by",
+    "has a high standard of living, ranking first in",
+    "is north of the",
+    "hosted the",
+    "is the 11th-largest city in the",
+    "is the capital of",
+    "is the wealthiest city in the EU by GDP per capita among cities with over one million inhabitants",
+    "is a major centre for"
+  ],
+  "relations": [
+    [
+      "Munich",
+      "is home to multinational companies such as",
+      "Allianz SE"
+    ],
+    [
+      "Munich",
+      "is home to multinational companies such as",
+      "Munich Re"
+    ],
+    [
+      "Munich",
+      "is a major centre for",
+      "finance"
+    ],
+    [
+      "Munich",
+      "is the capital of",
+      "Bavaria"
+    ],
+    [
+      "Munich",
+      "hosted the",
+      "1972 Summer Olympics"
+    ],
+    [
+      "Munich",
+      "became the capital of the Kingdom of",
+      "Bavaria"
+    ],
+    [
+      "Munich",
+      "has a high standard of living, ranking first in",
+      "Germany"
+    ],
+    [
+      "Munich",
+      "is home to multinational companies such as",
+      "BMW"
+    ],
+    [
+      "Munich",
+      "is the most populous city of",
+      "Bavaria"
+    ],
+    [
+      "Munich",
+      "was named the world's most liveable city by",
+      "Monocle's Quality of Life Survey"
+    ],
+    [
+      "Munich",
+      "is a major centre for",
+      "science"
+    ],
+    [
+      "Munich",
+      "is a major centre for",
+      "tourism"
+    ],
+    [
+      "Munich",
+      "is the 11th-largest city in the",
+      "European Union"
+    ],
+    [
+      "Munich",
+      "is the wealthiest city in the EU by GDP per capita among cities with over one million inhabitants",
+      ""
+    ],
+    [
+      "Munich",
+      "is north of the",
+      "Alps"
+    ],
+    [
+      "Munich",
+      "is the largest city in",
+      "Germany"
+    ],
+    [
+      "Munich",
+      "has a high standard of living, ranking third worldwide in the",
+      "Mercer survey"
+    ],
+    [
+      "Munich",
+      "hosted the",
+      "1974 FIFA World Cup"
+    ],
+    [
+      "Munich",
+      "is among the most expensive German cities for real estate and rents",
+      ""
+    ],
+    [
+      "Munich",
+      "was known as the 'Capital of the Movement' during the rise of the",
+      "Nazi Party"
+    ],
+    [
+      "Munich",
+      "is the third-largest city in",
+      "Germany"
+    ],
+    [
+      "Munich",
+      "is home to multinational companies such as",
+      "Siemens"
+    ],
+    [
+      "Munich",
+      "is known for its annual",
+      "Oktoberfest"
+    ],
+    [
+      "Munich",
+      "has two research universities and many scientific institutions",
+      ""
+    ],
+    [
+      "Munich",
+      "is a major centre for",
+      "business"
+    ],
+    [
+      "Munich",
+      "is located on the river",
+      "Isar"
+    ],
+    [
+      "Munich",
+      "is a major centre for",
+      "technology"
+    ],
+    [
+      "Munich",
+      "is a major centre for",
+      "innovation"
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entities": [
+    "footballer",
+    "Serhiy Kucherenko (footballer, born 1984)",
+    "Serhiy Kucherenko (footballer, born 1961)",
+    "Ukraine",
+    "Soviet Union",
+    "Serhiy Kucherenko"
+  ],
+  "edges": [
+    "is from"
+  ],
+  "relations": [
+    [
+      "Serhiy Kucherenko (footballer, born 1984)",
+      "is from",
+      "Ukraine"
+    ],
+    [
+      "Serhiy Kucherenko (footballer, born 1961)",
+      "is from",
+      "Soviet Union"
+    ]
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "entities": [
+    "Comedy Central",
+    "animal rights",
+    "Grammy Awards",
+    "Bill Maher",
+    "Club Random",
+    "Vice",
+    "NORML",
+    "moderate liberal",
+    "Real Time with Bill Maher",
+    "ABC",
+    "Religulous",
+    "religion",
+    "William Maher",
+    "Politically Incorrect",
+    "mass media",
+    "HBO",
+    "Comedy Central's 100 greatest stand-up comedians",
+    "PETA",
+    "Primetime Emmy Award",
+    "Hollywood Walk of Fame",
+    "Tony Award",
+    "political correctness",
+    "cannabis"
+  ],
+  "edges": [
+    "is a supporter of",
+    "is described as",
+    "previously hosted",
+    "supports the legalization of",
+    "is the host of",
+    "serves on the advisory board of",
+    "ranked at No. 38 on",
+    "has served on the board of",
+    "was the basis for",
+    "targets",
+    "is known for",
+    "received a star on",
+    "won for his work as executive producer for",
+    "has earned",
+    "has received one nomination for",
+    "has received two nominations for"
+  ],
+  "relations": [
+    [
+      "Bill Maher",
+      "targets",
+      "the mass media"
+    ],
+    [
+      "Bill Maher",
+      "supports the legalization of",
+      "cannabis"
+    ],
+    [
+      "Bill Maher",
+      "is known for",
+      "political satire"
+    ],
+    [
+      "Bill Maher",
+      "has served on the board of",
+      "PETA"
+    ],
+    [
+      "Bill Maher",
+      "received a star on",
+      "Hollywood Walk of Fame"
+    ],
+    [
+      "Bill Maher",
+      "targets",
+      "religion"
+    ],
+    [
+      "Bill Maher",
+      "is the host of",
+      "Club Random"
+    ],
+    [
+      "Bill Maher",
+      "serves on the advisory board of",
+      "NORML"
+    ],
+    [
+      "Bill Maher",
+      "is the host of",
+      "Real Time with Bill Maher"
+    ],
+    [
+      "Bill Maher",
+      "won for his work as executive producer for",
+      "Vice"
+    ],
+    [
+      "Bill Maher",
+      "is described as",
+      "a moderate liberal"
+    ],
+    [
+      "Bill Maher",
+      "has received one nomination for",
+      "Tony Award"
+    ],
+    [
+      "Bill Maher",
+      "ranked at No. 38 on",
+      "Comedy Central's 100 greatest stand-up comedians"
+    ],
+    [
+      "Bill Maher",
+      "is a supporter of",
+      "animal rights"
+    ],
+    [
+      "Bill Maher",
+      "targets",
+      "political correctness"
+    ],
+    [
+      "Bill Maher",
+      "has received two nominations for",
+      "Grammy Awards"
+    ],
+    [
+      "Bill Maher",
+      "was the basis for",
+      "Religulous"
+    ],
+    [
+      "Bill Maher",
+      "previously hosted",
+      "Politically Incorrect"
+    ],
+    [
+      "Bill Maher",
+      "has earned",
+      "41 Primetime Emmy Award nominations"
+    ]
+  ]
+}

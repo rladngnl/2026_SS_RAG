@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Irish association football club",
+    "Waterford Regional Sports Centre",
+    "Waterford Football Club",
+    "club",
+    "Waterford United F.C.",
+    "League of Ireland Premier Division",
+    "2018",
+    "players",
+    "Kilcohan Park",
+    "1993–94 season",
+    "1930"
+  ],
+  "edges": [
+    "moved in",
+    "became fully professional in",
+    "was originally based at",
+    "moved to",
+    "is also known as",
+    "plays in",
+    "is an",
+    "has",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Waterford United F.C.",
+      "plays in",
+      "League of Ireland Premier Division"
+    ],
+    [
+      "Waterford United F.C.",
+      "has",
+      "club"
+    ],
+    [
+      "Waterford United F.C.",
+      "moved to",
+      "Waterford Regional Sports Centre"
+    ],
+    [
+      "Waterford United F.C.",
+      "was founded in",
+      "1930"
+    ],
+    [
+      "Waterford United F.C.",
+      "is also known as",
+      "Waterford Football Club"
+    ],
+    [
+      "Waterford United F.C.",
+      "became fully professional in",
+      "2018"
+    ],
+    [
+      "Waterford United F.C.",
+      "is an",
+      "Irish association football club"
+    ],
+    [
+      "Waterford United F.C.",
+      "moved in",
+      "1993–94 season"
+    ],
+    [
+      "Waterford United F.C.",
+      "has",
+      "players"
+    ],
+    [
+      "Waterford United F.C.",
+      "was originally based at",
+      "Kilcohan Park"
+    ]
+  ]
+}

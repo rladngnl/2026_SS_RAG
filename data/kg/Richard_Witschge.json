@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "Barcelona",
+    "footballer",
+    "Richard Witschge",
+    "Ajax",
+    "1990 World Cup",
+    "Eredivisie",
+    "midfielder",
+    "Dutch",
+    "Euro 1996"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "represented",
+    "played for",
+    "plays as a",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Richard Witschge",
+      "played in",
+      "Eredivisie"
+    ],
+    [
+      "Richard Witschge",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Richard Witschge",
+      "is a",
+      "Dutch"
+    ],
+    [
+      "Richard Witschge",
+      "played for",
+      "Ajax"
+    ],
+    [
+      "Richard Witschge",
+      "represented",
+      "Barcelona"
+    ],
+    [
+      "Richard Witschge",
+      "plays as a",
+      "midfielder"
+    ],
+    [
+      "Richard Witschge",
+      "participated in",
+      "Euro 1996"
+    ],
+    [
+      "Richard Witschge",
+      "participated in",
+      "1990 World Cup"
+    ]
+  ]
+}

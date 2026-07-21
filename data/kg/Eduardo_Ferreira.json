@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "professional footballer",
+    "Eduardo Soares Ferreira",
+    "Brazil",
+    "October 8, 1983",
+    "Equatorial Guinea national team",
+    "Eduardo Ferreira",
+    "centre-back"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "was born in",
+    "played for",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Eduardo Soares Ferreira",
+      "was born in",
+      "Brazil"
+    ],
+    [
+      "Eduardo Soares Ferreira",
+      "plays as a",
+      "centre-back"
+    ],
+    [
+      "Eduardo Soares Ferreira",
+      "is born on",
+      "October 8, 1983"
+    ],
+    [
+      "Eduardo Soares Ferreira",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Eduardo Soares Ferreira",
+      "played for",
+      "Equatorial Guinea national team"
+    ]
+  ]
+}

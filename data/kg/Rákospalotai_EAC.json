@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "Budapest",
+    "Nemzeti Bajnokság II",
+    "2005–06 season",
+    "first division",
+    "Budai II. László Stadion",
+    "Nemzeti Bajnokság I",
+    "2008–09 season",
+    "Rákospalotai EAC",
+    "Rákospalota",
+    "Hungarian association football club"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "was promoted to",
+    "played in",
+    "is located in",
+    "was relegated after",
+    "was relegated to",
+    "is based in",
+    "plays home games at"
+  ],
+  "relations": [
+    [
+      "Rákospalotai EAC",
+      "was relegated after",
+      "2008–09 season"
+    ],
+    [
+      "Rákospalotai EAC",
+      "is a",
+      "Hungarian association football club"
+    ],
+    [
+      "Rákospalotai EAC",
+      "played in",
+      "2005–06 season"
+    ],
+    [
+      "Rákospalotai EAC",
+      "is in",
+      "first division"
+    ],
+    [
+      "Rákospalotai EAC",
+      "was promoted to",
+      "Nemzeti Bajnokság I"
+    ],
+    [
+      "Rákospalotai EAC",
+      "plays home games at",
+      "Budai II. László Stadion"
+    ],
+    [
+      "Rákospalotai EAC",
+      "is located in",
+      "Budapest"
+    ],
+    [
+      "Rákospalotai EAC",
+      "is based in",
+      "Rákospalota"
+    ],
+    [
+      "Rákospalotai EAC",
+      "was relegated to",
+      "Nemzeti Bajnokság II"
+    ]
+  ]
+}

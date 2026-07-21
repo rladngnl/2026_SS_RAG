@@ -1,0 +1,245 @@
+{
+  "entities": [
+    "Southampton Football Club",
+    "First Division",
+    "Portsmouth",
+    "Southampton",
+    "Championship",
+    "Liverpool",
+    "Third Division South",
+    "England",
+    "Football League Trophy",
+    "red and white shirts",
+    "League One",
+    "Lawrie McMenemy",
+    "Premier League",
+    "Southern League",
+    "The Saints",
+    "St Mary's Stadium",
+    "The Dell",
+    "St Mary's Church",
+    "League Cup",
+    "2024 Championship play-off final",
+    "Southampton St. Mary's",
+    "EFL Cup",
+    "Hampshire",
+    "EFL Championship",
+    "Ted Bates",
+    "FA Cup",
+    "April 2025",
+    "Manchester United",
+    "Football League Third Division"
+  ],
+  "edges": [
+    "was promoted into",
+    "was known as",
+    "returned to",
+    "was based at",
+    "won successive promotion from",
+    "was crowned",
+    "finished as runners-up in",
+    "is nicknamed",
+    "were beaten finalists in",
+    "won",
+    "competes in",
+    "is located in",
+    "was relegated in",
+    "were relegated in",
+    "has home ground",
+    "won promotion as",
+    "were relegated back to",
+    "were relegated down to",
+    "is based in",
+    "has beginnings as",
+    "reached another",
+    "shares rivalry with",
+    "was founded in",
+    "were founder members of",
+    "joined",
+    "plays in",
+    "was taken back into",
+    "was invited to become"
+  ],
+  "relations": [
+    [
+      "Southampton Football Club",
+      "returned to",
+      "Premier League"
+    ],
+    [
+      "Southampton Football Club",
+      "joined",
+      "Southern League"
+    ],
+    [
+      "Southampton Football Club",
+      "won",
+      "FA Cup"
+    ],
+    [
+      "Southampton Football Club",
+      "were relegated in",
+      "2023"
+    ],
+    [
+      "Southampton Football Club",
+      "was taken back into",
+      "top-flight"
+    ],
+    [
+      "Southampton Football Club",
+      "were relegated down to",
+      "third tier"
+    ],
+    [
+      "Southampton Football Club",
+      "were relegated back to",
+      "Championship"
+    ],
+    [
+      "Southampton Football Club",
+      "has beginnings as",
+      "St Mary's Church"
+    ],
+    [
+      "Southampton Football Club",
+      "was founded in",
+      "1885"
+    ],
+    [
+      "Southampton Football Club",
+      "won",
+      "Southern League"
+    ],
+    [
+      "Southampton Football Club",
+      "was invited to become",
+      "founder members of the Football League Third Division"
+    ],
+    [
+      "Southampton Football Club",
+      "was relegated in",
+      "April 2025"
+    ],
+    [
+      "Southampton Football Club",
+      "was crowned",
+      "Third Division champions"
+    ],
+    [
+      "Southampton Football Club",
+      "was relegated in",
+      "1953"
+    ],
+    [
+      "Southampton Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Southampton Football Club",
+      "shares rivalry with",
+      "Portsmouth"
+    ],
+    [
+      "Southampton Football Club",
+      "competes in",
+      "Championship"
+    ],
+    [
+      "Southampton Football Club",
+      "reached another",
+      "FA Cup final"
+    ],
+    [
+      "Southampton Football Club",
+      "won",
+      "Football League Trophy"
+    ],
+    [
+      "Southampton Football Club",
+      "is nicknamed",
+      "The Saints"
+    ],
+    [
+      "Southampton Football Club",
+      "plays in",
+      "red and white shirts"
+    ],
+    [
+      "Southampton Football Club",
+      "finished as runners-up in",
+      "First Division"
+    ],
+    [
+      "Southampton Football Club",
+      "won promotion as",
+      "Third Division South champions"
+    ],
+    [
+      "Southampton Football Club",
+      "won successive promotion from",
+      "League One"
+    ],
+    [
+      "Southampton Football Club",
+      "is located in",
+      "Hampshire"
+    ],
+    [
+      "Southampton Football Club",
+      "was known as",
+      "Southampton St. Mary's"
+    ],
+    [
+      "Southampton Football Club",
+      "has home ground",
+      "St Mary's Stadium"
+    ],
+    [
+      "Southampton Football Club",
+      "were beaten finalists in",
+      "League Cup"
+    ],
+    [
+      "Southampton Football Club",
+      "was based at",
+      "The Dell"
+    ],
+    [
+      "Southampton Football Club",
+      "was promoted into",
+      "First Division"
+    ],
+    [
+      "Southampton Football Club",
+      "were relegated in",
+      "2005"
+    ],
+    [
+      "Southampton Football Club",
+      "is based in",
+      "Southampton"
+    ],
+    [
+      "Southampton Football Club",
+      "won",
+      "2024 Championship play-off final"
+    ],
+    [
+      "Southampton Football Club",
+      "were beaten finalists in",
+      "FA Cup"
+    ],
+    [
+      "Southampton Football Club",
+      "won successive promotion from",
+      "EFL Championship"
+    ],
+    [
+      "Southampton Football Club",
+      "were founder members of",
+      "Premier League"
+    ]
+  ]
+}

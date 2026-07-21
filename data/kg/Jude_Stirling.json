@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "Grimsby Town",
+    "Hornchurch",
+    "English",
+    "Tamworth",
+    "Luton Town",
+    "Peterborough United",
+    "defender",
+    "Grays Athletic",
+    "St Albans City",
+    "Notts County",
+    "Billericay Town",
+    "Stevenage Borough",
+    "Boreham Wood",
+    "Dover Athletic",
+    "Lincoln City",
+    "Barnet",
+    "Milton Keynes Dons",
+    "Jude Barrington Stirling",
+    "footballer",
+    "Jude Stirling",
+    "29 June 1982",
+    "Oxford United"
+  ],
+  "edges": [
+    "is born on",
+    "played as a",
+    "is an",
+    "has previously played for"
+  ],
+  "relations": [
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Notts County"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Billericay Town"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Milton Keynes Dons"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Barnet"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Grimsby Town"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Boreham Wood"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Luton Town"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "St Albans City"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "is an",
+      "English footballer"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Dover Athletic"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Oxford United"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Peterborough United"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Grays Athletic"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Stevenage Borough"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Lincoln City"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Hornchurch"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "has previously played for",
+      "Tamworth"
+    ],
+    [
+      "Jude Barrington Stirling",
+      "is born on",
+      "29 June 1982"
+    ]
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "entities": [
+    "Club Sportif Caennais",
+    "Franck Dumas",
+    "Stade Malherbe Caen",
+    "Coalition Capital",
+    "Jean-François Fortin",
+    "Patrick Rémy",
+    "Ligue 2",
+    "Malherbe",
+    "Stade Michel d'Ornano",
+    "Le Havre AC",
+    "Kylian Mbappé",
+    "Ligue 1",
+    "Coupe de la Ligue",
+    "Olivier Pickeu",
+    "Stade Rennais",
+    "Stade de Venoix",
+    "Normandy",
+    "Interconnected Ventures",
+    "Championnat National",
+    "Oaktree Capital Management",
+    "SM Caen",
+    "Caen",
+    "Patrice Garande",
+    "Club Malherbe Caennais"
+  ],
+  "edges": [
+    "was promoted into",
+    "was promoted to",
+    "won a second division title in",
+    "regained sporting success under the chairmanship of",
+    "has geographical rivalries with",
+    "finished 7th in",
+    "has been playing at",
+    "qualified for",
+    "competes in",
+    "is a subsidiary of",
+    "adopted professional status in",
+    "was founded by the merger of",
+    "was relegated to",
+    "played at",
+    "is based in",
+    "is commonly known as",
+    "finished fifth in",
+    "appointed",
+    "had its stake acquired by",
+    "was bought by",
+    "reached the final of"
+  ],
+  "relations": [
+    [
+      "Stade Malherbe Caen",
+      "is commonly known as",
+      "SM Caen"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "was relegated to",
+      "second division"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "regained sporting success under the chairmanship of",
+      "Jean-François Fortin"
+    ],
+    [
+      "SM Caen",
+      "has been playing at",
+      "Stade Michel d'Ornano"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "was promoted to",
+      "first division"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "has geographical rivalries with",
+      "Stade Rennais"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "was promoted into",
+      "Ligue 1"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "finished 7th in",
+      "Ligue 1"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "was bought by",
+      "Oaktree Capital Management"
+    ],
+    [
+      "Oaktree Capital Management",
+      "appointed",
+      "Olivier Pickeu as the new president"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "competes in",
+      "Championnat National"
+    ],
+    [
+      "Oaktree Capital Management",
+      "had its stake acquired by",
+      "Coalition Capital"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "is based in",
+      "Caen"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "reached the final of",
+      "Coupe de la Ligue"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "won a second division title in",
+      "1996"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "has geographical rivalries with",
+      "Le Havre AC"
+    ],
+    [
+      "Coalition Capital",
+      "is a subsidiary of",
+      "Kylian Mbappé's company Interconnected Ventures"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "was founded by the merger of",
+      "Club Malherbe Caennais and Club Sportif Caennais"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "finished fifth in",
+      "Division 1"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "qualified for",
+      "UEFA Cup"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "adopted professional status in",
+      "1985"
+    ],
+    [
+      "Stade Malherbe Caen",
+      "played at",
+      "Stade de Venoix"
+    ]
+  ]
+}

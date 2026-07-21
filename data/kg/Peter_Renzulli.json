@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "National Association Football League",
+    "National Soccer Hall of Fame",
+    "Peter Renzulli",
+    "American soccer goalkeeper",
+    "1951",
+    "New York State League",
+    "American Soccer League",
+    "National Challenge Cups"
+  ],
+  "edges": [
+    "was",
+    "played in",
+    "won",
+    "was inducted into",
+    "was established in"
+  ],
+  "relations": [
+    [
+      "Peter Renzulli",
+      "played in",
+      "American Soccer League"
+    ],
+    [
+      "Peter Renzulli",
+      "was inducted into",
+      "National Soccer Hall of Fame"
+    ],
+    [
+      "Peter Renzulli",
+      "played in",
+      "National Association Football League"
+    ],
+    [
+      "National Soccer Hall of Fame",
+      "was established in",
+      "1951"
+    ],
+    [
+      "Peter Renzulli",
+      "was",
+      "American soccer goalkeeper"
+    ],
+    [
+      "Peter Renzulli",
+      "played in",
+      "New York State League"
+    ],
+    [
+      "Peter Renzulli",
+      "won",
+      "National Challenge Cups"
+    ]
+  ]
+}

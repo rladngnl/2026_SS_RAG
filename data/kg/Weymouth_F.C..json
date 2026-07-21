@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "terracotta strip",
+    "England",
+    "eighth level",
+    "Terras",
+    "Dorset",
+    "Weymouth",
+    "Weymouth Football Club",
+    "Dorset County Football Association",
+    "Southern League Division One South",
+    "FA chartered Standard club",
+    "Bob Lucas Stadium",
+    "English football league system"
+  ],
+  "edges": [
+    "competes in",
+    "is affiliated to",
+    "is the",
+    "is located in",
+    "of the",
+    "is an",
+    "is nicknamed",
+    "plays home matches at",
+    "has a strip of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "eighth level",
+      "of the",
+      "English football league system"
+    ],
+    [
+      "Weymouth Football Club",
+      "has a strip of",
+      "terracotta strip"
+    ],
+    [
+      "Weymouth Football Club",
+      "is based in",
+      "Weymouth"
+    ],
+    [
+      "Weymouth Football Club",
+      "competes in",
+      "Southern League Division One South"
+    ],
+    [
+      "Weymouth Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Weymouth Football Club",
+      "is affiliated to",
+      "Dorset County Football Association"
+    ],
+    [
+      "Weymouth Football Club",
+      "plays home matches at",
+      "Bob Lucas Stadium"
+    ],
+    [
+      "Weymouth Football Club",
+      "is nicknamed",
+      "Terras"
+    ],
+    [
+      "Weymouth Football Club",
+      "is located in",
+      "Dorset"
+    ],
+    [
+      "Weymouth Football Club",
+      "is an",
+      "FA chartered Standard club"
+    ],
+    [
+      "Southern League Division One South",
+      "is the",
+      "eighth level"
+    ]
+  ]
+}

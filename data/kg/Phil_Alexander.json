@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "National League",
+    "1962",
+    "Phil_Alexander",
+    "American footballer",
+    "chief executive officer",
+    "association footballer",
+    "English",
+    "Philip James Alexander"
+  ],
+  "edges": [
+    "is chief executive officer of",
+    "is currently",
+    "is"
+  ],
+  "relations": [
+    [
+      "Phil_Alexander",
+      "is",
+      "American footballer"
+    ],
+    [
+      "Phil_Alexander",
+      "is",
+      "Philip James Alexander"
+    ],
+    [
+      "Phil_Alexander",
+      "is chief executive officer of",
+      "National League"
+    ],
+    [
+      "Phil_Alexander",
+      "is",
+      "association footballer"
+    ],
+    [
+      "Phil_Alexander",
+      "is currently",
+      "chief executive officer"
+    ],
+    [
+      "Phil_Alexander",
+      "is",
+      "English"
+    ]
+  ]
+}

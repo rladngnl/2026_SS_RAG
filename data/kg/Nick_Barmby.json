@@ -1,0 +1,145 @@
+{
+  "entities": [
+    "Andy Cole",
+    "Hull City",
+    "Peter Crouch",
+    "Tottenham Hotspur",
+    "professional player",
+    "English",
+    "Darren Bent",
+    "Nottingham Forest",
+    "Nicholas Jon Barmby",
+    "Liverpool",
+    "England",
+    "League One",
+    "Premier League",
+    "Scunthorpe United",
+    "Football League",
+    "Marcus Bent",
+    "Euro 2000",
+    "Leeds United",
+    "Hull City manager",
+    "Robbie Keane",
+    "football coach",
+    "Middlesbrough",
+    "Les Ferdinand",
+    "Craig Bellamy",
+    "Euro 96",
+    "Nicolas Anelka",
+    "midfielder",
+    "Nick Barmby",
+    "Everton"
+  ],
+  "edges": [
+    "is one of only nine players to have scored Premier League goals for",
+    "is a",
+    "had a brief spell as",
+    "finished his career with",
+    "helped the club earn promotion from",
+    "played as a",
+    "was capped by",
+    "had a brief spell with",
+    "spent nearly his entire career in the",
+    "was part of",
+    "is",
+    "played for",
+    "had a spell as"
+  ],
+  "relations": [
+    [
+      "Nick Barmby",
+      "is one of only nine players to have scored Premier League goals for",
+      "six different teams"
+    ],
+    [
+      "Nick Barmby",
+      "played for",
+      "Leeds United"
+    ],
+    [
+      "Nick Barmby",
+      "finished his career with",
+      "Hull City"
+    ],
+    [
+      "Nick Barmby",
+      "played for",
+      "Everton"
+    ],
+    [
+      "Nick Barmby",
+      "is",
+      "Nicholas Jon Barmby"
+    ],
+    [
+      "Nick Barmby",
+      "played for",
+      "Middlesbrough"
+    ],
+    [
+      "Nick Barmby",
+      "is a",
+      "professional player"
+    ],
+    [
+      "Nick Barmby",
+      "was part of",
+      "Euro 2000"
+    ],
+    [
+      "Nick Barmby",
+      "was capped by",
+      "England"
+    ],
+    [
+      "Nick Barmby",
+      "had a brief spell as",
+      "first team coach at Scunthorpe United"
+    ],
+    [
+      "Nick Barmby",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Nick Barmby",
+      "played for",
+      "Tottenham Hotspur"
+    ],
+    [
+      "Nick Barmby",
+      "had a spell as",
+      "Hull City manager"
+    ],
+    [
+      "Nick Barmby",
+      "is a",
+      "football coach"
+    ],
+    [
+      "Nick Barmby",
+      "had a brief spell with",
+      "Nottingham Forest"
+    ],
+    [
+      "Nick Barmby",
+      "was part of",
+      "Euro 96"
+    ],
+    [
+      "Nick Barmby",
+      "helped the club earn promotion from",
+      "League One"
+    ],
+    [
+      "Nick Barmby",
+      "spent nearly his entire career in the",
+      "Premier League"
+    ],
+    [
+      "Nick Barmby",
+      "played for",
+      "Liverpool"
+    ]
+  ]
+}

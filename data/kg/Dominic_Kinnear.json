@@ -1,0 +1,104 @@
+{
+  "entities": [
+    "Houston Dynamo",
+    "American",
+    "Tampa Bay Mutiny",
+    "2006",
+    "2007",
+    "former player",
+    "San Jose Clash",
+    "54 caps",
+    "United States national team",
+    "San Jose Hawks",
+    "Dominic Kinnear",
+    "MLS",
+    "Necaxa",
+    "July 26, 1967",
+    "soccer coach",
+    "MLS Cup",
+    "St Johnstone"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "coached",
+    "earned",
+    "began his professional career with",
+    "led to",
+    "played for",
+    "is involved in coaching",
+    "occurred in"
+  ],
+  "relations": [
+    [
+      "Dominic Kinnear",
+      "coached",
+      "Houston Dynamo"
+    ],
+    [
+      "Dominic Kinnear",
+      "played for",
+      "San Jose Hawks"
+    ],
+    [
+      "Dominic Kinnear",
+      "is born on",
+      "July 26, 1967"
+    ],
+    [
+      "Dominic Kinnear",
+      "is a",
+      "soccer coach"
+    ],
+    [
+      "Dominic Kinnear",
+      "played for",
+      "San Jose Clash"
+    ],
+    [
+      "Dominic Kinnear",
+      "began his professional career with",
+      "St Johnstone"
+    ],
+    [
+      "Dominic Kinnear",
+      "is a",
+      "former player"
+    ],
+    [
+      "MLS Cup",
+      "occurred in",
+      "2007"
+    ],
+    [
+      "Dominic Kinnear",
+      "played for",
+      "Necaxa"
+    ],
+    [
+      "MLS Cup",
+      "occurred in",
+      "2006"
+    ],
+    [
+      "Dominic Kinnear",
+      "led to",
+      "MLS Cup"
+    ],
+    [
+      "Dominic Kinnear",
+      "is involved in coaching",
+      "MLS"
+    ],
+    [
+      "Dominic Kinnear",
+      "played for",
+      "Tampa Bay Mutiny"
+    ],
+    [
+      "Dominic Kinnear",
+      "earned",
+      "54 caps"
+    ]
+  ]
+}

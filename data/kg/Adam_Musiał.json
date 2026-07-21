@@ -1,0 +1,103 @@
+{
+  "entities": [
+    "Arka Gdynia",
+    "Maciej",
+    "Piłka nożna",
+    "Adam Musiał",
+    "Poland",
+    "Hereford United",
+    "Poland national team",
+    "1974 FIFA World Cup",
+    "Eagles Yonkers New York",
+    "Wisła Kraków",
+    "Tomasz"
+  ],
+  "edges": [
+    "was a",
+    "was the father of",
+    "led",
+    "named",
+    "became",
+    "was a participant at",
+    "won",
+    "played for",
+    "played"
+  ],
+  "relations": [
+    [
+      "Piłka nożna",
+      "named",
+      "Adam Musiał the manager of the year for 1991"
+    ],
+    [
+      "Poland national team",
+      "won",
+      "third place"
+    ],
+    [
+      "Adam Musiał",
+      "played for",
+      "Hereford United"
+    ],
+    [
+      "Adam Musiał",
+      "played for",
+      "Poland national team"
+    ],
+    [
+      "Adam Musiał",
+      "became",
+      "football manager"
+    ],
+    [
+      "Adam Musiał",
+      "was a",
+      "manager"
+    ],
+    [
+      "Adam Musiał",
+      "led",
+      "Wisła Kraków"
+    ],
+    [
+      "Adam Musiał",
+      "was a",
+      "Polish football player"
+    ],
+    [
+      "Adam Musiał",
+      "was the father of",
+      "Tomasz"
+    ],
+    [
+      "Adam Musiał",
+      "played for",
+      "Wisła Kraków"
+    ],
+    [
+      "Adam Musiał",
+      "was a participant at",
+      "1974 FIFA World Cup"
+    ],
+    [
+      "Adam Musiał",
+      "was the father of",
+      "Maciej"
+    ],
+    [
+      "Adam Musiał",
+      "played for",
+      "Arka Gdynia"
+    ],
+    [
+      "Adam Musiał",
+      "played",
+      "34 matches"
+    ],
+    [
+      "Adam Musiał",
+      "played for",
+      "Eagles Yonkers New York"
+    ]
+  ]
+}

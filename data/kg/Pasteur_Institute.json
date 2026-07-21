@@ -1,0 +1,162 @@
+{
+  "entities": [
+    "tetanus",
+    "Pasteur Institute",
+    "physiology",
+    "AIDS",
+    "Institut Pasteur",
+    "poliomyelitis",
+    "diphtheria",
+    "Paris",
+    "yellow fever",
+    "plague",
+    "rabies",
+    "medicine",
+    "HIV",
+    "Louis Pasteur",
+    "vaccines",
+    "anthrax",
+    "influenza",
+    "pasteurization",
+    "tuberculosis",
+    "2008 Nobel Prize",
+    "Nobel Prize"
+  ],
+  "edges": [
+    "is awarded for",
+    "has researched",
+    "invented",
+    "is dedicated to the study of",
+    "was founded on",
+    "is named after",
+    "has enabled medical science to control",
+    "causes",
+    "has had scientists awarded the",
+    "was inaugurated on",
+    "was shared between",
+    "was the first to isolate",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Pasteur Institute",
+      "was founded on",
+      "4 June 1887"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "diphtheria"
+    ],
+    [
+      "Institut Pasteur",
+      "has researched",
+      "infectious diseases"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "poliomyelitis"
+    ],
+    [
+      "HIV",
+      "causes",
+      "AIDS"
+    ],
+    [
+      "Pasteur Institute",
+      "was inaugurated on",
+      "14 November 1888"
+    ],
+    [
+      "Institut Pasteur",
+      "was the first to isolate",
+      "HIV"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "plague"
+    ],
+    [
+      "Louis Pasteur",
+      "invented",
+      "pasteurization"
+    ],
+    [
+      "2008 Nobel Prize",
+      "was shared between",
+      "two Pasteur scientists"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "yellow fever"
+    ],
+    [
+      "Nobel Prize",
+      "is awarded for",
+      "physiology"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "influenza"
+    ],
+    [
+      "Pasteur Institute",
+      "is dedicated to the study of",
+      "biology"
+    ],
+    [
+      "Institut Pasteur",
+      "has had scientists awarded the",
+      "Nobel Prize"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "tetanus"
+    ],
+    [
+      "Institut Pasteur",
+      "is based in",
+      "Paris"
+    ],
+    [
+      "Pasteur Institute",
+      "is dedicated to the study of",
+      "vaccines"
+    ],
+    [
+      "Nobel Prize",
+      "is awarded for",
+      "medicine"
+    ],
+    [
+      "Institut Pasteur",
+      "has enabled medical science to control",
+      "tuberculosis"
+    ],
+    [
+      "Pasteur Institute",
+      "is named after",
+      "Louis Pasteur"
+    ],
+    [
+      "Pasteur Institute",
+      "is dedicated to the study of",
+      "micro-organisms"
+    ],
+    [
+      "Pasteur Institute",
+      "is dedicated to the study of",
+      "diseases"
+    ],
+    [
+      "Louis Pasteur",
+      "invented",
+      "vaccines"
+    ]
+  ]
+}

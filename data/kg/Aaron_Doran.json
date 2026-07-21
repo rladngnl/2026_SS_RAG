@@ -1,0 +1,105 @@
+{
+  "entities": [
+    "2024",
+    "professional footballer",
+    "manager",
+    "Inverness Caledonian Thistle",
+    "Blackburn Rovers",
+    "2011",
+    "loan",
+    "Aaron Doran",
+    "winger",
+    "Milton Keynes Dons",
+    "Highland league",
+    "Republic of Ireland U21 team",
+    "Irish",
+    "Strathspey Thistle",
+    "Leyton Orient",
+    "Aaron Brian Doran Cogan"
+  ],
+  "edges": [
+    "departure year",
+    "is a",
+    "remained at",
+    "is known as",
+    "manages",
+    "represented",
+    "joined",
+    "spent time on loan with",
+    "played at",
+    "is currently the",
+    "joined in"
+  ],
+  "relations": [
+    [
+      "Aaron Doran",
+      "is known as",
+      "Aaron Brian Doran Cogan"
+    ],
+    [
+      "Aaron Doran",
+      "remained at",
+      "Inverness Caledonian Thistle"
+    ],
+    [
+      "Aaron Doran",
+      "spent time on loan with",
+      "Milton Keynes Dons"
+    ],
+    [
+      "Aaron Doran",
+      "departure year",
+      "2024"
+    ],
+    [
+      "Aaron Doran",
+      "spent time on loan with",
+      "Leyton Orient"
+    ],
+    [
+      "Aaron Doran",
+      "is a",
+      "Irish"
+    ],
+    [
+      "Aaron Doran",
+      "joined",
+      "Inverness Caledonian Thistle"
+    ],
+    [
+      "Aaron Doran",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Aaron Doran",
+      "played at",
+      "Blackburn Rovers"
+    ],
+    [
+      "Aaron Doran",
+      "represented",
+      "Republic of Ireland U21 team"
+    ],
+    [
+      "Aaron Doran",
+      "is currently the",
+      "manager"
+    ],
+    [
+      "Aaron Doran",
+      "joined in",
+      "2011"
+    ],
+    [
+      "Aaron Doran",
+      "manages",
+      "Strathspey Thistle"
+    ],
+    [
+      "Aaron Doran",
+      "is a",
+      "winger"
+    ]
+  ]
+}

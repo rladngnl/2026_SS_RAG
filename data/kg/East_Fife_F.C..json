@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "Fife",
+    "Methil",
+    "Scottish League Cup",
+    "Kelty Hearts",
+    "Cowdenbeath",
+    "Scottish League One",
+    "Scotland",
+    "Raith Rovers",
+    "Lowland Football League",
+    "East Fife Football Club",
+    "Scottish Professional Football League",
+    "Dunfermline Athletic",
+    "Scottish Cup"
+  ],
+  "edges": [
+    "is established in",
+    "competes in",
+    "is located in",
+    "plays in",
+    "has rivalries with",
+    "won",
+    "is a member of",
+    "is the most successful club in"
+  ],
+  "relations": [
+    [
+      "East Fife Football Club",
+      "has rivalries with",
+      "Dunfermline Athletic"
+    ],
+    [
+      "East Fife Football Club",
+      "has rivalries with",
+      "Raith Rovers"
+    ],
+    [
+      "East Fife Football Club",
+      "is located in",
+      "Fife"
+    ],
+    [
+      "East Fife Football Club",
+      "won",
+      "Scottish Cup"
+    ],
+    [
+      "East Fife Football Club",
+      "is located in",
+      "Scotland"
+    ],
+    [
+      "East Fife Football Club",
+      "has rivalries with",
+      "Kelty Hearts"
+    ],
+    [
+      "East Fife Football Club",
+      "is established in",
+      "Methil"
+    ],
+    [
+      "East Fife Football Club",
+      "is a member of",
+      "Scottish Professional Football League"
+    ],
+    [
+      "East Fife Football Club",
+      "is the most successful club in",
+      "Fife"
+    ],
+    [
+      "East Fife Football Club",
+      "competes in",
+      "Scottish League One"
+    ],
+    [
+      "East Fife Football Club",
+      "won",
+      "Scottish League Cup"
+    ],
+    [
+      "Cowdenbeath",
+      "plays in",
+      "Lowland Football League"
+    ]
+  ]
+}

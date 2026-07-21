@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Asunción",
+    "third most successful Paraguayan football club",
+    "Estadio Tigo La Huerta",
+    "26 national titles",
+    "Cerro Porteño",
+    "Paraguayan Primera División",
+    "15,000 people",
+    "Olimpia",
+    "Paraguayan professional football club",
+    "1905",
+    "Club Libertad"
+  ],
+  "edges": [
+    "is a",
+    "is behind",
+    "is based in",
+    "is the",
+    "has won",
+    "plays in",
+    "plays its home games at",
+    "holds",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Club Libertad",
+      "is the",
+      "third most successful Paraguayan football club"
+    ],
+    [
+      "Club Libertad",
+      "plays in",
+      "Paraguayan Primera División"
+    ],
+    [
+      "Club Libertad",
+      "is behind",
+      "Cerro Porteño"
+    ],
+    [
+      "Estadio Tigo La Huerta",
+      "holds",
+      "15,000 people"
+    ],
+    [
+      "Club Libertad",
+      "plays its home games at",
+      "Estadio Tigo La Huerta"
+    ],
+    [
+      "Club Libertad",
+      "is based in",
+      "Asunción"
+    ],
+    [
+      "Club Libertad",
+      "is a",
+      "Paraguayan professional football club"
+    ],
+    [
+      "Club Libertad",
+      "has won",
+      "26 national titles"
+    ],
+    [
+      "Club Libertad",
+      "was founded in",
+      "1905"
+    ],
+    [
+      "Club Libertad",
+      "is behind",
+      "Olimpia"
+    ]
+  ]
+}

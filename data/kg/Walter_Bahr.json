@@ -1,0 +1,95 @@
+{
+  "entities": [
+    "Walter Alfred Bahr",
+    "National Football League",
+    "two Super Bowl rings",
+    "Walter Bahr",
+    "England",
+    "U.S. Olympic team",
+    "Bahr's three sons",
+    "American",
+    "Chris",
+    "U.S. men's national team",
+    "placekickers",
+    "North American Soccer League",
+    "Matt",
+    "1950 FIFA World Cup",
+    "June 18, 2018",
+    "1–0",
+    "April 1, 1927",
+    "professional soccer player",
+    "Casey"
+  ],
+  "edges": [
+    "played in",
+    "earned",
+    "had",
+    "was captain of",
+    "defeated",
+    "became",
+    "played for",
+    "was"
+  ],
+  "relations": [
+    [
+      "Walter Bahr",
+      "played in",
+      "1950 FIFA World Cup"
+    ],
+    [
+      "Chris",
+      "earned",
+      "two Super Bowl rings"
+    ],
+    [
+      "Bahr's three sons",
+      "played in",
+      "North American Soccer League"
+    ],
+    [
+      "Walter Bahr",
+      "was captain of",
+      "U.S. men's national team"
+    ],
+    [
+      "Matt",
+      "became",
+      "placekicker"
+    ],
+    [
+      "Casey",
+      "played for",
+      "U.S. Olympic team"
+    ],
+    [
+      "Chris",
+      "became",
+      "placekicker"
+    ],
+    [
+      "Matt",
+      "earned",
+      "two Super Bowl rings"
+    ],
+    [
+      "Chris",
+      "played for",
+      "U.S. Olympic team"
+    ],
+    [
+      "U.S. men's national team",
+      "defeated",
+      "England"
+    ],
+    [
+      "Walter Bahr",
+      "had",
+      "Bahr's three sons"
+    ],
+    [
+      "Walter Bahr",
+      "was",
+      "American professional soccer player"
+    ]
+  ]
+}

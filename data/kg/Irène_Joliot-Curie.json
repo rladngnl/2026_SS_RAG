@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "Frédéric Joliot-Curie",
+    "Hélène Joliot-Curie",
+    "Marie Skłodowska-Curie",
+    "French Alternative Energies and Atomic Energy Commission",
+    "Curie family",
+    "Paris",
+    "French government",
+    "Popular Front",
+    "undersecretary for Scientific Research",
+    "Pierre Curie",
+    "polonium",
+    "de Gaulle",
+    "induced radioactivity",
+    "acute leukemia",
+    "Irène Joliot-Curie",
+    "X-rays",
+    "Provisional Government of the French Republic",
+    "Pierre Joliot-Curie",
+    "Nobel Prize"
+  ],
+  "edges": [
+    "died from",
+    "is the child of",
+    "is the father of",
+    "was married to",
+    "received",
+    "was created by",
+    "became",
+    "was a member of",
+    "died in",
+    "has",
+    "is the mother of",
+    "was linked to",
+    "discovered"
+  ],
+  "relations": [
+    [
+      "Irène Joliot-Curie",
+      "was a member of",
+      "French government"
+    ],
+    [
+      "Pierre Curie",
+      "is the father of",
+      "Irène Joliot-Curie"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "died in",
+      "Paris"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "became",
+      "undersecretary for Scientific Research"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "was created by",
+      "de Gaulle"
+    ],
+    [
+      "Marie Skłodowska-Curie",
+      "is the mother of",
+      "Irène Joliot-Curie"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "received",
+      "Nobel Prize"
+    ],
+    [
+      "Curie family",
+      "has",
+      "most Nobel laureates"
+    ],
+    [
+      "acute leukemia",
+      "was linked to",
+      "X-rays"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "was married to",
+      "Frédéric Joliot-Curie"
+    ],
+    [
+      "Hélène Joliot-Curie",
+      "is the child of",
+      "Irène Joliot-Curie"
+    ],
+    [
+      "Pierre Joliot-Curie",
+      "is the child of",
+      "Irène Joliot-Curie"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "discovered",
+      "induced radioactivity"
+    ],
+    [
+      "acute leukemia",
+      "was linked to",
+      "polonium"
+    ],
+    [
+      "Irène Joliot-Curie",
+      "died from",
+      "acute leukemia"
+    ]
+  ]
+}

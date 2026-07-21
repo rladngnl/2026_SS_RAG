@@ -1,0 +1,161 @@
+{
+  "entities": [
+    "charity",
+    "Brian Blessed",
+    "Prince Vultan",
+    "Clayton",
+    "Officer of the Order of the British Empire",
+    "PC 'Fancy' Smith",
+    "Old Deuteronomy",
+    "Z-Cars",
+    "Thomas Beaufort",
+    "Disney's Tarzan",
+    "Tarzan",
+    "Cats",
+    "King Richard IV",
+    "Augustus",
+    "I, Claudius",
+    "Blackadder",
+    "Duke of Exeter",
+    "arts",
+    "New London Theatre",
+    "English actor",
+    "Star Wars: Episode I – The Phantom Menace",
+    "Flash Gordon",
+    "Henry V",
+    "Boss Nass",
+    "Bustopher Jones",
+    "OBE"
+  ],
+  "edges": [
+    "is in",
+    "is known as",
+    "was appointed",
+    "contributed to",
+    "voiced",
+    "portrayed",
+    "is"
+  ],
+  "relations": [
+    [
+      "King Richard IV",
+      "is in",
+      "Blackadder"
+    ],
+    [
+      "Brian Blessed",
+      "is",
+      "English actor"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "Thomas Beaufort"
+    ],
+    [
+      "Clayton",
+      "is in",
+      "Disney's Tarzan"
+    ],
+    [
+      "Brian Blessed",
+      "contributed to",
+      "charity"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "PC 'Fancy' Smith"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "Old Deuteronomy"
+    ],
+    [
+      "Bustopher Jones",
+      "is in",
+      "Cats"
+    ],
+    [
+      "Prince Vultan",
+      "is in",
+      "Flash Gordon"
+    ],
+    [
+      "Brian Blessed",
+      "voiced",
+      "Clayton"
+    ],
+    [
+      "PC 'Fancy' Smith",
+      "is in",
+      "Z-Cars"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "Prince Vultan"
+    ],
+    [
+      "Brian Blessed",
+      "was appointed",
+      "Officer of the Order of the British Empire"
+    ],
+    [
+      "Thomas Beaufort",
+      "is in",
+      "Henry V"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "Bustopher Jones"
+    ],
+    [
+      "Augustus",
+      "is in",
+      "I, Claudius"
+    ],
+    [
+      "Boss Nass",
+      "is in",
+      "Star Wars: Episode I – The Phantom Menace"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "King Richard IV"
+    ],
+    [
+      "Officer of the Order of the British Empire",
+      "is known as",
+      "OBE"
+    ],
+    [
+      "Brian Blessed",
+      "contributed to",
+      "arts"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "Boss Nass"
+    ],
+    [
+      "Brian Blessed",
+      "portrayed",
+      "Augustus"
+    ],
+    [
+      "Bustopher Jones",
+      "is in",
+      "New London Theatre"
+    ],
+    [
+      "Thomas Beaufort",
+      "is",
+      "Duke of Exeter"
+    ]
+  ]
+}

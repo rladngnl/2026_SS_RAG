@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "Sophia Margarita Victoria Frederica",
+    "Queen Sophia of Greece",
+    "King Paul",
+    "19 June 2014",
+    "Greek throne",
+    "1975",
+    "2014",
+    "King Constantine I",
+    "Sofía",
+    "Queen Frederica of Greece",
+    "Infante Juan Carlos of Spain",
+    "Felipe VI",
+    "Greek royal family",
+    "Queen Sofía of Spain",
+    "reina emérita",
+    "Constantine",
+    "King Juan Carlos I"
+  ],
+  "edges": [
+    "has been referred to as",
+    "was Queen of Spain as the wife of",
+    "is member of",
+    "abdicated in favour of",
+    "is the last surviving grandchild of",
+    "was the heiress presumptive to the Greek throne from her birth until",
+    "became queen of Spain upon her husband's accession in",
+    "married",
+    "is the eldest and last surviving child of"
+  ],
+  "relations": [
+    [
+      "Sofía",
+      "was Queen of Spain as the wife of",
+      "King Juan Carlos I"
+    ],
+    [
+      "Juan Carlos",
+      "abdicated in favour of",
+      "Felipe VI"
+    ],
+    [
+      "Sofía",
+      "has been referred to as",
+      "reina emérita"
+    ],
+    [
+      "Sofía",
+      "is the eldest and last surviving child of",
+      "King Paul and Queen Frederica of Greece"
+    ],
+    [
+      "Sofía",
+      "is member of",
+      "Spanish royal family"
+    ],
+    [
+      "Sofía",
+      "married",
+      "Infante Juan Carlos of Spain"
+    ],
+    [
+      "Sofía",
+      "became queen of Spain upon her husband's accession in",
+      "1975"
+    ],
+    [
+      "Sofía",
+      "is the last surviving grandchild of",
+      "King Constantine I and Queen Sophia of Greece"
+    ],
+    [
+      "Sofía",
+      "was the heiress presumptive to the Greek throne from her birth until",
+      "her brother Constantine's birth in 1940"
+    ]
+  ]
+}

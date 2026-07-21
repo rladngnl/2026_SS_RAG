@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "US leagues",
+    "footballer",
+    "Laurie Calloway",
+    "Laurence John Calloway",
+    "North American Soccer League",
+    "defender",
+    "English leagues"
+  ],
+  "edges": [
+    "spent years in",
+    "is a",
+    "coached teams in",
+    "is",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Laurie Calloway",
+      "spent years in",
+      "English leagues"
+    ],
+    [
+      "Laurie Calloway",
+      "spent years in",
+      "North American Soccer League"
+    ],
+    [
+      "Laurie Calloway",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Laurie Calloway",
+      "played as",
+      "defender"
+    ],
+    [
+      "Laurie Calloway",
+      "coached teams in",
+      "US leagues"
+    ],
+    [
+      "Laurie Calloway",
+      "is",
+      "Laurence John Calloway"
+    ]
+  ]
+}

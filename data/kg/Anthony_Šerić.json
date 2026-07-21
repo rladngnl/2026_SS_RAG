@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "footballer",
+    "1998 FIFA World Cup",
+    "left-back",
+    "Australian",
+    "Croatia national team",
+    "2002 FIFA World Cup",
+    "Anthony Šerić",
+    "2006 FIFA World Cup",
+    "Croatian"
+  ],
+  "edges": [
+    "played as",
+    "is a",
+    "was a part of",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Croatia national team",
+      "participated in",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Anthony Šerić",
+      "was a part of",
+      "Croatia national team"
+    ],
+    [
+      "Croatia national team",
+      "participated in",
+      "1998 FIFA World Cup"
+    ],
+    [
+      "Anthony Šerić",
+      "played as",
+      "left-back"
+    ],
+    [
+      "Anthony Šerić",
+      "is a",
+      "Croatian Australian former footballer"
+    ],
+    [
+      "Croatia national team",
+      "participated in",
+      "2002 FIFA World Cup"
+    ]
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "non-League",
+    "AFC Telford United",
+    "Hereford United",
+    "Karl Matthew Broadhurst",
+    "Crawley Town",
+    "Karl Broadhurst",
+    "Football League",
+    "English",
+    "AFC Bournemouth",
+    "Solihull Moors",
+    "18 March 1980"
+  ],
+  "edges": [
+    "played in",
+    "is a",
+    "played in the",
+    "played with",
+    "is",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Karl Matthew Broadhurst",
+      "played in",
+      "non-League"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played as",
+      "central defender"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played with",
+      "Solihull Moors"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played in the",
+      "Football League"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played with",
+      "AFC Bournemouth"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played with",
+      "AFC Telford United"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played with",
+      "Hereford United"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "is",
+      "English"
+    ],
+    [
+      "Karl Matthew Broadhurst",
+      "played with",
+      "Crawley Town"
+    ]
+  ]
+}

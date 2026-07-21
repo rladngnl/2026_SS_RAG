@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "American",
+    "Democratic",
+    "lawyer",
+    "1851",
+    "U.S. Representative",
+    "politician",
+    "October 12, 1870",
+    "jurist",
+    "1854",
+    "August 14, 1819",
+    "New York",
+    "Gilbert Dean"
+  ],
+  "edges": [
+    "was a",
+    "served from",
+    "represented",
+    "died on",
+    "served as",
+    "served to",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Gilbert Dean",
+      "served as",
+      "Democratic U.S. Representative"
+    ],
+    [
+      "Gilbert Dean",
+      "served to",
+      "1854"
+    ],
+    [
+      "Gilbert Dean",
+      "was",
+      "American"
+    ],
+    [
+      "Gilbert Dean",
+      "was a",
+      "jurist"
+    ],
+    [
+      "Gilbert Dean",
+      "was a",
+      "lawyer"
+    ],
+    [
+      "Gilbert Dean",
+      "was born on",
+      "August 14, 1819"
+    ],
+    [
+      "Gilbert Dean",
+      "was a",
+      "politician"
+    ],
+    [
+      "Gilbert Dean",
+      "represented",
+      "New York"
+    ],
+    [
+      "Gilbert Dean",
+      "served from",
+      "1851"
+    ],
+    [
+      "Gilbert Dean",
+      "died on",
+      "October 12, 1870"
+    ]
+  ]
+}

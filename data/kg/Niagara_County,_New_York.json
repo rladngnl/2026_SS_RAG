@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Canada",
+    "Onguiaahra",
+    "2020 United States census",
+    "Lockport",
+    "parks",
+    "lake shore recreation communities",
+    "200th birthday",
+    "2008",
+    "United States",
+    "Ontario",
+    "Niagara Falls",
+    "Buffalo–Niagara Falls metropolitan area",
+    "Iroquois",
+    "212,666",
+    "Fort Niagara",
+    "Niagara County",
+    "New York",
+    "Western New York"
+  ],
+  "edges": [
+    "is in",
+    "celebrated",
+    "is location of",
+    "means",
+    "has county seat",
+    "has population of",
+    "is part of"
+  ],
+  "relations": [
+    [
+      "Niagara County",
+      "has county seat",
+      "Lockport"
+    ],
+    [
+      "Onguiaahra",
+      "means",
+      "the strait or thunder of waters"
+    ],
+    [
+      "Niagara County",
+      "is part of",
+      "Buffalo–Niagara Falls metropolitan area"
+    ],
+    [
+      "Niagara County",
+      "is in",
+      "New York"
+    ],
+    [
+      "Niagara County",
+      "celebrated",
+      "200th birthday"
+    ],
+    [
+      "Niagara County",
+      "is part of",
+      "Western New York"
+    ],
+    [
+      "Niagara County",
+      "has population of",
+      "212,666"
+    ],
+    [
+      "Niagara County",
+      "is location of",
+      "Fort Niagara"
+    ],
+    [
+      "Niagara County",
+      "is location of",
+      "Niagara Falls"
+    ]
+  ]
+}

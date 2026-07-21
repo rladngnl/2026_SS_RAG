@@ -1,0 +1,149 @@
+{
+  "entities": [
+    "Zoological Society of London",
+    "Oscar-winning wildlife film",
+    "Linnaean Society",
+    "Charles Darwin",
+    "Planned Parenthood",
+    "evolutionary biologist",
+    "Darwin–Wallace Medal",
+    "theory of evolution",
+    "eugenicist",
+    "mid-twentieth-century modern synthesis",
+    "UNESCO's Kalinga Prize",
+    "Darwin Medal",
+    "UNESCO",
+    "1958 New Year Honours",
+    "British Eugenics Society",
+    "Sir Julian Sorell Huxley",
+    "World Wildlife Fund",
+    "natural selection",
+    "Royal Society",
+    "Julian Huxley",
+    "World Population",
+    "science",
+    "internationalist",
+    "Lasker Foundation",
+    "Alfred Russel Wallace",
+    "British Humanist Association"
+  ],
+  "edges": [
+    "was president of",
+    "is a",
+    "was a founding member of",
+    "is a proponent of",
+    "was awarded in the category",
+    "is a leading figure in",
+    "was the first director of",
+    "was awarded a Special Award from",
+    "directed",
+    "was well known for his presentation of",
+    "announced",
+    "was secretary of",
+    "was awarded",
+    "was knighted in",
+    "was the first president of"
+  ],
+  "relations": [
+    [
+      "Julian Huxley",
+      "was the first director of",
+      "UNESCO"
+    ],
+    [
+      "Julian Huxley",
+      "was secretary of",
+      "Zoological Society of London"
+    ],
+    [
+      "Julian Huxley",
+      "is a",
+      "eugenicist"
+    ],
+    [
+      "Julian Huxley",
+      "was knighted in",
+      "1958 New Year Honours"
+    ],
+    [
+      "Julian Huxley",
+      "is a leading figure in",
+      "mid-twentieth-century modern synthesis"
+    ],
+    [
+      "Julian Huxley",
+      "was awarded in the category",
+      "Planned Parenthood – World Population"
+    ],
+    [
+      "Alfred Russel Wallace",
+      "announced",
+      "theory of evolution"
+    ],
+    [
+      "Julian Huxley",
+      "is a proponent of",
+      "natural selection"
+    ],
+    [
+      "Julian Huxley",
+      "directed",
+      "Oscar-winning wildlife film"
+    ],
+    [
+      "Julian Huxley",
+      "was a founding member of",
+      "World Wildlife Fund"
+    ],
+    [
+      "Julian Huxley",
+      "is a",
+      "evolutionary biologist"
+    ],
+    [
+      "Charles Darwin",
+      "announced",
+      "theory of evolution"
+    ],
+    [
+      "Julian Huxley",
+      "is a",
+      "internationalist"
+    ],
+    [
+      "Julian Huxley",
+      "was awarded",
+      "Darwin Medal"
+    ],
+    [
+      "Julian Huxley",
+      "was awarded a Special Award from",
+      "Lasker Foundation"
+    ],
+    [
+      "Julian Huxley",
+      "was well known for his presentation of",
+      "science"
+    ],
+    [
+      "Julian Huxley",
+      "was president of",
+      "British Eugenics Society"
+    ],
+    [
+      "Julian Huxley",
+      "was awarded",
+      "UNESCO's Kalinga Prize"
+    ],
+    [
+      "Julian Huxley",
+      "was awarded",
+      "Darwin–Wallace Medal"
+    ],
+    [
+      "Julian Huxley",
+      "was the first president of",
+      "British Humanist Association"
+    ]
+  ]
+}

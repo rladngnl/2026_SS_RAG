@@ -1,0 +1,66 @@
+{
+  "entities": [
+    "Samet Aybaba",
+    "footballer",
+    "right winger",
+    "Kasımpaşa",
+    "23 April 1989",
+    "İsmail Özgür Göktaş",
+    "Bursaspor",
+    "Tarsus Idman Yurdu",
+    "2007–2008 season",
+    "Turkish"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "gave the opportunity to play in",
+    "trusted",
+    "plays for",
+    "loan in",
+    "is regarded as a",
+    "is one of the young players of"
+  ],
+  "relations": [
+    [
+      "İsmail Özgür Göktaş",
+      "plays for",
+      "Tarsus Idman Yurdu"
+    ],
+    [
+      "Samet Aybaba",
+      "gave the opportunity to play in",
+      "2007–2008 season"
+    ],
+    [
+      "Samet Aybaba",
+      "trusted",
+      "İsmail Özgür Göktaş"
+    ],
+    [
+      "İsmail Özgür Göktaş",
+      "is regarded as a",
+      "promising right winger"
+    ],
+    [
+      "İsmail Özgür Göktaş",
+      "loan in",
+      "Kasımpaşa"
+    ],
+    [
+      "İsmail Özgür Göktaş",
+      "is one of the young players of",
+      "Bursaspor"
+    ],
+    [
+      "İsmail Özgür Göktaş",
+      "is born on",
+      "23 April 1989"
+    ],
+    [
+      "İsmail Özgür Göktaş",
+      "is a",
+      "Turkish footballer"
+    ]
+  ]
+}

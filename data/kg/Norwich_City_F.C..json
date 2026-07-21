@@ -1,0 +1,159 @@
+{
+  "entities": [
+    "East Anglian derby",
+    "Olympiastadion",
+    "Championship",
+    "England",
+    "1992–93 season",
+    "The Canaries",
+    "Bayern Munich",
+    "Premier League",
+    "Carrow Road",
+    "League Cup",
+    "Ipswich Town",
+    "canary",
+    "1962",
+    "yellow-and-green home kits",
+    "UEFA Cup",
+    "Norwich City Football Club",
+    "1890s",
+    "Norwich",
+    "1993–94 season",
+    "Norfolk",
+    "On The Ball, City",
+    "1985"
+  ],
+  "edges": [
+    "featured in",
+    "won in",
+    "is nicknamed",
+    "competes in",
+    "is located in",
+    "was written in",
+    "defeated",
+    "defeated at",
+    "is based in",
+    "has a song",
+    "contests",
+    "finished third in",
+    "has played their home games at",
+    "was founded in",
+    "has a rivalry with",
+    "has won",
+    "is associated with",
+    "had their highest-ever league finish in",
+    "is represented by"
+  ],
+  "relations": [
+    [
+      "Norwich City Football Club",
+      "is based in",
+      "Norwich"
+    ],
+    [
+      "Norwich City Football Club",
+      "has a rivalry with",
+      "Ipswich Town"
+    ],
+    [
+      "Norwich City Football Club",
+      "featured in",
+      "1993–94 season"
+    ],
+    [
+      "Norwich City Football Club",
+      "won in",
+      "1962"
+    ],
+    [
+      "Norwich City Football Club",
+      "has won",
+      "League Cup"
+    ],
+    [
+      "Norwich City Football Club",
+      "is located in",
+      "Norfolk"
+    ],
+    [
+      "On The Ball, City",
+      "was written in",
+      "1890s"
+    ],
+    [
+      "Norwich City Football Club",
+      "finished third in",
+      "Premier League"
+    ],
+    [
+      "Norwich City Football Club",
+      "has played their home games at",
+      "Carrow Road"
+    ],
+    [
+      "The Canaries",
+      "is represented by",
+      "canary"
+    ],
+    [
+      "Norwich City Football Club",
+      "was founded in",
+      "1902"
+    ],
+    [
+      "Norwich City Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Norwich City Football Club",
+      "defeated",
+      "Bayern Munich"
+    ],
+    [
+      "Norwich City Football Club",
+      "competes in",
+      "Championship"
+    ],
+    [
+      "Norwich City Football Club",
+      "had their highest-ever league finish in",
+      "1992–93 season"
+    ],
+    [
+      "The Canaries",
+      "is associated with",
+      "yellow-and-green home kits"
+    ],
+    [
+      "Norwich City Football Club",
+      "contests",
+      "East Anglian derby"
+    ],
+    [
+      "Norwich City Football Club",
+      "won in",
+      "1985"
+    ],
+    [
+      "Norwich City Football Club",
+      "featured in",
+      "UEFA Cup"
+    ],
+    [
+      "The Canaries",
+      "has a song",
+      "On The Ball, City"
+    ],
+    [
+      "Norwich City Football Club",
+      "is nicknamed",
+      "The Canaries"
+    ],
+    [
+      "Norwich City Football Club",
+      "defeated at",
+      "Olympiastadion"
+    ]
+  ]
+}

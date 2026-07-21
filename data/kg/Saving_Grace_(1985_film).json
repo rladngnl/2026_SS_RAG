@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "Robert M. Young",
+    "Celia Gittelson",
+    "David S. Ward",
+    "Richard Kramer",
+    "Edward James Olmos",
+    "Robert",
+    "Embassy Pictures",
+    "comedy-drama film",
+    "Herbert F. Solow",
+    "Giancarlo Giannini",
+    "Pope Leo XIV",
+    "Tom Conti",
+    "1986",
+    "Saving Grace"
+  ],
+  "edges": [
+    "was directed by",
+    "is a",
+    "stars",
+    "is based on",
+    "was produced by",
+    "has screenplay by",
+    "has baptismal name",
+    "was distributed by"
+  ],
+  "relations": [
+    [
+      "Saving Grace",
+      "stars",
+      "Tom Conti"
+    ],
+    [
+      "Saving Grace",
+      "stars",
+      "Giancarlo Giannini"
+    ],
+    [
+      "Saving Grace",
+      "was distributed by",
+      "Embassy Pictures"
+    ],
+    [
+      "Saving Grace",
+      "has screenplay by",
+      "David S. Ward"
+    ],
+    [
+      "Saving Grace",
+      "is a",
+      "comedy-drama film"
+    ],
+    [
+      "Saving Grace",
+      "stars",
+      "Edward James Olmos"
+    ],
+    [
+      "Saving Grace",
+      "was directed by",
+      "Robert M. Young"
+    ],
+    [
+      "Saving Grace",
+      "has screenplay by",
+      "Richard Kramer"
+    ],
+    [
+      "Saving Grace",
+      "is based on",
+      "Celia Gittelson"
+    ],
+    [
+      "Saving Grace",
+      "was produced by",
+      "Herbert F. Solow"
+    ],
+    [
+      "Pope Leo XIV",
+      "has baptismal name",
+      "Robert"
+    ]
+  ]
+}

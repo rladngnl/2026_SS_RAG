@@ -1,0 +1,122 @@
+{
+  "entities": [
+    "Shikari",
+    "Red Giant Movies",
+    "Don Max",
+    "Ganesh Rajavelu",
+    "Rahul Dev",
+    "K. S. Ravikumar",
+    "Sayaji Shinde",
+    "Ramesh Khanna",
+    "Udhayanidhi Stalin",
+    "His Highness Abdullah",
+    "17 October 2009",
+    "Suriya",
+    "Harris Jayaraj",
+    "Anand Babu",
+    "Vadivelu",
+    "Aadhavan",
+    "B. Saroja Devi",
+    "Murali",
+    "Nayanthara"
+  ],
+  "edges": [
+    "is loosely based on",
+    "stars",
+    "has music composed by",
+    "is produced under",
+    "is produced by",
+    "is directed by",
+    "was released on",
+    "has editing handled by",
+    "was remade in",
+    "has cinematography handled by"
+  ],
+  "relations": [
+    [
+      "Aadhavan",
+      "is loosely based on",
+      "His Highness Abdullah"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Nayanthara"
+    ],
+    [
+      "Aadhavan",
+      "was remade in",
+      "Shikari"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Anand Babu"
+    ],
+    [
+      "Aadhavan",
+      "was released on",
+      "17 October 2009"
+    ],
+    [
+      "Aadhavan",
+      "is produced by",
+      "Udhayanidhi Stalin"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Vadivelu"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Rahul Dev"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "B. Saroja Devi"
+    ],
+    [
+      "Aadhavan",
+      "has cinematography handled by",
+      "Ganesh Rajavelu"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Suriya"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Murali"
+    ],
+    [
+      "Aadhavan",
+      "is directed by",
+      "K. S. Ravikumar"
+    ],
+    [
+      "Aadhavan",
+      "has music composed by",
+      "Harris Jayaraj"
+    ],
+    [
+      "Aadhavan",
+      "stars",
+      "Sayaji Shinde"
+    ],
+    [
+      "Aadhavan",
+      "is produced under",
+      "Red Giant Movies"
+    ],
+    [
+      "Aadhavan",
+      "has editing handled by",
+      "Don Max"
+    ]
+  ]
+}

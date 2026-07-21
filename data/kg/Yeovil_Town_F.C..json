@@ -1,0 +1,227 @@
+{
+  "entities": [
+    "2002 FA Trophy",
+    "81,000 spectators",
+    "1963–64",
+    "Weymouth",
+    "1954–55",
+    "Western League",
+    "Bristol Charity League",
+    "Championship",
+    "army camp",
+    "1979",
+    "England",
+    "Sunderland",
+    "2013 Football League One",
+    "Huish Park",
+    "Alliance Premier League",
+    "Yeovil",
+    "Southern League",
+    "Football League",
+    "Somerset",
+    "glove-making",
+    "2002–03",
+    "1895",
+    "1995",
+    "19th century",
+    "2004–05",
+    "the Glovers",
+    "18th century",
+    "1970–71",
+    "National League",
+    "2023–24 National League South",
+    "Dorset District League",
+    "Isthmian League",
+    "1987–88",
+    "FA Cup",
+    "Gary Johnson",
+    "Manchester United",
+    "Yeovil Town Football Club",
+    "2018–19",
+    "League Two",
+    "Somerset Senior League",
+    "1985"
+  ],
+  "edges": [
+    "was promoted to",
+    "won championship in",
+    "secured a place in",
+    "won",
+    "competes in",
+    "is located in",
+    "was relegated in",
+    "won titles in",
+    "refers to",
+    "is one of the most successful teams in",
+    "suffered relegations",
+    "defeated",
+    "has home ground",
+    "is based in",
+    "is known as",
+    "played in front of",
+    "won title in",
+    "was founded in",
+    "was built on",
+    "joined",
+    "reached",
+    "was a member of",
+    "has local rivalries with"
+  ],
+  "relations": [
+    [
+      "Yeovil Town Football Club",
+      "won titles in",
+      "Southern League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won championship in",
+      "1954–55"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "suffered relegations",
+      "2018–19"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "played in front of",
+      "81,000 spectators"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won title in",
+      "League Two"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "was relegated in",
+      "1995"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "is located in",
+      "Somerset"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won",
+      "2023–24 National League South"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "was a member of",
+      "Alliance Premier League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "is one of the most successful teams in",
+      "FA Cup"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "secured a place in",
+      "Football League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "was promoted to",
+      "Conference"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won titles in",
+      "Western League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won",
+      "2002 FA Trophy"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "was founded in",
+      "1895"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "joined",
+      "Somerset Senior League"
+    ],
+    [
+      "the Glovers",
+      "refers to",
+      "glove-making"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "is based in",
+      "Yeovil"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "is known as",
+      "the Glovers"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won titles in",
+      "Bristol Charity League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "has local rivalries with",
+      "Weymouth"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "competes in",
+      "National League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "reached",
+      "Championship"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won championship in",
+      "1970–71"
+    ],
+    [
+      "Huish Park",
+      "was built on",
+      "army camp"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won",
+      "2002–03"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "has home ground",
+      "Huish Park"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "defeated",
+      "Sunderland"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won titles in",
+      "Dorset District League"
+    ],
+    [
+      "Yeovil Town Football Club",
+      "won championship in",
+      "1963–64"
+    ]
+  ]
+}

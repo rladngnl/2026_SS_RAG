@@ -1,0 +1,154 @@
+{
+  "entities": [
+    "Southern League Division One",
+    "2014–15",
+    "Championship",
+    "England",
+    "League One",
+    "2018",
+    "Eton Park",
+    "Southern League",
+    "Football League",
+    "Burton upon Trent",
+    "The Brewers",
+    "Burton Albion Football Club",
+    "Conference",
+    "Birmingham & District League",
+    "Pirelli Stadium",
+    "Northern Premier League",
+    "2014 League Two play-off final",
+    "Nigel Clough",
+    "2015–16",
+    "Staffordshire",
+    "League Two",
+    "Southern League Premier Division"
+  ],
+  "edges": [
+    "led",
+    "moved home ground to",
+    "relegated in",
+    "won",
+    "competes in",
+    "is located in",
+    "were promoted from",
+    "spent seasons in",
+    "has nickname",
+    "were relegated from",
+    "spent seasons as",
+    "rejoined",
+    "was formed in",
+    "is in",
+    "were promoted to",
+    "joined",
+    "spent time in",
+    "moved home ground from",
+    "switched to"
+  ],
+  "relations": [
+    [
+      "Burton Albion Football Club",
+      "were promoted from",
+      "Southern League Division One"
+    ],
+    [
+      "Burton Albion Football Club",
+      "were promoted to",
+      "Conference"
+    ],
+    [
+      "Burton Albion Football Club",
+      "spent seasons in",
+      "Championship"
+    ],
+    [
+      "Nigel Clough",
+      "led",
+      "Burton Albion Football Club"
+    ],
+    [
+      "Burton Albion Football Club",
+      "competes in",
+      "League One"
+    ],
+    [
+      "Burton Albion Football Club",
+      "is located in",
+      "Burton upon Trent"
+    ],
+    [
+      "Burton Albion Football Club",
+      "is in",
+      "Staffordshire"
+    ],
+    [
+      "Burton Albion Football Club",
+      "rejoined",
+      "Northern Premier League"
+    ],
+    [
+      "Burton Albion Football Club",
+      "were promoted from",
+      "League One"
+    ],
+    [
+      "Nigel Clough",
+      "spent seasons as",
+      "player-manager"
+    ],
+    [
+      "Burton Albion Football Club",
+      "switched to",
+      "Southern League"
+    ],
+    [
+      "Burton Albion Football Club",
+      "moved home ground to",
+      "Pirelli Stadium"
+    ],
+    [
+      "Burton Albion Football Club",
+      "relegated in",
+      "2018"
+    ],
+    [
+      "Burton Albion Football Club",
+      "was formed in",
+      "1950"
+    ],
+    [
+      "Burton Albion Football Club",
+      "moved home ground from",
+      "Eton Park"
+    ],
+    [
+      "Burton Albion Football Club",
+      "joined",
+      "Birmingham & District League"
+    ],
+    [
+      "Burton Albion Football Club",
+      "were relegated from",
+      "Southern League Premier Division"
+    ],
+    [
+      "Burton Albion Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Burton Albion Football Club",
+      "spent time in",
+      "Northern Premier League"
+    ],
+    [
+      "Burton Albion Football Club",
+      "has nickname",
+      "The Brewers"
+    ],
+    [
+      "Burton Albion Football Club",
+      "won",
+      "League Two title"
+    ]
+  ]
+}

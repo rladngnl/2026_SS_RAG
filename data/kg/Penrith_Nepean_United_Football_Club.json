@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "New South Wales",
+    "Penrith Panthers",
+    "Australian association football club",
+    "St Marys",
+    "Penrith Nepean United Football Club"
+  ],
+  "edges": [
+    "was based in",
+    "was originally",
+    "was an",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "St Marys",
+      "is located in",
+      "New South Wales"
+    ],
+    [
+      "Penrith Nepean United Football Club",
+      "was originally",
+      "Penrith Panthers"
+    ],
+    [
+      "Penrith Nepean United Football Club",
+      "was based in",
+      "St Marys"
+    ],
+    [
+      "Penrith Nepean United Football Club",
+      "was an",
+      "Australian association football club"
+    ]
+  ]
+}

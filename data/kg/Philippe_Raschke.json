@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "Strasbourg",
+    "Sochaux",
+    "2004 Coupe de la Ligue Final",
+    "France",
+    "defender",
+    "Coupe de la Ligue",
+    "1967",
+    "1995 UEFA Intertoto Cup",
+    "1997",
+    "football",
+    "Philippe Raschke"
+  ],
+  "edges": [
+    "is a",
+    "played for",
+    "was born in",
+    "won",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Philippe Raschke",
+      "is a",
+      "defender"
+    ],
+    [
+      "Philippe Raschke",
+      "won",
+      "Coupe de la Ligue"
+    ],
+    [
+      "Philippe Raschke",
+      "was born on",
+      "1967"
+    ],
+    [
+      "Philippe Raschke",
+      "was born in",
+      "France"
+    ],
+    [
+      "Philippe Raschke",
+      "played for",
+      "Sochaux"
+    ],
+    [
+      "Philippe Raschke",
+      "won",
+      "1995 UEFA Intertoto Cup"
+    ],
+    [
+      "Sochaux",
+      "won",
+      "2004 Coupe de la Ligue Final"
+    ],
+    [
+      "Philippe Raschke",
+      "played for",
+      "Strasbourg"
+    ],
+    [
+      "Philippe Raschke",
+      "won",
+      "Coupe de la Ligue in 1997"
+    ]
+  ]
+}

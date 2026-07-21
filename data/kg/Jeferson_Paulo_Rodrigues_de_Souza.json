@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Jeferson Paulo Rodrigues de Souza",
+    "footballer",
+    "Brazil",
+    "Mikimba",
+    "right winger",
+    "Togo national team"
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "played as",
+    "was born in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Jeferson Paulo Rodrigues de Souza",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Jeferson Paulo Rodrigues de Souza",
+      "played as",
+      "right winger"
+    ],
+    [
+      "Jeferson Paulo Rodrigues de Souza",
+      "is known as",
+      "Mikimba"
+    ],
+    [
+      "Jeferson Paulo Rodrigues de Souza",
+      "played for",
+      "Togo national team"
+    ],
+    [
+      "Jeferson Paulo Rodrigues de Souza",
+      "was born in",
+      "Brazil"
+    ]
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    "Stone Mountain Storm",
+    "Colonial Athletic Association",
+    "Atlanta",
+    "Georgia",
+    "2017 season",
+    "Conyers",
+    "Atlanta Silverbacks",
+    "2004 State Cup",
+    "Brookwood Steamers",
+    "Atlanta Silverbacks U23s",
+    "Heritage High School",
+    "Georgia Revolution FC",
+    "Norcross Fury",
+    "Premier Development League",
+    "Georgia State University",
+    "Georgia State 4A",
+    "Chris Mahaffey",
+    "Oglethorpe University Women's Soccer",
+    "AFC Lightning",
+    "National Premier Soccer League",
+    "KFC Uerdingen",
+    "Georgia Soccer Girls Select Coach of the Year",
+    "Coweta Soccer Association",
+    "Henry County Soccer Association",
+    "USL First Division"
+  ],
+  "edges": [
+    "is from",
+    "was the",
+    "was the director of coaching at",
+    "was the Georgia State 4A soccer Player of the Year at",
+    "is born in",
+    "was recognized as",
+    "had a trial with",
+    "was called up to the senior team of",
+    "was promoted to head coach entering into the",
+    "moved to",
+    "won",
+    "played for",
+    "grew up in",
+    "was the assistant coach for",
+    "spent a single season with",
+    "is currently the executive director for",
+    "was hired as the assistant head coach of"
+  ],
+  "relations": [
+    [
+      "Chris Mahaffey",
+      "was recognized as",
+      "Georgia Soccer Girls Select Coach of the Year"
+    ],
+    [
+      "AFC Lightning",
+      "won",
+      "2004 State Cup"
+    ],
+    [
+      "Chris Mahaffey",
+      "grew up in",
+      "Conyers"
+    ],
+    [
+      "Chris Mahaffey",
+      "was called up to the senior team of",
+      "Atlanta Silverbacks"
+    ],
+    [
+      "Chris Mahaffey",
+      "was the director of coaching at",
+      "Coweta Soccer Association"
+    ],
+    [
+      "Chris Mahaffey",
+      "played for",
+      "Stone Mountain Storm"
+    ],
+    [
+      "Chris Mahaffey",
+      "is born in",
+      "Atlanta"
+    ],
+    [
+      "Chris Mahaffey",
+      "played for",
+      "Atlanta Silverbacks U23s"
+    ],
+    [
+      "Chris Mahaffey",
+      "was promoted to head coach entering into the",
+      "2017 season"
+    ],
+    [
+      "Chris Mahaffey",
+      "is from",
+      "Georgia"
+    ],
+    [
+      "Chris Mahaffey",
+      "played for",
+      "AFC Lightning"
+    ],
+    [
+      "Chris Mahaffey",
+      "played for",
+      "Norcross Fury"
+    ],
+    [
+      "Chris Mahaffey",
+      "was the Georgia State 4A soccer Player of the Year at",
+      "Heritage High School"
+    ],
+    [
+      "Chris Mahaffey",
+      "played for",
+      "Brookwood Steamers"
+    ],
+    [
+      "Chris Mahaffey",
+      "is currently the executive director for",
+      "Henry County Soccer Association"
+    ],
+    [
+      "Chris Mahaffey",
+      "had a trial with",
+      "KFC Uerdingen"
+    ],
+    [
+      "Chris Mahaffey",
+      "moved to",
+      "Germany"
+    ],
+    [
+      "Chris Mahaffey",
+      "was hired as the assistant head coach of",
+      "Georgia Revolution FC"
+    ],
+    [
+      "Chris Mahaffey",
+      "spent a single season with",
+      "Georgia State University"
+    ],
+    [
+      "Chris Mahaffey",
+      "was the",
+      "Colonial Athletic Association Freshman of the Year"
+    ],
+    [
+      "Chris Mahaffey",
+      "was the assistant coach for",
+      "Oglethorpe University Women's Soccer"
+    ]
+  ]
+}

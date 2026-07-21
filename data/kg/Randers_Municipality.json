@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "Torben Hansen",
+    "Denmark",
+    "748.21 km2",
+    "100,564",
+    "Randers Municipality",
+    "Business Region Aarhus",
+    "Jutland peninsula",
+    "1 January 2026",
+    "Randers Kommune",
+    "288.89 sq mi",
+    "Social Democrats",
+    "Randers",
+    "East Jutland metropolitan area",
+    "2016",
+    "1.378 million",
+    "Region Midtjylland"
+  ],
+  "edges": [
+    "is located in",
+    "was recorded in",
+    "had a total population of",
+    "has a mayor since",
+    "has a population of",
+    "is part of",
+    "is a member of",
+    "is the site of its municipal council in",
+    "covers an area of"
+  ],
+  "relations": [
+    [
+      "Randers Municipality",
+      "covers an area of",
+      "748.21 km2"
+    ],
+    [
+      "East Jutland metropolitan area",
+      "had a total population of",
+      "1.378 million"
+    ],
+    [
+      "Randers Municipality",
+      "is part of",
+      "East Jutland metropolitan area"
+    ],
+    [
+      "Randers Municipality",
+      "is located in",
+      "Region Midtjylland"
+    ],
+    [
+      "Randers Municipality",
+      "has a mayor since",
+      "1 January 2018"
+    ],
+    [
+      "East Jutland metropolitan area",
+      "was recorded in",
+      "2016"
+    ],
+    [
+      "Randers Municipality",
+      "has a population of",
+      "100,564"
+    ],
+    [
+      "Randers Municipality",
+      "is the site of its municipal council in",
+      "Randers"
+    ],
+    [
+      "Randers Municipality",
+      "is part of",
+      "Business Region Aarhus"
+    ],
+    [
+      "Torben Hansen",
+      "is a member of",
+      "Social Democrats"
+    ]
+  ]
+}

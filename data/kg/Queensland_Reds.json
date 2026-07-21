@@ -1,0 +1,111 @@
+{
+  "entities": [
+    "2006",
+    "2011",
+    "QRU",
+    "COVID-19 pandemic",
+    "Brisbane",
+    "ACT Brumbies",
+    "Super Rugby AU",
+    "2010",
+    "Super 14",
+    "Super 12",
+    "Queensland Reds",
+    "Southern Hemisphere",
+    "Queensland Rugby Union",
+    "New South Wales Waratahs",
+    "1996",
+    "2012",
+    "Super Rugby",
+    "Queensland",
+    "Australian conference",
+    "2021",
+    "2005"
+  ],
+  "edges": [
+    "moved to a model where players are contracted to",
+    "won the title in",
+    "compete in",
+    "are based in",
+    "finished first in the",
+    "was played due to",
+    "finished as minor premiers in",
+    "competed in",
+    "are one of",
+    "were a representative team selected from",
+    "won the competition in its first season in its new format",
+    "was renamed in"
+  ],
+  "relations": [
+    [
+      "Queensland Reds",
+      "competed in",
+      "Super 14"
+    ],
+    [
+      "Queensland Reds",
+      "competed in",
+      "Super 12"
+    ],
+    [
+      "Queensland Reds",
+      "compete in",
+      "Super Rugby"
+    ],
+    [
+      "Queensland Reds",
+      "finished first in the",
+      "Australian conference"
+    ],
+    [
+      "Super Rugby",
+      "was renamed in",
+      "2011"
+    ],
+    [
+      "Queensland Reds",
+      "won the competition in its first season in its new format",
+      "2011"
+    ],
+    [
+      "Queensland Reds",
+      "are one of",
+      "five Australian sides"
+    ],
+    [
+      "Queensland Reds",
+      "were a representative team selected from",
+      "Queensland"
+    ],
+    [
+      "Queensland Reds",
+      "are based in",
+      "Brisbane"
+    ],
+    [
+      "Queensland Reds",
+      "won the title in",
+      "2021"
+    ],
+    [
+      "Queensland Reds",
+      "finished as minor premiers in",
+      "1999"
+    ],
+    [
+      "Queensland Reds",
+      "moved to a model where players are contracted to",
+      "Queensland Rugby Union"
+    ],
+    [
+      "Super Rugby AU",
+      "was played due to",
+      "COVID-19 pandemic"
+    ],
+    [
+      "Queensland Reds",
+      "finished as minor premiers in",
+      "1996"
+    ]
+  ]
+}

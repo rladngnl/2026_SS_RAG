@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "manager",
+    "Eerste Divisie",
+    "11 January 1984",
+    "Jong PSV",
+    "Stephanus Johannes Schaars",
+    "Stijn Schaars",
+    "midfielder",
+    "Dutch",
+    "football coach"
+  ],
+  "edges": [
+    "was born on",
+    "is manager of",
+    "is part of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Stijn Schaars",
+      "is",
+      "Dutch professional football coach"
+    ],
+    [
+      "Stijn Schaars",
+      "was born on",
+      "11 January 1984"
+    ],
+    [
+      "Stijn Schaars",
+      "is",
+      "former midfielder"
+    ],
+    [
+      "Stijn Schaars",
+      "is manager of",
+      "Jong PSV"
+    ],
+    [
+      "Jong PSV",
+      "is part of",
+      "Eerste Divisie"
+    ]
+  ]
+}

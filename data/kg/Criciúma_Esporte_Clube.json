@@ -1,0 +1,48 @@
+{
+  "entities": [
+    "2002 Campeonato Brasileiro Série B",
+    "Santa Catarina",
+    "1991 Copa do Brasil",
+    "Criciúma",
+    "2006 Campeonato Brasileiro Série C",
+    "Criciúma Esporte Clube"
+  ],
+  "edges": [
+    "was founded on",
+    "won",
+    "is based in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Criciúma",
+      "won",
+      "1991 Copa do Brasil"
+    ],
+    [
+      "Criciúma Esporte Clube",
+      "is based in",
+      "Criciúma"
+    ],
+    [
+      "Criciúma Esporte Clube",
+      "was founded on",
+      "13 May 1947"
+    ],
+    [
+      "Criciúma Esporte Clube",
+      "is located in",
+      "Santa Catarina"
+    ],
+    [
+      "Criciúma",
+      "won",
+      "2006 Campeonato Brasileiro Série C"
+    ],
+    [
+      "Criciúma",
+      "won",
+      "2002 Campeonato Brasileiro Série B"
+    ]
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    "lead vocalist",
+    "UK Rock & Metal Albums Charts",
+    "songwriter",
+    "guitarist",
+    "A Celebration of Endings",
+    "ten studio albums",
+    "Scottish",
+    "Opposites",
+    "Ellipsis",
+    "musician",
+    "Switzerland",
+    "Empire State Bastard",
+    "Scotland",
+    "Ireland",
+    "Futique",
+    "Scottish Albums Charts",
+    "Rivers of Heresy",
+    "Simon Neil",
+    "JP Reid",
+    "UK Albums Charts",
+    "The Myth of the Happily Ever After",
+    "Marmaduke Duke",
+    "Duke Pandemonium",
+    "Germany",
+    "The Magnificent Duke",
+    "September 2023",
+    "Biffy Clyro",
+    "Puzzle"
+  ],
+  "edges": [
+    "is lead vocalist and guitarist for",
+    "released",
+    "reached number three on the",
+    "formed the side project",
+    "topped the",
+    "reached forty six in the",
+    "fronted the side project",
+    "released their debut studio album",
+    "topped the charts in",
+    "was released in",
+    "reached sixty-nine in",
+    "has released",
+    "reached number three in"
+  ],
+  "relations": [
+    [
+      "Biffy Clyro",
+      "has released",
+      "ten studio albums"
+    ],
+    [
+      "Marmaduke Duke",
+      "released",
+      "two studio albums"
+    ],
+    [
+      "Marmaduke Duke",
+      "released",
+      "The Magnificent Duke"
+    ],
+    [
+      "Rivers of Heresy",
+      "reached forty six in the",
+      "United Kingdom"
+    ],
+    [
+      "Ellipsis",
+      "topped the charts in",
+      "Germany"
+    ],
+    [
+      "Ellipsis",
+      "topped the charts in",
+      "Ireland"
+    ],
+    [
+      "Simon Neil",
+      "formed the side project",
+      "Marmaduke Duke"
+    ],
+    [
+      "Empire State Bastard",
+      "released their debut studio album",
+      "Rivers of Heresy"
+    ],
+    [
+      "Rivers of Heresy",
+      "reached number three on the",
+      "UK Rock & Metal Albums Charts"
+    ],
+    [
+      "Simon Neil",
+      "is lead vocalist and guitarist for",
+      "Biffy Clyro"
+    ],
+    [
+      "Simon Neil",
+      "fronted the side project",
+      "Empire State Bastard"
+    ],
+    [
+      "Rivers of Heresy",
+      "reached number three in",
+      "Scotland"
+    ],
+    [
+      "Rivers of Heresy",
+      "was released in",
+      "September 2023"
+    ],
+    [
+      "A Celebration of Endings",
+      "topped the",
+      "UK Albums Charts"
+    ],
+    [
+      "Ellipsis",
+      "topped the charts in",
+      "United Kingdom"
+    ],
+    [
+      "ten studio albums",
+      "topped the",
+      "Scottish Albums Charts"
+    ],
+    [
+      "Ellipsis",
+      "topped the charts in",
+      "Switzerland"
+    ],
+    [
+      "Marmaduke Duke",
+      "released",
+      "Duke Pandemonium"
+    ],
+    [
+      "Opposites",
+      "topped the",
+      "UK Albums Charts"
+    ],
+    [
+      "Rivers of Heresy",
+      "reached sixty-nine in",
+      "Germany"
+    ]
+  ]
+}

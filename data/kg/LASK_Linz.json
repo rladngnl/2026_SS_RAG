@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "LASK_Linz",
+    "2026",
+    "Linzer Athletik-Sport-Klub",
+    "Raiffeisen Arena",
+    "1965",
+    "Austrian women's football",
+    "Austrian Football Bundesliga",
+    "Austrian football championship",
+    "Austrian professional football club",
+    "black and white",
+    "women's team",
+    "Upper-Austrian",
+    "Linz"
+  ],
+  "edges": [
+    "has colours",
+    "is known as",
+    "is based in",
+    "has a women's team that plays in",
+    "won their second",
+    "plays in",
+    "is an",
+    "became the first team outside Vienna to win",
+    "plays its home games at",
+    "won their championship in",
+    "was established in"
+  ],
+  "relations": [
+    [
+      "LASK_Linz",
+      "has colours",
+      "black and white"
+    ],
+    [
+      "LASK_Linz",
+      "has a women's team that plays in",
+      "Austrian women's football"
+    ],
+    [
+      "LASK_Linz",
+      "is an",
+      "Austrian professional football club"
+    ],
+    [
+      "LASK_Linz",
+      "became the first team outside Vienna to win",
+      "Austrian football championship"
+    ],
+    [
+      "LASK_Linz",
+      "won their championship in",
+      "2026"
+    ],
+    [
+      "LASK_Linz",
+      "plays its home games at",
+      "Raiffeisen Arena"
+    ],
+    [
+      "LASK_Linz",
+      "is known as",
+      "Linzer Athletik-Sport-Klub"
+    ],
+    [
+      "LASK_Linz",
+      "was established in",
+      "1965"
+    ],
+    [
+      "LASK_Linz",
+      "plays in",
+      "Austrian Football Bundesliga"
+    ],
+    [
+      "LASK_Linz",
+      "won their second",
+      "Austrian football championship"
+    ],
+    [
+      "LASK_Linz",
+      "is based in",
+      "Linz"
+    ]
+  ]
+}

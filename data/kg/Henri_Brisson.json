@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "Prime Minister of France",
+    "Henri Brisson",
+    "1886",
+    "1885",
+    "1898",
+    "French",
+    "Eugène Henri Brisson",
+    "statesman"
+  ],
+  "edges": [
+    "is a",
+    "served as Prime Minister between",
+    "served as Prime Minister in",
+    "is",
+    "was Prime Minister of"
+  ],
+  "relations": [
+    [
+      "Henri Brisson",
+      "served as Prime Minister between",
+      "1885 and 1886"
+    ],
+    [
+      "Henri Brisson",
+      "served as Prime Minister in",
+      "1898"
+    ],
+    [
+      "Eugène Henri Brisson",
+      "is",
+      "Henri Brisson"
+    ],
+    [
+      "Henri Brisson",
+      "was Prime Minister of",
+      "France"
+    ],
+    [
+      "Henri Brisson",
+      "is a",
+      "statesman"
+    ]
+  ]
+}

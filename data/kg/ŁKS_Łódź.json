@@ -1,0 +1,133 @@
+{
+  "entities": [
+    "tennis",
+    "boxing",
+    "cycling",
+    "basketball",
+    "swimming",
+    "Władysław Król Municipal Stadium",
+    "Aleja Unii Lubelskiej 2",
+    "volleyball",
+    "table tennis",
+    "ice hockey",
+    "ŁKS Łódź",
+    "Rycerze Wiosny",
+    "winter break",
+    "Łódzki Klub Sportowy Łódź",
+    "football club",
+    "Knights of Spring",
+    "Łódź",
+    "fencing",
+    "league",
+    "athletics",
+    "chess"
+  ],
+  "edges": [
+    "is located at",
+    "is based in",
+    "is based at",
+    "is represented in",
+    "is also known as",
+    "is known for",
+    "has nickname",
+    "competes in",
+    "performs strongly after"
+  ],
+  "relations": [
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "boxing"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "tennis"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "swimming"
+    ],
+    [
+      "ŁKS Łódź",
+      "has nickname",
+      "Rycerze Wiosny"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "athletics"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "table tennis"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "basketball"
+    ],
+    [
+      "ŁKS Łódź",
+      "is based in",
+      "Łódź"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "chess"
+    ],
+    [
+      "Rycerze Wiosny",
+      "is also known as",
+      "Knights of Spring"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "volleyball"
+    ],
+    [
+      "Władysław Król Municipal Stadium",
+      "is located at",
+      "Aleja Unii Lubelskiej 2"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "cycling"
+    ],
+    [
+      "ŁKS Łódź",
+      "competes in",
+      "league"
+    ],
+    [
+      "ŁKS Łódź",
+      "is known for",
+      "football club"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "ice hockey"
+    ],
+    [
+      "ŁKS Łódź",
+      "is based at",
+      "Władysław Król Municipal Stadium"
+    ],
+    [
+      "ŁKS Łódź",
+      "is represented in",
+      "fencing"
+    ],
+    [
+      "ŁKS Łódź",
+      "performs strongly after",
+      "winter break"
+    ]
+  ]
+}

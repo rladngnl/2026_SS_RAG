@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "Thiago Santos",
+    "footballer",
+    "Thiago dos Santos Ferreira",
+    "Cianorte",
+    "Brazilian"
+  ],
+  "edges": [
+    "last played for",
+    "is a",
+    "is also known as"
+  ],
+  "relations": [
+    [
+      "Thiago dos Santos Ferreira",
+      "last played for",
+      "Cianorte"
+    ],
+    [
+      "Thiago dos Santos Ferreira",
+      "is also known as",
+      "Thiago Santos"
+    ],
+    [
+      "Thiago dos Santos Ferreira",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Thiago dos Santos Ferreira",
+      "is a",
+      "Brazilian"
+    ]
+  ]
+}

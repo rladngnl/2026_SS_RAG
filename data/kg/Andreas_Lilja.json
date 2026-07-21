@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "National Hockey League",
+    "Swedish",
+    "Los Angeles Kings",
+    "Detroit",
+    "2008 Stanley Cup",
+    "professional ice hockey defenceman",
+    "July 13, 1975",
+    "Philadelphia Flyers",
+    "Swedish players",
+    "NHL",
+    "Florida Panthers",
+    "Red Wings",
+    "Andreas Lilja",
+    "Anaheim Ducks",
+    "Detroit Red Wings"
+  ],
+  "edges": [
+    "is a",
+    "boasted",
+    "played in",
+    "was born on",
+    "was a member of",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Andreas Lilja",
+      "was a member of",
+      "2008 Stanley Cup winning Red Wings"
+    ],
+    [
+      "Andreas Lilja",
+      "played for",
+      "Los Angeles Kings"
+    ],
+    [
+      "Andreas Lilja",
+      "played for",
+      "Florida Panthers"
+    ],
+    [
+      "Andreas Lilja",
+      "played in",
+      "National Hockey League"
+    ],
+    [
+      "Andreas Lilja",
+      "played for",
+      "Anaheim Ducks"
+    ],
+    [
+      "Red Wings",
+      "boasted",
+      "Swedish players"
+    ],
+    [
+      "Andreas Lilja",
+      "played for",
+      "Detroit Red Wings"
+    ],
+    [
+      "Andreas Lilja",
+      "played for",
+      "Philadelphia Flyers"
+    ],
+    [
+      "Andreas Lilja",
+      "was born on",
+      "July 13, 1975"
+    ],
+    [
+      "Andreas Lilja",
+      "is a",
+      "Swedish professional ice hockey defenceman"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "entities": [
+    "Wales",
+    "1950",
+    "Exeter City",
+    "Fratton Park",
+    "Portsmouth",
+    "Hereford United",
+    "Cardiff",
+    "Phillip Stanley Roberts",
+    "Phil Roberts",
+    "John Deacon",
+    "Football League",
+    "Bristol Rovers"
+  ],
+  "edges": [
+    "was chairman of",
+    "is born in",
+    "is a former professional footballer",
+    "ended his career at",
+    "had a successful career in",
+    "held the right back spot at",
+    "moved to",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Phil Roberts",
+      "is a former professional footballer",
+      "Wales"
+    ],
+    [
+      "Phil Roberts",
+      "is born in",
+      "Cardiff"
+    ],
+    [
+      "Phil Roberts",
+      "held the right back spot at",
+      "Fratton Park"
+    ],
+    [
+      "John Deacon",
+      "was chairman of",
+      "Portsmouth"
+    ],
+    [
+      "Phil Roberts",
+      "ended his career at",
+      "Exeter City"
+    ],
+    [
+      "Phil Roberts",
+      "had a successful career in",
+      "Football League"
+    ],
+    [
+      "Phil Roberts",
+      "moved to",
+      "Portsmouth"
+    ],
+    [
+      "Phil Roberts",
+      "played for",
+      "Hereford United"
+    ],
+    [
+      "Phil Roberts",
+      "played for",
+      "Bristol Rovers"
+    ]
+  ]
+}

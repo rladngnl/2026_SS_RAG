@@ -1,0 +1,175 @@
+{
+  "entities": [
+    "boxing",
+    "basketball",
+    "Gabriel Heinze",
+    "Estadio Marcelo Bielsa",
+    "Argentine Primera División",
+    "martial arts",
+    "Marcelo Bielsa",
+    "roller skating",
+    "Club Atlético Newell's Old Boys",
+    "Mauricio Pochettino",
+    "volleyball",
+    "Jorge Valdano",
+    "field hockey",
+    "Rosario",
+    "AFA",
+    "Roberto Sensini",
+    "Isaac Newell",
+    "Gabriel Batistuta",
+    "Éver Banega",
+    "Maxi Rodríguez",
+    "C.A. Newell's Old Boys",
+    "Diego Maradona",
+    "Liga Rosarina de Football",
+    "Argentine Football Association",
+    "Barcelona",
+    "Lionel Messi",
+    "American football",
+    "Américo Gallego",
+    "Copa Libertadores",
+    "Santa Fe",
+    "Walter Samuel",
+    "Rosario Central",
+    "Lionel Scaloni"
+  ],
+  "edges": [
+    "were runner-up in",
+    "played in",
+    "affiliated to",
+    "is notable for",
+    "represented",
+    "left to play for",
+    "is a founding member of",
+    "has won",
+    "is located in",
+    "was founded on",
+    "is named after",
+    "play the derby against",
+    "played for",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "C.A. Newell's Old Boys",
+      "affiliated to",
+      "Argentine Football Association"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "is a founding member of",
+      "Liga Rosarina de Football"
+    ],
+    [
+      "Gabriel Batistuta",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "Éver Banega",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "was founded on",
+      "3 November 1903"
+    ],
+    [
+      "Maxi Rodríguez",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "play the derby against",
+      "Rosario Central"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "is named after",
+      "Isaac Newell"
+    ],
+    [
+      "Walter Samuel",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "Roberto Sensini",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "Gabriel Heinze",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "Mauricio Pochettino",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "Jorge Valdano",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "Américo Gallego",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "were runner-up in",
+      "Copa Libertadores"
+    ],
+    [
+      "Lionel Messi",
+      "left to play for",
+      "Barcelona"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "is based in",
+      "Rosario"
+    ],
+    [
+      "Lionel Messi",
+      "played in",
+      "C.A. Newell's Old Boys youth system"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "is notable for",
+      "youth divisions"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "is located in",
+      "Santa Fe"
+    ],
+    [
+      "Diego Maradona",
+      "played for",
+      "C.A. Newell's Old Boys"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "has won",
+      "six Argentine Primera División championships"
+    ],
+    [
+      "Lionel Scaloni",
+      "represented",
+      "Argentina"
+    ],
+    [
+      "C.A. Newell's Old Boys",
+      "has won",
+      "three national cups"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "Abidjan",
+    "Ivorian",
+    "Belgian club Hasselt",
+    "Arsène Né",
+    "Germinal Beerschot",
+    "Metalurh Donetsk",
+    "Beveren",
+    "4 January 1981"
+  ],
+  "edges": [
+    "is a",
+    "last played for",
+    "was born in",
+    "was born on",
+    "previously played for"
+  ],
+  "relations": [
+    [
+      "Arsène Né",
+      "last played for",
+      "Belgian club Hasselt"
+    ],
+    [
+      "Arsène Né",
+      "previously played for",
+      "Metalurh Donetsk"
+    ],
+    [
+      "Arsène Né",
+      "is a",
+      "Ivorian footballer"
+    ],
+    [
+      "Arsène Né",
+      "was born in",
+      "Abidjan"
+    ],
+    [
+      "Arsène Né",
+      "previously played for",
+      "Beveren"
+    ],
+    [
+      "Arsène Né",
+      "was born on",
+      "4 January 1981"
+    ],
+    [
+      "Arsène Né",
+      "previously played for",
+      "Germinal Beerschot"
+    ],
+    [
+      "Arsène Né",
+      "is a",
+      "central defender"
+    ]
+  ]
+}

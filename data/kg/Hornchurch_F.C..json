@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "England",
+    "Hornchurch F.C.",
+    "National League",
+    "Upminster",
+    "Hornchurch Stadium",
+    "Hornchurch Football Club"
+  ],
+  "edges": [
+    "is based in",
+    "is a member of",
+    "is located in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Hornchurch Football Club",
+      "is a member of",
+      "National League"
+    ],
+    [
+      "Hornchurch Football Club",
+      "plays at",
+      "Hornchurch Stadium"
+    ],
+    [
+      "Hornchurch Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Hornchurch Football Club",
+      "is based in",
+      "Upminster"
+    ]
+  ]
+}

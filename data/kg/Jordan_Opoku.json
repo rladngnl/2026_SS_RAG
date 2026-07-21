@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "professional footballer",
+    "Berekum Chelsea",
+    "Ghana national football team",
+    "Jordan Darko-Opoku",
+    "8 October 1983",
+    "attacking midfielder",
+    "forward",
+    "Ghana"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "plays for",
+    "plays as",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Jordan Darko-Opoku",
+      "plays as",
+      "attacking midfielder"
+    ],
+    [
+      "Jordan Darko-Opoku",
+      "plays as",
+      "forward"
+    ],
+    [
+      "Jordan Darko-Opoku",
+      "plays for",
+      "Ghana national football team"
+    ],
+    [
+      "Jordan Darko-Opoku",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Jordan Darko-Opoku",
+      "is from",
+      "Ghana"
+    ],
+    [
+      "Jordan Darko-Opoku",
+      "plays for",
+      "Berekum Chelsea"
+    ],
+    [
+      "Jordan Darko-Opoku",
+      "was born on",
+      "8 October 1983"
+    ]
+  ]
+}

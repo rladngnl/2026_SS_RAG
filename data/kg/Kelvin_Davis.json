@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "English footballer",
+    "American businessman",
+    "New Zealand politician",
+    "American boxer",
+    "Kelvin Davis (businessman)",
+    "Kelvin Davis (politician)",
+    "American basketball player",
+    "Kelvin Davis (boxer)",
+    "Kelvin Davis (footballer)",
+    "Kelvin Davis (basketball)"
+  ],
+  "edges": [
+    "is"
+  ],
+  "relations": [
+    [
+      "Kelvin Davis (politician)",
+      "is",
+      "New Zealand politician"
+    ],
+    [
+      "Kelvin Davis (boxer)",
+      "is",
+      "American boxer"
+    ],
+    [
+      "Kelvin Davis (footballer)",
+      "is",
+      "English footballer"
+    ],
+    [
+      "Kelvin Davis (basketball)",
+      "is",
+      "American basketball player"
+    ],
+    [
+      "Kelvin Davis (businessman)",
+      "is",
+      "American businessman"
+    ]
+  ]
+}

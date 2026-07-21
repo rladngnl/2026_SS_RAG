@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "footballer",
+    "30 May 1990",
+    "Montenegrin",
+    "defender",
+    "OFK Petrovac",
+    "Dejan Boljević"
+  ],
+  "edges": [
+    "plays for",
+    "was born on",
+    "is a",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Dejan Boljević",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Dejan Boljević",
+      "plays for",
+      "OFK Petrovac"
+    ],
+    [
+      "Dejan Boljević",
+      "was born on",
+      "30 May 1990"
+    ],
+    [
+      "Dejan Boljević",
+      "is a",
+      "Montenegrin"
+    ],
+    [
+      "Dejan Boljević",
+      "plays as a",
+      "defender"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "population",
+    "Ohio River",
+    "residents",
+    "Kentucky",
+    "Huntington–Ashland metropolitan area",
+    "Boyd County",
+    "economic center",
+    "northeastern Kentucky",
+    "Tri-State area",
+    "Ohio",
+    "medical center",
+    "Ashland",
+    "West Virginia",
+    "home-rule class city"
+  ],
+  "edges": [
+    "is a principal city of",
+    "is the most populous city in",
+    "is a city in",
+    "is a",
+    "is located on the southern bank of",
+    "serves as an important economic and medical center for",
+    "is near",
+    "has a population of",
+    "is referred to locally as",
+    "has residents of"
+  ],
+  "relations": [
+    [
+      "Ashland",
+      "is a principal city of",
+      "Huntington–Ashland metropolitan area"
+    ],
+    [
+      "Ashland",
+      "serves as an important economic and medical center for",
+      "northeastern Kentucky"
+    ],
+    [
+      "Ashland",
+      "is a",
+      "home-rule class city"
+    ],
+    [
+      "Ashland",
+      "is a city in",
+      "Boyd County"
+    ],
+    [
+      "Ashland",
+      "is near",
+      "West Virginia"
+    ],
+    [
+      "Huntington–Ashland metropolitan area",
+      "has residents of",
+      "376,155"
+    ],
+    [
+      "Ashland",
+      "is located on the southern bank of",
+      "Ohio River"
+    ],
+    [
+      "Ashland",
+      "is the most populous city in",
+      "Boyd County"
+    ],
+    [
+      "Ashland",
+      "has a population of",
+      "21,625"
+    ],
+    [
+      "Huntington–Ashland metropolitan area",
+      "is referred to locally as",
+      "Tri-State area"
+    ]
+  ]
+}

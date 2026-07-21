@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "1935",
+    "national championships",
+    "Ofer Yannay",
+    "EuroLeague",
+    "Hapoel Tel Aviv Basketball Club",
+    "Israel",
+    "Tel Aviv",
+    "Hapoel Tel Aviv Supporters Trust",
+    "Israeli Premier League"
+  ],
+  "edges": [
+    "is the second-most successful team in",
+    "is located in",
+    "is owned by",
+    "plays in",
+    "has",
+    "was established in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "is the second-most successful team in",
+      "Israeli basketball"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "is based in",
+      "Tel Aviv"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "is located in",
+      "Israel"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "has",
+      "national championships"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "is owned by",
+      "Hapoel Tel Aviv Supporters Trust"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "was established in",
+      "1935"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "plays in",
+      "EuroLeague"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "plays in",
+      "Israeli Premier League"
+    ],
+    [
+      "Hapoel Tel Aviv Basketball Club",
+      "is owned by",
+      "Ofer Yannay"
+    ]
+  ]
+}

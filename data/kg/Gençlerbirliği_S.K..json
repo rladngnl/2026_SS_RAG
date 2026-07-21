@@ -1,0 +1,163 @@
+{
+  "entities": [
+    "Blackburn Rovers",
+    "Arda Güler",
+    "Gençler",
+    "Sporting CP",
+    "Isaac Promise",
+    "Ersun Yanal",
+    "Ankara",
+    "Geremi",
+    "Ankara Rüzgârı",
+    "Parma",
+    "Süper Lig",
+    "Turkish Cup",
+    "Ankara Football League",
+    "Gençlerbirliği S.K.",
+    "Ankaragücü",
+    "red and black",
+    "Eryaman Stadium",
+    "UEFA Cup",
+    "Ankara derby",
+    "Valencia",
+    "İlhan Cavcav",
+    "Turkish Football Championship",
+    "Ankara Erkek Lisesi"
+  ],
+  "edges": [
+    "meetings are dubbed",
+    "were a dominant force in",
+    "has traditional colours",
+    "produced",
+    "developed",
+    "has a rivalry with",
+    "is known for",
+    "earned a memorable run in",
+    "captured",
+    "lifted",
+    "eliminated",
+    "bowed out to",
+    "has been nicknamed",
+    "was founded by",
+    "hosts matches at",
+    "has been associated with",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Gençlerbirliği S.K.",
+      "was founded by",
+      "pupils of Ankara Erkek Lisesi"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "has been nicknamed",
+      "Gençler"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "earned a memorable run in",
+      "UEFA Cup"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "is known for",
+      "politically active supporter base"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "developed",
+      "Geremi"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "developed",
+      "Isaac Promise"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "eliminated",
+      "Blackburn Rovers"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "has been nicknamed",
+      "Ankara Rüzgârı"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "eliminated",
+      "Sporting CP"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "developed",
+      "Arda Güler"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "meetings are dubbed",
+      "Ankara derby"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "has traditional colours",
+      "red and black"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "has a rivalry with",
+      "Ankaragücü"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "lifted",
+      "Turkish Cup"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "produced",
+      "Ersun Yanal"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "eliminated",
+      "Parma"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "has been associated with",
+      "pragmatic financial management"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "competes in",
+      "Süper Lig"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "captured",
+      "Turkish Football Championship"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "bowed out to",
+      "Valencia"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "is known for",
+      "men's professional football team"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "were a dominant force in",
+      "Ankara Football League"
+    ],
+    [
+      "Gençlerbirliği S.K.",
+      "hosts matches at",
+      "Eryaman Stadium"
+    ]
+  ]
+}

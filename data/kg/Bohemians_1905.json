@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "Czech First League",
+    "Bohemka",
+    "Prague Zoo",
+    "1982–83 Czechoslovak First League",
+    "Klokani",
+    "club chairman",
+    "Bohemians Praha 1905",
+    "Bohemians Prague",
+    "kangaroo",
+    "Antonín Panenka",
+    "Vršovice",
+    "Czech Republic",
+    "Prague",
+    "AFK Vršovice"
+  ],
+  "edges": [
+    "is the legacy of",
+    "is a",
+    "is commonly known as",
+    "is the",
+    "were donated to",
+    "was founded as",
+    "is located in",
+    "won",
+    "was awarded",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Bohemians Praha 1905",
+      "is based in",
+      "Vršovice"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "competes in",
+      "Czech First League"
+    ],
+    [
+      "two live kangaroos",
+      "were donated to",
+      "Prague Zoo"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "is located in",
+      "Czech Republic"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "was founded as",
+      "AFK Vršovice"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "is located in",
+      "Prague"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "is commonly known as",
+      "Bohemians Prague"
+    ],
+    [
+      "Antonín Panenka",
+      "is the",
+      "club chairman"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "was awarded",
+      "two live kangaroos"
+    ],
+    [
+      "Bohemians' mascot",
+      "is a",
+      "kangaroo"
+    ],
+    [
+      "kangaroo",
+      "is the legacy of",
+      "1927 tour of Australia"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "won",
+      "1982–83 Czechoslovak First League"
+    ],
+    [
+      "Bohemians Praha 1905",
+      "is commonly known as",
+      "Bohemka"
+    ]
+  ]
+}

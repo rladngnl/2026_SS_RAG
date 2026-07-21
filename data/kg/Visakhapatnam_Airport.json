@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "India",
+    "VTZ",
+    "civil enclave",
+    "INS Dega",
+    "airbase",
+    "VOVZ",
+    "Visakhapatnam Airport",
+    "Indian Navy",
+    "ICAO",
+    "IATA",
+    "customs airport",
+    "city of Visakhapatnam",
+    "Andhra Pradesh"
+  ],
+  "edges": [
+    "operates alongside",
+    "is owned and operated by",
+    "is a",
+    "is in",
+    "is",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Visakhapatnam Airport",
+      "is a",
+      "customs airport"
+    ],
+    [
+      "Visakhapatnam Airport",
+      "is located in",
+      "city of Visakhapatnam"
+    ],
+    [
+      "Visakhapatnam Airport",
+      "is in",
+      "India"
+    ],
+    [
+      "airbase",
+      "is",
+      "INS Dega"
+    ],
+    [
+      "INS Dega",
+      "is owned and operated by",
+      "Indian Navy"
+    ],
+    [
+      "Visakhapatnam Airport",
+      "is in",
+      "Andhra Pradesh"
+    ],
+    [
+      "Visakhapatnam Airport",
+      "operates alongside",
+      "airbase"
+    ]
+  ]
+}

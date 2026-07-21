@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Nicolae Ovidiu Herea",
+    "26 March 1985",
+    "former professional footballer",
+    "attacking midfielder",
+    "Romanian",
+    "Ovidiu Herea"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "played as",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Nicolae Ovidiu Herea",
+      "was born on",
+      "26 March 1985"
+    ],
+    [
+      "Nicolae Ovidiu Herea",
+      "is from",
+      "Romanian"
+    ],
+    [
+      "Nicolae Ovidiu Herea",
+      "is",
+      "Ovidiu Herea"
+    ],
+    [
+      "Nicolae Ovidiu Herea",
+      "played as",
+      "attacking midfielder"
+    ],
+    [
+      "Nicolae Ovidiu Herea",
+      "is a",
+      "former professional footballer"
+    ]
+  ]
+}

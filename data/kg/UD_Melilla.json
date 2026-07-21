@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "Melilla",
+    "1976",
+    "Estadio Municipal Álvarez Claro",
+    "Tercera Federación – Group 9",
+    "Unión Deportiva Melilla",
+    "Spanish football team",
+    "8,000 capacity venue"
+  ],
+  "edges": [
+    "is a",
+    "has a capacity of",
+    "plays in",
+    "holds home matches at",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Unión Deportiva Melilla",
+      "holds home matches at",
+      "Estadio Municipal Álvarez Claro"
+    ],
+    [
+      "Estadio Municipal Álvarez Claro",
+      "has a capacity of",
+      "8,000 capacity venue"
+    ],
+    [
+      "Unión Deportiva Melilla",
+      "is based in",
+      "Melilla"
+    ],
+    [
+      "Unión Deportiva Melilla",
+      "is a",
+      "Spanish football team"
+    ],
+    [
+      "Unión Deportiva Melilla",
+      "was founded in",
+      "1976"
+    ],
+    [
+      "Unión Deportiva Melilla",
+      "plays in",
+      "Tercera Federación – Group 9"
+    ]
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "entities": [
+    "Operadora Aeroportuaria Internacional",
+    "Skytrax",
+    "Zurich Airport",
+    "Iberoamerica",
+    "LATAM Colombia",
+    "Avianca Express",
+    "Fontibón",
+    "Satena",
+    "Cundinamarca Department",
+    "São Paulo - Guarulhos International Airport",
+    "Avianca Cargo",
+    "Flughafen Zürich AG",
+    "Colombia",
+    "Bogotá",
+    "Avianca",
+    "Copa Airlines Colombia",
+    "Engativá",
+    "El Dorado International Airport",
+    "Funza",
+    "World Airport Awards"
+  ],
+  "edges": [
+    "is in",
+    "is composed of",
+    "is the second busiest airport in",
+    "operates",
+    "partially extends into",
+    "is the capital of",
+    "is a base for",
+    "is owned by",
+    "is the most important hub for",
+    "has been ranked by",
+    "is operated by",
+    "is located mostly in",
+    "is after",
+    "is Iberoamerica's most important cargo hub",
+    "is located through",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "El Dorado International Airport",
+      "is owned by",
+      "Government of Colombia"
+    ],
+    [
+      "Operadora Aeroportuaria Internacional",
+      "is composed of",
+      "Colombian construction and engineering firms"
+    ],
+    [
+      "El Dorado International Airport",
+      "partially extends into",
+      "Engativá"
+    ],
+    [
+      "El Dorado International Airport",
+      "has been ranked by",
+      "World Airport Awards"
+    ],
+    [
+      "Operadora Aeroportuaria Internacional",
+      "is composed of",
+      "Flughafen Zürich AG"
+    ],
+    [
+      "El Dorado International Airport",
+      "is the capital of",
+      "Colombia"
+    ],
+    [
+      "El Dorado International Airport",
+      "is located in",
+      "Bogotá"
+    ],
+    [
+      "El Dorado International Airport",
+      "is the most important hub for",
+      "Avianca"
+    ],
+    [
+      "El Dorado International Airport",
+      "is a base for",
+      "LATAM Colombia"
+    ],
+    [
+      "El Dorado International Airport",
+      "is operated by",
+      "Operadora Aeroportuaria Internacional"
+    ],
+    [
+      "El Dorado International Airport",
+      "is in",
+      "Cundinamarca Department"
+    ],
+    [
+      "El Dorado International Airport",
+      "is located through",
+      "Funza"
+    ],
+    [
+      "El Dorado International Airport",
+      "is Iberoamerica's most important cargo hub",
+      "Iberoamerica"
+    ],
+    [
+      "El Dorado International Airport",
+      "is the second busiest airport in",
+      "Latin America"
+    ],
+    [
+      "El Dorado International Airport",
+      "is after",
+      "São Paulo - Guarulhos International Airport"
+    ],
+    [
+      "El Dorado International Airport",
+      "is located mostly in",
+      "Fontibón"
+    ],
+    [
+      "Flughafen Zürich AG",
+      "operates",
+      "Zurich Airport"
+    ],
+    [
+      "El Dorado International Airport",
+      "has been ranked by",
+      "Skytrax"
+    ]
+  ]
+}

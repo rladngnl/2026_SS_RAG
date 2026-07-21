@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "Barcelona",
+    "Jesús Garay Vecino",
+    "central defender",
+    "footballer",
+    "Spanish",
+    "10 February 1995",
+    "16 seasons",
+    "1962 World Cup",
+    "Athletic Bilbao",
+    "Spain",
+    "La Liga",
+    "341 games",
+    "10 September 1930",
+    "ten goals"
+  ],
+  "edges": [
+    "played in",
+    "represented",
+    "scored",
+    "appeared for",
+    "played at",
+    "played as",
+    "amassed",
+    "was"
+  ],
+  "relations": [
+    [
+      "Jesús Garay Vecino",
+      "played in",
+      "La Liga"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "represented",
+      "Athletic Bilbao"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "appeared for",
+      "Spain"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "scored",
+      "ten goals"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "represented",
+      "Barcelona"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "played as",
+      "central defender"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "amassed",
+      "341 games"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "was",
+      "Spanish footballer"
+    ],
+    [
+      "Jesús Garay Vecino",
+      "played at",
+      "1962 World Cup"
+    ]
+  ]
+}

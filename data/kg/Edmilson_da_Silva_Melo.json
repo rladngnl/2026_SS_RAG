@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "forward",
+    "footballer",
+    "2 June 1980",
+    "Edmilson da Silva Melo",
+    "Brazilian"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Edmilson da Silva Melo",
+      "is",
+      "Brazilian"
+    ],
+    [
+      "Edmilson da Silva Melo",
+      "played as",
+      "forward"
+    ],
+    [
+      "Edmilson da Silva Melo",
+      "was born on",
+      "2 June 1980"
+    ],
+    [
+      "Edmilson da Silva Melo",
+      "is",
+      "footballer"
+    ]
+  ]
+}

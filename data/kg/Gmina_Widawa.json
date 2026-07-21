@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "Warta-Widawka Landscape Park",
+    "Poland",
+    "Gmina Widawa",
+    "7,954",
+    "Widawa",
+    "Łask County",
+    "178.04 square kilometres",
+    "Łódź Voivodeship"
+  ],
+  "edges": [
+    "is in",
+    "has its seat in",
+    "lies approximately south-west of",
+    "contains part of the protected area called",
+    "has a total population of",
+    "is a rural gmina in",
+    "is located in",
+    "covers an area of"
+  ],
+  "relations": [
+    [
+      "Gmina Widawa",
+      "covers an area of",
+      "178.04 square kilometres"
+    ],
+    [
+      "Gmina Widawa",
+      "is located in",
+      "Łódź Voivodeship"
+    ],
+    [
+      "Gmina Widawa",
+      "is a rural gmina in",
+      "Łask County"
+    ],
+    [
+      "Gmina Widawa",
+      "has a total population of",
+      "7,954"
+    ],
+    [
+      "Gmina Widawa",
+      "contains part of the protected area called",
+      "Warta-Widawka Landscape Park"
+    ],
+    [
+      "Gmina Widawa",
+      "is in",
+      "Poland"
+    ],
+    [
+      "Widawa",
+      "lies approximately south-west of",
+      "Łask"
+    ],
+    [
+      "Gmina Widawa",
+      "has its seat in",
+      "Widawa"
+    ]
+  ]
+}

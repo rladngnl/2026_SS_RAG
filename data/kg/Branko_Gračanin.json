@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Kingdom of Yugoslavia",
+    "Zagreb",
+    "1943",
+    "Branko Gračanin",
+    "Croatian",
+    "19 October",
+    "football player"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "was born in"
+  ],
+  "relations": [
+    [
+      "Branko Gračanin",
+      "is a",
+      "football player"
+    ],
+    [
+      "Branko Gračanin",
+      "was born in",
+      "Kingdom of Yugoslavia"
+    ],
+    [
+      "Branko Gračanin",
+      "was born in",
+      "Zagreb"
+    ],
+    [
+      "Branko Gračanin",
+      "was born on",
+      "19 October"
+    ],
+    [
+      "Branko Gračanin",
+      "is a",
+      "Croatian"
+    ]
+  ]
+}

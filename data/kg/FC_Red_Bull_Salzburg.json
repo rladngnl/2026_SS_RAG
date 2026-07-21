@@ -1,0 +1,126 @@
+{
+  "entities": [
+    "1994 UEFA Cup final",
+    "SV Austria Salzburg",
+    "Red Bull GmbH",
+    "Austrian professional football club",
+    "red and white",
+    "17 seasons",
+    "Red Bull Arena",
+    "UEFA",
+    "14 league titles",
+    "FC Salzburg",
+    "SV Wüstenrot Salzburg",
+    "nine Austrian Cups",
+    "seventeen league titles",
+    "Red Bull Salzburg",
+    "2014",
+    "FC Red Bull Salzburg",
+    "2023",
+    "Bundesliga title",
+    "FIFA",
+    "three Austrian Supercups",
+    "1994",
+    "10 in a row",
+    "Wals-Siezenheim",
+    "violet and white colours",
+    "SV Casino Salzburg",
+    "Austrian Bundesliga"
+  ],
+  "edges": [
+    "is known as",
+    "were won in",
+    "changed colours to",
+    "has won",
+    "has home ground",
+    "was won in",
+    "was acquired by",
+    "was originally known as",
+    "won",
+    "was won from",
+    "competes in",
+    "has dominated"
+  ],
+  "relations": [
+    [
+      "FC Red Bull Salzburg",
+      "won",
+      "Bundesliga title"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "was acquired by",
+      "Red Bull GmbH"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "has dominated",
+      "Austrian football"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "competes in",
+      "Austrian Bundesliga"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "has won",
+      "three Austrian Supercups"
+    ],
+    [
+      "10 in a row",
+      "was won from",
+      "2014 to 2023"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "has won",
+      "nine Austrian Cups"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "has won",
+      "seventeen league titles"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "is known as",
+      "Red Bull Salzburg"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "changed colours to",
+      "red and white"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "was originally known as",
+      "SV Austria Salzburg"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "won",
+      "14 league titles"
+    ],
+    [
+      "Bundesliga title",
+      "was won in",
+      "1994"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "won",
+      "10 in a row"
+    ],
+    [
+      "FC Red Bull Salzburg",
+      "has home ground",
+      "Red Bull Arena"
+    ],
+    [
+      "14 league titles",
+      "were won in",
+      "17 seasons"
+    ]
+  ]
+}

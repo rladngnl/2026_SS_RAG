@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "1914",
+    "Caught in a Cabaret",
+    "Mabel Normand",
+    "short silent comedy film",
+    "Charlie Chaplin"
+  ],
+  "edges": [
+    "was released in",
+    "is a",
+    "was written and directed by",
+    "stars"
+  ],
+  "relations": [
+    [
+      "Caught in a Cabaret",
+      "is a",
+      "short silent comedy film"
+    ],
+    [
+      "Caught in a Cabaret",
+      "stars",
+      "Charlie Chaplin"
+    ],
+    [
+      "Caught in a Cabaret",
+      "stars",
+      "Mabel Normand"
+    ],
+    [
+      "Caught in a Cabaret",
+      "was released in",
+      "1914"
+    ],
+    [
+      "Caught in a Cabaret",
+      "was written and directed by",
+      "Mabel Normand"
+    ]
+  ]
+}

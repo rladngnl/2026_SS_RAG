@@ -1,0 +1,170 @@
+{
+  "entities": [
+    "downtown area",
+    "2026",
+    "ZSAM",
+    "Xiamen",
+    "TAECO",
+    "passenger traffic",
+    "Terminal 3",
+    "October 2011",
+    "China",
+    "16th busiest",
+    "XiamenAir",
+    "Communist government",
+    "Terminal 2",
+    "traffic movements",
+    "Xiamen Island",
+    "2014",
+    "cargo traffic",
+    "17th busiest airport",
+    "1993",
+    "Nationalists",
+    "Xiamen Xiang'an International Airport",
+    "Kuwait Fund",
+    "2025",
+    "14th busiest airport",
+    "ICAO",
+    "29,193,712 passengers",
+    "IATA",
+    "Terminal 1",
+    "Xiamen Gaoqi International Airport",
+    "XMN",
+    "1996",
+    "2012",
+    "Kinmen Island",
+    "Terminal 4",
+    "World War II",
+    "Fujian province",
+    "Imperial Japan"
+  ],
+  "edges": [
+    "became the domestic area for",
+    "is the 16th busiest in terms of",
+    "re-opened with funding from",
+    "was later converted to exclusive civilian use once the Japanese surrendered",
+    "was renovated under",
+    "is located in",
+    "started construction in",
+    "had",
+    "is the 17th busiest airport by",
+    "is the main airline hub for",
+    "was abandoned until after a second renovation in",
+    "was completed in",
+    "was opened in",
+    "was demolished in",
+    "is in",
+    "warranted the construction of",
+    "was originally built by",
+    "was listed as the 14th busiest airport in",
+    "will cease all civilian traffic once",
+    "was constructed in"
+  ],
+  "relations": [
+    [
+      "Xiamen Gaoqi International Airport",
+      "warranted the construction of",
+      "Terminal 2"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "was abandoned until after a second renovation in",
+      "1955"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "is located in",
+      "Xiamen"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "was later converted to exclusive civilian use once the Japanese surrendered",
+      "World War II"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "re-opened with funding from",
+      "Kuwait Fund"
+    ],
+    [
+      "Terminal 4",
+      "started construction in",
+      "October 2011"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "will cease all civilian traffic once",
+      "Xiamen Xiang'an International Airport is completed"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "was listed as the 14th busiest airport in",
+      "China"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "was originally built by",
+      "Imperial Japan"
+    ],
+    [
+      "Terminal 3",
+      "was opened in",
+      "1996"
+    ],
+    [
+      "Terminal 2",
+      "was constructed in",
+      "1993"
+    ],
+    [
+      "Terminal 1",
+      "was demolished in",
+      "2012"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "was renovated under",
+      "Communist government"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "is the main airline hub for",
+      "XiamenAir"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "is the 17th busiest airport by",
+      "traffic movements"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "is the main airline hub for",
+      "TAECO"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "is the 16th busiest in terms of",
+      "passenger traffic"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "had",
+      "29,193,712 passengers"
+    ],
+    [
+      "Xiamen Gaoqi International Airport",
+      "is in",
+      "Fujian province"
+    ],
+    [
+      "Terminal 2",
+      "became the domestic area for",
+      "Terminal 3"
+    ],
+    [
+      "Terminal 4",
+      "was completed in",
+      "2014"
+    ]
+  ]
+}

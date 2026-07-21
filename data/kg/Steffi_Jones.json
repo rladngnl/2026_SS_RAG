@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "German women's national team",
+    "2011 FIFA Women's World Cup",
+    "national team",
+    "three consecutive European Championships",
+    "former player",
+    "Stephanie Ann Jones",
+    "football manager",
+    "2003 FIFA Women's World Cup",
+    "defender",
+    "German-American",
+    "Germany",
+    "Steffi Jones",
+    "111 caps",
+    "football administrator"
+  ],
+  "edges": [
+    "worked as",
+    "is a",
+    "is from",
+    "earned",
+    "is also known as",
+    "last managed",
+    "helped win",
+    "played for",
+    "was in charge of"
+  ],
+  "relations": [
+    [
+      "Steffi Jones",
+      "earned",
+      "111 caps"
+    ],
+    [
+      "Steffi Jones",
+      "is a",
+      "German-American"
+    ],
+    [
+      "Steffi Jones",
+      "helped win",
+      "2003 FIFA Women's World Cup"
+    ],
+    [
+      "Steffi Jones",
+      "is a",
+      "football manager"
+    ],
+    [
+      "Steffi Jones",
+      "helped win",
+      "three consecutive European Championships"
+    ],
+    [
+      "Steffi Jones",
+      "worked as",
+      "football administrator"
+    ],
+    [
+      "Steffi Jones",
+      "is from",
+      "Germany"
+    ],
+    [
+      "Steffi Jones",
+      "was in charge of",
+      "2011 FIFA Women's World Cup"
+    ],
+    [
+      "Steffi Jones",
+      "played for",
+      "national team"
+    ],
+    [
+      "Steffi Jones",
+      "is also known as",
+      "Stephanie Ann Jones"
+    ],
+    [
+      "Steffi Jones",
+      "is a",
+      "former player"
+    ],
+    [
+      "Steffi Jones",
+      "last managed",
+      "German women's national team"
+    ]
+  ]
+}

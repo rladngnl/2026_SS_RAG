@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "Ríchard Javier Morales Aguirre",
+    "Copa América",
+    "footballer",
+    "2002 World Cup",
+    "centre forward",
+    "Chengue",
+    "Richard Morales",
+    "Uruguay",
+    "Nacional",
+    "Spain"
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "represented",
+    "played as a",
+    "played for",
+    "played professionally in",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Richard Morales",
+      "participated in",
+      "Copa América"
+    ],
+    [
+      "Richard Morales",
+      "participated in",
+      "2002 World Cup"
+    ],
+    [
+      "Richard Morales",
+      "played for",
+      "Nacional"
+    ],
+    [
+      "Richard Morales",
+      "played professionally in",
+      "Spain"
+    ],
+    [
+      "Richard Morales",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Richard Morales",
+      "represented",
+      "Uruguay"
+    ],
+    [
+      "Richard Morales",
+      "is known as",
+      "Chengue"
+    ],
+    [
+      "Richard Morales",
+      "played as a",
+      "centre forward"
+    ]
+  ]
+}

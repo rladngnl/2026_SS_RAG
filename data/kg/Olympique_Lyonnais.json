@@ -1,0 +1,218 @@
+{
+  "entities": [
+    "European Club Association",
+    "Trophées des Champions",
+    "Le Derby",
+    "blue",
+    "Décines-Charpieu",
+    "Michele Kang",
+    "John Textor",
+    "Groupama Stadium",
+    "Les Gones",
+    "Ligue 2",
+    "2016–17 season",
+    "UEFA Champions League",
+    "Europa League",
+    "OL",
+    "Olympique Lyonnais",
+    "Ligue 1",
+    "Lyon",
+    "red",
+    "Metropolis of Lyon",
+    "June 2025",
+    "Coupe de France",
+    "2019–20 season",
+    "Saint-Étienne",
+    "Auvergne-Rhône-Alpes",
+    "Parc Olympique Lyonnais",
+    "December 2022",
+    "Jean-Michel Aulas",
+    "France",
+    "white",
+    "G14",
+    "June 1987"
+  ],
+  "edges": [
+    "was announced president in",
+    "has qualified for",
+    "made it to the semi-final during",
+    "is part of the",
+    "was announced president of",
+    "owned Olympique Lyonnais until",
+    "reached the semi-final during",
+    "competes in",
+    "is located in",
+    "is commonly referred to as",
+    "won its first championship in",
+    "is succeeded by",
+    "is based in",
+    "was owned by",
+    "resigned from leadership position due to",
+    "is commercially known as",
+    "was purchased by",
+    "contests",
+    "plays home matches at",
+    "has a long-standing rivalry with",
+    "has won",
+    "was a member of",
+    "has home colours of",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Olympique Lyonnais",
+      "was owned by",
+      "Jean-Michel Aulas"
+    ],
+    [
+      "Michele Kang",
+      "was announced president of",
+      "Olympique Lyonnais"
+    ],
+    [
+      "Olympique Lyonnais",
+      "participated in",
+      "UEFA Champions League"
+    ],
+    [
+      "Olympique Lyonnais",
+      "was purchased by",
+      "John Textor"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is commonly referred to as",
+      "OL"
+    ],
+    [
+      "John Textor",
+      "resigned from leadership position due to",
+      "poor financial state of Lyon"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is located in",
+      "Auvergne-Rhône-Alpes"
+    ],
+    [
+      "Olympique Lyonnais",
+      "won its first championship in",
+      "2002"
+    ],
+    [
+      "G14",
+      "is succeeded by",
+      "European Club Association"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is commonly referred to as",
+      "Lyon"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has home colours of",
+      "white"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has home colours of",
+      "blue"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is located in",
+      "Décines-Charpieu"
+    ],
+    [
+      "Olympique Lyonnais",
+      "made it to the semi-final during",
+      "2016–17 season"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has won",
+      "Trophées des Champions"
+    ],
+    [
+      "Jean-Michel Aulas",
+      "owned Olympique Lyonnais until",
+      "December 2022"
+    ],
+    [
+      "Olympique Lyonnais",
+      "reached the semi-final during",
+      "2019–20 season"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is part of the",
+      "Metropolis of Lyon"
+    ],
+    [
+      "Olympique Lyonnais",
+      "was a member of",
+      "G14"
+    ],
+    [
+      "Parc Olympique Lyonnais",
+      "is commercially known as",
+      "Groupama Stadium"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is based in",
+      "Lyon"
+    ],
+    [
+      "Olympique Lyonnais",
+      "is located in",
+      "France"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has a long-standing rivalry with",
+      "Saint-Étienne"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has qualified for",
+      "Europa League"
+    ],
+    [
+      "Michele Kang",
+      "was announced president in",
+      "June 2025"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has home colours of",
+      "red"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has won",
+      "Coupe de France"
+    ],
+    [
+      "Olympique Lyonnais",
+      "contests",
+      "Le Derby"
+    ],
+    [
+      "Olympique Lyonnais",
+      "has won",
+      "Ligue 2"
+    ],
+    [
+      "Olympique Lyonnais",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "Olympique Lyonnais",
+      "plays home matches at",
+      "Parc Olympique Lyonnais"
+    ]
+  ]
+}

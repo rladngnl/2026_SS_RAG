@@ -1,0 +1,173 @@
+{
+  "entities": [
+    "School of Nursing",
+    "44 national titles",
+    "Big Ten Conference",
+    "Carey Business School",
+    "Whiting School of Engineering",
+    "School of Medicine",
+    "School of Education",
+    "February 22, 1876",
+    "Zanvyl Krieger School of Arts and Sciences",
+    "Division III",
+    "Association of American Universities",
+    "Baltimore",
+    "1893",
+    "Johns Hopkins Hospital",
+    "Blue Jays men's lacrosse team",
+    "Johns Hopkins",
+    "1867",
+    "Daniel Coit Gilman",
+    "1876",
+    "United States",
+    "Centennial Conference",
+    "Homewood campus",
+    "medical campus",
+    "Johns Hopkins University",
+    "NCAA",
+    "Bloomberg School of Public Health",
+    "Peabody Institute",
+    "Applied Physics Laboratory",
+    "Howard County",
+    "Charles Village",
+    "East Baltimore",
+    "Mount Vernon",
+    "School of Advanced International Studies",
+    "Maryland"
+  ],
+  "edges": [
+    "has achieved recognition for",
+    "is located on",
+    "was named after",
+    "was led by",
+    "opened in",
+    "has won",
+    "was incorporated in",
+    "is a member of",
+    "became a founding member of",
+    "is an affiliate member in",
+    "was inaugurated on",
+    "was established in",
+    "was established by",
+    "competes in",
+    "is located in",
+    "consists of"
+  ],
+  "relations": [
+    [
+      "School of Nursing",
+      "is located on",
+      "medical campus"
+    ],
+    [
+      "Johns Hopkins Hospital",
+      "is located in",
+      "Baltimore"
+    ],
+    [
+      "Johns Hopkins University",
+      "is located in",
+      "Baltimore"
+    ],
+    [
+      "Johns Hopkins University",
+      "has achieved recognition for",
+      "pioneering biomedical research"
+    ],
+    [
+      "Johns Hopkins University",
+      "is a member of",
+      "Centennial Conference"
+    ],
+    [
+      "Johns Hopkins University",
+      "was established by",
+      "Johns Hopkins"
+    ],
+    [
+      "Johns Hopkins University",
+      "was led by",
+      "Daniel Coit Gilman"
+    ],
+    [
+      "Zanvyl Krieger School of Arts and Sciences",
+      "is located on",
+      "Homewood campus"
+    ],
+    [
+      "Johns Hopkins University",
+      "consists of",
+      "ten academic divisions"
+    ],
+    [
+      "Whiting School of Engineering",
+      "is located on",
+      "Homewood campus"
+    ],
+    [
+      "School of Medicine",
+      "was established in",
+      "1893"
+    ],
+    [
+      "School of Medicine",
+      "is located on",
+      "medical campus"
+    ],
+    [
+      "Daniel Coit Gilman",
+      "was inaugurated on",
+      "February 22, 1876"
+    ],
+    [
+      "Johns Hopkins University",
+      "was incorporated in",
+      "1867"
+    ],
+    [
+      "Blue Jays men's lacrosse team",
+      "has won",
+      "44 national titles"
+    ],
+    [
+      "Blue Jays men's lacrosse team",
+      "is an affiliate member in",
+      "Big Ten Conference"
+    ],
+    [
+      "Johns Hopkins University",
+      "is located in",
+      "Maryland"
+    ],
+    [
+      "Johns Hopkins University",
+      "was named after",
+      "Johns Hopkins"
+    ],
+    [
+      "Johns Hopkins University",
+      "opened in",
+      "1876"
+    ],
+    [
+      "Johns Hopkins University",
+      "is located in",
+      "United States"
+    ],
+    [
+      "Johns Hopkins University",
+      "competes in",
+      "Division III"
+    ],
+    [
+      "Bloomberg School of Public Health",
+      "is located on",
+      "medical campus"
+    ],
+    [
+      "Johns Hopkins University",
+      "became a founding member of",
+      "Association of American Universities"
+    ]
+  ]
+}

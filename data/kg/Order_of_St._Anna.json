@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "Duke of Holstein-Gottorp",
+    "Grand Duke Kirill Vladimirovich",
+    "Romanov Family Association",
+    "Imperial Order of Saint Anna",
+    "3 February",
+    "Grand Duke Vladimir Kirillovich",
+    "16 February",
+    "Emperor",
+    "Karl Friedrich",
+    "Imperial House of Russia",
+    "Russian Federation",
+    "Order of Saint Anna",
+    "Amantibus Justitiam, Pietatem, Fidem",
+    "Anna Petrovna",
+    "Order of St. Andrew",
+    "International Commission for Orders of Chivalry",
+    "Grand Duchess Maria Vladimirovna",
+    "Peter the Great"
+  ],
+  "edges": [
+    "is Master of",
+    "was the hereditary grand master of",
+    "is recognized as an order of chivalry by",
+    "was received simultaneously with the first class of",
+    "was awarded by",
+    "is awarded with swords for",
+    "was established in honour of",
+    "has festival day on",
+    "has been approved for wear with military uniform by",
+    "is daughter of",
+    "entitled recipients of the first class to",
+    "has motto",
+    "entitled recipients of lower classes to",
+    "was established by",
+    "is usually awarded for",
+    "is not approved by"
+  ],
+  "relations": [
+    [
+      "Head of the Imperial House of Russia",
+      "is Master of",
+      "imperial Order of Saint Anna"
+    ],
+    [
+      "Order of Saint Anna",
+      "entitled recipients of the first class to",
+      "hereditary nobility"
+    ],
+    [
+      "Order of Saint Anna",
+      "was established in honour of",
+      "Anna Petrovna"
+    ],
+    [
+      "Order of Saint Anna",
+      "was awarded by",
+      "Grand Duchess Maria Vladimirovna"
+    ],
+    [
+      "Order of Saint Anna",
+      "has motto",
+      "Amantibus Justitiam, Pietatem, Fidem"
+    ],
+    [
+      "Order of Saint Anna",
+      "was established by",
+      "Karl Friedrich"
+    ],
+    [
+      "Order of Saint Anna",
+      "was awarded by",
+      "Grand Duke Kirill Vladimirovich"
+    ],
+    [
+      "Order of Saint Anna",
+      "has been approved for wear with military uniform by",
+      "Russian Federation"
+    ],
+    [
+      "Order of Saint Anna",
+      "is recognized as an order of chivalry by",
+      "International Commission for Orders of Chivalry"
+    ],
+    [
+      "Order of St. Andrew",
+      "was received simultaneously with the first class of",
+      "Order of Saint Anna"
+    ],
+    [
+      "Order of Saint Anna",
+      "has festival day on",
+      "16 February"
+    ],
+    [
+      "Order of Saint Anna",
+      "has festival day on",
+      "3 February"
+    ],
+    [
+      "Emperor",
+      "was the hereditary grand master of",
+      "Order of Saint Anna"
+    ],
+    [
+      "Order of Saint Anna",
+      "is not approved by",
+      "Romanov Family Association"
+    ],
+    [
+      "Order of Saint Anna",
+      "entitled recipients of lower classes to",
+      "personal nobility"
+    ],
+    [
+      "Anna Petrovna",
+      "is daughter of",
+      "Peter the Great"
+    ],
+    [
+      "Order of Saint Anna",
+      "was awarded by",
+      "Grand Duke Vladimir Kirillovich"
+    ],
+    [
+      "Order of Saint Anna",
+      "is usually awarded for",
+      "meritorious service to the Imperial House of Russia"
+    ],
+    [
+      "Order of Saint Anna",
+      "is awarded with swords for",
+      "military recipients"
+    ]
+  ]
+}

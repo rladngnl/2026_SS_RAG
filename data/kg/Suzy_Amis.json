@@ -1,0 +1,41 @@
+{
+  "entities": [
+    "American",
+    "actress",
+    "Suzy Amis Cameron",
+    "activist",
+    "author",
+    "January 5, 1962"
+  ],
+  "edges": [
+    "is born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Suzy Amis Cameron",
+      "is born on",
+      "January 5, 1962"
+    ],
+    [
+      "Suzy Amis Cameron",
+      "is",
+      "American"
+    ],
+    [
+      "Suzy Amis Cameron",
+      "is",
+      "actress"
+    ],
+    [
+      "Suzy Amis Cameron",
+      "is",
+      "activist"
+    ],
+    [
+      "Suzy Amis Cameron",
+      "is",
+      "author"
+    ]
+  ]
+}

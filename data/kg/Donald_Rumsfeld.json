@@ -1,0 +1,142 @@
+{
+  "entities": [
+    "Abu Ghraib torture and prisoner abuse scandal",
+    "General Instrument",
+    "NATO",
+    "Known and Unknown: A Memoir",
+    "Gerald Ford",
+    "Gilead Sciences",
+    "Rumsfeld's Rules",
+    "Iraq",
+    "George W. Bush",
+    "weapons of mass destruction",
+    "Afghanistan",
+    "G. D. Searle & Company",
+    "Donald Rumsfeld",
+    "Pentagon",
+    "United States",
+    "Office of Economic Opportunity",
+    "Economic Stabilization Program",
+    "Dick Cheney",
+    "Richard Nixon"
+  ],
+  "edges": [
+    "published",
+    "was CEO of",
+    "recruited",
+    "was chairman of",
+    "was the U.S. Representative to",
+    "headed the",
+    "was a U.S. Congressman from",
+    "played a role in the invasion of",
+    "was involved in the",
+    "was chief of staff under",
+    "was called back to Washington by",
+    "was appointed by",
+    "was secretary of defense under",
+    "claimed that Iraq had",
+    "was appointed chief of staff by"
+  ],
+  "relations": [
+    [
+      "Donald Rumsfeld",
+      "published",
+      "Known and Unknown: A Memoir"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was the U.S. Representative to",
+      "NATO"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was CEO of",
+      "G. D. Searle & Company"
+    ],
+    [
+      "Donald Rumsfeld",
+      "claimed that Iraq had",
+      "weapons of mass destruction"
+    ],
+    [
+      "Donald Rumsfeld",
+      "published",
+      "Rumsfeld's Rules"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was involved in the",
+      "Abu Ghraib torture and prisoner abuse scandal"
+    ],
+    [
+      "Donald Rumsfeld",
+      "headed the",
+      "Office of Economic Opportunity"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was secretary of defense under",
+      "George W. Bush"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was a U.S. Congressman from",
+      "Illinois"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was appointed by",
+      "Richard Nixon"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was appointed chief of staff by",
+      "Gerald Ford"
+    ],
+    [
+      "Donald Rumsfeld",
+      "recruited",
+      "Dick Cheney"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was CEO of",
+      "General Instrument"
+    ],
+    [
+      "Donald Rumsfeld",
+      "played a role in the invasion of",
+      "Iraq"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was called back to Washington by",
+      "Gerald Ford"
+    ],
+    [
+      "Donald Rumsfeld",
+      "played a role in the invasion of",
+      "Afghanistan"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was chief of staff under",
+      "Gerald Ford"
+    ],
+    [
+      "Donald Rumsfeld",
+      "headed the",
+      "Economic Stabilization Program"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was chairman of",
+      "Gilead Sciences"
+    ],
+    [
+      "Donald Rumsfeld",
+      "was secretary of defense under",
+      "Gerald Ford"
+    ]
+  ]
+}

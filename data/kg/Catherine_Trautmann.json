@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "Strasbourg",
+    "Catherine Trautmann",
+    "Jeanne Barseghian",
+    "2014",
+    "Lionel Jospin",
+    "22 March 2026",
+    "French Socialist Party",
+    "1989",
+    "2004",
+    "Minister of Culture of France",
+    "1997",
+    "Member of the European Parliament",
+    "French politician"
+  ],
+  "edges": [
+    "was a",
+    "is a",
+    "was elected on",
+    "was in the cabinet of",
+    "served as",
+    "was elected mayor of",
+    "is a member of",
+    "campained broadly on an anti"
+  ],
+  "relations": [
+    [
+      "Catherine Trautmann",
+      "was elected on",
+      "22 March 2026"
+    ],
+    [
+      "Catherine Trautmann",
+      "campained broadly on an anti",
+      "Jeanne Barseghian message"
+    ],
+    [
+      "Catherine Trautmann",
+      "is a",
+      "French politician"
+    ],
+    [
+      "Catherine Trautmann",
+      "is a member of",
+      "French Socialist Party"
+    ],
+    [
+      "Catherine Trautmann",
+      "was elected mayor of",
+      "Strasbourg"
+    ],
+    [
+      "Catherine Trautmann",
+      "served as",
+      "Minister of Culture of France"
+    ],
+    [
+      "Catherine Trautmann",
+      "was a",
+      "Member of the European Parliament"
+    ],
+    [
+      "Catherine Trautmann",
+      "was in the cabinet of",
+      "Lionel Jospin"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "football manager",
+    "Liga III",
+    "Constantin Schumacher",
+    "Romanian",
+    "SCM Râmnicu Vâlcea",
+    "former midfielder"
+  ],
+  "edges": [
+    "is in charge of",
+    "is part of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Constantin Schumacher",
+      "is",
+      "football manager"
+    ],
+    [
+      "Constantin Schumacher",
+      "is",
+      "former midfielder"
+    ],
+    [
+      "Constantin Schumacher",
+      "is",
+      "Romanian"
+    ],
+    [
+      "Constantin Schumacher",
+      "is in charge of",
+      "SCM Râmnicu Vâlcea"
+    ],
+    [
+      "SCM Râmnicu Vâlcea",
+      "is part of",
+      "Liga III"
+    ]
+  ]
+}

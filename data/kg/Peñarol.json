@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "FIFA World Cup",
+    "Fernando Morena",
+    "Ladislao Mazurkiewicz",
+    "El Clásico Uruguayo",
+    "Montevideo",
+    "Juan Alberto Schiaffino",
+    "Pinerolo",
+    "Piedmont",
+    "Club Nacional de Football",
+    "Turin",
+    "Estadio Centenario",
+    "Central Uruguay Railway Cricket Club",
+    "Alberto Spencer",
+    "Estadio Campeón del Siglo",
+    "Diego Aguirre",
+    "Club Atlético Peñarol",
+    "Uruguayan Football Association",
+    "Uruguayan Primera División",
+    "Néstor Gonçalves",
+    "IFFHS",
+    "Intercontinental Cup",
+    "Copa Libertadores",
+    "CURCC",
+    "Peñarol"
+  ],
+  "edges": [
+    "is a",
+    "was established as",
+    "has participated in other sports such as",
+    "is recognized as the continuity of",
+    "has won",
+    "holds the advantage in the head-to-head record against",
+    "is considered one of the oldest in",
+    "has claimed",
+    "previously played at",
+    "was recognized as the best South American club of the 20th century by",
+    "has experienced a decline in form since the",
+    "has consistently identified with",
+    "was founded by",
+    "has many long-standing rivalries with",
+    "has seen a resurgence in international competition since the",
+    "was renamed as",
+    "competes in",
+    "currently hosts their matches at"
+  ],
+  "relations": [
+    [
+      "Peñarol",
+      "has seen a resurgence in international competition since the",
+      "2010s"
+    ],
+    [
+      "Peñarol",
+      "holds the advantage in the head-to-head record against",
+      "Club Nacional de Football"
+    ],
+    [
+      "Peñarol",
+      "is a",
+      "Uruguayan professional football club"
+    ],
+    [
+      "Peñarol",
+      "was recognized as the best South American club of the 20th century by",
+      "IFFHS"
+    ],
+    [
+      "Peñarol",
+      "has consistently identified with",
+      "yellow and black"
+    ],
+    [
+      "El Clásico Uruguayo",
+      "is considered one of the oldest in",
+      "international football"
+    ],
+    [
+      "Peñarol",
+      "has experienced a decline in form since the",
+      "1990s"
+    ],
+    [
+      "Peñarol",
+      "currently hosts their matches at",
+      "Estadio Campeón del Siglo"
+    ],
+    [
+      "Peñarol",
+      "previously played at",
+      "Estadio Centenario"
+    ],
+    [
+      "Peñarol",
+      "was established as",
+      "Central Uruguay Railway Cricket Club"
+    ],
+    [
+      "Peñarol",
+      "has participated in other sports such as",
+      "athletics, basketball, cycling, futsal, rugby union, and women's football"
+    ],
+    [
+      "Peñarol",
+      "has won",
+      "42 tournaments"
+    ],
+    [
+      "Central Uruguay Railway Cricket Club",
+      "was founded by",
+      "mostly British railway workers"
+    ],
+    [
+      "Peñarol",
+      "has claimed",
+      "51 championships overall"
+    ],
+    [
+      "Peñarol",
+      "has won",
+      "Copa Libertadores"
+    ],
+    [
+      "Peñarol",
+      "has many long-standing rivalries with",
+      "Club Nacional de Football"
+    ],
+    [
+      "Peñarol",
+      "was renamed as",
+      "Peñarol"
+    ],
+    [
+      "Peñarol",
+      "has won",
+      "Intercontinental Cup"
+    ],
+    [
+      "Peñarol",
+      "competes in",
+      "Uruguayan Primera División"
+    ],
+    [
+      "Peñarol",
+      "is recognized as the continuity of",
+      "CURCC"
+    ]
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "entities": [
+    "Rhodes Scholars",
+    "R1: Doctoral Universities – Very high research activity",
+    "California",
+    "302 Olympic medals",
+    "members of the United States Congress",
+    "2,288 tenure-line faculty",
+    "36 varsity sports",
+    "prime ministers of five countries",
+    "Stanford Research Park",
+    "136 NCAA team championships",
+    "33 MacArthur Fellows",
+    "Hoover Institution",
+    "Gates Cambridge Scholars",
+    "Leland Stanford Junior University",
+    "NACDA Directors' Cup",
+    "1893",
+    "58 Nobel laureates",
+    "29 Turing Award winners",
+    "1891",
+    "Stanford University",
+    "1906 San Francisco earthquake",
+    "94 billionaires",
+    "Palo Alto",
+    "presidents of six countries",
+    "2 United States Supreme Court justices",
+    "United States",
+    "Marshall Scholars",
+    "Jane Stanford",
+    "Frederick Terman",
+    "7 Wolf Foundation Prize recipients",
+    "4 Pulitzer Prize winners",
+    "2021",
+    "World War II",
+    "Atlantic Coast Conference",
+    "Silicon Valley",
+    "Fulbright Scholars",
+    "Leland Jr.",
+    "Leland Stanford"
+  ],
+  "edges": [
+    "has produced",
+    "is also known as",
+    "competes in",
+    "is located in",
+    "had",
+    "houses",
+    "has alumni who include",
+    "was founded by",
+    "was established in",
+    "was the husband of",
+    "is one of",
+    "was a provost of",
+    "is known as the world's first",
+    "was damaged by",
+    "struggled financially after the death of",
+    "was founded in",
+    "has won",
+    "admitted its first students in",
+    "inspired an entrepreneurial culture after",
+    "is associated with",
+    "is classified among",
+    "was awarded"
+  ],
+  "relations": [
+    [
+      "Stanford University",
+      "is associated with",
+      "29 Turing Award winners"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "33 MacArthur Fellows"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "4 Pulitzer Prize winners"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "94 billionaires"
+    ],
+    [
+      "Stanford University",
+      "inspired an entrepreneurial culture after",
+      "World War II"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "7 Wolf Foundation Prize recipients"
+    ],
+    [
+      "Stanford University",
+      "is located in",
+      "California"
+    ],
+    [
+      "Stanford University",
+      "houses",
+      "Hoover Institution"
+    ],
+    [
+      "Stanford University",
+      "has alumni who include",
+      "presidents of six countries"
+    ],
+    [
+      "Stanford University",
+      "admitted its first students in",
+      "1891"
+    ],
+    [
+      "Stanford University",
+      "is also known as",
+      "Leland Stanford Junior University"
+    ],
+    [
+      "Stanford University",
+      "is classified among",
+      "R1: Doctoral Universities – Very high research activity"
+    ],
+    [
+      "Stanford University",
+      "is one of",
+      "eight private institutions in the Atlantic Coast Conference"
+    ],
+    [
+      "Stanford University",
+      "struggled financially after the death of",
+      "Leland Stanford"
+    ],
+    [
+      "Stanford University",
+      "was awarded",
+      "NACDA Directors' Cup"
+    ],
+    [
+      "Stanford Research Park",
+      "is known as the world's first",
+      "university research park"
+    ],
+    [
+      "Stanford University",
+      "was damaged by",
+      "1906 San Francisco earthquake"
+    ],
+    [
+      "Stanford University",
+      "was founded by",
+      "Leland Stanford"
+    ],
+    [
+      "Stanford University",
+      "competes in",
+      "36 varsity sports"
+    ],
+    [
+      "Stanford University",
+      "had",
+      "2,288 tenure-line faculty"
+    ],
+    [
+      "Stanford University",
+      "has alumni who include",
+      "prime ministers of five countries"
+    ],
+    [
+      "Stanford University",
+      "has alumni who include",
+      "members of the United States Congress"
+    ],
+    [
+      "Leland Stanford",
+      "was the husband of",
+      "Jane Stanford"
+    ],
+    [
+      "Frederick Terman",
+      "was a provost of",
+      "Stanford University"
+    ],
+    [
+      "Stanford University",
+      "has produced",
+      "302 Olympic medals"
+    ],
+    [
+      "Stanford University",
+      "has won",
+      "136 NCAA team championships"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "58 Nobel laureates"
+    ],
+    [
+      "Stanford University",
+      "was founded in",
+      "1885"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "2 United States Supreme Court justices"
+    ],
+    [
+      "Stanford Research Park",
+      "was established in",
+      "Palo Alto"
+    ]
+  ]
+}

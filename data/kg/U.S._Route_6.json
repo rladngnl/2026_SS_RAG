@@ -1,0 +1,125 @@
+{
+  "entities": [
+    "US 38",
+    "Provincetown",
+    "US 40",
+    "California",
+    "Illinois",
+    "American Civil War",
+    "Yellowstone National Park",
+    "Joliet",
+    "Bishop",
+    "Denver",
+    "Pennsylvania",
+    "Nevada",
+    "Erie",
+    "US 50",
+    "U.S. Route 32",
+    "Colorado",
+    "US 30",
+    "U.S. Route 38",
+    "US 6",
+    "Ely",
+    "Massachusetts",
+    "U.S. Route 6",
+    "George R. Stewart",
+    "US 20",
+    "Grand Army of the Republic Highway",
+    "U.S. 40: Cross Section of the United States of America",
+    "Long Beach"
+  ],
+  "edges": [
+    "remains the longest continuous U.S. Route in",
+    "has taken it at",
+    "has taken it south of",
+    "runs from",
+    "runs to",
+    "is also called",
+    "has its western terminus at",
+    "has a discontinuity through",
+    "was the longest highway in",
+    "is the author of",
+    "only ran east of",
+    "has taken it near",
+    "was designated in",
+    "is the second-longest U.S. Route in",
+    "honors"
+  ],
+  "relations": [
+    [
+      "U.S. Route 6",
+      "has taken it south of",
+      "US 30"
+    ],
+    [
+      "US 20",
+      "has a discontinuity through",
+      "Yellowstone National Park"
+    ],
+    [
+      "U.S. Route 6",
+      "runs from",
+      "Bishop"
+    ],
+    [
+      "U.S. Route 6",
+      "was the longest highway in",
+      "the country"
+    ],
+    [
+      "U.S. Route 6",
+      "has its western terminus at",
+      "Long Beach"
+    ],
+    [
+      "U.S. Route 6",
+      "only ran east of",
+      "Erie"
+    ],
+    [
+      "U.S. Route 6",
+      "has taken it at",
+      "US 50"
+    ],
+    [
+      "U.S. Route 6",
+      "was designated in",
+      "1926"
+    ],
+    [
+      "George R. Stewart",
+      "is the author of",
+      "U.S. 40: Cross Section of the United States of America"
+    ],
+    [
+      "U.S. Route 6",
+      "remains the longest continuous U.S. Route in",
+      "the country"
+    ],
+    [
+      "U.S. Route 6",
+      "is the second-longest U.S. Route in",
+      "the country"
+    ],
+    [
+      "U.S. Route 6",
+      "honors",
+      "American Civil War"
+    ],
+    [
+      "U.S. Route 6",
+      "has taken it near",
+      "US 40"
+    ],
+    [
+      "U.S. Route 6",
+      "is also called",
+      "Grand Army of the Republic Highway"
+    ],
+    [
+      "U.S. Route 6",
+      "runs to",
+      "Provincetown"
+    ]
+  ]
+}

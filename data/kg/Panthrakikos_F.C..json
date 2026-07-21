@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "North Eastern Greece",
+    "Greek",
+    "Panthrakikos F.C.",
+    "1964",
+    "Super League Greece",
+    "football club",
+    "Thrace",
+    "2008–09 season",
+    "Komotini"
+  ],
+  "edges": [
+    "competed during",
+    "is a",
+    "is based in",
+    "is located in",
+    "competed in",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Panthrakikos F.C.",
+      "is located in",
+      "Thrace"
+    ],
+    [
+      "Panthrakikos F.C.",
+      "is based in",
+      "Komotini"
+    ],
+    [
+      "Panthrakikos F.C.",
+      "competed in",
+      "Super League Greece"
+    ],
+    [
+      "Panthrakikos F.C.",
+      "was founded in",
+      "1964"
+    ],
+    [
+      "Panthrakikos F.C.",
+      "is a",
+      "football club"
+    ],
+    [
+      "Panthrakikos F.C.",
+      "competed during",
+      "2008–09 season"
+    ],
+    [
+      "Panthrakikos F.C.",
+      "is located in",
+      "North Eastern Greece"
+    ]
+  ]
+}

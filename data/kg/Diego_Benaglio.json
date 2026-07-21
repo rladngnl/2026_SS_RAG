@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "Euro 2008",
+    "Switzerland",
+    "Diego Benaglio",
+    "61 caps",
+    "Wolfsburg",
+    "three World Cups",
+    "Bundesliga",
+    "Nacional",
+    "2009 league championship",
+    "Stuttgart"
+  ],
+  "edges": [
+    "is in",
+    "played as a goalkeeper",
+    "played in",
+    "represented",
+    "spent most of his professional career with",
+    "earned",
+    "is a former professional footballer",
+    "won",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Diego Benaglio",
+      "spent most of his professional career with",
+      "Wolfsburg"
+    ],
+    [
+      "Diego Benaglio",
+      "played as a goalkeeper",
+      "Diego Benaglio"
+    ],
+    [
+      "Diego Benaglio",
+      "earned",
+      "61 caps"
+    ],
+    [
+      "Wolfsburg",
+      "is in",
+      "Bundesliga"
+    ],
+    [
+      "Diego Benaglio",
+      "participated in",
+      "three World Cups"
+    ],
+    [
+      "Diego Benaglio",
+      "represented",
+      "Switzerland"
+    ],
+    [
+      "Diego Benaglio",
+      "won",
+      "2009 league championship"
+    ],
+    [
+      "Diego Benaglio",
+      "spent most of his professional career with",
+      "Stuttgart"
+    ],
+    [
+      "Diego Benaglio",
+      "played in",
+      "Nacional"
+    ],
+    [
+      "Diego Benaglio",
+      "participated in",
+      "Euro 2008"
+    ],
+    [
+      "Diego Benaglio",
+      "is a former professional footballer",
+      "Diego Benaglio"
+    ]
+  ]
+}

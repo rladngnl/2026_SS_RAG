@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "assistant manager",
+    "footballer",
+    "Cracovia",
+    "Martin Kobylański",
+    "striker",
+    "Andrzej Kobylański",
+    "Alfred Kobylański",
+    "Korona Kielce",
+    "midfielder",
+    "sporting director"
+  ],
+  "edges": [
+    "is a",
+    "is father of",
+    "held the role of sporting director for",
+    "was assistant manager for",
+    "held the role of",
+    "played as",
+    "is son of"
+  ],
+  "relations": [
+    [
+      "Martin Kobylański",
+      "is son of",
+      "Andrzej Kobylański"
+    ],
+    [
+      "Martin Kobylański",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Alfred Kobylański",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Andrzej Kobylański",
+      "was assistant manager for",
+      "Cracovia"
+    ],
+    [
+      "Andrzej Kobylański",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Andrzej Kobylański",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Andrzej Kobylański",
+      "held the role of sporting director for",
+      "Korona Kielce"
+    ],
+    [
+      "Alfred Kobylański",
+      "is father of",
+      "Andrzej Kobylański"
+    ],
+    [
+      "Andrzej Kobylański",
+      "held the role of",
+      "sporting director"
+    ],
+    [
+      "Andrzej Kobylański",
+      "played as",
+      "striker"
+    ]
+  ]
+}

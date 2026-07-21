@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "February 10, 1982",
+    "E Sour El Ghozlane",
+    "Ahmed Wahid Chouih",
+    "goalkeeper",
+    "Algerian Ligue 2",
+    "Algerian",
+    "football player"
+  ],
+  "edges": [
+    "is in",
+    "is playing as",
+    "is currently playing for",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Ahmed Wahid Chouih",
+      "is playing as",
+      "goalkeeper"
+    ],
+    [
+      "Ahmed Wahid Chouih",
+      "is",
+      "football player"
+    ],
+    [
+      "Ahmed Wahid Chouih",
+      "is currently playing for",
+      "E Sour El Ghozlane"
+    ],
+    [
+      "E Sour El Ghozlane",
+      "is in",
+      "Algerian Ligue 2"
+    ],
+    [
+      "Ahmed Wahid Chouih",
+      "is",
+      "Algerian"
+    ],
+    [
+      "Ahmed Wahid Chouih",
+      "was born on",
+      "February 10, 1982"
+    ]
+  ]
+}

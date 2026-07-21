@@ -1,0 +1,161 @@
+{
+  "entities": [
+    "Renaissance",
+    "Medici faction",
+    "florin",
+    "Pope Leo X",
+    "Emperor Charles V",
+    "Florentine Republic",
+    "Rabodo",
+    "Matilda of Tuscany",
+    "gonfaloniere",
+    "Cosimo de' Medici",
+    "Giovanni de' Medici",
+    "Alessandro de' Medici",
+    "Siena",
+    "Cosimo I",
+    "Florentine guild",
+    "Duke of the Florentine Republic",
+    "Republic of Florence",
+    "War of the League of Cognac",
+    "Grand Duchy of Tuscany",
+    "Tuscany",
+    "Pope Clement VII",
+    "Signoria of Florence"
+  ],
+  "edges": [
+    "was an important force in",
+    "is also known as",
+    "was elected by",
+    "was ruled by",
+    "is located in",
+    "was the first",
+    "was centered on",
+    "formed a commune in place of",
+    "appointed",
+    "repudiated",
+    "declared",
+    "established",
+    "rebelled against",
+    "controlled",
+    "reassumed their rule in",
+    "later became",
+    "gained governance of",
+    "expanded his territory by conquering",
+    "was the dominant trade coin of",
+    "ruled",
+    "was the birthplace of"
+  ],
+  "relations": [
+    [
+      "gonfaloniere",
+      "was elected by",
+      "Florentine guild"
+    ],
+    [
+      "Matilda of Tuscany",
+      "controlled",
+      "vast territories"
+    ],
+    [
+      "Republic of Florence",
+      "was centered on",
+      "Florence"
+    ],
+    [
+      "Medici faction",
+      "gained governance of",
+      "Florence"
+    ],
+    [
+      "Cosimo I",
+      "expanded his territory by conquering",
+      "Siena"
+    ],
+    [
+      "Alessandro de' Medici",
+      "was the first",
+      "Duke of the Florentine Republic"
+    ],
+    [
+      "florin",
+      "was the dominant trade coin of",
+      "Western Europe"
+    ],
+    [
+      "Republic of Florence",
+      "is also known as",
+      "Florentine Republic"
+    ],
+    [
+      "pope",
+      "declared",
+      "Cosimo the first grand duke of Tuscany"
+    ],
+    [
+      "Florentines",
+      "formed a commune in place of",
+      "Rabodo"
+    ],
+    [
+      "Giovanni de' Medici",
+      "later became",
+      "Pope Leo X"
+    ],
+    [
+      "Florentine people",
+      "rebelled against",
+      "Margraviate of Tuscany"
+    ],
+    [
+      "Cosimo I",
+      "established",
+      "a strong Florentine navy"
+    ],
+    [
+      "Florence",
+      "was the birthplace of",
+      "Renaissance"
+    ],
+    [
+      "Pope Clement VII",
+      "appointed",
+      "Alessandro de' Medici"
+    ],
+    [
+      "Florence",
+      "is located in",
+      "Tuscany"
+    ],
+    [
+      "Cosimo de' Medici",
+      "ruled",
+      "Florence"
+    ],
+    [
+      "Medici",
+      "ruled",
+      "Grand Duchy of Tuscany"
+    ],
+    [
+      "Medici",
+      "reassumed their rule in",
+      "1531"
+    ],
+    [
+      "Signoria of Florence",
+      "was ruled by",
+      "gonfaloniere"
+    ],
+    [
+      "Florence",
+      "was an important force in",
+      "Europe"
+    ],
+    [
+      "Florence",
+      "repudiated",
+      "Medici authority"
+    ]
+  ]
+}

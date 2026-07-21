@@ -1,0 +1,32 @@
+{
+  "entities": [
+    "footballer",
+    "Mohamed Coly",
+    "Pergolettese",
+    "Italian Serie C",
+    "Abdourammane Mohamed Coly",
+    "Senegalese"
+  ],
+  "edges": [
+    "currently plays for",
+    "plays in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Abdourammane Mohamed Coly",
+      "plays in",
+      "Italian Serie C"
+    ],
+    [
+      "Abdourammane Mohamed Coly",
+      "currently plays for",
+      "Pergolettese"
+    ],
+    [
+      "Abdourammane Mohamed Coly",
+      "is",
+      "Senegalese footballer"
+    ]
+  ]
+}

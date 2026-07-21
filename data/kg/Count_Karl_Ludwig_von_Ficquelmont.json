@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "Count Karl Ludwig von Ficquelmont",
+    "Karl Ludwig",
+    "Austrian aristocrat",
+    "General of the cavalry",
+    "Austrian Imperial army",
+    "French noble origin",
+    "statesman"
+  ],
+  "edges": [
+    "is a",
+    "is part of",
+    "has origin from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Count Karl Ludwig von Ficquelmont",
+      "is a",
+      "General of the cavalry"
+    ],
+    [
+      "Count Karl Ludwig von Ficquelmont",
+      "is a",
+      "Austrian aristocrat"
+    ],
+    [
+      "Count Karl Ludwig von Ficquelmont",
+      "is",
+      "Karl Ludwig"
+    ],
+    [
+      "Count Karl Ludwig von Ficquelmont",
+      "is a",
+      "statesman"
+    ],
+    [
+      "Count Karl Ludwig von Ficquelmont",
+      "is part of",
+      "Austrian Imperial army"
+    ],
+    [
+      "Count Karl Ludwig von Ficquelmont",
+      "has origin from",
+      "French noble origin"
+    ]
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    "Richard McKinney",
+    "Under-18",
+    "Canvey Island",
+    "Under-21",
+    "goalkeeper",
+    "Swindon Town",
+    "Chelmsford City",
+    "Ballymena United",
+    "Walsall",
+    "Northern Ireland",
+    "Isthmian League First Division North",
+    "Manchester City",
+    "Colchester United",
+    "Great Wakering Rovers",
+    "Heybridge Swifts"
+  ],
+  "edges": [
+    "represented at",
+    "is in",
+    "is a",
+    "formerly played for",
+    "represented",
+    "last played for"
+  ],
+  "relations": [
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Walsall"
+    ],
+    [
+      "Richard McKinney",
+      "represented at",
+      "Under-18"
+    ],
+    [
+      "Richard McKinney",
+      "is a",
+      "goalkeeper"
+    ],
+    [
+      "Richard McKinney",
+      "last played for",
+      "Great Wakering Rovers"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Manchester City"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Swindon Town"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Colchester United"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Canvey Island"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Heybridge Swifts"
+    ],
+    [
+      "Richard McKinney",
+      "represented",
+      "Northern Ireland"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Ballymena United"
+    ],
+    [
+      "Richard McKinney",
+      "represented at",
+      "Under-21"
+    ],
+    [
+      "Great Wakering Rovers",
+      "is in",
+      "Isthmian League First Division North"
+    ],
+    [
+      "Richard McKinney",
+      "formerly played for",
+      "Chelmsford City"
+    ]
+  ]
+}

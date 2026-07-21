@@ -1,0 +1,80 @@
+{
+  "entities": [
+    "New York Giants baseball franchise",
+    "New York Nationals",
+    "New York Giants",
+    "Davey Brown",
+    "New York City",
+    "New York Soccer Club",
+    "American League of Professional Football",
+    "New Bedford Whalers",
+    "American Soccer League"
+  ],
+  "edges": [
+    "moved from",
+    "were associated with",
+    "played in",
+    "transferred from",
+    "changed their name to",
+    "was a name used by",
+    "became",
+    "beat"
+  ],
+  "relations": [
+    [
+      "second team",
+      "played in",
+      "American Soccer League"
+    ],
+    [
+      "first team",
+      "played in",
+      "American League of Professional Football"
+    ],
+    [
+      "New York Giants",
+      "were associated with",
+      "New York Giants baseball franchise"
+    ],
+    [
+      "New York Giants",
+      "was a name used by",
+      "three different New York City soccer teams"
+    ],
+    [
+      "new Giants",
+      "beat",
+      "New Bedford Whalers"
+    ],
+    [
+      "Davey Brown",
+      "transferred from",
+      "original Giants"
+    ],
+    [
+      "Davey Brown",
+      "moved from",
+      "Giants to the Giants"
+    ],
+    [
+      "new Giants",
+      "became",
+      "ASL champions"
+    ],
+    [
+      "third team",
+      "played in",
+      "American Soccer League"
+    ],
+    [
+      "original ASL Giants",
+      "changed their name to",
+      "New York Soccer Club"
+    ],
+    [
+      "New York Nationals",
+      "changed their name to",
+      "Giants"
+    ]
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "entities": [
+    "Bob Tzudiker",
+    "Minnie Driver",
+    "Taylor Dempsey",
+    "Brian Blessed",
+    "Alex D. Linz",
+    "1999 American animated adventure film",
+    "Lance Henriksen",
+    "Tony Goldwyn",
+    "Tarzan II",
+    "You'll Be in My Heart",
+    "Edgar Rice Burroughs",
+    "Tab Murphy",
+    "Chris Buck",
+    "Broadway adaptation",
+    "Tarzan & Jane",
+    "Deep Canvas",
+    "Academy Award for Best Original Song",
+    "Tarzan",
+    "Kenya",
+    "gorillas",
+    "leopard",
+    "Phil Collins",
+    "Edgar Rice Burroughs, Inc.",
+    "Noni White",
+    "Kevin Lima",
+    "El Capitan Theatre",
+    "Los Angeles",
+    "June 18, 1999",
+    "Africa",
+    "Tarzan of the Apes",
+    "television series",
+    "Glenn Close",
+    "Uganda",
+    "Rosie O'Donnell",
+    "Wayne Knight",
+    "Mark Mancina",
+    "June 12, 1999",
+    "Nigel Hawthorne",
+    "Walt Disney Feature Animation"
+  ],
+  "edges": [
+    "features the voice of",
+    "premiered at",
+    "was directed by",
+    "is a",
+    "is based on",
+    "was produced by",
+    "is limited by",
+    "composed songs for",
+    "was released on",
+    "is for the song",
+    "is raised by",
+    "uses the animation technique",
+    "led to",
+    "premiered on",
+    "is set in",
+    "won",
+    "was killed by",
+    "was released in"
+  ],
+  "relations": [
+    [
+      "Tarzan",
+      "features the voice of",
+      "Rosie O'Donnell"
+    ],
+    [
+      "Tarzan",
+      "is based on",
+      "Tarzan of the Apes"
+    ],
+    [
+      "Tarzan",
+      "uses the animation technique",
+      "Deep Canvas"
+    ],
+    [
+      "Tarzan",
+      "was directed by",
+      "Chris Buck"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Lance Henriksen"
+    ],
+    [
+      "Tarzan",
+      "led to",
+      "television series"
+    ],
+    [
+      "Tarzan",
+      "was produced by",
+      "Walt Disney Feature Animation"
+    ],
+    [
+      "Tarzan",
+      "won",
+      "Academy Award for Best Original Song"
+    ],
+    [
+      "Tarzan",
+      "premiered on",
+      "June 12, 1999"
+    ],
+    [
+      "Tarzan",
+      "led to",
+      "Tarzan & Jane"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Minnie Driver"
+    ],
+    [
+      "Tarzan",
+      "is raised by",
+      "gorillas"
+    ],
+    [
+      "Tarzan",
+      "led to",
+      "Tarzan II"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Tony Goldwyn"
+    ],
+    [
+      "Tarzan",
+      "premiered at",
+      "El Capitan Theatre"
+    ],
+    [
+      "Tarzan",
+      "was released in",
+      "Los Angeles"
+    ],
+    [
+      "Tarzan",
+      "is set in",
+      "Africa"
+    ],
+    [
+      "Tarzan",
+      "was killed by",
+      "leopard"
+    ],
+    [
+      "Tarzan",
+      "was directed by",
+      "Kevin Lima"
+    ],
+    [
+      "Tarzan",
+      "is a",
+      "1999 American animated adventure film"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Wayne Knight"
+    ],
+    [
+      "Academy Award for Best Original Song",
+      "is for the song",
+      "You'll Be in My Heart"
+    ],
+    [
+      "Tarzan",
+      "led to",
+      "Broadway adaptation"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Nigel Hawthorne"
+    ],
+    [
+      "Phil Collins",
+      "composed songs for",
+      "Tarzan"
+    ],
+    [
+      "Tarzan",
+      "was released on",
+      "June 18, 1999"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Taylor Dempsey"
+    ],
+    [
+      "Tarzan",
+      "is limited by",
+      "Edgar Rice Burroughs, Inc."
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Glenn Close"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Alex D. Linz"
+    ],
+    [
+      "Tarzan",
+      "features the voice of",
+      "Brian Blessed"
+    ]
+  ]
+}

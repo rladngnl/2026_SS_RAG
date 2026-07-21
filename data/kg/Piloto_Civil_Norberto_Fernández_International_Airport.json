@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "Caravelle",
+    "Auckland",
+    "Argentina",
+    "Río Gallegos",
+    "Piloto Civil Norberto Fernández International Airport",
+    "1964",
+    "Sydney",
+    "New Zealand",
+    "Aeropuertos Argentina 2000",
+    "Boeing 747-200",
+    "Aerolíneas Argentinas",
+    "1972",
+    "Santa Cruz Province",
+    "Australia"
+  ],
+  "edges": [
+    "is in",
+    "was constructed in",
+    "operated",
+    "is the longest in",
+    "is operated by",
+    "was a scheduled stop on a polar route passenger flight from",
+    "is a type of",
+    "was inaugurated in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Aerolineas Argentinas",
+      "operated",
+      "Boeing 747-200"
+    ],
+    [
+      "Piloto Civil Norberto Fernández International Airport",
+      "is located in",
+      "Río Gallegos"
+    ],
+    [
+      "Piloto Civil Norberto Fernández International Airport",
+      "was constructed in",
+      "1964"
+    ],
+    [
+      "Piloto Civil Norberto Fernández International Airport",
+      "was a scheduled stop on a polar route passenger flight from",
+      "Buenos Aires to Sydney"
+    ],
+    [
+      "Paved runway",
+      "is the longest in",
+      "Argentina"
+    ],
+    [
+      "Boeing 747-200",
+      "is a type of",
+      "wide body jetliner"
+    ],
+    [
+      "Paved runway",
+      "was inaugurated in",
+      "1972"
+    ],
+    [
+      "Piloto Civil Norberto Fernández International Airport",
+      "is operated by",
+      "Aeropuertos Argentina 2000"
+    ],
+    [
+      "Santa Cruz Province",
+      "is in",
+      "Argentina"
+    ],
+    [
+      "Piloto Civil Norberto Fernández International Airport",
+      "was a scheduled stop on a polar route passenger flight from",
+      "Buenos Aires to Auckland"
+    ],
+    [
+      "Río Gallegos",
+      "is in",
+      "Santa Cruz Province"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "England",
+    "James Joseph Lawlor",
+    "professional footballer",
+    "Jimmy Lawlor",
+    "Ireland",
+    "centre half"
+  ],
+  "edges": [
+    "was a",
+    "played in",
+    "is also known as",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Jimmy Lawlor",
+      "played in",
+      "Ireland"
+    ],
+    [
+      "Jimmy Lawlor",
+      "was a",
+      "professional footballer"
+    ],
+    [
+      "Jimmy Lawlor",
+      "played in",
+      "England"
+    ],
+    [
+      "Jimmy Lawlor",
+      "played as a",
+      "centre half"
+    ],
+    [
+      "Jimmy Lawlor",
+      "is also known as",
+      "James Joseph Lawlor"
+    ]
+  ]
+}

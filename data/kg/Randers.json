@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "2013–2014 season",
+    "Randers FC",
+    "Aarhus",
+    "Viborg",
+    "Denmark",
+    "Randers Cimbria",
+    "Randers rugby union club",
+    "Superligaen",
+    "Randers",
+    "Jutland RLFC",
+    "Gudenå River",
+    "Randers Fjord",
+    "Basketligaen",
+    "Copenhagen",
+    "Randers Municipality",
+    "Northern Europe",
+    "Jutland peninsula",
+    "AutoC Park Randers",
+    "Randers Tropical Zoo"
+  ],
+  "edges": [
+    "is in",
+    "is a city in",
+    "took 2nd place in",
+    "is home to",
+    "enters",
+    "is facilitated by",
+    "is north of",
+    "is northwest of",
+    "is the largest in",
+    "is east of",
+    "is the main town and administration center of",
+    "is located in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Randers Tropical Zoo",
+      "is the largest in",
+      "Northern Europe"
+    ],
+    [
+      "Randers",
+      "is east of",
+      "Viborg"
+    ],
+    [
+      "Randers",
+      "is home to",
+      "Jutland RLFC"
+    ],
+    [
+      "Randers",
+      "is northwest of",
+      "Copenhagen"
+    ],
+    [
+      "Randers FC",
+      "is in",
+      "Superligaen"
+    ],
+    [
+      "Randers",
+      "is located in",
+      "Denmark"
+    ],
+    [
+      "Randers",
+      "enters",
+      "Randers Fjord"
+    ],
+    [
+      "Randers",
+      "is north of",
+      "Aarhus"
+    ],
+    [
+      "Randers",
+      "is a city in",
+      "Jutland peninsula"
+    ],
+    [
+      "Randers",
+      "is home to",
+      "Randers rugby union club"
+    ],
+    [
+      "Randers Cimbria",
+      "took 2nd place in",
+      "2013–2014 season"
+    ],
+    [
+      "Randers",
+      "is facilitated by",
+      "Gudenå River"
+    ],
+    [
+      "Randers FC",
+      "plays at",
+      "AutoC Park Randers"
+    ],
+    [
+      "Randers",
+      "is home to",
+      "Randers Tropical Zoo"
+    ],
+    [
+      "Randers",
+      "is the main town and administration center of",
+      "Randers Municipality"
+    ]
+  ]
+}

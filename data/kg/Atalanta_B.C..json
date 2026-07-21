@@ -1,0 +1,168 @@
+{
+  "entities": [
+    "Lombardy",
+    "Brescia Calcio",
+    "1963",
+    "blue",
+    "black",
+    "Italy",
+    "Italian football league system",
+    "2024",
+    "quarter-finals",
+    "1907",
+    "UEFA Champions League",
+    "Union Brescia",
+    "Cup Winners' Cup",
+    "Genoa",
+    "UEFA Europa League",
+    "2025",
+    "Atalanta",
+    "Serie B",
+    "New Balance Arena",
+    "2020",
+    "Atalanta Bergamasca Calcio",
+    "UEFA Cup",
+    "youth academy",
+    "1988",
+    "Serie A",
+    "Bergamo",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "reached the semi-finals of",
+    "has main kit colors",
+    "was dissolved in",
+    "competes in",
+    "reached the quarter-finals in",
+    "is located in",
+    "holds the record for",
+    "qualified for",
+    "was won in",
+    "plays its home games at",
+    "is famed for",
+    "won",
+    "had a long-standing rivalry with",
+    "was reached in",
+    "continues rivalry with",
+    "was founded in",
+    "is based in",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Atalanta",
+      "won",
+      "Coppa Italia"
+    ],
+    [
+      "UEFA Europa League",
+      "was won in",
+      "2024"
+    ],
+    [
+      "Coppa Italia",
+      "was won in",
+      "1963"
+    ],
+    [
+      "Atalanta",
+      "is located in",
+      "Italy"
+    ],
+    [
+      "Atalanta",
+      "reached the quarter-finals in",
+      "2020"
+    ],
+    [
+      "Brescia Calcio",
+      "was dissolved in",
+      "2025"
+    ],
+    [
+      "Atalanta",
+      "reached the semi-finals of",
+      "Cup Winners' Cup"
+    ],
+    [
+      "Atalanta",
+      "qualified for",
+      "UEFA Champions League"
+    ],
+    [
+      "Atalanta",
+      "plays its home games at",
+      "New Balance Arena"
+    ],
+    [
+      "Atalanta",
+      "is famed for",
+      "youth academy"
+    ],
+    [
+      "Atalanta",
+      "continues rivalry with",
+      "Union Brescia"
+    ],
+    [
+      "Atalanta",
+      "participated in",
+      "six seasons of the UEFA Europa League"
+    ],
+    [
+      "Atalanta",
+      "is based in",
+      "Bergamo"
+    ],
+    [
+      "Atalanta",
+      "was founded in",
+      "1907"
+    ],
+    [
+      "Atalanta",
+      "competes in",
+      "Serie A"
+    ],
+    [
+      "Atalanta",
+      "has main kit colors",
+      "black and blue"
+    ],
+    [
+      "Atalanta",
+      "holds the record for",
+      "most promotions to Serie A"
+    ],
+    [
+      "Atalanta",
+      "had a long-standing rivalry with",
+      "Brescia Calcio"
+    ],
+    [
+      "Atalanta",
+      "is located in",
+      "Lombardy"
+    ],
+    [
+      "Atalanta",
+      "holds the record for",
+      "most Serie A seasons without being based in a regional capital"
+    ],
+    [
+      "Atalanta",
+      "holds the record for",
+      "joint-most Serie B titles"
+    ],
+    [
+      "Cup Winners' Cup",
+      "was reached in",
+      "1988"
+    ],
+    [
+      "Atalanta",
+      "won",
+      "UEFA Europa League"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "footballer",
+    "24 March 2021",
+    "16 July 1927",
+    "winger",
+    "Derek Hawksworth",
+    "Derek Marshall Hawksworth",
+    "Sheffield United"
+  ],
+  "edges": [
+    "played for",
+    "died on",
+    "played in the position of",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Derek Marshall Hawksworth",
+      "died on",
+      "24 March 2021"
+    ],
+    [
+      "Derek Marshall Hawksworth",
+      "was born on",
+      "16 July 1927"
+    ],
+    [
+      "Derek Marshall Hawksworth",
+      "was",
+      "footballer"
+    ],
+    [
+      "Derek Marshall Hawksworth",
+      "played for",
+      "Sheffield United"
+    ],
+    [
+      "Derek Marshall Hawksworth",
+      "played in the position of",
+      "winger"
+    ]
+  ]
+}

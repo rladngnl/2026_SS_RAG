@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "2001",
+    "Poland",
+    "I liga",
+    "2019",
+    "Ekstraklasa",
+    "European competition",
+    "relegation",
+    "Lechia Gdańsk",
+    "2023",
+    "1945",
+    "1990s",
+    "Gdańsk",
+    "Lechia Lwów",
+    "Lwów",
+    "May 2008",
+    "sixth tier",
+    "1903",
+    "Polish Super Cup",
+    "Polish Cup",
+    "Polish top division"
+  ],
+  "edges": [
+    "played in",
+    "was promoted to",
+    "was founded by",
+    "finished third in",
+    "suffered relegation in",
+    "suffered relegation to",
+    "was founded in",
+    "had to restart from",
+    "won",
+    "is a continuation of the name used by",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Lechia Lwów",
+      "was founded in",
+      "1903"
+    ],
+    [
+      "Lechia Gdańsk",
+      "competes in",
+      "I liga"
+    ],
+    [
+      "Lechia Gdańsk",
+      "suffered relegation to",
+      "I liga"
+    ],
+    [
+      "Lechia Gdańsk",
+      "finished third in",
+      "Polish top division"
+    ],
+    [
+      "Lechia Gdańsk",
+      "won",
+      "Polish Cup"
+    ],
+    [
+      "Lechia Gdańsk",
+      "was founded by",
+      "people expelled from Lwów"
+    ],
+    [
+      "Lechia Gdańsk",
+      "finished third in",
+      "2019"
+    ],
+    [
+      "Lechia Gdańsk",
+      "won",
+      "Polish Super Cup"
+    ],
+    [
+      "Lechia Gdańsk",
+      "was promoted to",
+      "Ekstraklasa"
+    ],
+    [
+      "Lechia Gdańsk",
+      "is a continuation of the name used by",
+      "Lechia Lwów"
+    ],
+    [
+      "Lechia Gdańsk",
+      "had to restart from",
+      "sixth tier"
+    ],
+    [
+      "Lechia Gdańsk",
+      "played in",
+      "European competition"
+    ],
+    [
+      "Lechia Gdańsk",
+      "was founded in",
+      "1945"
+    ],
+    [
+      "Lechia Gdańsk",
+      "suffered relegation in",
+      "2023"
+    ],
+    [
+      "Lechia Gdańsk",
+      "is based in",
+      "Gdańsk"
+    ]
+  ]
+}

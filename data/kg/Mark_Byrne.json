@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "footballer",
+    "Crumlin United",
+    "9 November 1988",
+    "Irish",
+    "midfielder",
+    "Mark Byrne"
+  ],
+  "edges": [
+    "plays for",
+    "was born on",
+    "plays as",
+    "is"
+  ],
+  "relations": [
+    [
+      "Mark Byrne",
+      "is",
+      "footballer"
+    ],
+    [
+      "Mark Byrne",
+      "plays as",
+      "midfielder"
+    ],
+    [
+      "Mark Byrne",
+      "was born on",
+      "9 November 1988"
+    ],
+    [
+      "Mark Byrne",
+      "plays for",
+      "Crumlin United"
+    ],
+    [
+      "Mark Byrne",
+      "is",
+      "Irish"
+    ]
+  ]
+}

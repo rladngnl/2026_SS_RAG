@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "Rodney McDonald (director)",
+    "Rod McDonald (footballer, born 1992)",
+    "Rodney McDonald (speedway rider)",
+    "Rod McDonald (typographer)",
+    "Rod McDonald (footballer, born 1967)"
+  ],
+  "edges": [
+    "is associated with",
+    "is the director of",
+    "is a",
+    "is an"
+  ],
+  "relations": [
+    [
+      "Rod McDonald (footballer, born 1967)",
+      "is a",
+      "English football striker"
+    ],
+    [
+      "Rodney McDonald (director)",
+      "is the director of",
+      "the 1992 film Night Eyes 2"
+    ],
+    [
+      "Rodney McDonald (speedway rider)",
+      "is an",
+      "Australian motorcycle racer at the 2013 Team Long Track World Championship"
+    ],
+    [
+      "Rod McDonald (footballer, born 1992)",
+      "is a",
+      "English football defender"
+    ],
+    [
+      "Rod McDonald (typographer)",
+      "is associated with",
+      "Cartier (typeface)"
+    ]
+  ]
+}

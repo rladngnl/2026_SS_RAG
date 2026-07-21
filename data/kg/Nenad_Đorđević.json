@@ -1,0 +1,61 @@
+{
+  "entities": [
+    "Serbian",
+    "assistant coach",
+    "former player",
+    "Serbian Cyrillic",
+    "defender",
+    "professional football coach",
+    "Nenad Đorđević",
+    "Al Wasl",
+    "7 August 1979",
+    "Serbia and Montenegro",
+    "UAE Pro League",
+    "2006 FIFA World Cup"
+  ],
+  "edges": [
+    "is the assistant coach of",
+    "is in the",
+    "is a",
+    "represented",
+    "played as a",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Nenad Đorđević",
+      "represented",
+      "Serbia and Montenegro"
+    ],
+    [
+      "Nenad Đorđević",
+      "is the assistant coach of",
+      "Al Wasl"
+    ],
+    [
+      "Serbia and Montenegro",
+      "participated in",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Al Wasl",
+      "is in the",
+      "UAE Pro League"
+    ],
+    [
+      "Nenad Đorđević",
+      "is a",
+      "former player"
+    ],
+    [
+      "Nenad Đorđević",
+      "is a",
+      "professional football coach"
+    ],
+    [
+      "Nenad Đorđević",
+      "played as a",
+      "defender"
+    ]
+  ]
+}

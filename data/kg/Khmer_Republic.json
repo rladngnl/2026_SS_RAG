@@ -1,0 +1,158 @@
+{
+  "entities": [
+    "Kingdom of Cambodia",
+    "Queen Sisowath Kossamak",
+    "Khmer Rouge",
+    "Marshal Lon Nol",
+    "North Vietnam",
+    "Khmer National Armed Forces",
+    "Viet Cong",
+    "Communist Party of Kampuchea",
+    "Beijing",
+    "Khmer Republic",
+    "Norodom Sihanouk",
+    "Cambodian People's National Liberation Armed Forces",
+    "National United Front of Kampuchea",
+    "Democratic Kampuchea",
+    "Second Indochina War",
+    "United States",
+    "North Vietnamese Army",
+    "PAVN",
+    "South Vietnam",
+    "Pyongyang",
+    "Sihanouk's supporters",
+    "Forces armées nationales khmères",
+    "Republic of Vietnam",
+    "Phnom Penh",
+    "Front uni national de Kampuchéa",
+    "CPNLAF",
+    "FANK"
+  ],
+  "edges": [
+    "was backed by",
+    "was opposed within the Cambodian borders by",
+    "gained control over",
+    "took",
+    "became a republic on",
+    "renamed itself to",
+    "were poorly trained and unable to defeat",
+    "restored",
+    "was overthrown by",
+    "was a state under",
+    "belonged to",
+    "aligned itself with",
+    "was opposed by",
+    "fell on",
+    "was established by",
+    "was removed by",
+    "promulgated its own constitution in",
+    "fled to"
+  ],
+  "relations": [
+    [
+      "Khmer Republic",
+      "was a state under",
+      "United States"
+    ],
+    [
+      "North Vietnam",
+      "gained control over",
+      "vast areas of eastern Cambodia"
+    ],
+    [
+      "Norodom Sihanouk",
+      "was overthrown by",
+      "Marshal Lon Nol"
+    ],
+    [
+      "CPNLAF",
+      "was backed by",
+      "Viet Cong"
+    ],
+    [
+      "Khmer Republic",
+      "was opposed within the Cambodian borders by",
+      "Front uni national de Kampuchéa"
+    ],
+    [
+      "Queen Sisowath Kossamak",
+      "was removed by",
+      "Marshal Lon Nol"
+    ],
+    [
+      "Kingdom of Cambodia",
+      "became a republic on",
+      "9 October 1970"
+    ],
+    [
+      "Khmer National Armed Forces",
+      "were poorly trained and unable to defeat",
+      "CPNLAF"
+    ],
+    [
+      "Norodom Sihanouk",
+      "fled to",
+      "Beijing"
+    ],
+    [
+      "Khmer National Armed Forces",
+      "were poorly trained and unable to defeat",
+      "Vietnamese forces"
+    ],
+    [
+      "Khmer Republic",
+      "fell on",
+      "17 April 1975"
+    ],
+    [
+      "CPNLAF",
+      "belonged to",
+      "Khmer Rouge"
+    ],
+    [
+      "Khmer Rouge",
+      "renamed itself to",
+      "Democratic Kampuchea"
+    ],
+    [
+      "CPNLAF",
+      "was backed by",
+      "North Vietnamese Army"
+    ],
+    [
+      "Khmer Rouge",
+      "restored",
+      "Kingdom of Cambodia"
+    ],
+    [
+      "Khmer Republic",
+      "promulgated its own constitution in",
+      "1972"
+    ],
+    [
+      "Khmer Republic",
+      "was opposed by",
+      "National United Front of Kampuchea"
+    ],
+    [
+      "Norodom Sihanouk",
+      "fled to",
+      "Pyongyang"
+    ],
+    [
+      "Kingdom of Cambodia",
+      "aligned itself with",
+      "South Vietnam"
+    ],
+    [
+      "Khmer Rouge",
+      "took",
+      "Phnom Penh"
+    ],
+    [
+      "Khmer Republic",
+      "was established by",
+      "Marshal Lon Nol"
+    ]
+  ]
+}

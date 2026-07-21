@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "Bogdan Adrian Străuț",
+    "Bogdan Străuț",
+    "defender",
+    "Timișoara",
+    "28 April 1986",
+    "Romanian"
+  ],
+  "edges": [
+    "was born on",
+    "is Romanian",
+    "is a",
+    "is born in"
+  ],
+  "relations": [
+    [
+      "Bogdan Adrian Străuț",
+      "was born on",
+      "28 April 1986"
+    ],
+    [
+      "Bogdan Adrian Străuț",
+      "is a",
+      "defender"
+    ],
+    [
+      "Bogdan Adrian Străuț",
+      "is Romanian",
+      "Romanian"
+    ],
+    [
+      "Bogdan Adrian Străuț",
+      "is born in",
+      "Timișoara"
+    ]
+  ]
+}

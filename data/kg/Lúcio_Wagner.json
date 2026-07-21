@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "footballer",
+    "Bulgaria",
+    "national team",
+    "left-back",
+    "Lúcio Wagner",
+    "Bulgarian citizenship",
+    "Levski Sofia",
+    "Lúcio Wagner Freitas de Souza"
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "played as",
+    "received",
+    "achieved successes in",
+    "won",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Lúcio Wagner",
+      "played as",
+      "left-back"
+    ],
+    [
+      "Lúcio Wagner",
+      "played for",
+      "national team"
+    ],
+    [
+      "Lúcio Wagner",
+      "achieved successes in",
+      "Bulgaria"
+    ],
+    [
+      "Lúcio Wagner",
+      "received",
+      "Bulgarian citizenship"
+    ],
+    [
+      "Lúcio Wagner",
+      "played for",
+      "Levski Sofia"
+    ],
+    [
+      "Lúcio Wagner",
+      "won",
+      "eight major titles"
+    ],
+    [
+      "Lúcio Wagner Freitas de Souza",
+      "is known as",
+      "Lúcio Wagner"
+    ],
+    [
+      "Lúcio Wagner",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

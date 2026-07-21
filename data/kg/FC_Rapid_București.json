@@ -1,0 +1,119 @@
+{
+  "entities": [
+    "Asociația Culturală și Sportivă CFR",
+    "Valentin Stănescu Stadium",
+    "2005–06 UEFA Cup",
+    "Steaua București",
+    "Liga I",
+    "Supercupa României",
+    "2016",
+    "FC Rapid București",
+    "Fotbal Club Rapid",
+    "FCSB",
+    "Dinamo București",
+    "Bucharest",
+    "Rapid-Giulești",
+    "Cupa României",
+    "Grivița workshops",
+    "Petrolul Ploiești",
+    "1940 Mitropa Cup",
+    "1972–73 Cup Winners' Cup",
+    "2021",
+    "World War II"
+  ],
+  "edges": [
+    "was replaced by",
+    "was refounded in",
+    "reached the quarter-finals of",
+    "played home matches in",
+    "has won",
+    "has rivalries with",
+    "was founded in",
+    "was declared bankrupt in",
+    "was founded by",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FC Rapid București",
+      "has rivalries with",
+      "Steaua București"
+    ],
+    [
+      "FC Rapid București",
+      "was refounded in",
+      "2021"
+    ],
+    [
+      "FC Rapid București",
+      "was founded in",
+      "1923"
+    ],
+    [
+      "FC Rapid București",
+      "is based in",
+      "Bucharest"
+    ],
+    [
+      "FC Rapid București",
+      "was founded by",
+      "Grivița workshops"
+    ],
+    [
+      "FC Rapid București",
+      "has won",
+      "Supercupa României"
+    ],
+    [
+      "Valentin Stănescu Stadium",
+      "was replaced by",
+      "Rapid-Giulești"
+    ],
+    [
+      "FC Rapid București",
+      "competes in",
+      "Liga I"
+    ],
+    [
+      "FC Rapid București",
+      "has rivalries with",
+      "FCSB"
+    ],
+    [
+      "FC Rapid București",
+      "has rivalries with",
+      "Dinamo București"
+    ],
+    [
+      "FC Rapid București",
+      "has won",
+      "Cupa României"
+    ],
+    [
+      "FC Rapid București",
+      "reached the quarter-finals of",
+      "1972–73 Cup Winners' Cup"
+    ],
+    [
+      "FC Rapid București",
+      "played home matches in",
+      "Valentin Stănescu Stadium"
+    ],
+    [
+      "FC Rapid București",
+      "reached the quarter-finals of",
+      "2005–06 UEFA Cup"
+    ],
+    [
+      "FC Rapid București",
+      "was declared bankrupt in",
+      "2016"
+    ],
+    [
+      "FC Rapid București",
+      "has rivalries with",
+      "Petrolul Ploiești"
+    ]
+  ]
+}

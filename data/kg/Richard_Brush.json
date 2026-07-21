@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "professional footballer",
+    "goalkeeper",
+    "League of Ireland Premier Division",
+    "Richard Brush",
+    "Sligo Rovers",
+    "English",
+    "Irish"
+  ],
+  "edges": [
+    "is in",
+    "plays for",
+    "plays as",
+    "is",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Richard Brush",
+      "plays as",
+      "goalkeeper"
+    ],
+    [
+      "Richard Brush",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "Sligo Rovers",
+      "is located in",
+      "Irish"
+    ],
+    [
+      "Richard Brush",
+      "plays for",
+      "Sligo Rovers"
+    ],
+    [
+      "Sligo Rovers",
+      "is in",
+      "League of Ireland Premier Division"
+    ],
+    [
+      "Richard Brush",
+      "is",
+      "English"
+    ]
+  ]
+}

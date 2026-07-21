@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "Hamilton Academical",
+    "footballer",
+    "UEFA Euro 2012",
+    "FA Cup",
+    "Scotland",
+    "Wigan Athletic",
+    "Republic of Ireland",
+    "UEFA Euro 2016",
+    "midfielder",
+    "Macedonia",
+    "James Patrick McCarthy",
+    "Everton"
+  ],
+  "edges": [
+    "won the",
+    "is a",
+    "was transferred to",
+    "was born and raised in",
+    "made over 100 appearances for",
+    "made his competitive debut for",
+    "was involved in a record sale fee for",
+    "elected to represent",
+    "made his competitive debut in",
+    "played against",
+    "moved to",
+    "was included in the Irish squad at",
+    "played as"
+  ],
+  "relations": [
+    [
+      "James Patrick McCarthy",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "James Patrick McCarthy",
+      "is a",
+      "footballer"
+    ],
+    [
+      "James Patrick McCarthy",
+      "made over 100 appearances for",
+      "Hamilton Academical"
+    ],
+    [
+      "James Patrick McCarthy",
+      "made his competitive debut for",
+      "Republic of Ireland"
+    ],
+    [
+      "James Patrick McCarthy",
+      "was included in the Irish squad at",
+      "UEFA Euro 2016"
+    ],
+    [
+      "James Patrick McCarthy",
+      "played against",
+      "Macedonia"
+    ],
+    [
+      "James Patrick McCarthy",
+      "made his competitive debut in",
+      "UEFA Euro 2012"
+    ],
+    [
+      "James Patrick McCarthy",
+      "won the",
+      "FA Cup"
+    ],
+    [
+      "Wigan Athletic",
+      "was involved in a record sale fee for",
+      "Hamilton Academical"
+    ],
+    [
+      "James Patrick McCarthy",
+      "was transferred to",
+      "Wigan Athletic"
+    ],
+    [
+      "James Patrick McCarthy",
+      "moved to",
+      "Everton"
+    ],
+    [
+      "James Patrick McCarthy",
+      "elected to represent",
+      "Republic of Ireland"
+    ],
+    [
+      "James Patrick McCarthy",
+      "was born and raised in",
+      "Scotland"
+    ]
+  ]
+}

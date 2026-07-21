@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "Hamilton Academical",
+    "Le Havre",
+    "former player",
+    "Guillaume Pierre Beuzelin",
+    "Hibernian",
+    "AS Beauvais",
+    "Olympiakos Nicosia",
+    "Coventry City",
+    "French",
+    "football coach"
+  ],
+  "edges": [
+    "played for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Guillaume Pierre Beuzelin",
+      "played for",
+      "Coventry City"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "is",
+      "football coach"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "is",
+      "former player"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "played for",
+      "Le Havre"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "played for",
+      "Olympiakos Nicosia"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "is",
+      "French"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "played for",
+      "Hamilton Academical"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "played for",
+      "AS Beauvais"
+    ],
+    [
+      "Guillaume Pierre Beuzelin",
+      "played for",
+      "Hibernian"
+    ]
+  ]
+}

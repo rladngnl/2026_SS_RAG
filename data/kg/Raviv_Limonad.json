@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "6 ft 3 in",
+    "191 cm",
+    "combo guard",
+    "Israeli",
+    "professional basketball player",
+    "Raviv Limonad",
+    "Israeli Premier League",
+    "Ironi Nes Ziona"
+  ],
+  "edges": [
+    "last played for",
+    "is part of",
+    "has height",
+    "is"
+  ],
+  "relations": [
+    [
+      "Raviv Limonad",
+      "is",
+      "Israeli professional basketball player"
+    ],
+    [
+      "Raviv Limonad",
+      "has height",
+      "191 cm"
+    ],
+    [
+      "Raviv Limonad",
+      "is",
+      "combo guard"
+    ],
+    [
+      "Raviv Limonad",
+      "last played for",
+      "Ironi Nes Ziona"
+    ],
+    [
+      "Ironi Nes Ziona",
+      "is part of",
+      "Israeli Premier League"
+    ],
+    [
+      "Raviv Limonad",
+      "has height",
+      "6 ft 3 in"
+    ]
+  ]
+}

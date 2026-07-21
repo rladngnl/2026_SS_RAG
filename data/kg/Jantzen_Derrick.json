@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "professional footballer",
+    "Jantzen Stuart Derrick",
+    "winger",
+    "English",
+    "forward",
+    "January 10, 1943"
+  ],
+  "edges": [
+    "played as",
+    "born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jantzen Stuart Derrick",
+      "played as",
+      "forward"
+    ],
+    [
+      "Jantzen Stuart Derrick",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "Jantzen Stuart Derrick",
+      "played as",
+      "winger"
+    ],
+    [
+      "Jantzen Stuart Derrick",
+      "is",
+      "English"
+    ],
+    [
+      "Jantzen Stuart Derrick",
+      "born on",
+      "January 10, 1943"
+    ]
+  ]
+}

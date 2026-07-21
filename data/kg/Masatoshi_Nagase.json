@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "character actor",
+    "Jim Jarmusch",
+    "body of work",
+    "Japanese actor",
+    "Todd Brown",
+    "Japanese film",
+    "Cold Fever",
+    "Masatoshi Nagase",
+    "Mystery Train",
+    "singer",
+    "July 15, 1966",
+    "永瀬 正敏",
+    "Friðrik Þór Friðriksson",
+    "Twitch Film"
+  ],
+  "edges": [
+    "is considered",
+    "is a",
+    "has",
+    "described",
+    "is associated with",
+    "is",
+    "is best known for"
+  ],
+  "relations": [
+    [
+      "Masatoshi Nagase",
+      "has",
+      "a huge body of work"
+    ],
+    [
+      "Masatoshi Nagase",
+      "is a",
+      "character actor"
+    ],
+    [
+      "Masatoshi Nagase",
+      "is",
+      "Japanese actor"
+    ],
+    [
+      "Masatoshi Nagase",
+      "is best known for",
+      "roles in Friðrik Þór Friðriksson's Cold Fever"
+    ],
+    [
+      "Masatoshi Nagase",
+      "is best known for",
+      "roles in Jim Jarmusch's Mystery Train"
+    ],
+    [
+      "Todd Brown",
+      "described",
+      "Masatoshi Nagase"
+    ],
+    [
+      "Masatoshi Nagase",
+      "is",
+      "singer"
+    ],
+    [
+      "Masatoshi Nagase",
+      "is considered",
+      "one of the great unsung heroes of Japanese film"
+    ],
+    [
+      "Todd Brown",
+      "is associated with",
+      "Twitch Film"
+    ]
+  ]
+}

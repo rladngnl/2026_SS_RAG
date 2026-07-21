@@ -1,0 +1,186 @@
+{
+  "entities": [
+    "Copa CONMEBOL",
+    "Cruzeiro",
+    "Galo",
+    "Arena MRV",
+    "R$3.373 billion",
+    "1971",
+    "Atlético Mineiro",
+    "Belo Horizonte",
+    "Flamengo",
+    "Clube Atlético Mineiro",
+    "América Mineiro",
+    "2024",
+    "15 April 2023",
+    "Recopa Sudamericana",
+    "Supercopa do Brasil",
+    "1937",
+    "R$657 million",
+    "€516.74 million",
+    "Campeonato Mineiro",
+    "27 August 2023",
+    "Copa do Brasil",
+    "20 April 2020",
+    "Galo Holding",
+    "2025",
+    "SAF",
+    "Minas Gerais",
+    "Campeonato Brasileiro Série A",
+    "Clássico Mineiro",
+    "Copa Libertadores",
+    "2021",
+    "Copa dos Campeões Brasileiros"
+  ],
+  "edges": [
+    "completed the purchase of",
+    "is commonly known as",
+    "generates",
+    "has a mascot",
+    "has won",
+    "is valued at",
+    "was founded on",
+    "is worth",
+    "has an operational capacity of",
+    "holds a rivalry with",
+    "plays its home games at",
+    "is colloquially known as",
+    "was purchased by",
+    "is in the state of",
+    "paid a total of",
+    "competes in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Clube Atlético Mineiro",
+      "holds a rivalry with",
+      "Flamengo"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "holds a rivalry with",
+      "América Mineiro"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "is valued at",
+      "R$3.373 billion"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "generates",
+      "R$657 million"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Supercopa do Brasil"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "is worth",
+      "€516.74 million"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Copa Libertadores"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "is located in",
+      "Belo Horizonte"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "was purchased by",
+      "Galo Holding"
+    ],
+    [
+      "Galo Holding",
+      "paid a total of",
+      "913 million reais"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "is commonly known as",
+      "Atlético Mineiro"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Campeonato Mineiro"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Copa do Brasil"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "competes in",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "Galo Holding",
+      "completed the purchase of",
+      "controlling interest (75%) of the club's SAF"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "plays its home games at",
+      "Arena MRV"
+    ],
+    [
+      "Arena MRV",
+      "has an operational capacity of",
+      "over 46,000 spectators"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Recopa Sudamericana"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Copa dos Campeões Brasileiros"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has a mascot",
+      "rooster"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "was founded on",
+      "25 March 1908"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Copa CONMEBOL"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "is colloquially known as",
+      "Galo"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "is in the state of",
+      "Minas Gerais"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "has won",
+      "Campeonato Brasileiro"
+    ],
+    [
+      "Clube Atlético Mineiro",
+      "holds a rivalry with",
+      "Cruzeiro"
+    ]
+  ]
+}

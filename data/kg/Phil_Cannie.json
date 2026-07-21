@@ -1,0 +1,127 @@
+{
+  "entities": [
+    "football striker",
+    "Cappielow",
+    "Kirkintilloch Rob Roy",
+    "Phillip Cannie",
+    "Pollok",
+    "Largs Thistle",
+    "Scottish",
+    "Kilwinning Rangers",
+    "Phil Cannie",
+    "Clyde",
+    "Broadwood Stadium",
+    "Airdrie",
+    "Greenock Morton",
+    "Maryhill",
+    "Johnstone Burgh",
+    "Greenock",
+    "Port Glasgow",
+    "Scottish Challenge Cup",
+    "Ross County",
+    "Sporting Larkfield F.C.",
+    "Neilston",
+    "Gourock Amateurs"
+  ],
+  "edges": [
+    "now plays for",
+    "began his career with",
+    "is a",
+    "left",
+    "plays for",
+    "stepped up to the senior game with",
+    "scored on his league debut against",
+    "joined",
+    "returned to the junior leagues to play for",
+    "scored on his debut in",
+    "stayed at",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Phil Cannie",
+      "left",
+      "Clyde"
+    ],
+    [
+      "Phil Cannie",
+      "played for",
+      "Maryhill"
+    ],
+    [
+      "Phil Cannie",
+      "stayed at",
+      "Cappielow"
+    ],
+    [
+      "Phil Cannie",
+      "now plays for",
+      "Gourock Amateurs"
+    ],
+    [
+      "Phil Cannie",
+      "returned to the junior leagues to play for",
+      "Kilwinning Rangers"
+    ],
+    [
+      "Phil Cannie",
+      "stepped up to the senior game with",
+      "Clyde"
+    ],
+    [
+      "Phil Cannie",
+      "began his career with",
+      "Port Glasgow"
+    ],
+    [
+      "Phil Cannie",
+      "scored on his debut in",
+      "Scottish Challenge Cup"
+    ],
+    [
+      "Phil Cannie",
+      "played for",
+      "Johnstone Burgh"
+    ],
+    [
+      "Phil Cannie",
+      "plays for",
+      "Sporting Larkfield F.C."
+    ],
+    [
+      "Phil Cannie",
+      "played for",
+      "Neilston"
+    ],
+    [
+      "Phil Cannie",
+      "played for",
+      "Largs Thistle"
+    ],
+    [
+      "Phil Cannie",
+      "played for",
+      "Kirkintilloch Rob Roy"
+    ],
+    [
+      "Phil Cannie",
+      "scored on his league debut against",
+      "Airdrie"
+    ],
+    [
+      "Phil Cannie",
+      "joined",
+      "Greenock Morton"
+    ],
+    [
+      "Phil Cannie",
+      "is a",
+      "football striker"
+    ],
+    [
+      "Phil Cannie",
+      "played for",
+      "Pollok"
+    ]
+  ]
+}

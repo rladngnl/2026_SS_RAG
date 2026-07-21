@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "Tranmere Rovers",
+    "Burnley",
+    "England",
+    "Portsmouth",
+    "under-21 level",
+    "Leicester City",
+    "David Nugent",
+    "Derby County",
+    "senior team",
+    "Bury",
+    "Anstey Nomads",
+    "Middlesbrough",
+    "Preston North End"
+  ],
+  "edges": [
+    "signed for",
+    "returned to",
+    "started his career at",
+    "plays for",
+    "joined",
+    "played at",
+    "played for"
+  ],
+  "relations": [
+    [
+      "David Nugent",
+      "joined",
+      "Preston North End"
+    ],
+    [
+      "David Nugent",
+      "played for",
+      "senior team"
+    ],
+    [
+      "David Nugent",
+      "joined",
+      "Burnley"
+    ],
+    [
+      "David Nugent",
+      "signed for",
+      "Leicester City"
+    ],
+    [
+      "David Nugent",
+      "joined",
+      "Middlesbrough"
+    ],
+    [
+      "David Nugent",
+      "joined",
+      "Derby County"
+    ],
+    [
+      "David Nugent",
+      "played for",
+      "England"
+    ],
+    [
+      "David Nugent",
+      "signed for",
+      "Tranmere Rovers"
+    ],
+    [
+      "David Nugent",
+      "started his career at",
+      "Bury"
+    ],
+    [
+      "David Nugent",
+      "played at",
+      "under-21 level"
+    ],
+    [
+      "David Nugent",
+      "joined",
+      "Portsmouth"
+    ],
+    [
+      "David Nugent",
+      "plays for",
+      "Anstey Nomads"
+    ],
+    [
+      "David Nugent",
+      "returned to",
+      "Portsmouth"
+    ]
+  ]
+}

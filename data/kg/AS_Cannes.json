@@ -1,0 +1,160 @@
+{
+  "entities": [
+    "Stade Pierre de Coubertin",
+    "Patrick Vieira",
+    "Johan Micoud",
+    "National division",
+    "AS Cannes",
+    "badge",
+    "1932",
+    "Jonathan Zebina",
+    "21 May 2010",
+    "Ligue 3",
+    "Sébastien Frey",
+    "Ligue 1",
+    "Gaël Clichy",
+    "2025–26 season",
+    "Coupe de France",
+    "2001–02 season",
+    "Zinedine Zidane",
+    "1997–98 season",
+    "Association Sportive de Cannes Football",
+    "Cannes",
+    "dragon",
+    "Mathieu Chabert",
+    "Championnat National 2",
+    "logo",
+    "Les Dragons"
+  ],
+  "edges": [
+    "served the longest stint in",
+    "is known as",
+    "was promoted from",
+    "is managed by",
+    "finished runners-up in",
+    "plays its home matches at",
+    "was won in",
+    "currently plays in",
+    "last played in",
+    "has served as a springboard for",
+    "has been in the league since",
+    "incorporates the nickname into",
+    "won",
+    "has a logo that is similar to",
+    "unveiled its new logo on",
+    "has a focal point of",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "AS Cannes",
+      "has served as a springboard for",
+      "Patrick Vieira"
+    ],
+    [
+      "AS Cannes",
+      "incorporates the nickname into",
+      "a multitude of club's fixtures"
+    ],
+    [
+      "AS Cannes",
+      "is managed by",
+      "Mathieu Chabert"
+    ],
+    [
+      "AS Cannes",
+      "has been in the league since",
+      "2001–02 season"
+    ],
+    [
+      "AS Cannes",
+      "has served as a springboard for",
+      "Sébastien Frey"
+    ],
+    [
+      "AS Cannes",
+      "has a focal point of",
+      "the dragon"
+    ],
+    [
+      "AS Cannes",
+      "last played in",
+      "Ligue 1"
+    ],
+    [
+      "AS Cannes",
+      "plays its home matches at",
+      "Stade Pierre de Coubertin"
+    ],
+    [
+      "AS Cannes",
+      "won",
+      "Coupe de France"
+    ],
+    [
+      "AS Cannes",
+      "has served as a springboard for",
+      "Jonathan Zebina"
+    ],
+    [
+      "AS Cannes",
+      "unveiled its new logo on",
+      "21 May 2010"
+    ],
+    [
+      "AS Cannes",
+      "is known as",
+      "Les Dragons"
+    ],
+    [
+      "Coupe de France",
+      "was won in",
+      "1932"
+    ],
+    [
+      "AS Cannes",
+      "was formed in",
+      "1902"
+    ],
+    [
+      "AS Cannes",
+      "has served as a springboard for",
+      "Zinedine Zidane"
+    ],
+    [
+      "AS Cannes",
+      "has served as a springboard for",
+      "Gaël Clichy"
+    ],
+    [
+      "AS Cannes",
+      "finished runners-up in",
+      "the league's inaugural season"
+    ],
+    [
+      "AS Cannes",
+      "has a logo that is similar to",
+      "the club's previous logo"
+    ],
+    [
+      "AS Cannes",
+      "served the longest stint in",
+      "National division"
+    ],
+    [
+      "AS Cannes",
+      "was promoted from",
+      "Championnat National 2"
+    ],
+    [
+      "AS Cannes",
+      "currently plays in",
+      "Ligue 3"
+    ],
+    [
+      "AS Cannes",
+      "has served as a springboard for",
+      "Johan Micoud"
+    ]
+  ]
+}

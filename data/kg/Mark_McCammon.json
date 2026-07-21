@@ -1,0 +1,104 @@
+{
+  "entities": [
+    "Brighton & Hove Albion",
+    "Doncaster Rovers",
+    "England",
+    "Cambridge United",
+    "Swindon Town",
+    "Barbados national team",
+    "Millwall",
+    "Brentford",
+    "Bristol City",
+    "Charlton Athletic",
+    "Mark McCammon",
+    "Bradford City",
+    "Braintree Town",
+    "Gillingham"
+  ],
+  "edges": [
+    "departed for",
+    "signed for",
+    "moved on to",
+    "played on loan for",
+    "signed with",
+    "transferred to",
+    "represented",
+    "is a former professional footballer",
+    "was loaned out to",
+    "was born in",
+    "played for",
+    "switched to"
+  ],
+  "relations": [
+    [
+      "Mark McCammon",
+      "transferred to",
+      "Brighton & Hove Albion"
+    ],
+    [
+      "Mark McCammon",
+      "was loaned out to",
+      "Bristol City"
+    ],
+    [
+      "Mark McCammon",
+      "signed with",
+      "Brentford"
+    ],
+    [
+      "Mark McCammon",
+      "played for",
+      "Cambridge United"
+    ],
+    [
+      "Mark McCammon",
+      "departed for",
+      "Millwall"
+    ],
+    [
+      "Mark McCammon",
+      "was born in",
+      "England"
+    ],
+    [
+      "Mark McCammon",
+      "was loaned out to",
+      "Swindon Town"
+    ],
+    [
+      "Mark McCammon",
+      "is a former professional footballer",
+      "Mark McCammon"
+    ],
+    [
+      "Mark McCammon",
+      "signed for",
+      "Braintree Town"
+    ],
+    [
+      "Mark McCammon",
+      "represented",
+      "Barbados national team"
+    ],
+    [
+      "Mark McCammon",
+      "switched to",
+      "Gillingham"
+    ],
+    [
+      "Mark McCammon",
+      "moved on to",
+      "Doncaster Rovers"
+    ],
+    [
+      "Mark McCammon",
+      "played on loan for",
+      "Bradford City"
+    ],
+    [
+      "Mark McCammon",
+      "moved on to",
+      "Charlton Athletic"
+    ]
+  ]
+}

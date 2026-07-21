@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "2. Bundesliga",
+    "German",
+    "footballer",
+    "Sepp Weiß",
+    "1975",
+    "Bayern Munich",
+    "SpVgg Bayreuth",
+    "European Cup",
+    "Bundesliga",
+    "Würzburger FV"
+  ],
+  "edges": [
+    "is a",
+    "made appearances in",
+    "won in",
+    "moved to",
+    "won",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Sepp Weiß",
+      "moved to",
+      "SpVgg Bayreuth"
+    ],
+    [
+      "Bayern Munich",
+      "won in",
+      "1975"
+    ],
+    [
+      "Sepp Weiß",
+      "made appearances in",
+      "2. Bundesliga"
+    ],
+    [
+      "Sepp Weiß",
+      "played for",
+      "Bayern Munich"
+    ],
+    [
+      "Sepp Weiß",
+      "moved to",
+      "Würzburger FV"
+    ],
+    [
+      "Sepp Weiß",
+      "is a",
+      "German footballer"
+    ],
+    [
+      "Sepp Weiß",
+      "made appearances in",
+      "Bundesliga"
+    ],
+    [
+      "Bayern Munich",
+      "won",
+      "European Cup"
+    ]
+  ]
+}

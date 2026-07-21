@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "Liverpool Plains Shire",
+    "population",
+    "broadacre farming",
+    "New South Wales",
+    "Quirindi",
+    "2021 census",
+    "New England Highway",
+    "Willow Tree",
+    "livestock grazing",
+    "Kamilaroi Highway",
+    "black soil plains",
+    "Gunnedah",
+    "agriculture",
+    "Tamworth",
+    "North West Slopes",
+    "local economy",
+    "Australia"
+  ],
+  "edges": [
+    "occurs in",
+    "is located near",
+    "is based on",
+    "is on",
+    "is dominant in",
+    "had a population of",
+    "is nearest to",
+    "is northwest of",
+    "is a town in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Quirindi",
+      "is nearest to",
+      "Gunnedah"
+    ],
+    [
+      "Kamilaroi Highway",
+      "is located near",
+      "Willow Tree"
+    ],
+    [
+      "Quirindi",
+      "had a population of",
+      "2,602"
+    ],
+    [
+      "Kamilaroi Highway",
+      "is northwest of",
+      "New England Highway"
+    ],
+    [
+      "Quirindi",
+      "is nearest to",
+      "Tamworth"
+    ],
+    [
+      "Quirindi",
+      "is on",
+      "Kamilaroi Highway"
+    ],
+    [
+      "Quirindi",
+      "is located in",
+      "Liverpool Plains Shire"
+    ],
+    [
+      "Quirindi",
+      "is a town in",
+      "New South Wales"
+    ],
+    [
+      "broadacre farming",
+      "is dominant in",
+      "black soil plains"
+    ],
+    [
+      "livestock grazing",
+      "occurs in",
+      "hilly eastern part of the district"
+    ],
+    [
+      "local economy",
+      "is based on",
+      "agriculture"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "professional footballer",
+    "18 July 1987",
+    "Finnish club",
+    "striker",
+    "Dudu Omagbemi",
+    "SexyPöxyt",
+    "Nigerian",
+    "MacPherlin Dudu Omagbemi"
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "plays for",
+    "plays as",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Dudu Omagbemi",
+      "is known as",
+      "MacPherlin Dudu Omagbemi"
+    ],
+    [
+      "Dudu Omagbemi",
+      "is a",
+      "Nigerian"
+    ],
+    [
+      "Dudu Omagbemi",
+      "was born on",
+      "18 July 1987"
+    ],
+    [
+      "Dudu Omagbemi",
+      "plays for",
+      "Finnish club"
+    ],
+    [
+      "Dudu Omagbemi",
+      "plays as",
+      "striker"
+    ],
+    [
+      "Dudu Omagbemi",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Dudu Omagbemi",
+      "plays for",
+      "SexyPöxyt"
+    ]
+  ]
+}

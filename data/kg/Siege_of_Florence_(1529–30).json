@@ -1,0 +1,138 @@
+{
+  "entities": [
+    "Pier Maria III de' Rossi",
+    "Holy Roman Emperor",
+    "Florence",
+    "Emperor Charles V",
+    "Treaty of Cambrai",
+    "Philibert of Châlon",
+    "Florentine Republic",
+    "Medici family",
+    "1529",
+    "Battle of Gavinana",
+    "Imperial army",
+    "Francesco Ferruccio",
+    "Alessandro de' Medici",
+    "Spanish army",
+    "Charles V",
+    "Medici",
+    "Volterra",
+    "Siege of Florence",
+    "1530",
+    "Republic of Venice",
+    "Congress of Bologna",
+    "Prince of Orange",
+    "Pope Clement VII",
+    "Republic of Florence",
+    "War of the League of Cognac",
+    "French",
+    "Sack of Rome"
+  ],
+  "edges": [
+    "died at",
+    "overthrew",
+    "led",
+    "concluded treaties with",
+    "ordered his armies to seize",
+    "was unable to keep fighting",
+    "captured",
+    "was left to fight alone",
+    "surrounded",
+    "agreed to restore",
+    "installed as ruler of",
+    "concluded",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Spanish army",
+      "surrounded",
+      "Florence"
+    ],
+    [
+      "Charles",
+      "ordered his armies to seize",
+      "Florence"
+    ],
+    [
+      "Francesco Ferruccio",
+      "died at",
+      "Battle of Gavinana"
+    ],
+    [
+      "Imperial army",
+      "captured",
+      "Florence"
+    ],
+    [
+      "Pope Clement VII",
+      "agreed to restore",
+      "Medici family"
+    ],
+    [
+      "Florentine Republic",
+      "participated in",
+      "War of the League of Cognac"
+    ],
+    [
+      "Spanish army",
+      "captured",
+      "Florence"
+    ],
+    [
+      "Francis I of France",
+      "concluded",
+      "Treaty of Cambrai"
+    ],
+    [
+      "Pope Clement VII",
+      "concluded treaties with",
+      "Emperor Charles V"
+    ],
+    [
+      "Imperial forces",
+      "captured",
+      "Volterra"
+    ],
+    [
+      "Philibert of Châlon",
+      "led",
+      "Imperial army"
+    ],
+    [
+      "Pier Maria III de' Rossi",
+      "led",
+      "Spanish army"
+    ],
+    [
+      "Florence",
+      "was unable to keep fighting",
+      "none"
+    ],
+    [
+      "Florence",
+      "was left to fight alone",
+      "none"
+    ],
+    [
+      "Alessandro de' Medici",
+      "installed as ruler of",
+      "Florence"
+    ],
+    [
+      "Emperor Charles V",
+      "agreed to restore",
+      "Medici family"
+    ],
+    [
+      "Florence",
+      "overthrew",
+      "Republic of Florence"
+    ],
+    [
+      "Imperial army",
+      "surrounded",
+      "Florence"
+    ]
+  ]
+}

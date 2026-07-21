@@ -1,0 +1,94 @@
+{
+  "entities": [
+    "Yvelines department",
+    "French paper company",
+    "Clairefontaine",
+    "CNFE Clairefontaine",
+    "Clairefontaine Abbey",
+    "Clairefontaine-en-Yvelines",
+    "Île-de-France region",
+    "France national football centre",
+    "Belgian hamlet",
+    "INF Clairefontaine",
+    "Vosges department",
+    "Clairefontaine paper mills",
+    "France national women's football centre",
+    "Grand Est",
+    "Étival-Clairefontaine",
+    "city of Arlon"
+  ],
+  "edges": [
+    "belongs to",
+    "may refer to",
+    "is a",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Clairefontaine",
+      "may refer to",
+      "Clairefontaine Abbey"
+    ],
+    [
+      "Clairefontaine Abbey",
+      "is a",
+      "Belgian hamlet"
+    ],
+    [
+      "Clairefontaine-en-Yvelines",
+      "is part of",
+      "Île-de-France region"
+    ],
+    [
+      "Étival-Clairefontaine",
+      "is located in",
+      "Vosges department"
+    ],
+    [
+      "Clairefontaine",
+      "may refer to",
+      "Étival-Clairefontaine"
+    ],
+    [
+      "Clairefontaine",
+      "may refer to",
+      "INF Clairefontaine"
+    ],
+    [
+      "Clairefontaine Abbey",
+      "belongs to",
+      "city of Arlon"
+    ],
+    [
+      "Étival-Clairefontaine",
+      "is part of",
+      "Grand Est"
+    ],
+    [
+      "Clairefontaine paper mills",
+      "is a",
+      "French paper company"
+    ],
+    [
+      "Clairefontaine",
+      "may refer to",
+      "Clairefontaine-en-Yvelines"
+    ],
+    [
+      "Clairefontaine",
+      "may refer to",
+      "Clairefontaine paper mills"
+    ],
+    [
+      "Clairefontaine-en-Yvelines",
+      "is located in",
+      "Yvelines department"
+    ],
+    [
+      "Clairefontaine",
+      "may refer to",
+      "CNFE Clairefontaine"
+    ]
+  ]
+}

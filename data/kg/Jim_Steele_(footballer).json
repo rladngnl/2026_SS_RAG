@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "Pittsburgh Spirit",
+    "professional footballer",
+    "James Steele",
+    "Washington Diplomats",
+    "Rangers",
+    "Dundee",
+    "United States",
+    "centre back",
+    "Southampton",
+    "Memphis Rogues",
+    "Jim Steele",
+    "Scottish",
+    "1976 FA Cup",
+    "Chicago Sting"
+  ],
+  "edges": [
+    "departed for",
+    "is a",
+    "began his playing career at",
+    "spent the remainder of his career with",
+    "helped to win",
+    "was loaned out to",
+    "moved to",
+    "played as"
+  ],
+  "relations": [
+    [
+      "James Steele",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "James Steele",
+      "spent the remainder of his career with",
+      "Chicago Sting"
+    ],
+    [
+      "James Steele",
+      "was loaned out to",
+      "Rangers"
+    ],
+    [
+      "James Steele",
+      "helped to win",
+      "1976 FA Cup"
+    ],
+    [
+      "James Steele",
+      "departed for",
+      "United States"
+    ],
+    [
+      "James Steele",
+      "spent the remainder of his career with",
+      "Washington Diplomats"
+    ],
+    [
+      "James Steele",
+      "moved to",
+      "Southampton"
+    ],
+    [
+      "James Steele",
+      "began his playing career at",
+      "Dundee"
+    ],
+    [
+      "James Steele",
+      "spent the remainder of his career with",
+      "Pittsburgh Spirit"
+    ],
+    [
+      "James Steele",
+      "is a",
+      "Scottish"
+    ],
+    [
+      "James Steele",
+      "played as",
+      "centre back"
+    ],
+    [
+      "James Steele",
+      "spent the remainder of his career with",
+      "Memphis Rogues"
+    ]
+  ]
+}

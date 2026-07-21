@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "FC Hradec Králové",
+    "football defender",
+    "Czech",
+    "one goal",
+    "Jiří Hledík",
+    "1954 FIFA World Cup",
+    "Uruguay",
+    "28 matches",
+    "Sparta Prague",
+    "Czechoslovakia"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "was a participant in",
+    "scored",
+    "played against",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Jiří Hledík",
+      "scored",
+      "one goal"
+    ],
+    [
+      "Jiří Hledík",
+      "played against",
+      "Uruguay"
+    ],
+    [
+      "Jiří Hledík",
+      "was a participant in",
+      "1954 FIFA World Cup"
+    ],
+    [
+      "Jiří Hledík",
+      "played for",
+      "Czechoslovakia"
+    ],
+    [
+      "Jiří Hledík",
+      "is a",
+      "Czech football defender"
+    ],
+    [
+      "Jiří Hledík",
+      "played for",
+      "FC Hradec Králové"
+    ],
+    [
+      "Jiří Hledík",
+      "played for",
+      "Sparta Prague"
+    ],
+    [
+      "Jiří Hledík",
+      "played in",
+      "28 matches"
+    ]
+  ]
+}

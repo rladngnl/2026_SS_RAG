@@ -1,0 +1,151 @@
+{
+  "entities": [
+    "East Germany",
+    "Deutscher Fußball-Bund",
+    "European Championships",
+    "Italy",
+    "German Football Association",
+    "England",
+    "FIFA Women's World Cup",
+    "Federal Republic of Germany",
+    "Saarland",
+    "Germany national football team",
+    "FIFA",
+    "FIFA World Cups",
+    "FIFA Confederations Cup",
+    "Elo rating",
+    "Netherlands",
+    "Saar Protectorate",
+    "Brazil",
+    "West Germany",
+    "German Democratic Republic",
+    "Soviet Union",
+    "Olympic Gold"
+  ],
+  "edges": [
+    "is second behind",
+    "has notable rivalries with",
+    "has won",
+    "played its first match in",
+    "has been runners-up at",
+    "earned the second highest Elo rating of any national football team in history with",
+    "is the only European nation that has won a FIFA World Cup in",
+    "is governed by",
+    "is one of the most successful national teams in",
+    "is tied with",
+    "stands as the most successful football nation in history with",
+    "won",
+    "represents",
+    "has a further",
+    "is the only national football team to achieve",
+    "was founded in",
+    "is one of only two nations to have won both"
+  ],
+  "relations": [
+    [
+      "Germany national football team",
+      "is the only national football team to achieve",
+      "this"
+    ],
+    [
+      "Germany national football team",
+      "is second behind",
+      "Spain"
+    ],
+    [
+      "Germany national football team",
+      "is one of the most successful national teams in",
+      "international competitions"
+    ],
+    [
+      "Germany national football team",
+      "has a further",
+      "four third-place finishes"
+    ],
+    [
+      "Germany national football team",
+      "has been runners-up at",
+      "World Cup"
+    ],
+    [
+      "Germany national football team",
+      "has notable rivalries with",
+      "England"
+    ],
+    [
+      "Germany national football team",
+      "stands as the most successful football nation in history with",
+      "six World Cups"
+    ],
+    [
+      "Germany national football team",
+      "earned the second highest Elo rating of any national football team in history with",
+      "2,223 points"
+    ],
+    [
+      "Germany national football team",
+      "has won",
+      "FIFA World Cups"
+    ],
+    [
+      "Germany national football team",
+      "has won",
+      "European Championships"
+    ],
+    [
+      "East Germany",
+      "won",
+      "Olympic Gold"
+    ],
+    [
+      "Germany national football team",
+      "played its first match in",
+      "1908"
+    ],
+    [
+      "Germany national football team",
+      "has notable rivalries with",
+      "Italy"
+    ],
+    [
+      "Germany national football team",
+      "is one of only two nations to have won both",
+      "FIFA World Cup and FIFA Women's World Cup"
+    ],
+    [
+      "Germany national football team",
+      "represents",
+      "Germany"
+    ],
+    [
+      "Germany national football team",
+      "is governed by",
+      "German Football Association"
+    ],
+    [
+      "German Football Association",
+      "was founded in",
+      "1900"
+    ],
+    [
+      "Germany national football team",
+      "won",
+      "FIFA Confederations Cup"
+    ],
+    [
+      "Germany national football team",
+      "is tied with",
+      "Italy"
+    ],
+    [
+      "Germany national football team",
+      "is the only European nation that has won a FIFA World Cup in",
+      "South America"
+    ],
+    [
+      "Germany national football team",
+      "has notable rivalries with",
+      "Netherlands"
+    ]
+  ]
+}

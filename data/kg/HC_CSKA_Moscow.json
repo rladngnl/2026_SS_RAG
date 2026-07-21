@@ -1,0 +1,138 @@
+{
+  "entities": [
+    "2022",
+    "Russian Armed Forces",
+    "Soviet Army",
+    "Continental Cup",
+    "Moscow",
+    "Gagarin Cup Finals",
+    "2019",
+    "Центральный Спортивный Клуб Армии",
+    "Rosneft",
+    "Russian government",
+    "European cups",
+    "Central Red Army",
+    "KHL",
+    "Kontinental Hockey League",
+    "Soviet championships",
+    "2023",
+    "Central Sports Club of the Army",
+    "six Continental Cups",
+    "Red Army Team",
+    "CSKA Moscow sports club",
+    "nine division titles",
+    "CSKA Arena",
+    "Ice Palace",
+    "Tarasov Division",
+    "ЦСКА Москва",
+    "HC CSKA Moscow",
+    "Russia"
+  ],
+  "edges": [
+    "moved from",
+    "is referred to in the West as",
+    "won more",
+    "became the first one to win",
+    "is owned by",
+    "has reached",
+    "is a member of",
+    "won in",
+    "moved to",
+    "is their present home arena in",
+    "is part of",
+    "is majority-owned by",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "HC CSKA Moscow",
+      "is referred to in the West as",
+      "Central Red Army"
+    ],
+    [
+      "HC CSKA Moscow",
+      "is part of",
+      "CSKA Moscow sports club"
+    ],
+    [
+      "HC CSKA Moscow",
+      "won in",
+      "2022"
+    ],
+    [
+      "HC CSKA Moscow",
+      "is owned by",
+      "Rosneft"
+    ],
+    [
+      "HC CSKA Moscow",
+      "won in",
+      "2019"
+    ],
+    [
+      "HC CSKA Moscow",
+      "won more",
+      "European cups"
+    ],
+    [
+      "HC CSKA Moscow",
+      "is referred to in the West as",
+      "Red Army Team"
+    ],
+    [
+      "HC CSKA Moscow",
+      "is based in",
+      "Moscow"
+    ],
+    [
+      "HC CSKA Moscow",
+      "won more",
+      "Soviet championships"
+    ],
+    [
+      "Rosneft",
+      "is majority-owned by",
+      "Russian government"
+    ],
+    [
+      "HC CSKA Moscow",
+      "won in",
+      "2023"
+    ],
+    [
+      "HC CSKA Moscow",
+      "moved to",
+      "CSKA Arena"
+    ],
+    [
+      "HC CSKA Moscow",
+      "moved from",
+      "Ice Palace"
+    ],
+    [
+      "CSKA Arena",
+      "is their present home arena in",
+      "Moscow"
+    ],
+    [
+      "HC CSKA Moscow",
+      "has reached",
+      "Gagarin Cup Finals"
+    ],
+    [
+      "HC CSKA Moscow",
+      "became the first one to win",
+      "Continental Cup"
+    ],
+    [
+      "HC CSKA Moscow",
+      "is a member of",
+      "Tarasov Division"
+    ],
+    [
+      "HC CSKA Moscow",
+      "became the first one to win",
+      "Gagarin Cup"
+    ]
+  ]
+}

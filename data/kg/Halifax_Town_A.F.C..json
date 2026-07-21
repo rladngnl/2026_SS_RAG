@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Halifax Town A.F.C.",
+    "West Yorkshire",
+    "2008",
+    "2002",
+    "The Shay",
+    "1998",
+    "1993",
+    "Halifax",
+    "English Football League",
+    "FC Halifax Town"
+  ],
+  "edges": [
+    "played from",
+    "was dissolved in",
+    "played in",
+    "played until",
+    "reformed under the name",
+    "had stadium",
+    "was based in",
+    "was located in"
+  ],
+  "relations": [
+    [
+      "Halifax Town A.F.C.",
+      "had stadium",
+      "The Shay"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "was dissolved in",
+      "2008"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "played from",
+      "1993"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "reformed under the name",
+      "FC Halifax Town"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "was based in",
+      "Halifax"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "played until",
+      "2002"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "played in",
+      "English Football League"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "played from",
+      "1998"
+    ],
+    [
+      "Halifax Town A.F.C.",
+      "was located in",
+      "West Yorkshire"
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "entities": [
+    "silent film",
+    "comic cinema",
+    "Natalie Talmadge",
+    "Buster Keaton",
+    "Metro Pictures",
+    "Our Hospitality",
+    "November 19, 1923",
+    "Hatfield–McCoy feud",
+    "Turner Classic Movies",
+    "cinematography",
+    "John G. Blystone",
+    "location shooting",
+    "slapstick comedies",
+    "Joe Roberts",
+    "Joseph M. Schenck",
+    "period detail",
+    "gags",
+    "dramatically coherent storyline"
+  ],
+  "edges": [
+    "is a",
+    "is based on",
+    "features",
+    "is produced by",
+    "is a contrast to",
+    "is directed by",
+    "was released on",
+    "is described by",
+    "is released by",
+    "includes",
+    "has",
+    "has a"
+  ],
+  "relations": [
+    [
+      "Our Hospitality",
+      "is directed by",
+      "John G. Blystone"
+    ],
+    [
+      "Our Hospitality",
+      "is produced by",
+      "Joseph M. Schenck"
+    ],
+    [
+      "Our Hospitality",
+      "is directed by",
+      "Buster Keaton"
+    ],
+    [
+      "Our Hospitality",
+      "was released on",
+      "November 19, 1923"
+    ],
+    [
+      "Our Hospitality",
+      "is based on",
+      "Hatfield–McCoy feud"
+    ],
+    [
+      "Our Hospitality",
+      "is a contrast to",
+      "slapstick comedies"
+    ],
+    [
+      "Our Hospitality",
+      "features",
+      "Natalie Talmadge"
+    ],
+    [
+      "Our Hospitality",
+      "is a",
+      "silent film"
+    ],
+    [
+      "Our Hospitality",
+      "has",
+      "period detail"
+    ],
+    [
+      "Our Hospitality",
+      "is released by",
+      "Metro Pictures"
+    ],
+    [
+      "Our Hospitality",
+      "has",
+      "location shooting"
+    ],
+    [
+      "Our Hospitality",
+      "is a",
+      "comic cinema"
+    ],
+    [
+      "Our Hospitality",
+      "includes",
+      "gags"
+    ],
+    [
+      "Our Hospitality",
+      "features",
+      "Joe Roberts"
+    ],
+    [
+      "Our Hospitality",
+      "has",
+      "cinematography"
+    ],
+    [
+      "Our Hospitality",
+      "has a",
+      "dramatically coherent storyline"
+    ],
+    [
+      "Our Hospitality",
+      "is described by",
+      "Turner Classic Movies"
+    ]
+  ]
+}

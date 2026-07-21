@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "footballer",
+    "Kristijan Polovanec",
+    "10 October 1979",
+    "Croatian",
+    "NK Radnik Sesvete"
+  ],
+  "edges": [
+    "last played for",
+    "was born on",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Kristijan Polovanec",
+      "is a",
+      "Croatian"
+    ],
+    [
+      "Kristijan Polovanec",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Kristijan Polovanec",
+      "last played for",
+      "NK Radnik Sesvete"
+    ],
+    [
+      "Kristijan Polovanec",
+      "was born on",
+      "10 October 1979"
+    ]
+  ]
+}

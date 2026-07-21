@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Grozny",
+    "FC Terek Grozny",
+    "Chechen",
+    "Akhmat Grozny",
+    "Russian",
+    "Russian Premier League",
+    "Republican Football Club Akhmat"
+  ],
+  "edges": [
+    "is a",
+    "is formerly known as",
+    "is commonly known as",
+    "plays in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Akhmat Grozny",
+      "plays in",
+      "Russian Premier League"
+    ],
+    [
+      "Republican Football Club Akhmat",
+      "is commonly known as",
+      "Akhmat Grozny"
+    ],
+    [
+      "Akhmat Grozny",
+      "is a",
+      "Russian professional football club"
+    ],
+    [
+      "Akhmat Grozny",
+      "is based in",
+      "Grozny"
+    ],
+    [
+      "FC Terek Grozny",
+      "is formerly known as",
+      "Terek Grozny"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "9 August 2015",
+    "1 September 1977",
+    "Walter Nahún López Cárdenas",
+    "Honduran",
+    "football player"
+  ],
+  "edges": [
+    "was born on",
+    "is",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Walter Nahún López Cárdenas",
+      "is",
+      "Honduran"
+    ],
+    [
+      "Walter Nahún López Cárdenas",
+      "was",
+      "football player"
+    ],
+    [
+      "Walter Nahún López Cárdenas",
+      "was born on",
+      "1 September 1977"
+    ],
+    [
+      "Walter Nahún López Cárdenas",
+      "died on",
+      "9 August 2015"
+    ]
+  ]
+}

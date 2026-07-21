@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "Unione Sportiva Pergolettese 1932",
+    "Crema",
+    "Italian association football club",
+    "province of Cremona",
+    "Serie C",
+    "U.S. Pergolettese 1932",
+    "Lombardy",
+    "third level of Italian football"
+  ],
+  "edges": [
+    "is in",
+    "is the",
+    "is an",
+    "plays in",
+    "is",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "U.S. Pergolettese 1932",
+      "is an",
+      "Italian association football club"
+    ],
+    [
+      "U.S. Pergolettese 1932",
+      "is",
+      "Unione Sportiva Pergolettese 1932"
+    ],
+    [
+      "U.S. Pergolettese 1932",
+      "is based in",
+      "Crema"
+    ],
+    [
+      "U.S. Pergolettese 1932",
+      "plays in",
+      "Serie C"
+    ],
+    [
+      "Crema",
+      "is in",
+      "province of Cremona"
+    ],
+    [
+      "Crema",
+      "is in",
+      "Lombardy"
+    ],
+    [
+      "Serie C",
+      "is the",
+      "third level of Italian football"
+    ]
+  ]
+}

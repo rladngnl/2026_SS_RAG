@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "Sparta Prague",
+    "17 October 1909",
+    "six state championships",
+    "Club Sportivo Sergipe",
+    "CBF's national club ranking",
+    "Ghana national team",
+    "Confiança",
+    "Estádio João Hora de Oliveira",
+    "90th overall",
+    "Sergipe",
+    "8,000",
+    "Aracaju",
+    "Alianza Lima",
+    "Argentina youth team",
+    "state of Sergipe"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "has a capacity of",
+    "is from",
+    "is the third-best ranked team from",
+    "is the only team from",
+    "has a home field",
+    "was founded on",
+    "has played against",
+    "is ranked",
+    "is the only team to have won",
+    "has a main rival"
+  ],
+  "relations": [
+    [
+      "Sergipe",
+      "has a main rival",
+      "Confiança"
+    ],
+    [
+      "Estádio João Hora de Oliveira",
+      "has a capacity of",
+      "8,000"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Argentina youth team"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Ghana national team"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "was founded on",
+      "17 October 1909"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "is the only team from",
+      "state of Sergipe"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "is from",
+      "Aracaju"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "is a",
+      "Brazilian football team"
+    ],
+    [
+      "Sergipe",
+      "has a home field",
+      "Estádio João Hora de Oliveira"
+    ],
+    [
+      "Sergipe",
+      "is ranked",
+      "90th overall"
+    ],
+    [
+      "Sergipe",
+      "is the third-best ranked team from",
+      "state of Sergipe"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Alianza Lima"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Sparta Prague"
+    ],
+    [
+      "Sergipe",
+      "is the only team to have won",
+      "six state championships"
+    ],
+    [
+      "Sergipe",
+      "is in",
+      "CBF's national club ranking"
+    ]
+  ]
+}

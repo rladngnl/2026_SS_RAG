@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Mika Ääritalo",
+    "forward",
+    "footballer",
+    "Finland national team",
+    "Finland"
+  ],
+  "edges": [
+    "is a",
+    "is associated with",
+    "played as",
+    "made appearances for",
+    "scored for"
+  ],
+  "relations": [
+    [
+      "Mika Ääritalo",
+      "made appearances for",
+      "Finland national team"
+    ],
+    [
+      "Finland national team",
+      "is associated with",
+      "Finland"
+    ],
+    [
+      "Mika Ääritalo",
+      "played as",
+      "forward"
+    ],
+    [
+      "Mika Ääritalo",
+      "scored for",
+      "Finland national team"
+    ],
+    [
+      "Mika Ääritalo",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

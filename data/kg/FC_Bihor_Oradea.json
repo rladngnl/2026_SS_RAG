@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "dissolved football club",
+    "2022",
+    "Romania",
+    "FC Bihor Oradea",
+    "Oradea",
+    "phoenix football club",
+    "1958"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is located in",
+    "was established in"
+  ],
+  "relations": [
+    [
+      "FC Bihor Oradea",
+      "was established in",
+      "1958"
+    ],
+    [
+      "FC Bihor Oradea",
+      "is in",
+      "Romania"
+    ],
+    [
+      "FC Bihor Oradea",
+      "is a",
+      "dissolved football club"
+    ],
+    [
+      "FC Bihor Oradea",
+      "was established in",
+      "2022"
+    ],
+    [
+      "FC Bihor Oradea",
+      "is a",
+      "phoenix football club"
+    ],
+    [
+      "FC Bihor Oradea",
+      "is located in",
+      "Oradea"
+    ]
+  ]
+}

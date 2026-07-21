@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "Lal Bahadur Shastri Airport",
+    "best airport in Asia-Pacific",
+    "October 2005",
+    "second-busiest airport in Uttar Pradesh",
+    "Varanasi",
+    "19th-busiest airport in India",
+    "India",
+    "VNS",
+    "2024-25",
+    "Airports Council International",
+    "ICAO",
+    "IATA",
+    "Babatpur",
+    "2020",
+    "Varanasi Airport",
+    "2nd Prime Minister of India",
+    "Sanskrit language",
+    "Uttar Pradesh",
+    "VEBN",
+    "Lal Bahadur Shastri"
+  ],
+  "edges": [
+    "is in",
+    "made announcements in",
+    "is located at",
+    "serves",
+    "is the",
+    "was formerly known as",
+    "was awarded as the",
+    "was officially renamed after"
+  ],
+  "relations": [
+    [
+      "Lal Bahadur Shastri Airport",
+      "serves",
+      "Varanasi"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "made announcements in",
+      "Sanskrit language"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "is in",
+      "India"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "was officially renamed after",
+      "Lal Bahadur Shastri"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "is the",
+      "19th-busiest airport in India"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "is in",
+      "Uttar Pradesh"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "was formerly known as",
+      "Varanasi Airport"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "was awarded as the",
+      "best airport in Asia-Pacific"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "is the",
+      "second-busiest airport in Uttar Pradesh"
+    ],
+    [
+      "Lal Bahadur Shastri Airport",
+      "is located at",
+      "Babatpur"
+    ]
+  ]
+}

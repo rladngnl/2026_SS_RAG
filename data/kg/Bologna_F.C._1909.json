@@ -1,0 +1,132 @@
+{
+  "entities": [
+    "UEFA Intertoto Cup",
+    "financial mismanagement",
+    "Bologna",
+    "1909",
+    "1964",
+    "79 Serie A seasons",
+    "20th century",
+    "2010s",
+    "tenth-largest stadium",
+    "Bologna Football Club 1909",
+    "1970s",
+    "Canadian consortium",
+    "early 2000s",
+    "late 1930s",
+    "Emilia-Romagna",
+    "Stadio Renato Dall'Ara",
+    "Serie A",
+    "Joey Saputo",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "were founding members of",
+    "changed ownership multiple times during the",
+    "won two Coppa Italia titles in the",
+    "is the",
+    "has participated in",
+    "has won",
+    "battled relegation throughout the latter part of the",
+    "plays in",
+    "won many of their league championships during",
+    "has played in",
+    "ceded league dominance by",
+    "stabilized under the guise of a",
+    "was founded in",
+    "is based in",
+    "is led by"
+  ],
+  "relations": [
+    [
+      "Bologna Football Club 1909",
+      "has won",
+      "three Coppa Italia titles"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "has won",
+      "seven top-flight titles"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "plays in",
+      "Serie A"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "has played in",
+      "Stadio Renato Dall'Ara"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "changed ownership multiple times during the",
+      "early 2000s"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "has won",
+      "one UEFA Intertoto Cup"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "changed ownership multiple times during the",
+      "2010s"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "won two Coppa Italia titles in the",
+      "1970s"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "was founded in",
+      "1909"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "is based in",
+      "Bologna"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "were founding members of",
+      "Serie A"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "ceded league dominance by",
+      "1964"
+    ],
+    [
+      "Canadian consortium",
+      "is led by",
+      "Joey Saputo"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "has participated in",
+      "79 Serie A seasons"
+    ],
+    [
+      "Stadio Renato Dall'Ara",
+      "is the",
+      "tenth-largest stadium"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "won many of their league championships during",
+      "late 1930s"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "stabilized under the guise of a",
+      "Canadian consortium"
+    ],
+    [
+      "Bologna Football Club 1909",
+      "battled relegation throughout the latter part of the",
+      "20th century"
+    ]
+  ]
+}

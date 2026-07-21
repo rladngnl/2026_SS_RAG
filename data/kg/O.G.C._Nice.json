@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "Gymnaste Club de Nice",
+    "Ligue 1",
+    "Joaquín Valle",
+    "Numa Andoire",
+    "Olympique Gymnaste Club de Nice",
+    "Trophée des Champions",
+    "O.G.C. Nice",
+    "Nice",
+    "Coupe de France",
+    "William Berry",
+    "Pancho Gonzales",
+    "Victor Nurenberg",
+    "Guingamp",
+    "Jean Luciano",
+    "Héctor de Bourgoing",
+    "Allianz Riviera"
+  ],
+  "edges": [
+    "was managed by",
+    "has won",
+    "was founded under the name",
+    "plays in",
+    "plays its home matches at",
+    "defeated",
+    "is the club's all-time leading goalscorer",
+    "is commonly referred to as",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "O.G.C. Nice",
+      "plays its home matches at",
+      "Allianz Riviera"
+    ],
+    [
+      "O.G.C. Nice",
+      "was managed by",
+      "William Berry"
+    ],
+    [
+      "O.G.C. Nice",
+      "is commonly referred to as",
+      "Nice"
+    ],
+    [
+      "O.G.C. Nice",
+      "was managed by",
+      "Jean Luciano"
+    ],
+    [
+      "O.G.C. Nice",
+      "has won",
+      "Ligue 1"
+    ],
+    [
+      "Joaquín Valle",
+      "is the club's all-time leading goalscorer",
+      "O.G.C. Nice"
+    ],
+    [
+      "O.G.C. Nice",
+      "was founded in",
+      "1904"
+    ],
+    [
+      "O.G.C. Nice",
+      "plays in",
+      "Ligue 1"
+    ],
+    [
+      "O.G.C. Nice",
+      "was managed by",
+      "Numa Andoire"
+    ],
+    [
+      "O.G.C. Nice",
+      "was founded under the name",
+      "Gymnaste Club de Nice"
+    ],
+    [
+      "O.G.C. Nice",
+      "has won",
+      "Coupe de France"
+    ],
+    [
+      "O.G.C. Nice",
+      "defeated",
+      "Guingamp"
+    ],
+    [
+      "O.G.C. Nice",
+      "has won",
+      "Trophée des Champions"
+    ]
+  ]
+}

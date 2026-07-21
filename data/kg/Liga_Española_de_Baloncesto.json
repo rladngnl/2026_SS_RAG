@@ -1,0 +1,96 @@
+{
+  "entities": [
+    "Segunda FEB",
+    "FEB",
+    "18 clubs",
+    "4 teams",
+    "Tercera FEB",
+    "playoff tournament",
+    "LEB",
+    "30 teams",
+    "Liga ACB",
+    "Liga Española de Baloncesto",
+    "FIBA",
+    "19 teams",
+    "81 teams",
+    "LEB Oro",
+    "Club Melilla Baloncesto",
+    "Primera FEB"
+  ],
+  "edges": [
+    "enter",
+    "have been crowned champions of",
+    "have competed in",
+    "is the second basketball division of",
+    "could not play in",
+    "are automatically promoted to",
+    "is contested by",
+    "is run by",
+    "is the only team that played all seasons of",
+    "are relegated to",
+    "gaining promotion to",
+    "have gained promotion to"
+  ],
+  "relations": [
+    [
+      "top-finishing team in Primera FEB",
+      "are automatically promoted to",
+      "Liga ACB"
+    ],
+    [
+      "19 teams",
+      "have been crowned champions of",
+      "Primera FEB"
+    ],
+    [
+      "Club Melilla Baloncesto",
+      "is the only team that played all seasons of",
+      "Primera FEB"
+    ],
+    [
+      "30 teams",
+      "have gained promotion to",
+      "Liga ACB"
+    ],
+    [
+      "Primera FEB",
+      "is the second basketball division of",
+      "Liga Española de Baloncesto"
+    ],
+    [
+      "winner of playoff tournament",
+      "gaining promotion to",
+      "Liga ACB"
+    ],
+    [
+      "81 teams",
+      "have competed in",
+      "Primera FEB"
+    ],
+    [
+      "three lowest-finishing teams in Primera FEB",
+      "are relegated to",
+      "Segunda FEB"
+    ],
+    [
+      "Primera FEB",
+      "is contested by",
+      "18 clubs"
+    ],
+    [
+      "4 teams",
+      "could not play in",
+      "Liga ACB"
+    ],
+    [
+      "Primera FEB",
+      "is run by",
+      "FEB"
+    ],
+    [
+      "teams that finish the season in 2nd to 9th place",
+      "enter",
+      "playoff tournament"
+    ]
+  ]
+}

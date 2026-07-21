@@ -1,0 +1,104 @@
+{
+  "entities": [
+    "The New Yorker",
+    "The Wizard of Oz",
+    "Gary Oldman",
+    "Herman J. Mankiewicz",
+    "Mank",
+    "Orson Welles",
+    "The Pride of St. Louis",
+    "Alexander Woollcott",
+    "Citizen Kane",
+    "Pauline Kael",
+    "Academy Award for Best Original Screenplay",
+    "Dinner at Eight",
+    "Man of the World",
+    "Women’s Wear Daily",
+    "The New York Times",
+    "The Pride of the Yankees"
+  ],
+  "edges": [
+    "credits",
+    "said that",
+    "was in",
+    "received",
+    "was assistant theater editor at",
+    "was the first regular drama critic at",
+    "portrayed",
+    "was a correspondent for",
+    "worked on",
+    "wrote the screenplay for"
+  ],
+  "relations": [
+    [
+      "Herman J. Mankiewicz",
+      "wrote the screenplay for",
+      "Citizen Kane"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "worked on",
+      "The Pride of St. Louis"
+    ],
+    [
+      "Gary Oldman",
+      "portrayed",
+      "Herman J. Mankiewicz"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "worked on",
+      "Man of the World"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "received",
+      "Academy Award for Best Original Screenplay"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "worked on",
+      "The Wizard of Oz"
+    ],
+    [
+      "Gary Oldman",
+      "was in",
+      "Mank"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "was a correspondent for",
+      "Women’s Wear Daily"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "was assistant theater editor at",
+      "The New York Times"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "was the first regular drama critic at",
+      "The New Yorker"
+    ],
+    [
+      "Alexander Woollcott",
+      "said that",
+      "Herman J. Mankiewicz"
+    ],
+    [
+      "Pauline Kael",
+      "credits",
+      "Herman J. Mankiewicz"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "worked on",
+      "Dinner at Eight"
+    ],
+    [
+      "Herman J. Mankiewicz",
+      "worked on",
+      "The Pride of the Yankees"
+    ]
+  ]
+}

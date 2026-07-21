@@ -1,0 +1,190 @@
+{
+  "entities": [
+    "Qatar Sports Investments",
+    "boxing",
+    "UEFA Intertoto Cup",
+    "basketball",
+    "handball",
+    "Arctos Partners",
+    "judo",
+    "Olympique de Marseille",
+    "rugby league",
+    "Trophée des Champions",
+    "Paris",
+    "volleyball",
+    "UEFA Champions League",
+    "esports",
+    "Paris FC",
+    "PSG",
+    "Paris SG",
+    "Ligue 1",
+    "FIFA Intercontinental Cup",
+    "women's football team",
+    "Boardroom",
+    "Coupes de France",
+    "Paris Saint-Germain Football Club",
+    "Coupes de la Ligue",
+    "Parc des Princes",
+    "youth academy",
+    "Le Classique",
+    "UEFA Super Cup",
+    "UEFA Cup Winners' Cup"
+  ],
+  "edges": [
+    "is majority-owned by",
+    "is the most widely supported football club in",
+    "has sections in",
+    "has previously fielded teams in",
+    "competes in",
+    "operates",
+    "has won",
+    "plays its home matches at",
+    "acquired a minority stake in",
+    "contests",
+    "is commonly referred to as",
+    "is based in",
+    "has principal rivals"
+  ],
+  "relations": [
+    [
+      "Paris Saint-Germain Football Club",
+      "has previously fielded teams in",
+      "volleyball"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "contests",
+      "Le Classique"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "is majority-owned by",
+      "Qatar Sports Investments"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has previously fielded teams in",
+      "rugby league"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has principal rivals",
+      "Olympique de Marseille"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "Qatar Sports Investments",
+      "acquired a minority stake in",
+      "Arctos Partners"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "operates",
+      "women's football team"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has principal rivals",
+      "Paris FC"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "Coupes de la Ligue"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has sections in",
+      "handball"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "plays its home matches at",
+      "Parc des Princes"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "FIFA Intercontinental Cup"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "is the most widely supported football club in",
+      "France"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "is commonly referred to as",
+      "PSG"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "UEFA Champions League"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "Coupes de France"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has previously fielded teams in",
+      "boxing"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has sections in",
+      "judo"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has previously fielded teams in",
+      "basketball"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "operates",
+      "youth academy"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "Trophée des Champions"
+    ],
+    [
+      "Qatar Sports Investments",
+      "acquired a minority stake in",
+      "Boardroom"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has won",
+      "UEFA Super Cup"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "has sections in",
+      "esports"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "Paris Saint-Germain Football Club",
+      "is based in",
+      "Paris"
+    ]
+  ]
+}

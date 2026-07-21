@@ -1,0 +1,199 @@
+{
+  "entities": [
+    "Bhambatha",
+    "Mac Maharaj",
+    "Indian Ocean",
+    "African National Congress",
+    "ANC Youth League",
+    "Zulu bantustan",
+    "Eswatini",
+    "Ladysmith Black Mambazo",
+    "KZN",
+    "Jacob Zuma",
+    "Fatima Meer",
+    "Boer Natalia Republic",
+    "Mozambique",
+    "Mangosuthu Buthelezi",
+    "Gauteng",
+    "uKhahlamba Drakensberg Park",
+    "Albert Luthuli",
+    "Nobel Peace Prize",
+    "sub-Saharan Africa",
+    "Pietermaritzburg",
+    "ANC",
+    "Harry Gwala",
+    "UNESCO World Heritage Sites",
+    "South Africa",
+    "KwaZulu-Natal",
+    "Shaka Zulu",
+    "Durban",
+    "Zulu Kingdom",
+    "Pixley ka Isaka Seme",
+    "DJ Black Coffee",
+    "Alan Khan",
+    "Inkatha Freedom Party",
+    "Anton Lembede",
+    "Lesotho",
+    "John Langalibalele Dube",
+    "Natal Province",
+    "iSimangaliso Wetland Park",
+    "Colony of Natal"
+  ],
+  "edges": [
+    "was briefly",
+    "was renamed from",
+    "shares borders with",
+    "was established as",
+    "has UNESCO World Heritage Sites",
+    "has largest city",
+    "is the second-most populous province in",
+    "is the city with the largest port in",
+    "was created in",
+    "has capital",
+    "is a province of",
+    "remained independent until",
+    "is the birthplace of"
+  ],
+  "relations": [
+    [
+      "Colony of Natal",
+      "was renamed from",
+      "Boer Natalia Republic"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Anton Lembede"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Jacob Zuma"
+    ],
+    [
+      "KwaZulu-Natal",
+      "has UNESCO World Heritage Sites",
+      "uKhahlamba Drakensberg Park"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Alan Khan"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "DJ Black Coffee"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Fatima Meer"
+    ],
+    [
+      "KwaZulu-Natal",
+      "was created in",
+      "1994"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Mac Maharaj"
+    ],
+    [
+      "KwaZulu-Natal",
+      "has UNESCO World Heritage Sites",
+      "iSimangaliso Wetland Park"
+    ],
+    [
+      "northern part of KwaZulu-Natal",
+      "was established as",
+      "Zulu Kingdom"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the second-most populous province in",
+      "South Africa"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is a province of",
+      "South Africa"
+    ],
+    [
+      "KwaZulu-Natal",
+      "shares borders with",
+      "Eswatini"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "John Langalibalele Dube"
+    ],
+    [
+      "southern part of KwaZulu-Natal",
+      "was briefly",
+      "Boer Natalia Republic"
+    ],
+    [
+      "KwaZulu-Natal",
+      "has capital",
+      "Pietermaritzburg"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Bhambatha"
+    ],
+    [
+      "KwaZulu-Natal",
+      "shares borders with",
+      "Mozambique"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Albert Luthuli"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Pixley ka Isaka Seme"
+    ],
+    [
+      "Zulu Kingdom",
+      "remained independent until",
+      "1879"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Harry Gwala"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Shaka Zulu"
+    ],
+    [
+      "KwaZulu-Natal",
+      "has largest city",
+      "Durban"
+    ],
+    [
+      "Durban",
+      "is the city with the largest port in",
+      "sub-Saharan Africa"
+    ],
+    [
+      "KwaZulu-Natal",
+      "shares borders with",
+      "Lesotho"
+    ],
+    [
+      "KwaZulu-Natal",
+      "is the birthplace of",
+      "Mangosuthu Buthelezi"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "entities": [
+    "Goa Football League 2014",
+    "2016–17 I-League",
+    "Sporting CG",
+    "Super Cup",
+    "Panaji",
+    "Sporting Clube de Goa",
+    "Goa",
+    "Indian professional football club",
+    "club crest",
+    "Goa Football League 2006",
+    "AIFF",
+    "Portuguese club Sporting CP",
+    "Goa Football League",
+    "Goa Football League 2021",
+    "Sporting Goa",
+    "I-League 2",
+    "Goa Football League 2018",
+    "Goa Football League 2020",
+    "Goa Football League 2016",
+    "I-League"
+  ],
+  "edges": [
+    "is the only club to have won",
+    "adopted a similar",
+    "clinched the title in",
+    "pulled out of",
+    "cited",
+    "previously competed in",
+    "is based in",
+    "is an",
+    "was built on the lines of",
+    "won",
+    "competes in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Sporting Clube de Goa",
+      "is an",
+      "Indian professional football club"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "cited",
+      "AIFF bias against some clubs"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "was built on the lines of",
+      "Portuguese club Sporting CP"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "previously competed in",
+      "I-League"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "is based in",
+      "Panaji"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "clinched the title in",
+      "Goa Football League 2021"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "won",
+      "Goa Football League 2006"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "adopted a similar",
+      "club crest"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "clinched the title in",
+      "Goa Football League 2018"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "clinched the title in",
+      "Goa Football League 2020"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "competes in",
+      "Goa Football League"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "clinched the title in",
+      "Goa Football League 2014"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "clinched the title in",
+      "Goa Football League 2016"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "pulled out of",
+      "2016–17 I-League"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "competes in",
+      "I-League 2"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "is located in",
+      "Goa"
+    ],
+    [
+      "Sporting Clube de Goa",
+      "is the only club to have won",
+      "Super Cup"
+    ]
+  ]
+}

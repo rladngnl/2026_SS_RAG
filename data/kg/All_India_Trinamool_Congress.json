@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "BJP",
+    "AITC",
+    "All India Trinamool Congress",
+    "2011 elections",
+    "Mamata Banerjee",
+    "West Bengal",
+    "Bharatiya Janata Party",
+    "2026 election",
+    "Indian National Congress",
+    "Left Front",
+    "2021 elections",
+    "2016 elections",
+    "TMC",
+    "Trinamool Congress"
+  ],
+  "edges": [
+    "served as Chief Minister from",
+    "failed to gain majority in",
+    "ruled the state of",
+    "is an Indian political party based in",
+    "began as a breakaway faction of",
+    "first came to rule the state after defeating",
+    "won in",
+    "was founded by",
+    "was defeated by"
+  ],
+  "relations": [
+    [
+      "All India Trinamool Congress",
+      "began as a breakaway faction of",
+      "Indian National Congress"
+    ],
+    [
+      "All India Trinamool Congress",
+      "ruled the state of",
+      "West Bengal"
+    ],
+    [
+      "All India Trinamool Congress",
+      "won in",
+      "2021 elections"
+    ],
+    [
+      "Mamata Banerjee",
+      "served as Chief Minister from",
+      "2011 till 2026"
+    ],
+    [
+      "All India Trinamool Congress",
+      "failed to gain majority in",
+      "2026 election"
+    ],
+    [
+      "All India Trinamool Congress",
+      "was founded by",
+      "Mamata Banerjee"
+    ],
+    [
+      "All India Trinamool Congress",
+      "was defeated by",
+      "Bharatiya Janata Party"
+    ],
+    [
+      "All India Trinamool Congress",
+      "first came to rule the state after defeating",
+      "Left Front"
+    ],
+    [
+      "All India Trinamool Congress",
+      "won in",
+      "2016 elections"
+    ],
+    [
+      "All India Trinamool Congress",
+      "is an Indian political party based in",
+      "West Bengal"
+    ]
+  ]
+}

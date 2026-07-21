@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "French physicist",
+    "far right riots",
+    "ultrasonic submarine detection",
+    "Panthéon",
+    "Human Rights League",
+    "Marie Curie",
+    "Paul Langevin",
+    "Comité de vigilance des intellectuels antifascistes",
+    "French Communist Party",
+    "anti-fascist organization",
+    "Vichy government",
+    "World War II",
+    "LDH",
+    "Pierre Curie",
+    "Langevin dynamics",
+    "6 February 1934",
+    "Langevin equation",
+    "Constantin Chilowsky"
+  ],
+  "edges": [
+    "was president of",
+    "was a lover of",
+    "was a doctoral student of",
+    "developed",
+    "joined",
+    "is also known as",
+    "is an",
+    "was involved in",
+    "was held under house arrest by",
+    "was one of the founders of",
+    "is entombed at",
+    "is known for his two US patents with",
+    "was during",
+    "was"
+  ],
+  "relations": [
+    [
+      "Constantin Chilowsky",
+      "was involved in",
+      "ultrasonic submarine detection"
+    ],
+    [
+      "Paul Langevin",
+      "was one of the founders of",
+      "Comité de vigilance des intellectuels antifascistes"
+    ],
+    [
+      "Comité de vigilance des intellectuels antifascistes",
+      "is an",
+      "anti-fascist organization"
+    ],
+    [
+      "Paul Langevin",
+      "developed",
+      "Langevin equation"
+    ],
+    [
+      "Paul Langevin",
+      "was a doctoral student of",
+      "Pierre Curie"
+    ],
+    [
+      "Paul Langevin",
+      "was president of",
+      "Human Rights League"
+    ],
+    [
+      "Human Rights League",
+      "is also known as",
+      "LDH"
+    ],
+    [
+      "Vichy government",
+      "was during",
+      "World War II"
+    ],
+    [
+      "Paul Langevin",
+      "is entombed at",
+      "Panthéon"
+    ],
+    [
+      "Paul Langevin",
+      "was a lover of",
+      "Marie Curie"
+    ],
+    [
+      "Paul Langevin",
+      "joined",
+      "French Communist Party"
+    ],
+    [
+      "Paul Langevin",
+      "was held under house arrest by",
+      "Vichy government"
+    ],
+    [
+      "Paul Langevin",
+      "is known for his two US patents with",
+      "Constantin Chilowsky"
+    ],
+    [
+      "Paul Langevin",
+      "was",
+      "French physicist"
+    ],
+    [
+      "Paul Langevin",
+      "developed",
+      "Langevin dynamics"
+    ]
+  ]
+}

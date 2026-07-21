@@ -1,0 +1,68 @@
+{
+  "entities": [
+    "Massachusetts colonial leader",
+    "English footballer",
+    "American businessman",
+    "British designer of instruments",
+    "property developer",
+    "manufacturer of textile machinery",
+    "Peter Lee Atherton",
+    "Peter Atherton",
+    "politician",
+    "Peter Atherton (manufacturer)",
+    "inventor",
+    "investor",
+    "Peter Atherton (Massachusetts politician)",
+    "Peter Atherton (footballer)"
+  ],
+  "edges": [
+    "is"
+  ],
+  "relations": [
+    [
+      "Peter Atherton (manufacturer)",
+      "is",
+      "inventor"
+    ],
+    [
+      "Peter Atherton (manufacturer)",
+      "is",
+      "British designer of instruments"
+    ],
+    [
+      "Peter Atherton (Massachusetts politician)",
+      "is",
+      "Massachusetts colonial leader"
+    ],
+    [
+      "Peter Lee Atherton",
+      "is",
+      "politician"
+    ],
+    [
+      "Peter Lee Atherton",
+      "is",
+      "American businessman"
+    ],
+    [
+      "Peter Lee Atherton",
+      "is",
+      "property developer"
+    ],
+    [
+      "Peter Atherton (manufacturer)",
+      "is",
+      "manufacturer of textile machinery"
+    ],
+    [
+      "Peter Lee Atherton",
+      "is",
+      "investor"
+    ],
+    [
+      "Peter Atherton (footballer)",
+      "is",
+      "English footballer"
+    ]
+  ]
+}

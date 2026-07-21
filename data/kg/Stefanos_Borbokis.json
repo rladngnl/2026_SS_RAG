@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "footballer",
+    "Stefanos Borbokis",
+    "Vasilios Borbokis",
+    "Greek",
+    "winger",
+    "forward",
+    "PAOK"
+  ],
+  "edges": [
+    "was a",
+    "is brother of",
+    "played as",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Stefanos Borbokis",
+      "played as",
+      "forward"
+    ],
+    [
+      "Vasilios Borbokis",
+      "played for",
+      "PAOK"
+    ],
+    [
+      "Stefanos Borbokis",
+      "played as",
+      "winger"
+    ],
+    [
+      "Stefanos Borbokis",
+      "was a",
+      "footballer"
+    ],
+    [
+      "Stefanos Borbokis",
+      "is brother of",
+      "Vasilios Borbokis"
+    ]
+  ]
+}

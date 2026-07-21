@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "Reggina Calcio",
+    "A.S.D. Reggio Calabria",
+    "Stadio Oreste Granillo",
+    "Amaranto",
+    "Urbs Reggina 1914",
+    "Associazione Sportiva Reggina 1914",
+    "Reggina 1914",
+    "LFA Reggio Calabria",
+    "Italian football",
+    "Serie A",
+    "Serie D",
+    "Serie B",
+    "Reggio Calabria"
+  ],
+  "edges": [
+    "is currently playing in",
+    "played in",
+    "returned to",
+    "is also known as",
+    "was formerly known as",
+    "is a club in",
+    "is nicknamed",
+    "plays home matches at",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Reggina Calcio",
+      "is a club in",
+      "Italian football"
+    ],
+    [
+      "Reggina Calcio",
+      "is nicknamed",
+      "Amaranto"
+    ],
+    [
+      "Reggina Calcio",
+      "played in",
+      "Serie A"
+    ],
+    [
+      "Reggina Calcio",
+      "was formerly known as",
+      "Urbs Reggina 1914"
+    ],
+    [
+      "Reggina Calcio",
+      "is currently playing in",
+      "Serie D"
+    ],
+    [
+      "Reggina Calcio",
+      "was formerly known as",
+      "Reggina 1914"
+    ],
+    [
+      "Reggina Calcio",
+      "plays home matches at",
+      "Stadio Oreste Granillo"
+    ],
+    [
+      "Reggina Calcio",
+      "is also known as",
+      "Associazione Sportiva Reggina 1914"
+    ],
+    [
+      "Reggina Calcio",
+      "was formerly known as",
+      "A.S.D. Reggio Calabria"
+    ],
+    [
+      "Reggina Calcio",
+      "was formerly known as",
+      "LFA Reggio Calabria"
+    ],
+    [
+      "Reggina Calcio",
+      "returned to",
+      "Serie B"
+    ],
+    [
+      "Reggina Calcio",
+      "is based in",
+      "Reggio Calabria"
+    ]
+  ]
+}

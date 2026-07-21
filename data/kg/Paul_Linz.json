@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "German",
+    "former player",
+    "football manager",
+    "forward",
+    "Paul Linz",
+    "4 January 1956"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Paul Linz",
+      "played as",
+      "forward"
+    ],
+    [
+      "Paul Linz",
+      "is",
+      "former player"
+    ],
+    [
+      "Paul Linz",
+      "was born on",
+      "4 January 1956"
+    ],
+    [
+      "Paul Linz",
+      "is",
+      "football manager"
+    ],
+    [
+      "Paul Linz",
+      "is",
+      "German"
+    ]
+  ]
+}

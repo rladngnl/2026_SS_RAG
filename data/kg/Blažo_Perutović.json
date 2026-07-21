@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "football striker",
+    "Блажо Перутовић",
+    "Montenegrin",
+    "1983-12-08",
+    "Blažo Perutović"
+  ],
+  "edges": [
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Blažo Perutović",
+      "is",
+      "football striker"
+    ],
+    [
+      "Blažo Perutović",
+      "is",
+      "Montenegrin"
+    ],
+    [
+      "Blažo Perutović",
+      "was born on",
+      "1983-12-08"
+    ]
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "entities": [
+    "1915",
+    "1934",
+    "First Division",
+    "2022–23 season",
+    "41 years",
+    "six seasons",
+    "2003",
+    "Sheffield United Football Club",
+    "Chris Wilder",
+    "1981",
+    "1952–53",
+    "three decades",
+    "play-off finals",
+    "1938–39",
+    "1925",
+    "England",
+    "1992–93 season",
+    "2005–06",
+    "Midland League",
+    "1949",
+    "relegation",
+    "1902",
+    "Premier League",
+    "Neil Warnock",
+    "1997",
+    "Northern League",
+    "South Yorkshire",
+    "Sheffield",
+    "2016–17",
+    "Sheffield United Cricket Club",
+    "1901",
+    "1994",
+    "1892",
+    "1899",
+    "English football champions",
+    "1981–82",
+    "1960–61",
+    "Second Division",
+    "runners-up",
+    "EFL Championship",
+    "1970–71",
+    "promotion",
+    "the Blades",
+    "1936",
+    "Football League Second Division",
+    "FA Cup",
+    "1968",
+    "Bramall Lane",
+    "1897–98",
+    "1892–93 season",
+    "Steel City derby",
+    "Fourth Division",
+    "2021",
+    "2018–19",
+    "champions",
+    "1956"
+  ],
+  "edges": [
+    "won the",
+    "was promoted to",
+    "returned to",
+    "was formed as an offshoot of",
+    "recovered from relegation in",
+    "was crowned",
+    "finished as runners-up in",
+    "is nicknamed",
+    "won promotions in",
+    "is located in",
+    "was relegated in",
+    "plays home games at",
+    "spent decades between",
+    "spent seasons in",
+    "were relegated in",
+    "played in the Premier League following a promotion from",
+    "won the Second Division title in",
+    "is based in",
+    "spent years in",
+    "dropped to",
+    "was promoted in",
+    "was led to promotion as champions in",
+    "won promotion as champions in",
+    "was invited to become a founding member of",
+    "won promotion to",
+    "regained their Premier League status at the end of"
+  ],
+  "relations": [
+    [
+      "Sheffield United Football Club",
+      "was crowned",
+      "English football champions"
+    ],
+    [
+      "Sheffield United Football Club",
+      "won promotions in",
+      "1960–61"
+    ],
+    [
+      "Sheffield United Football Club",
+      "spent years in",
+      "top-flight"
+    ],
+    [
+      "Sheffield United Football Club",
+      "were relegated in",
+      "2021"
+    ],
+    [
+      "Sheffield United Football Club",
+      "won the Second Division title in",
+      "1952–53"
+    ],
+    [
+      "Sheffield United Football Club",
+      "recovered from relegation in",
+      "1988"
+    ],
+    [
+      "Sheffield United Football Club",
+      "finished as runners-up in",
+      "FA Cup"
+    ],
+    [
+      "Sheffield United Football Club",
+      "was invited to become a founding member of",
+      "Football League Second Division"
+    ],
+    [
+      "Sheffield United Football Club",
+      "is based in",
+      "Sheffield"
+    ],
+    [
+      "Sheffield United Football Club",
+      "were relegated in",
+      "2011"
+    ],
+    [
+      "Sheffield United Football Club",
+      "regained their Premier League status at the end of",
+      "2005–06"
+    ],
+    [
+      "Sheffield United Football Club",
+      "played in the Premier League following a promotion from",
+      "EFL Championship"
+    ],
+    [
+      "Sheffield United Football Club",
+      "spent decades between",
+      "First and Second Divisions"
+    ],
+    [
+      "Sheffield United Football Club",
+      "was relegated in",
+      "1934"
+    ],
+    [
+      "Sheffield United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Sheffield United Football Club",
+      "is located in",
+      "South Yorkshire"
+    ],
+    [
+      "Sheffield United Football Club",
+      "won promotion as champions in",
+      "1981–82"
+    ],
+    [
+      "Sheffield United Football Club",
+      "was promoted in",
+      "1983–84"
+    ],
+    [
+      "Sheffield United Football Club",
+      "won promotions in",
+      "1970–71"
+    ],
+    [
+      "Sheffield United Football Club",
+      "played in the Premier League following a promotion from",
+      "2022–23 season"
+    ],
+    [
+      "Sheffield United Football Club",
+      "returned to",
+      "Championship"
+    ],
+    [
+      "Sheffield United Football Club",
+      "was formed as an offshoot of",
+      "Sheffield United Cricket Club"
+    ],
+    [
+      "Sheffield United Football Club",
+      "is nicknamed",
+      "the Blades"
+    ],
+    [
+      "Sheffield United Football Club",
+      "spent seasons in",
+      "third tier"
+    ],
+    [
+      "Sheffield United Football Club",
+      "plays home games at",
+      "Bramall Lane"
+    ],
+    [
+      "Sheffield United Football Club",
+      "was led to promotion as champions in",
+      "2016–17"
+    ],
+    [
+      "Sheffield United Football Club",
+      "was promoted to",
+      "Premier League"
+    ],
+    [
+      "Sheffield United Football Club",
+      "dropped to",
+      "fourth tier"
+    ],
+    [
+      "Sheffield United Football Club",
+      "won promotion to",
+      "First Division"
+    ],
+    [
+      "Sheffield United Football Club",
+      "won the",
+      "FA Cup"
+    ]
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "Connecticut Air National Guard",
+    "Hartford",
+    "KBDL",
+    "Connecticut",
+    "FAA LID",
+    "New England Air Museum",
+    "Massachusetts",
+    "FAA",
+    "United States",
+    "BDL",
+    "Windsor Locks",
+    "ICAO",
+    "IATA",
+    "medium-hub primary commercial service facility",
+    "Connecticut Airport Authority",
+    "Springfield",
+    "Bradley International Airport",
+    "Federal Aviation Administration",
+    "Boston's Logan International Airport",
+    "103rd Airlift Wing"
+  ],
+  "edges": [
+    "is owned and operated by",
+    "is in",
+    "is a dual-use military facility and home to",
+    "is the busiest airport in",
+    "is the second-largest airport in",
+    "is about halfway between",
+    "categorizes",
+    "is adjacent to",
+    "is part of",
+    "is larger than",
+    "is located in",
+    "is categorized as"
+  ],
+  "relations": [
+    [
+      "Bradley International Airport",
+      "is adjacent to",
+      "New England Air Museum"
+    ],
+    [
+      "Bradley International Airport",
+      "is located in",
+      "Windsor Locks"
+    ],
+    [
+      "Bradley International Airport",
+      "is about halfway between",
+      "Hartford"
+    ],
+    [
+      "Bradley International Airport",
+      "is in",
+      "Connecticut"
+    ],
+    [
+      "Bradley International Airport",
+      "is the second-largest airport in",
+      "New England"
+    ],
+    [
+      "Bradley International Airport",
+      "is about halfway between",
+      "Springfield"
+    ],
+    [
+      "Bradley International Airport",
+      "is a dual-use military facility and home to",
+      "103rd Airlift Wing"
+    ],
+    [
+      "Bradley International Airport",
+      "is categorized as",
+      "medium-hub primary commercial service facility"
+    ],
+    [
+      "Federal Aviation Administration",
+      "categorizes",
+      "Bradley International Airport"
+    ],
+    [
+      "Bradley International Airport",
+      "is owned and operated by",
+      "Connecticut Airport Authority"
+    ],
+    [
+      "Bradley International Airport",
+      "is in",
+      "United States"
+    ],
+    [
+      "Boston's Logan International Airport",
+      "is larger than",
+      "Bradley International Airport"
+    ],
+    [
+      "103rd Airlift Wing",
+      "is part of",
+      "Connecticut Air National Guard"
+    ],
+    [
+      "Bradley International Airport",
+      "is the busiest airport in",
+      "Connecticut"
+    ]
+  ]
+}

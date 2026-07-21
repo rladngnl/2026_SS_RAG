@@ -1,0 +1,77 @@
+{
+  "entities": [
+    "FIFA World Cup",
+    "quarter-finals",
+    "2012",
+    "2015",
+    "Equatorial Guinea",
+    "fourth place",
+    "2021",
+    "Equatoguinean Football Federation",
+    "Equatorial Guinea national football team",
+    "Africa Cup of Nations",
+    "Confederation of African Football"
+  ],
+  "edges": [
+    "qualified as hosts in",
+    "reached the",
+    "has qualified for",
+    "is controlled by",
+    "finished in",
+    "represents",
+    "has never qualified for",
+    "is a member of"
+  ],
+  "relations": [
+    [
+      "Equatorial Guinea national football team",
+      "qualified as hosts in",
+      "2015"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "has never qualified for",
+      "FIFA World Cup"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "finished in",
+      "fourth place"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "reached the",
+      "quarter-finals in 2021"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "is controlled by",
+      "Equatoguinean Football Federation"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "reached the",
+      "quarter-finals"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "qualified as hosts in",
+      "2012"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "has qualified for",
+      "Africa Cup of Nations"
+    ],
+    [
+      "Equatorial Guinea national football team",
+      "represents",
+      "Equatorial Guinea"
+    ],
+    [
+      "Equatoguinean Football Federation",
+      "is a member of",
+      "Confederation of African Football"
+    ]
+  ]
+}

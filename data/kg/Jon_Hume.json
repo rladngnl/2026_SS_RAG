@@ -1,0 +1,160 @@
+{
+  "entities": [
+    "Elle King",
+    "Peter Hume",
+    "New Zealand",
+    "Sofi Tukker",
+    "Dean Lewis",
+    "Evermore",
+    "Galantis",
+    "Icona Pop",
+    "Jon Hume",
+    "APRA AMCOS",
+    "Dann Hume",
+    "Bebe Rexha",
+    "Guy Sebastian",
+    "Wilder Woods",
+    "Don't Forget",
+    "JP Cooper",
+    "Jonathan Daniel Cobbe",
+    "Joshua Bassett",
+    "Nashville",
+    "APRA Music Awards",
+    "Australia",
+    "Hurtless",
+    "Zhu",
+    "Be Alright",
+    "Welcome to Wrexham",
+    "Los Angeles"
+  ],
+  "edges": [
+    "is known as",
+    "was nominated for",
+    "featured as the theme song for",
+    "has written and produced songs for",
+    "is a musician, songwriter and producer based between",
+    "was the lead singer of",
+    "is titled",
+    "co-wrote",
+    "were acknowledged by",
+    "is the eldest of three brothers with",
+    "won"
+  ],
+  "relations": [
+    [
+      "Hume",
+      "was nominated for",
+      "Most Performed Australian Work"
+    ],
+    [
+      "Jon Hume",
+      "is a musician, songwriter and producer based between",
+      "Los Angeles"
+    ],
+    [
+      "Jon Hume",
+      "is the eldest of three brothers with",
+      "Dann Hume"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Elle King"
+    ],
+    [
+      "Jon Hume",
+      "is the eldest of three brothers with",
+      "Peter Hume"
+    ],
+    [
+      "Hume",
+      "won",
+      "Most Performed Alternative Work"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Guy Sebastian"
+    ],
+    [
+      "Hume and Lewis",
+      "were acknowledged by",
+      "APRA AMCOS"
+    ],
+    [
+      "Hume's song",
+      "is titled",
+      "Don't Forget"
+    ],
+    [
+      "Hume and Lewis",
+      "co-wrote",
+      "Be Alright"
+    ],
+    [
+      "Jon Hume",
+      "is known as",
+      "Jonathan Daniel Cobbe"
+    ],
+    [
+      "Hume's song",
+      "featured as the theme song for",
+      "Welcome to Wrexham"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "JP Cooper"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Wilder Woods"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Sofi Tukker"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Galantis"
+    ],
+    [
+      "Jon Hume",
+      "was the lead singer of",
+      "Evermore"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Icona Pop"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Joshua Bassett"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Dean Lewis"
+    ],
+    [
+      "Jon Hume",
+      "is a musician, songwriter and producer based between",
+      "Nashville"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Bebe Rexha"
+    ],
+    [
+      "Jon Hume",
+      "has written and produced songs for",
+      "Zhu"
+    ]
+  ]
+}

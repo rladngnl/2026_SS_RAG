@@ -1,0 +1,158 @@
+{
+  "entities": [
+    "Kingdom of Jerusalem",
+    "Leopold V",
+    "Cyprus",
+    "Syrian coast",
+    "King Richard I of England",
+    "Holy Land",
+    "Philip Augustus",
+    "Seljuk Sultanate of Rûm",
+    "Emperor Frederick Barbarossa",
+    "Kings' Crusade",
+    "Fatimid rulers of Egypt",
+    "Second Crusade",
+    "Sixth Crusade",
+    "Syria",
+    "Duke of Austria",
+    "Treaty of Jaffa",
+    "Acre",
+    "Battle of Arsuf",
+    "Fourth Crusade",
+    "Jerusalem",
+    "Third Crusade",
+    "Christian pilgrims",
+    "Ayyubid sultan Saladin",
+    "King Henry II of England",
+    "King Philip II of France",
+    "Jaffa",
+    "Zengid dynasty"
+  ],
+  "edges": [
+    "allowed Christians to maintain states in",
+    "left",
+    "failed to conquer",
+    "allowed Christians to maintain states on",
+    "finalized",
+    "led",
+    "recaptured",
+    "is also known as",
+    "died whilst crossing",
+    "captured",
+    "ended conflict with",
+    "inspired",
+    "departed from",
+    "regained city in",
+    "recognized control over",
+    "responded to the call to arms",
+    "achieved victory at",
+    "came under command of"
+  ],
+  "relations": [
+    [
+      "failure to re-capture Jerusalem",
+      "inspired",
+      "Fourth Crusade"
+    ],
+    [
+      "Treaty of Jaffa",
+      "recognized control over",
+      "Jerusalem"
+    ],
+    [
+      "Europeans",
+      "regained city in",
+      "Sixth Crusade"
+    ],
+    [
+      "Third Crusade",
+      "failed to conquer",
+      "Jerusalem"
+    ],
+    [
+      "Richard",
+      "departed from",
+      "Holy Land"
+    ],
+    [
+      "Crusaders",
+      "achieved victory at",
+      "Battle of Arsuf"
+    ],
+    [
+      "Emperor Frederick Barbarossa",
+      "died whilst crossing",
+      "a river"
+    ],
+    [
+      "King Richard I of England",
+      "led",
+      "Third Crusade"
+    ],
+    [
+      "Third Crusade",
+      "recaptured",
+      "Jaffa"
+    ],
+    [
+      "King Richard I of England",
+      "came under command of",
+      "King Henry II of England"
+    ],
+    [
+      "King Henry II of England",
+      "ended conflict with",
+      "King Philip II of France"
+    ],
+    [
+      "King Philip II of France",
+      "led",
+      "Third Crusade"
+    ],
+    [
+      "Third Crusade",
+      "allowed Christians to maintain states in",
+      "Cyprus"
+    ],
+    [
+      "Emperor Frederick Barbarossa",
+      "led",
+      "Third Crusade"
+    ],
+    [
+      "Third Crusade",
+      "recaptured",
+      "Acre"
+    ],
+    [
+      "Philip",
+      "left",
+      "Holy Land"
+    ],
+    [
+      "Third Crusade",
+      "is also known as",
+      "Kings' Crusade"
+    ],
+    [
+      "Emperor Frederick Barbarossa",
+      "responded to the call to arms",
+      "Third Crusade"
+    ],
+    [
+      "Richard",
+      "finalized",
+      "Treaty of Jaffa"
+    ],
+    [
+      "Third Crusade",
+      "allowed Christians to maintain states on",
+      "Syrian coast"
+    ],
+    [
+      "Ayyubid sultan Saladin",
+      "captured",
+      "Jerusalem"
+    ]
+  ]
+}

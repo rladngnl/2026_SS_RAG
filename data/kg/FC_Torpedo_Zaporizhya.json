@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "football team",
+    "FC Torpedo Zaporizhzhia",
+    "Ukraine",
+    "Zaporizhzhia"
+  ],
+  "edges": [
+    "is based in",
+    "is a",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "FC Torpedo Zaporizhzhia",
+      "is a",
+      "football team"
+    ],
+    [
+      "FC Torpedo Zaporizhzhia",
+      "is located in",
+      "Ukraine"
+    ],
+    [
+      "FC Torpedo Zaporizhzhia",
+      "is based in",
+      "Zaporizhzhia"
+    ]
+  ]
+}

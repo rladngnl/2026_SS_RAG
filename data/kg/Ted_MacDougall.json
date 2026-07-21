@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "footballer",
+    "Edward John MacDougall",
+    "clubs",
+    "Scotland",
+    "Phil Boyer",
+    "goalscorer",
+    "nine goals",
+    "11–0 win",
+    "Margate",
+    "Ted MacDougall",
+    "forward",
+    "Scottish",
+    "AFC Bournemouth",
+    "November 1971"
+  ],
+  "edges": [
+    "is a",
+    "played as",
+    "scored",
+    "formed a successful striking partnership with",
+    "is",
+    "won",
+    "played for",
+    "scored in an"
+  ],
+  "relations": [
+    [
+      "Edward John MacDougall",
+      "played as",
+      "forward"
+    ],
+    [
+      "Edward John MacDougall",
+      "formed a successful striking partnership with",
+      "Phil Boyer"
+    ],
+    [
+      "Edward John MacDougall",
+      "is a",
+      "goalscorer"
+    ],
+    [
+      "Edward John MacDougall",
+      "won",
+      "seven full international caps for Scotland"
+    ],
+    [
+      "Edward John MacDougall",
+      "scored in an",
+      "11–0 win"
+    ],
+    [
+      "Edward John MacDougall",
+      "scored",
+      "nine goals"
+    ],
+    [
+      "Edward John MacDougall",
+      "is",
+      "Scottish"
+    ],
+    [
+      "Edward John MacDougall",
+      "played for",
+      "AFC Bournemouth"
+    ],
+    [
+      "Edward John MacDougall",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

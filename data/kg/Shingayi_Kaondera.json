@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "Polish Ekstraklasa",
+    "Turkey",
+    "2002",
+    "AEK Larnaca",
+    "January 2008",
+    "South African Premier Division",
+    "Gaziantepspor",
+    "July 2007",
+    "1997",
+    "Shingayi Kaondera",
+    "Cypriot First Division",
+    "Nea Salamina",
+    "Seke",
+    "Górnik Zabrze",
+    "SuperSport United",
+    "Darryn T",
+    "Zimbabwe",
+    "2005",
+    "AEP Paphos"
+  ],
+  "edges": [
+    "signed for",
+    "is from",
+    "signed a contract with",
+    "is a club in",
+    "was born in",
+    "moved to",
+    "played for",
+    "started his career in"
+  ],
+  "relations": [
+    [
+      "SuperSport United",
+      "is a club in",
+      "South African Premier Division"
+    ],
+    [
+      "Gaziantepspor",
+      "is a club in",
+      "Turkey"
+    ],
+    [
+      "Shingayi Kaondera",
+      "is from",
+      "Zimbabwe"
+    ],
+    [
+      "Shingayi Kaondera",
+      "played for",
+      "SuperSport United"
+    ],
+    [
+      "AEP Paphos",
+      "is a club in",
+      "Cypriot First Division"
+    ],
+    [
+      "Shingayi Kaondera",
+      "played for",
+      "Górnik Zabrze"
+    ],
+    [
+      "Shingayi Kaondera",
+      "started his career in",
+      "Darryn T"
+    ],
+    [
+      "Shingayi Kaondera",
+      "was born in",
+      "Seke"
+    ],
+    [
+      "Shingayi Kaondera",
+      "signed a contract with",
+      "AEK Larnaca"
+    ],
+    [
+      "Shingayi Kaondera",
+      "moved to",
+      "Nea Salamina"
+    ],
+    [
+      "Shingayi Kaondera",
+      "played for",
+      "Gaziantepspor"
+    ],
+    [
+      "Górnik Zabrze",
+      "is a club in",
+      "Polish Ekstraklasa"
+    ],
+    [
+      "Shingayi Kaondera",
+      "signed for",
+      "AEP Paphos"
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "2022",
+    "domestic airlines",
+    "JSC Almaty International Airport",
+    "largest airport",
+    "Kazakhstan",
+    "2024",
+    "37%",
+    "88,400 tonnes of cargo",
+    "Nursultan Nazarbayev International Airport",
+    "transport links",
+    "TAV Airports Holding",
+    "national flag carrier",
+    "63%",
+    "Astana",
+    "Central Asia",
+    "ALA",
+    "Almaty International Airport",
+    "ICAO",
+    "IATA",
+    "Post-Soviet states",
+    "busiest airport",
+    "international flights",
+    "Air Astana",
+    "7.2 million passengers",
+    "NQZ",
+    "UAAA",
+    "international airlines"
+  ],
+  "edges": [
+    "is registered under the name of",
+    "served",
+    "managed",
+    "is the busiest airport in",
+    "is owned by",
+    "is located in",
+    "plays role in connecting",
+    "is a principal hub of",
+    "is the largest airport in terms of",
+    "is larger than",
+    "is the 6th busiest airport in",
+    "is the main international gateway into"
+  ],
+  "relations": [
+    [
+      "Almaty International Airport",
+      "managed",
+      "88,400 tonnes of cargo"
+    ],
+    [
+      "Almaty International Airport",
+      "is registered under the name of",
+      "JSC Almaty International Airport"
+    ],
+    [
+      "Almaty International Airport",
+      "is the 6th busiest airport in",
+      "Post-Soviet states"
+    ],
+    [
+      "Almaty International Airport",
+      "is the busiest airport in",
+      "Kazakhstan"
+    ],
+    [
+      "JSC Almaty International Airport",
+      "is owned by",
+      "TAV Airports Holding"
+    ],
+    [
+      "Almaty International Airport",
+      "is a principal hub of",
+      "Air Astana"
+    ],
+    [
+      "Almaty International Airport",
+      "plays role in connecting",
+      "Almaty"
+    ],
+    [
+      "Almaty International Airport",
+      "is located in",
+      "Kazakhstan"
+    ],
+    [
+      "Almaty International Airport",
+      "is the largest airport in terms of",
+      "cargo volume"
+    ],
+    [
+      "Almaty International Airport",
+      "is the busiest airport in",
+      "Central Asia"
+    ],
+    [
+      "Almaty International Airport",
+      "is the main international gateway into",
+      "Kazakhstan"
+    ],
+    [
+      "Almaty International Airport",
+      "is larger than",
+      "Nursultan Nazarbayev International Airport"
+    ],
+    [
+      "Almaty International Airport",
+      "served",
+      "7.2 million passengers"
+    ]
+  ]
+}

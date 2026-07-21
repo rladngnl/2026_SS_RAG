@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "FC Metalurh Donetsk",
+    "Ukrainian",
+    "Football Club Metalurh Donetsk",
+    "July 2015",
+    "Donetsk"
+  ],
+  "edges": [
+    "went bankrupt in",
+    "was"
+  ],
+  "relations": [
+    [
+      "Football Club Metalurh Donetsk",
+      "was",
+      "a Ukrainian professional football club based in Donetsk"
+    ],
+    [
+      "FC Metalurh Donetsk",
+      "went bankrupt in",
+      "July 2015"
+    ],
+    [
+      "FC Metalurh Donetsk",
+      "was",
+      "a Ukrainian professional football club based in Donetsk"
+    ],
+    [
+      "Football Club Metalurh Donetsk",
+      "went bankrupt in",
+      "July 2015"
+    ]
+  ]
+}

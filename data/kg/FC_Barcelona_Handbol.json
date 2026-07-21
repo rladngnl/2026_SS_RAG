@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "Barcelona",
+    "domestic titles",
+    "handball club",
+    "Liga ASOBAL",
+    "Catalonia",
+    "European Champions League",
+    "international titles",
+    "FC Barcelona Handbol",
+    "Futbol Club Barcelona Handbol",
+    "Europe",
+    "Spain",
+    "multi sports club"
+  ],
+  "edges": [
+    "competes domestically in",
+    "has a record number of",
+    "is the most glorious and prestigious",
+    "is a part of",
+    "was founded on",
+    "is the most successful",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Futbol Club Barcelona Handbol",
+      "was founded on",
+      "29 November 1942"
+    ],
+    [
+      "Futbol Club Barcelona Handbol",
+      "is the most successful",
+      "handball club in Spain and Europe"
+    ],
+    [
+      "Futbol Club Barcelona Handbol",
+      "is the most glorious and prestigious",
+      "handball club in the world"
+    ],
+    [
+      "Futbol Club Barcelona Handbol",
+      "competes domestically in",
+      "Liga ASOBAL"
+    ],
+    [
+      "Futbol Club Barcelona Handbol",
+      "competes in",
+      "European Champions League"
+    ],
+    [
+      "Futbol Club Barcelona Handbol",
+      "has a record number of",
+      "domestic and international titles"
+    ],
+    [
+      "Futbol Club Barcelona Handbol",
+      "is a part of",
+      "FC Barcelona multi sports club"
+    ]
+  ]
+}

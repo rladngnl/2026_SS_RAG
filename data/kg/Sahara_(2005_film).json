@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "box-office",
+    "production budget",
+    "American Civil War",
+    "action-adventure film",
+    "United Kingdom",
+    "Steve Zahn",
+    "Morocco",
+    "production issues",
+    "Sahara Desert",
+    "Matthew McConaughey",
+    "Penélope Cruz",
+    "Sahara",
+    "Clive Cussler",
+    "Breck Eisner",
+    "lawsuits",
+    "treasure hunter",
+    "WHO doctor",
+    "Ironclad warship",
+    "biggest box-office failures",
+    "2005"
+  ],
+  "edges": [
+    "partners with",
+    "is a",
+    "is based on the novel by",
+    "stars",
+    "grossed",
+    "had production issues",
+    "had a production budget of",
+    "is directed by",
+    "was shot in",
+    "follows a",
+    "is looking for",
+    "is listed among"
+  ],
+  "relations": [
+    [
+      "Sahara",
+      "is based on the novel by",
+      "Clive Cussler"
+    ],
+    [
+      "Sahara",
+      "stars",
+      "Penélope Cruz"
+    ],
+    [
+      "Sahara",
+      "follows a",
+      "treasure hunter"
+    ],
+    [
+      "treasure hunter",
+      "partners with",
+      "WHO doctor"
+    ],
+    [
+      "Sahara",
+      "is directed by",
+      "Breck Eisner"
+    ],
+    [
+      "Sahara",
+      "had production issues",
+      "production issues"
+    ],
+    [
+      "Sahara",
+      "was shot in",
+      "Morocco"
+    ],
+    [
+      "Sahara",
+      "had a production budget of",
+      "$80 million"
+    ],
+    [
+      "Sahara",
+      "stars",
+      "Steve Zahn"
+    ],
+    [
+      "Sahara",
+      "is a",
+      "2005 action-adventure film"
+    ],
+    [
+      "treasure hunter",
+      "is looking for",
+      "lost American Civil War Ironclad warship"
+    ],
+    [
+      "Sahara",
+      "stars",
+      "Matthew McConaughey"
+    ],
+    [
+      "Sahara",
+      "grossed",
+      "$119 million"
+    ],
+    [
+      "Sahara",
+      "is listed among",
+      "biggest box-office failures"
+    ],
+    [
+      "Sahara",
+      "had a production budget of",
+      "$160 million"
+    ],
+    [
+      "Sahara",
+      "was shot in",
+      "United Kingdom"
+    ]
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "entities": [
+    "Nicolaus Copernicus University",
+    "academic faculties",
+    "ARQUS",
+    "Poles",
+    "Polish Stefan Batory University",
+    "Šiauliai",
+    "Soviet invasion of Poland",
+    "Operation Barbarossa",
+    "European University Alliance",
+    "independence",
+    "November Uprising",
+    "Soviet annexation of Lithuania",
+    "library",
+    "Lithuanians",
+    "Lithuanian authorities",
+    "scientific research",
+    "botanical gardens",
+    "Vilnius State University",
+    "Coimbra Group",
+    "Health and Sports Centre",
+    "high added-value projects",
+    "Toruń",
+    "Kaunas",
+    "Soviet forces",
+    "study programmes",
+    "Stephen Báthory",
+    "Vilnius University Foundation",
+    "Jesuit Academy",
+    "Cultural Centre",
+    "Grand Duchy of Lithuania",
+    "Lithuania",
+    "Vilnius University",
+    "World War I",
+    "German occupation",
+    "Polish–Lithuanian Commonwealth",
+    "museum",
+    "Soviet Union"
+  ],
+  "edges": [
+    "encourages",
+    "belongs to",
+    "aims to create",
+    "was administrated as",
+    "was closed down due to",
+    "resumed operations as",
+    "was transferred to",
+    "supports",
+    "was founded by",
+    "is located in",
+    "was established on",
+    "was administered by",
+    "has academic faculties that offer",
+    "was the sole university in",
+    "resumed its status as one of the prominent universities in",
+    "is a member of",
+    "is known for its"
+  ],
+  "relations": [
+    [
+      "European University Alliance",
+      "aims to create",
+      "joint, long-term, sustainable structures"
+    ],
+    [
+      "Vilnius University Foundation",
+      "encourages",
+      "high added-value projects"
+    ],
+    [
+      "Vilnius University",
+      "resumed operations as",
+      "Polish Stefan Batory University"
+    ],
+    [
+      "Vilnius University",
+      "was the sole university in",
+      "Grand Duchy of Lithuania"
+    ],
+    [
+      "Vilnius University",
+      "is a member of",
+      "Coimbra Group"
+    ],
+    [
+      "Vilnius University",
+      "was administered by",
+      "Lithuanian authorities"
+    ],
+    [
+      "Vilnius University",
+      "was founded by",
+      "Stephen Báthory"
+    ],
+    [
+      "Vilnius University",
+      "was administrated as",
+      "Vilnius State University"
+    ],
+    [
+      "Vilnius University",
+      "resumed its status as one of the prominent universities in",
+      "Lithuania"
+    ],
+    [
+      "Vilnius University Foundation",
+      "was established on",
+      "6 April 2016"
+    ],
+    [
+      "Vilnius University",
+      "belongs to",
+      "European University Alliance"
+    ],
+    [
+      "Vilnius University",
+      "has academic faculties that offer",
+      "study programmes"
+    ],
+    [
+      "Vilnius University",
+      "is known for its",
+      "strong community ties"
+    ],
+    [
+      "Vilnius University Foundation",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "Vilnius University",
+      "was closed down due to",
+      "November Uprising"
+    ],
+    [
+      "Polish community of students and scholars",
+      "was transferred to",
+      "Nicolaus Copernicus University"
+    ],
+    [
+      "Vilnius University",
+      "is located in",
+      "Lithuania"
+    ]
+  ]
+}

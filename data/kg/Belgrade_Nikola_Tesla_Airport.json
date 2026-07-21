@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "Air Pink",
+    "Vinci Airports",
+    "Air Serbia",
+    "Prince Aviation",
+    "Eagle Express",
+    "Serbia",
+    "Nikola Tesla",
+    "Belgrade Airport",
+    "Belgrade Nikola Tesla Airport",
+    "Wizz Air"
+  ],
+  "edges": [
+    "operates from",
+    "is operated by",
+    "is named after",
+    "calls",
+    "uses",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Belgrade Nikola Tesla Airport",
+      "is operated by",
+      "Vinci Airports"
+    ],
+    [
+      "Wizz Air",
+      "operates from",
+      "Belgrade Nikola Tesla Airport"
+    ],
+    [
+      "Air Serbia",
+      "uses",
+      "Belgrade Nikola Tesla Airport"
+    ],
+    [
+      "Belgrade Nikola Tesla Airport",
+      "is named after",
+      "Nikola Tesla"
+    ],
+    [
+      "Air Pink",
+      "calls",
+      "Belgrade Nikola Tesla Airport"
+    ],
+    [
+      "Prince Aviation",
+      "calls",
+      "Belgrade Nikola Tesla Airport"
+    ],
+    [
+      "Belgrade Nikola Tesla Airport",
+      "is located in",
+      "Serbia"
+    ],
+    [
+      "Eagle Express",
+      "calls",
+      "Belgrade Nikola Tesla Airport"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "footballer",
+    "Erik Stensrud Pedersen",
+    "Norwegian",
+    "Scotland",
+    "Dundee United",
+    "Norway",
+    "left back"
+  ],
+  "edges": [
+    "is a",
+    "played as",
+    "spent most of his career in",
+    "had a spell in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Erik Stensrud Pedersen",
+      "spent most of his career in",
+      "Norway"
+    ],
+    [
+      "Erik Stensrud Pedersen",
+      "is a",
+      "Norwegian"
+    ],
+    [
+      "Erik Stensrud Pedersen",
+      "had a spell in",
+      "Scotland"
+    ],
+    [
+      "Erik Stensrud Pedersen",
+      "played as",
+      "left back"
+    ],
+    [
+      "Erik Stensrud Pedersen",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Erik Stensrud Pedersen",
+      "played for",
+      "Dundee United"
+    ]
+  ]
+}

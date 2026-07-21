@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "professional footballer",
+    "manager",
+    "defender",
+    "Albanian",
+    "KF Vllaznia Shkodër",
+    "Rudi Vata"
+  ],
+  "edges": [
+    "had a stint as",
+    "played as",
+    "managed",
+    "is"
+  ],
+  "relations": [
+    [
+      "Rudi Vata",
+      "played as",
+      "defender"
+    ],
+    [
+      "Rudi Vata",
+      "managed",
+      "KF Vllaznia Shkodër"
+    ],
+    [
+      "Rudi Vata",
+      "had a stint as",
+      "manager"
+    ],
+    [
+      "Rudi Vata",
+      "is",
+      "Albanian"
+    ],
+    [
+      "Rudi Vata",
+      "is",
+      "professional footballer"
+    ]
+  ]
+}

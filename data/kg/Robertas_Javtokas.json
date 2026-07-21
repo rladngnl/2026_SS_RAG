@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "senior men's Lithuanian national team",
+    "Robertas Javtokas",
+    "former player",
+    "professional basketball executive",
+    "Žalgiris Kaunas",
+    "March 20, 1980",
+    "center position",
+    "6 ft 11 in",
+    "Lithuanian",
+    "2004",
+    "2001 NBA draft",
+    "2.11 m",
+    "San Antonio Spurs",
+    "55th overall pick",
+    "sports director"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "was selected by",
+    "served as",
+    "played the position of",
+    "was selected with",
+    "has height of",
+    "has been a member since",
+    "was selected in",
+    "is a member of"
+  ],
+  "relations": [
+    [
+      "Robertas Javtokas",
+      "is a",
+      "Lithuanian professional basketball executive"
+    ],
+    [
+      "Robertas Javtokas",
+      "played the position of",
+      "center position"
+    ],
+    [
+      "Robertas Javtokas",
+      "has been a member since",
+      "2004"
+    ],
+    [
+      "Robertas Javtokas",
+      "has height of",
+      "6 ft 11 in"
+    ],
+    [
+      "Robertas Javtokas",
+      "has height of",
+      "2.11 m"
+    ],
+    [
+      "Robertas Javtokas",
+      "is a member of",
+      "senior men's Lithuanian national team"
+    ],
+    [
+      "Robertas Javtokas",
+      "is born on",
+      "March 20, 1980"
+    ],
+    [
+      "Robertas Javtokas",
+      "was selected with",
+      "55th overall pick"
+    ],
+    [
+      "Robertas Javtokas",
+      "was selected in",
+      "2001 NBA draft"
+    ],
+    [
+      "Robertas Javtokas",
+      "served as",
+      "sports director of Žalgiris Kaunas"
+    ],
+    [
+      "Robertas Javtokas",
+      "was selected by",
+      "San Antonio Spurs"
+    ],
+    [
+      "Robertas Javtokas",
+      "is a",
+      "former player"
+    ]
+  ]
+}

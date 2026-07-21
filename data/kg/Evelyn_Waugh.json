@@ -1,0 +1,199 @@
+{
+  "entities": [
+    "biographies",
+    "first marriage",
+    "Evelyn Waugh",
+    "A Handful of Dust",
+    "Second World War",
+    "country house society",
+    "Catholicism",
+    "novels",
+    "travel books",
+    "journalist",
+    "vernacular Mass",
+    "Decline and Fall",
+    "health",
+    "Oxford",
+    "20th century",
+    "English writer",
+    "Abyssinia",
+    "Hertford College",
+    "Royal Horse Guards",
+    "schoolmaster",
+    "book reviewer",
+    "British armed forces",
+    "Second Vatican Council",
+    "mental breakdown",
+    "television",
+    "Royal Marines",
+    "postwar world",
+    "Lancing College",
+    "1935 Italian invasion",
+    "Brideshead Revisited",
+    "film",
+    "Brideshead Revisited (1981)",
+    "Arthur Evelyn St. John Waugh",
+    "Sword of Honour",
+    "welfare state culture"
+  ],
+  "edges": [
+    "worked as",
+    "served in",
+    "converted to",
+    "acquired a following through",
+    "reported from",
+    "wrote",
+    "was affected by",
+    "opposed",
+    "experienced",
+    "was educated at",
+    "developed a taste for",
+    "is recognised as",
+    "is",
+    "was featured in",
+    "disliked",
+    "was"
+  ],
+  "relations": [
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "Decline and Fall"
+    ],
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "Brideshead Revisited"
+    ],
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "A Handful of Dust"
+    ],
+    [
+      "Evelyn Waugh",
+      "was",
+      "English writer"
+    ],
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "travel books"
+    ],
+    [
+      "Evelyn Waugh",
+      "was educated at",
+      "Hertford College"
+    ],
+    [
+      "Evelyn Waugh",
+      "is recognised as",
+      "one of the great prose stylists of the English language in the 20th century"
+    ],
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "Sword of Honour"
+    ],
+    [
+      "Evelyn Waugh",
+      "was",
+      "book reviewer"
+    ],
+    [
+      "Evelyn Waugh",
+      "served in",
+      "British armed forces"
+    ],
+    [
+      "Evelyn Waugh",
+      "was educated at",
+      "Oxford"
+    ],
+    [
+      "Evelyn Waugh",
+      "reported from",
+      "Abyssinia"
+    ],
+    [
+      "Evelyn Waugh",
+      "was featured in",
+      "Brideshead Revisited (1981)"
+    ],
+    [
+      "Evelyn Waugh",
+      "served in",
+      "Royal Horse Guards"
+    ],
+    [
+      "Evelyn Waugh",
+      "was educated at",
+      "Lancing College"
+    ],
+    [
+      "Evelyn Waugh",
+      "acquired a following through",
+      "film and television versions of his works"
+    ],
+    [
+      "Evelyn Waugh",
+      "worked as",
+      "schoolmaster"
+    ],
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "novels"
+    ],
+    [
+      "Evelyn Waugh",
+      "was affected by",
+      "decline of his health"
+    ],
+    [
+      "Evelyn Waugh",
+      "wrote",
+      "biographies"
+    ],
+    [
+      "Evelyn Waugh",
+      "converted to",
+      "Catholicism"
+    ],
+    [
+      "Evelyn Waugh",
+      "disliked",
+      "welfare state culture"
+    ],
+    [
+      "Evelyn Waugh",
+      "developed a taste for",
+      "country house society"
+    ],
+    [
+      "Evelyn Waugh",
+      "served in",
+      "Royal Marines"
+    ],
+    [
+      "Evelyn Waugh",
+      "is",
+      "Arthur Evelyn St. John Waugh"
+    ],
+    [
+      "Evelyn Waugh",
+      "opposed",
+      "Second Vatican Council"
+    ],
+    [
+      "Evelyn Waugh",
+      "was",
+      "journalist"
+    ],
+    [
+      "Evelyn Waugh",
+      "experienced",
+      "mental breakdown"
+    ]
+  ]
+}

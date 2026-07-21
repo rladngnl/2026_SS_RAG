@@ -1,0 +1,61 @@
+{
+  "entities": [
+    "literature",
+    "1991",
+    "mathematics",
+    "science",
+    "USSR State Prize",
+    "architecture",
+    "arts",
+    "September 1966",
+    "Soviet Union"
+  ],
+  "edges": [
+    "recognised contributions in",
+    "was dissolved in",
+    "is awarded by",
+    "was established in"
+  ],
+  "relations": [
+    [
+      "USSR State Prize",
+      "was dissolved in",
+      "1991"
+    ],
+    [
+      "USSR State Prize",
+      "is awarded by",
+      "Soviet Union"
+    ],
+    [
+      "USSR State Prize",
+      "recognised contributions in",
+      "arts"
+    ],
+    [
+      "USSR State Prize",
+      "recognised contributions in",
+      "architecture"
+    ],
+    [
+      "USSR State Prize",
+      "recognised contributions in",
+      "literature"
+    ],
+    [
+      "USSR State Prize",
+      "recognised contributions in",
+      "mathematics"
+    ],
+    [
+      "USSR State Prize",
+      "was established in",
+      "September 1966"
+    ],
+    [
+      "USSR State Prize",
+      "recognised contributions in",
+      "science"
+    ]
+  ]
+}

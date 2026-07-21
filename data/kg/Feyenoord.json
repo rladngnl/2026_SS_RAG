@@ -1,0 +1,170 @@
+{
+  "entities": [
+    "Hand in Hand",
+    "Wilhelmina",
+    "De Klassieker",
+    "European Cup",
+    "SC Feijenoord",
+    "De Kuip",
+    "Coen Moulijn",
+    "Sportclub Feyenoord",
+    "PSV Eindhoven",
+    "UEFA Cups",
+    "Rotterdam",
+    "Eerste Klasse",
+    "Dutch football championships",
+    "Feyenoord Handball",
+    "Feyenoord Futsal",
+    "Eredivisie",
+    "Feyenoord",
+    "Willem van Hanegem",
+    "Stadion Feijenoord",
+    "Borussia Dortmund",
+    "Johan Cruyff Shields",
+    "Ove Kindvall",
+    "Intercontinental Cup",
+    "KNVB Cups",
+    "Ajax"
+  ],
+  "edges": [
+    "changed to",
+    "is known as",
+    "has an anthem called",
+    "has a home ground called",
+    "has won",
+    "was founded as",
+    "plays in",
+    "has a longstanding rivalry with",
+    "is the only team from",
+    "has played continuously in",
+    "includes",
+    "is nicknamed",
+    "has been the first Dutch club to win",
+    "won",
+    "ended",
+    "is based in",
+    "is one of the country's"
+  ],
+  "relations": [
+    [
+      "Feyenoord",
+      "ended",
+      "an 18-year league title drought"
+    ],
+    [
+      "Stadion Feijenoord",
+      "is nicknamed",
+      "De Kuip"
+    ],
+    [
+      "Feyenoord",
+      "changed to",
+      "SC Feijenoord"
+    ],
+    [
+      "Feyenoord",
+      "is one of the country's",
+      "big three clubs"
+    ],
+    [
+      "Feyenoord",
+      "plays in",
+      "Eredivisie"
+    ],
+    [
+      "Feyenoord",
+      "has won",
+      "KNVB Cups"
+    ],
+    [
+      "Feyenoord",
+      "has a home ground called",
+      "Stadion Feijenoord"
+    ],
+    [
+      "Feyenoord",
+      "is known as",
+      "a people's club"
+    ],
+    [
+      "Feyenoord",
+      "is the only team from",
+      "the Netherlands"
+    ],
+    [
+      "Feyenoord",
+      "has won",
+      "Dutch football championships"
+    ],
+    [
+      "Feyenoord",
+      "was founded as",
+      "Wilhelmina"
+    ],
+    [
+      "Feyenoord",
+      "includes",
+      "Feyenoord Handball"
+    ],
+    [
+      "Feyenoord",
+      "has an anthem called",
+      "Hand in Hand"
+    ],
+    [
+      "Feyenoord",
+      "has played continuously in",
+      "Eerste Klasse"
+    ],
+    [
+      "Feyenoord",
+      "includes",
+      "Feyenoord Futsal"
+    ],
+    [
+      "Feyenoord",
+      "includes",
+      "Sportclub Feyenoord"
+    ],
+    [
+      "Feyenoord",
+      "has won",
+      "Intercontinental Cup"
+    ],
+    [
+      "Feyenoord",
+      "has won",
+      "European Cup"
+    ],
+    [
+      "Feyenoord",
+      "has won",
+      "Johan Cruyff Shields"
+    ],
+    [
+      "Feyenoord",
+      "won",
+      "2002 UEFA Cup"
+    ],
+    [
+      "Feyenoord",
+      "is based in",
+      "Rotterdam"
+    ],
+    [
+      "Feyenoord",
+      "has been the first Dutch club to win",
+      "both the European Cup and the Intercontinental Cup"
+    ],
+    [
+      "Feyenoord",
+      "has a longstanding rivalry with",
+      "Ajax"
+    ],
+    [
+      "Feyenoord",
+      "has won",
+      "UEFA Cups"
+    ]
+  ]
+}

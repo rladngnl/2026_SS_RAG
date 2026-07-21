@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Czech First League",
+    "2020–21 season",
+    "Opava",
+    "Czech National Football League",
+    "Czech Republic",
+    "Slezský FC Opava"
+  ],
+  "edges": [
+    "is based in",
+    "was relegated from",
+    "plays in",
+    "was relegated at the end of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Slezský FC Opava",
+      "was relegated from",
+      "Czech First League"
+    ],
+    [
+      "Slezský FC Opava",
+      "is located in",
+      "Czech Republic"
+    ],
+    [
+      "Slezský FC Opava",
+      "was relegated at the end of",
+      "2020–21 season"
+    ],
+    [
+      "Slezský FC Opava",
+      "plays in",
+      "Czech National Football League"
+    ],
+    [
+      "Slezský FC Opava",
+      "is based in",
+      "Opava"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entities": [
+    "German",
+    "volleyball player",
+    "Christiane Fürst",
+    "29 March 1985"
+  ],
+  "edges": [
+    "was born on",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Christiane Fürst",
+      "was born on",
+      "29 March 1985"
+    ],
+    [
+      "Christiane Fürst",
+      "is a",
+      "volleyball player"
+    ],
+    [
+      "Christiane Fürst",
+      "is a",
+      "German"
+    ]
+  ]
+}

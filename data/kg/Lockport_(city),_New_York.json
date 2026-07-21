@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "population",
+    "Erie Canal",
+    "Lockport",
+    "Lock Numbers 34 and 35",
+    "Niagara Escarpment",
+    "Buffalo–Niagara Falls metropolitan area",
+    "Buffalo",
+    "20,876",
+    "2020 census",
+    "Niagara County",
+    "New York"
+  ],
+  "edges": [
+    "is associated with the",
+    "is a city in",
+    "is the county seat of",
+    "is a natural feature of",
+    "is part of the",
+    "had a population of",
+    "are located within",
+    "derives its name from",
+    "is a northern suburb of",
+    "reported a population of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Lock Numbers 34 and 35",
+      "are located within",
+      "Lockport"
+    ],
+    [
+      "Lockport",
+      "is the county seat of",
+      "Niagara County"
+    ],
+    [
+      "Niagara Escarpment",
+      "is a natural feature of",
+      "Lockport"
+    ],
+    [
+      "Lockport",
+      "is associated with the",
+      "Erie Canal"
+    ],
+    [
+      "Lockport",
+      "is a northern suburb of",
+      "Buffalo"
+    ],
+    [
+      "Lockport",
+      "is a city in",
+      "Niagara County"
+    ],
+    [
+      "Lockport",
+      "is located in",
+      "New York"
+    ],
+    [
+      "Lockport",
+      "derives its name from",
+      "Lock Numbers 34 and 35"
+    ],
+    [
+      "Lockport",
+      "is part of the",
+      "Buffalo–Niagara Falls metropolitan area"
+    ],
+    [
+      "2020 census",
+      "reported a population of",
+      "20,876"
+    ],
+    [
+      "Lockport",
+      "had a population of",
+      "20,876"
+    ]
+  ]
+}

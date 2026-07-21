@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "2000",
+    "1992",
+    "Wembley Stadium",
+    "2008 Olympic games",
+    "Giampaolo Pazzini",
+    "Chile",
+    "Italy national under-21 football team",
+    "1986",
+    "Spain",
+    "Italian Football Federation",
+    "2013",
+    "England Under-21s",
+    "Azzurrini",
+    "1994",
+    "2008 Toulon Tournament",
+    "24 March 2007",
+    "UEFA European Under-21 Championship",
+    "1996",
+    "2004",
+    "1990"
+  ],
+  "edges": [
+    "competes in",
+    "is the most successful nation in the history of",
+    "is controlled by",
+    "scored all 3 goals for",
+    "beat",
+    "played against",
+    "won",
+    "played the first match at",
+    "was runner-up in"
+  ],
+  "relations": [
+    [
+      "Italy national under-21 football team",
+      "was runner-up in",
+      "1986"
+    ],
+    [
+      "Italy national under-21 football team",
+      "beat",
+      "Chile"
+    ],
+    [
+      "Italy national under-21 football team",
+      "won",
+      "2004"
+    ],
+    [
+      "Italy national under-21 football team",
+      "won",
+      "1992"
+    ],
+    [
+      "Italy national under-21 football team",
+      "is controlled by",
+      "Italian Football Federation"
+    ],
+    [
+      "Italy national under-21 football team",
+      "won",
+      "2008 Toulon Tournament"
+    ],
+    [
+      "Italy national under-21 football team",
+      "won",
+      "1994"
+    ],
+    [
+      "Italy national under-21 football team",
+      "is the most successful nation in the history of",
+      "UEFA European Under-21 Championship"
+    ],
+    [
+      "Italy national under-21 football team",
+      "was runner-up in",
+      "2013"
+    ],
+    [
+      "Italy national under-21 football team",
+      "won",
+      "1996"
+    ],
+    [
+      "Giampaolo Pazzini",
+      "scored all 3 goals for",
+      "Azzurrini"
+    ],
+    [
+      "Italy national under-21 football team",
+      "won",
+      "2000"
+    ],
+    [
+      "Italy national under-21 football team",
+      "played the first match at",
+      "Wembley Stadium"
+    ],
+    [
+      "Italy national under-21 football team",
+      "played against",
+      "England Under-21s"
+    ],
+    [
+      "Italy national under-21 football team",
+      "competes in",
+      "UEFA European Under-21 Championship"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "entities": [
+    "15 April 2023",
+    "HSSK",
+    "Sudanese civil war",
+    "Sudan",
+    "Khartoum International Airport",
+    "25 March 2025",
+    "Khartoum",
+    "Battle of Khartoum",
+    "KRT"
+  ],
+  "edges": [
+    "has IATA code",
+    "has ICAO code",
+    "was involved in",
+    "was shut down until",
+    "was shut down from",
+    "occurred during",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Khartoum International Airport",
+      "was shut down from",
+      "15 April 2023"
+    ],
+    [
+      "Khartoum International Airport",
+      "has IATA code",
+      "KRT"
+    ],
+    [
+      "Khartoum International Airport",
+      "has ICAO code",
+      "HSSK"
+    ],
+    [
+      "Khartoum International Airport",
+      "was shut down until",
+      "25 March 2025"
+    ],
+    [
+      "Battle of Khartoum",
+      "occurred during",
+      "Sudanese civil war"
+    ],
+    [
+      "Khartoum International Airport",
+      "was involved in",
+      "Battle of Khartoum"
+    ],
+    [
+      "Khartoum International Airport",
+      "is located in",
+      "Khartoum"
+    ]
+  ]
+}

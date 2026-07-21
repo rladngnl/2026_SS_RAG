@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "England",
+    "Sunderland",
+    "First Division",
+    "FA Charity Shield",
+    "Football League Cup",
+    "FA Cup",
+    "Newcastle United",
+    "Tyne–Wear derby",
+    "Premier League",
+    "Tyne and Wear",
+    "Roker Park",
+    "Stadium of Light",
+    "Sunderland Association Football Club",
+    "Black Cats"
+  ],
+  "edges": [
+    "moved from",
+    "is in",
+    "has a rivalry with",
+    "has been runners-up in",
+    "has won",
+    "is located in",
+    "is nicknamed",
+    "contests",
+    "competes in",
+    "is based in",
+    "plays home games at"
+  ],
+  "relations": [
+    [
+      "Sunderland Association Football Club",
+      "has been runners-up in",
+      "Football League Cup"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "moved from",
+      "Roker Park"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "is nicknamed",
+      "Black Cats"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "contests",
+      "Tyne–Wear derby"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "plays home games at",
+      "Stadium of Light"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "has won",
+      "FA Cup"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "has a rivalry with",
+      "Newcastle United"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "has won",
+      "FA Charity Shield"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "is based in",
+      "Sunderland"
+    ],
+    [
+      "Sunderland Association Football Club",
+      "is located in",
+      "Tyne and Wear"
+    ]
+  ]
+}

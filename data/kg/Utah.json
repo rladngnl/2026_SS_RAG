@@ -1,0 +1,339 @@
+{
+  "entities": [
+    "Utahns",
+    "Mormons",
+    "Ute",
+    "Nevada",
+    "LDS Church",
+    "2020 U.S. census",
+    "Spanish",
+    "Mountain West",
+    "Arizona",
+    "Church of Jesus Christ of Latter-day Saints",
+    "Indigenous peoples",
+    "Washington County",
+    "Four Corners",
+    "Utah",
+    "Colorado",
+    "droughts",
+    "Idaho",
+    "Western United States",
+    "Mexico",
+    "Mexican–American War",
+    "Wyoming",
+    "Salt Lake City",
+    "New Mexico",
+    "Great Basin",
+    "Mormon Trail",
+    "water security",
+    "Navajo",
+    "Utah Territory",
+    "St. George",
+    "Puebloans",
+    "climate change",
+    "New Spain"
+  ],
+  "edges": [
+    "are impacting",
+    "is a landlocked state in",
+    "is the 11th-least densely populated",
+    "is the only state where a majority of the population belongs to a single church",
+    "include",
+    "were fleeing marginalization and persecution in",
+    "has urban development concentrated in",
+    "are known as",
+    "confirmed the fastest population growth in the nation since",
+    "are mostly",
+    "were early European settlers in",
+    "was the fastest-growing metropolitan area in",
+    "is the 30th-most populous",
+    "has a highly diversified economy with major sectors including",
+    "are members of",
+    "have been increasing in frequency and severity in",
+    "has been inhabited by",
+    "has become more",
+    "borders",
+    "were the first Europeans to arrive in",
+    "greatly influences",
+    "has been one of the fastest growing states since",
+    "has a population of just over",
+    "is the 13th-largest by area",
+    "has the 12th-highest median average income",
+    "has its world headquarters in",
+    "included what later became",
+    "is one of the",
+    "was annexed by",
+    "has the least income inequality of any U.S. state",
+    "lies in the",
+    "are putting a further strain on",
+    "was admitted as the 45th state after agreeing to outlaw",
+    "became part of"
+  ],
+  "relations": [
+    [
+      "Utah",
+      "is one of the",
+      "Four Corners"
+    ],
+    [
+      "Utah",
+      "borders",
+      "New Mexico"
+    ],
+    [
+      "Utah",
+      "lies in the",
+      "Great Basin"
+    ],
+    [
+      "Utah",
+      "borders",
+      "Idaho"
+    ],
+    [
+      "Utah",
+      "has a population of just over",
+      "three million"
+    ],
+    [
+      "Utah",
+      "has been inhabited by",
+      "Indigenous peoples"
+    ],
+    [
+      "LDS Church",
+      "greatly influences",
+      "Utah's politics"
+    ],
+    [
+      "St. George",
+      "was the fastest-growing metropolitan area in",
+      "the United States"
+    ],
+    [
+      "Utah",
+      "borders",
+      "Colorado"
+    ],
+    [
+      "Utah",
+      "borders",
+      "Arizona"
+    ],
+    [
+      "Mormons",
+      "are members of",
+      "LDS Church"
+    ],
+    [
+      "LDS Church",
+      "greatly influences",
+      "Utah's culture"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "education"
+    ],
+    [
+      "Utah Territory",
+      "included what later became",
+      "Colorado"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "tourism"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "transportation"
+    ],
+    [
+      "Mormons",
+      "were early European settlers in",
+      "Utah"
+    ],
+    [
+      "Utah",
+      "was admitted as the 45th state after agreeing to outlaw",
+      "polygamy"
+    ],
+    [
+      "Utah",
+      "became part of",
+      "New Spain"
+    ],
+    [
+      "droughts",
+      "have been increasing in frequency and severity in",
+      "Utah"
+    ],
+    [
+      "droughts",
+      "are impacting",
+      "Utah's economy"
+    ],
+    [
+      "Utah",
+      "is the only state where a majority of the population belongs to a single church",
+      "LDS Church"
+    ],
+    [
+      "Utah",
+      "is a landlocked state in",
+      "Western United States"
+    ],
+    [
+      "droughts",
+      "are putting a further strain on",
+      "Utah's water security"
+    ],
+    [
+      "Indigenous peoples",
+      "include",
+      "Puebloans"
+    ],
+    [
+      "Spanish",
+      "were the first Europeans to arrive in",
+      "Utah"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "information technology and research"
+    ],
+    [
+      "Indigenous peoples",
+      "include",
+      "Ute"
+    ],
+    [
+      "Utah",
+      "has the least income inequality of any U.S. state",
+      "Utah"
+    ],
+    [
+      "Utah",
+      "was annexed by",
+      "the U.S."
+    ],
+    [
+      "Utah",
+      "has urban development concentrated in",
+      "Wasatch Front"
+    ],
+    [
+      "Utah",
+      "borders",
+      "Nevada"
+    ],
+    [
+      "Mormons",
+      "were fleeing marginalization and persecution in",
+      "the United States"
+    ],
+    [
+      "Utah",
+      "has become more",
+      "religiously diverse"
+    ],
+    [
+      "Utah",
+      "is the 30th-most populous",
+      "Utah"
+    ],
+    [
+      "People from Utah",
+      "are known as",
+      "Utahns"
+    ],
+    [
+      "LDS Church",
+      "has its world headquarters in",
+      "Salt Lake City"
+    ],
+    [
+      "Utah",
+      "has become more",
+      "secular"
+    ],
+    [
+      "Utah",
+      "has been one of the fastest growing states since",
+      "2000"
+    ],
+    [
+      "Utah",
+      "borders",
+      "Wyoming"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "mining"
+    ],
+    [
+      "Indigenous peoples",
+      "include",
+      "Navajo"
+    ],
+    [
+      "Utah Territory",
+      "included what later became",
+      "Nevada"
+    ],
+    [
+      "LDS Church",
+      "greatly influences",
+      "Utah's daily life"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "government services"
+    ],
+    [
+      "Utah",
+      "has the 12th-highest median average income",
+      "Utah"
+    ],
+    [
+      "Utah",
+      "has urban development concentrated in",
+      "Washington County"
+    ],
+    [
+      "Utah",
+      "is the 13th-largest by area",
+      "Utah"
+    ],
+    [
+      "2020 U.S. census",
+      "confirmed the fastest population growth in the nation since",
+      "2010"
+    ],
+    [
+      "Utah",
+      "has a highly diversified economy with major sectors including",
+      "multi-level marketing"
+    ],
+    [
+      "Utah",
+      "is the 11th-least densely populated",
+      "Utah"
+    ],
+    [
+      "Utahns",
+      "are mostly",
+      "Mormons"
+    ],
+    [
+      "Utah",
+      "became part of",
+      "Mexico"
+    ]
+  ]
+}

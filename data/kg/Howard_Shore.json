@@ -1,0 +1,168 @@
+{
+  "entities": [
+    "The Hobbit",
+    "David Cronenberg",
+    "October 18, 1946",
+    "Peter Jackson",
+    "The Fly",
+    "1975",
+    "film scores",
+    "Grammy Awards",
+    "Eurythmics",
+    "Annie Lennox",
+    "Golden Globe Awards",
+    "Canadian",
+    "Paris",
+    "Genie Awards",
+    "Fran Walsh",
+    "Academy Awards",
+    "Fanfare for the Wanamaker Organ",
+    "1980",
+    "July 2, 2008",
+    "Théâtre du Châtelet",
+    "Canadian Screen Awards",
+    "Saturday Night Live",
+    "composer",
+    "orchestrator",
+    "Into the West",
+    "The Lord of the Rings",
+    "Martin Scorsese",
+    "Swiss 21st Century Symphony Orchestra",
+    "Howard Shore",
+    "conductor",
+    "Philadelphia Orchestra",
+    "J. R. R. Tolkien"
+  ],
+  "edges": [
+    "was shared with",
+    "premiered at",
+    "is a",
+    "collaborated with",
+    "is based on the plot of",
+    "is based on the works of",
+    "composed",
+    "composed for",
+    "composed the scores for",
+    "shared an award for the song",
+    "premiered on",
+    "won",
+    "is a consistent collaborator with"
+  ],
+  "relations": [
+    [
+      "Into the West",
+      "was shared with",
+      "Annie Lennox"
+    ],
+    [
+      "Howard Shore",
+      "collaborated with",
+      "Martin Scorsese"
+    ],
+    [
+      "Howard Shore",
+      "premiered at",
+      "Théâtre du Châtelet"
+    ],
+    [
+      "Howard Shore",
+      "composed the scores for",
+      "The Lord of the Rings"
+    ],
+    [
+      "The Fly",
+      "premiered on",
+      "July 2, 2008"
+    ],
+    [
+      "Howard Shore",
+      "won",
+      "three Golden Globe Awards"
+    ],
+    [
+      "Howard Shore",
+      "is a",
+      "Canadian composer"
+    ],
+    [
+      "The Lord of the Rings",
+      "is based on the works of",
+      "J. R. R. Tolkien"
+    ],
+    [
+      "The Fly",
+      "is based on the plot of",
+      "Cronenberg's 1986 film"
+    ],
+    [
+      "Howard Shore",
+      "won",
+      "nine Canadian Screen Awards"
+    ],
+    [
+      "Howard Shore",
+      "shared an award for the song",
+      "Into the West"
+    ],
+    [
+      "Howard Shore",
+      "composed the scores for",
+      "The Hobbit"
+    ],
+    [
+      "Into the West",
+      "was shared with",
+      "Fran Walsh"
+    ],
+    [
+      "Howard Shore",
+      "is a",
+      "orchestrator"
+    ],
+    [
+      "Howard Shore",
+      "won",
+      "four Grammy Awards"
+    ],
+    [
+      "Howard Shore",
+      "is a consistent collaborator with",
+      "David Cronenberg"
+    ],
+    [
+      "The Hobbit",
+      "is based on the works of",
+      "J. R. R. Tolkien"
+    ],
+    [
+      "Howard Shore",
+      "composed for",
+      "Saturday Night Live"
+    ],
+    [
+      "Howard Shore",
+      "won",
+      "three Genie Awards"
+    ],
+    [
+      "Howard Shore",
+      "composed",
+      "The Fly"
+    ],
+    [
+      "Howard Shore",
+      "is a",
+      "conductor"
+    ],
+    [
+      "Howard Shore",
+      "won",
+      "three Academy Awards"
+    ],
+    [
+      "Howard Shore",
+      "composed the scores for",
+      "over 80 films"
+    ]
+  ]
+}

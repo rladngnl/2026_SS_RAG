@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "1975-08-07",
+    "Danijel Hrman",
+    "Croatian",
+    "midfielder",
+    "football"
+  ],
+  "edges": [
+    "was born on",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Danijel Hrman",
+      "was born on",
+      "1975-08-07"
+    ],
+    [
+      "Danijel Hrman",
+      "is a",
+      "Croatian"
+    ],
+    [
+      "Danijel Hrman",
+      "is a",
+      "football midfielder"
+    ]
+  ]
+}

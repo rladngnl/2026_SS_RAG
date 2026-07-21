@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "David Madden",
+    "professional footballer",
+    "footballer",
+    "retired",
+    "1990 FA Cup Final",
+    "English",
+    "Crystal Palace",
+    "6 January 1963"
+  ],
+  "edges": [
+    "played for",
+    "was born on",
+    "played in",
+    "is"
+  ],
+  "relations": [
+    [
+      "David Madden",
+      "is",
+      "English"
+    ],
+    [
+      "David Madden",
+      "played in",
+      "1990 FA Cup Final"
+    ],
+    [
+      "David Madden",
+      "played for",
+      "Crystal Palace"
+    ],
+    [
+      "David Madden",
+      "is",
+      "retired"
+    ],
+    [
+      "David Madden",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "David Madden",
+      "was born on",
+      "6 January 1963"
+    ]
+  ]
+}

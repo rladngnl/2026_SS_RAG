@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Eribelto Manoel Reino",
+    "lawyer",
+    "SJP",
+    "Aeroportos Paulistas",
+    "Brazil",
+    "accountant",
+    "economist",
+    "politician",
+    "SBSR",
+    "ASP",
+    "São José do Rio Preto",
+    "São José do Rio Preto–Prof. Eribelto Manoel Reino State Airport"
+  ],
+  "edges": [
+    "was a",
+    "is in",
+    "is also known as",
+    "is operated by",
+    "is named after",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "ASP",
+      "is also known as",
+      "Aeroportos Paulistas"
+    ],
+    [
+      "São José do Rio Preto–Prof. Eribelto Manoel Reino State Airport",
+      "is in",
+      "Brazil"
+    ],
+    [
+      "Eribelto Manoel Reino",
+      "was a",
+      "lawyer"
+    ],
+    [
+      "São José do Rio Preto–Prof. Eribelto Manoel Reino State Airport",
+      "is named after",
+      "Eribelto Manoel Reino"
+    ],
+    [
+      "Eribelto Manoel Reino",
+      "was a",
+      "politician"
+    ],
+    [
+      "São José do Rio Preto–Prof. Eribelto Manoel Reino State Airport",
+      "is located in",
+      "São José do Rio Preto"
+    ],
+    [
+      "São José do Rio Preto–Prof. Eribelto Manoel Reino State Airport",
+      "is operated by",
+      "ASP"
+    ],
+    [
+      "Eribelto Manoel Reino",
+      "was a",
+      "accountant"
+    ],
+    [
+      "Eribelto Manoel Reino",
+      "was a",
+      "economist"
+    ]
+  ]
+}

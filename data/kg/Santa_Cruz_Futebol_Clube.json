@@ -1,0 +1,184 @@
+{
+  "entities": [
+    "Nunes",
+    "Clube Náutico Capibaribe",
+    "black",
+    "Clássico das Multidões",
+    "Fita Azul",
+    "Supercampeonato Pernambucano",
+    "Fumanchu",
+    "Estádio do Arruda",
+    "Campeonato Brasileiro – Série A",
+    "Copa Pernambuco",
+    "Santa Cruz",
+    "Givanildo",
+    "red",
+    "Recife",
+    "Campeonato Pernambucano",
+    "Copa do Nordeste",
+    "Ramón",
+    "Sport Club do Recife",
+    "Clássico das Emoções",
+    "Santa Cruz Futebol Clube",
+    "Campeonato Brasileiro – Série C",
+    "Copa Sudamericana",
+    "white"
+  ],
+  "edges": [
+    "has official colors of",
+    "has achievements in",
+    "reached the milestone of",
+    "had its best finish in",
+    "plays the Clássico das Emoções with",
+    "was the first club in",
+    "is nicknamed",
+    "won",
+    "plays its matches at",
+    "plays the Clássico das Multidões with",
+    "is better known as",
+    "has state titles in",
+    "has sporting rivals with",
+    "is based in",
+    "is the sixth largest in",
+    "was founded on",
+    "is the second most popular club in",
+    "is the only three-time",
+    "won state titles between",
+    "came in fourth place in",
+    "has wins in",
+    "inaugurated",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Santa Cruz Futebol Clube",
+      "plays the Clássico das Emoções with",
+      "Clube Náutico Capibaribe"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "won state titles between",
+      "1969 and 1983"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is the only three-time",
+      "Pernambuco Super Champion"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has sporting rivals with",
+      "Sport Club do Recife"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "plays its matches at",
+      "Estádio do Arruda"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "came in fourth place in",
+      "1975"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "reached the milestone of",
+      "10,000 goals scored"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is nicknamed",
+      "O Mais Querido das Multidões"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "won",
+      "1979 Fita Azul"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is the second most popular club in",
+      "Pernambuco"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has wins in",
+      "Copa Pernambuco"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has achievements in",
+      "Campeonato Brasileiro – Série C"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "inaugurated",
+      "Estádio do Arruda"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is better known as",
+      "Santa Cruz"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "came in fourth place in",
+      "1960"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is based in",
+      "Recife"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has sporting rivals with",
+      "Clube Náutico Capibaribe"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has achievements in",
+      "Copa do Nordeste"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "participated in",
+      "2016 Copa Sudamericana"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "was the first club in",
+      "the Northeast Region of Brazil"
+    ],
+    [
+      "Estádio do Arruda",
+      "is the sixth largest in",
+      "Brazil"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "was founded on",
+      "3 February 1914"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has state titles in",
+      "Campeonato Pernambucano"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "had its best finish in",
+      "Campeonato Brasileiro – Série A"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "plays the Clássico das Multidões with",
+      "Sport Club do Recife"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has official colors of",
+      "black, white and red"
+    ]
+  ]
+}

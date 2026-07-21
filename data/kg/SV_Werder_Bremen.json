@@ -1,0 +1,128 @@
+{
+  "entities": [
+    "DFB-Pokal",
+    "Nordderby",
+    "Borussia Dortmund",
+    "Bremen",
+    "Weserstadion",
+    "Bayern Munich",
+    "Hamburger SV",
+    "April 2022",
+    "Werder Bremen",
+    "Bundesliga",
+    "DFL-Ligapokal",
+    "European Cup Winners' Cup",
+    "SV_Werder_Bremen",
+    "DFL-Supercup",
+    "Werder"
+  ],
+  "edges": [
+    "is known as",
+    "last won",
+    "shares the record for most seasons played in",
+    "are ranked",
+    "first German championship came in",
+    "latest championship came in",
+    "is known for",
+    "shares a rivalry with",
+    "had over",
+    "were runners-up in",
+    "have played at",
+    "won",
+    "have won",
+    "have been champions",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "SV_Werder_Bremen",
+      "first German championship came in",
+      "1964–65"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "have won",
+      "DFB-Pokal six times"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "competes in",
+      "Bundesliga"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "have won",
+      "DFL-Ligapokal once"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "have played at",
+      "Weserstadion since 1909"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "had over",
+      "40,000 members in April 2022"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "last won",
+      "DFB-Pokal in 2008–09"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "is known as",
+      "Nordderby"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "shares the record for most seasons played in",
+      "Bundesliga"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "have won",
+      "DFL-Supercup thrice"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "is known for",
+      "professional association football team"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "shares a rivalry with",
+      "Hamburger SV"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "won",
+      "1991–92 European Cup Winners' Cup"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "are ranked",
+      "third in the all-time Bundesliga table"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "have been champions",
+      "four times"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "latest championship came in",
+      "2003–04"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "were runners-up in",
+      "2008–09 UEFA Cup"
+    ],
+    [
+      "SV_Werder_Bremen",
+      "have won",
+      "European Cup Winners' Cup once"
+    ]
+  ]
+}

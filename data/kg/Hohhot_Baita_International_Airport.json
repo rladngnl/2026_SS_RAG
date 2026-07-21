@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "Wanbu Huayanjing Pagoda",
+    "ZBHH",
+    "12,722,692 passengers",
+    "Baita",
+    "HET",
+    "2025",
+    "China",
+    "Hohhot",
+    "Hohhot Baita International Airport",
+    "historical attractions",
+    "Inner Mongolia"
+  ],
+  "edges": [
+    "is in",
+    "is the year when",
+    "is one of the",
+    "served",
+    "is the largest airport in",
+    "is located",
+    "means",
+    "derives from",
+    "is named",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Wanbu Huayanjing Pagoda",
+      "is one of the",
+      "historical attractions"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "is located in",
+      "Hohhot"
+    ],
+    [
+      "Baita",
+      "means",
+      "White Pagoda"
+    ],
+    [
+      "Baita",
+      "derives from",
+      "Wanbu Huayanjing Pagoda"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "served",
+      "12,722,692 passengers"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "is the largest airport in",
+      "Inner Mongolia"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "is located",
+      "5.6 km south-east of Wanbu Huayanjing Pagoda"
+    ],
+    [
+      "2025",
+      "is the year when",
+      "Hohhot Baita International Airport served 12,722,692 passengers"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "is in",
+      "China"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "is named",
+      "Baita"
+    ],
+    [
+      "Hohhot Baita International Airport",
+      "is located",
+      "14.3 km east of downtown Hohhot"
+    ]
+  ]
+}

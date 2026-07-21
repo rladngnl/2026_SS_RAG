@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "Talcahuano",
+    "Estadio Huachipato-CAP Acero",
+    "Chilean professional football clubs",
+    "youth talent production",
+    "Southern Chile",
+    "steel mill",
+    "7 June 1947",
+    "youth Chilean champions",
+    "Chilean champions",
+    "Chilean top flight title",
+    "Chilean football club",
+    "academy",
+    "Chilean Primera División",
+    "Huachipato FC",
+    "U-20 Copa Libertadores"
+  ],
+  "edges": [
+    "is a",
+    "is one of",
+    "was founded by",
+    "is known for",
+    "is the only team from",
+    "plays in",
+    "was founded on",
+    "qualified for",
+    "qualified as",
+    "plays its home games at",
+    "won",
+    "has been",
+    "owns",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Huachipato FC",
+      "is known for",
+      "academy"
+    ],
+    [
+      "Huachipato FC",
+      "is known for",
+      "youth talent production"
+    ],
+    [
+      "Huachipato FC",
+      "plays its home games at",
+      "Estadio Huachipato-CAP Acero"
+    ],
+    [
+      "Huachipato FC",
+      "is one of",
+      "Chilean professional football clubs"
+    ],
+    [
+      "Huachipato FC",
+      "has been",
+      "Chilean champions"
+    ],
+    [
+      "Huachipato FC",
+      "is a",
+      "Chilean football club"
+    ],
+    [
+      "Huachipato FC",
+      "was founded on",
+      "7 June 1947"
+    ],
+    [
+      "Huachipato FC",
+      "is the only team from",
+      "Southern Chile"
+    ],
+    [
+      "Huachipato FC",
+      "qualified as",
+      "youth Chilean champions"
+    ],
+    [
+      "Huachipato FC",
+      "plays in",
+      "Chilean Primera División"
+    ],
+    [
+      "Huachipato FC",
+      "won",
+      "Chilean top flight title"
+    ],
+    [
+      "Huachipato FC",
+      "qualified for",
+      "U-20 Copa Libertadores"
+    ],
+    [
+      "Huachipato FC",
+      "is based in",
+      "Talcahuano"
+    ],
+    [
+      "Huachipato FC",
+      "owns",
+      "Estadio Huachipato-CAP Acero"
+    ],
+    [
+      "Huachipato FC",
+      "was founded by",
+      "workers of the steel mill"
+    ]
+  ]
+}

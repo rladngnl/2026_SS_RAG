@@ -1,0 +1,171 @@
+{
+  "entities": [
+    "basketball",
+    "handball",
+    "C.F. Os Belenenses",
+    "Lisbon",
+    "Azuis do Restelo",
+    "football",
+    "A Cruz de Cristo",
+    "Portugal",
+    "futsal",
+    "Azuis",
+    "Belém",
+    "Os Rapazes da Praia",
+    "UEFA Europa League",
+    "1945–46 Primeira Liga",
+    "Championship of Portugal",
+    "rugby union",
+    "Liga 3",
+    "Clube de Futebol Os Belenenses",
+    "O Belém",
+    "athletics",
+    "Primeira Liga",
+    "Estádio do Restelo",
+    "Os Pastéis",
+    "Portuguese Cup"
+  ],
+  "edges": [
+    "has won national championships in",
+    "is commonly known as",
+    "is based in",
+    "has won",
+    "was the first Portuguese team with",
+    "is the fifth most decorated team in",
+    "is the fourth club with the most podium finishes in",
+    "is best known for",
+    "is nicknamed",
+    "was founded in",
+    "won",
+    "competes in",
+    "is located in",
+    "was the first Portuguese club to participate in"
+  ],
+  "relations": [
+    [
+      "Estádio do Restelo",
+      "is located in",
+      "Belém"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is nicknamed",
+      "Azuis do Restelo"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "was the first Portuguese club to participate in",
+      "UEFA Europa League"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won national championships in",
+      "rugby union"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won",
+      "Portuguese Cup"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "was founded in",
+      "1919"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won national championships in",
+      "athletics"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won national championships in",
+      "basketball"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is based in",
+      "Estádio do Restelo"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is nicknamed",
+      "Os Rapazes da Praia"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is nicknamed",
+      "A Cruz de Cristo"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won",
+      "Championship of Portugal"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is best known for",
+      "football"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "won",
+      "1945–46 Primeira Liga"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "was the first Portuguese team with",
+      "a turf pitch and artificial lighting"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won national championships in",
+      "futsal"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is nicknamed",
+      "Os Pastéis"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "competes in",
+      "Liga 3"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won national championships in",
+      "football"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "has won national championships in",
+      "handball"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is nicknamed",
+      "Azuis"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is nicknamed",
+      "O Belém"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is commonly known as",
+      "Os Belenenses"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is the fourth club with the most podium finishes in",
+      "Primeira Liga"
+    ],
+    [
+      "C.F. Os Belenenses",
+      "is the fifth most decorated team in",
+      "Portuguese football"
+    ]
+  ]
+}

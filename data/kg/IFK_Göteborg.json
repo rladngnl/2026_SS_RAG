@@ -1,0 +1,149 @@
+{
+  "entities": [
+    "blue",
+    "Allsvenskan",
+    "Gothenburg",
+    "1982",
+    "Gamla Ullevi",
+    "Göteborgs Fotbollförbund",
+    "Idrottsföreningen Kamraterna Göteborg",
+    "Blåvitt",
+    "1987",
+    "Swedish championships",
+    "1977",
+    "UEFA Champions League",
+    "IFK Göteborg",
+    "2010s",
+    "1970s",
+    "1908",
+    "1982 to 1996",
+    "1985–86 European Cup",
+    "UEFA Cup",
+    "Jerring Award",
+    "1920s",
+    "Malmö FF",
+    "white"
+  ],
+  "edges": [
+    "reached the semi-finals of",
+    "is the only club team to have won",
+    "is affiliated with",
+    "has qualified for",
+    "most successful period was from",
+    "won the UEFA Cup in",
+    "has historical nickname",
+    "has the second most national cup titles with",
+    "has won",
+    "plays home games at",
+    "plays in",
+    "has club colours",
+    "has played in the Swedish first tier continuously since",
+    "won",
+    "won its first Swedish championship in",
+    "was founded in",
+    "is based in",
+    "has won at least one championship title in every decade since, except"
+  ],
+  "relations": [
+    [
+      "IFK Göteborg",
+      "was founded in",
+      "1904"
+    ],
+    [
+      "IFK Göteborg",
+      "has won",
+      "UEFA Cup"
+    ],
+    [
+      "IFK Göteborg",
+      "reached the semi-finals of",
+      "1985–86 European Cup"
+    ],
+    [
+      "IFK Göteborg",
+      "won",
+      "10 out of 15 Swedish championships"
+    ],
+    [
+      "IFK Göteborg",
+      "won the UEFA Cup in",
+      "1982"
+    ],
+    [
+      "IFK Göteborg",
+      "has club colours",
+      "blue and white"
+    ],
+    [
+      "IFK Göteborg",
+      "is based in",
+      "Gothenburg"
+    ],
+    [
+      "IFK Göteborg",
+      "most successful period was from",
+      "1982 to 1996"
+    ],
+    [
+      "IFK Göteborg",
+      "has the second most national cup titles with",
+      "eight"
+    ],
+    [
+      "IFK Göteborg",
+      "has won at least one championship title in every decade since, except",
+      "1920s, 1970s and 2010s"
+    ],
+    [
+      "IFK Göteborg",
+      "has historical nickname",
+      "Blåvitt"
+    ],
+    [
+      "IFK Göteborg",
+      "won the UEFA Cup in",
+      "1987"
+    ],
+    [
+      "IFK Göteborg",
+      "plays home games at",
+      "Gamla Ullevi"
+    ],
+    [
+      "IFK Göteborg",
+      "won its first Swedish championship in",
+      "1908"
+    ],
+    [
+      "IFK Göteborg",
+      "has qualified for",
+      "four group stages of the UEFA Champions League"
+    ],
+    [
+      "IFK Göteborg",
+      "is the only club team to have won",
+      "Jerring Award"
+    ],
+    [
+      "IFK Göteborg",
+      "is affiliated with",
+      "Göteborgs Fotbollförbund"
+    ],
+    [
+      "IFK Göteborg",
+      "plays in",
+      "Allsvenskan"
+    ],
+    [
+      "IFK Göteborg",
+      "has played in the Swedish first tier continuously since",
+      "1977"
+    ],
+    [
+      "IFK Göteborg",
+      "has won",
+      "18 Swedish championship titles"
+    ]
+  ]
+}

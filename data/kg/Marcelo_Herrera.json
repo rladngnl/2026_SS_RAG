@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "Argentine defender",
+    "Marcelo Herrera (footballer, born 1998)",
+    "Argentine midfielder",
+    "Club Atlético Vélez Sarsfield",
+    "Marcelo Herrera (footballer, born 1992)",
+    "San Lorenzo de Almagro",
+    "Marcelo Herrera (footballer, born 1966)",
+    "Club Atlético Lanús",
+    "Marcelo Herrera"
+  ],
+  "edges": [
+    "plays for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Marcelo Herrera (footballer, born 1992)",
+      "plays for",
+      "Club Atlético Lanús"
+    ],
+    [
+      "Marcelo Herrera (footballer, born 1998)",
+      "is",
+      "Argentine defender"
+    ],
+    [
+      "Marcelo Herrera (footballer, born 1966)",
+      "plays for",
+      "Club Atlético Vélez Sarsfield"
+    ],
+    [
+      "Marcelo Herrera (footballer, born 1992)",
+      "is",
+      "Argentine defender"
+    ],
+    [
+      "Marcelo Herrera (footballer, born 1966)",
+      "is",
+      "Argentine midfielder"
+    ],
+    [
+      "Marcelo Herrera (footballer, born 1998)",
+      "plays for",
+      "San Lorenzo de Almagro"
+    ]
+  ]
+}

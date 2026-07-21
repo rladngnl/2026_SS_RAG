@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "Italian",
+    "footballer",
+    "goalkeeper",
+    "12 November 2013",
+    "Giuseppe Casari",
+    "10 April 1922"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Giuseppe Casari",
+      "died on",
+      "12 November 2013"
+    ],
+    [
+      "Giuseppe Casari",
+      "played as",
+      "goalkeeper"
+    ],
+    [
+      "Giuseppe Casari",
+      "was born on",
+      "10 April 1922"
+    ],
+    [
+      "Giuseppe Casari",
+      "was",
+      "Italian footballer"
+    ]
+  ]
+}

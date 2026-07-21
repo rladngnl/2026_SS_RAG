@@ -1,0 +1,108 @@
+{
+  "entities": [
+    "1929–30",
+    "1984–85 season",
+    "Scaligeri",
+    "European Cup",
+    "January 2025",
+    "Associazione Calcio Hellas",
+    "Hellas Verona F.C.",
+    "Mastiffs",
+    "Della Scala",
+    "Italian champions",
+    "Hellas Verona",
+    "Verona",
+    "Presidio Investors",
+    "Serie B",
+    "Italian",
+    "UEFA Cup",
+    "Veneto",
+    "Scaligeri coat of arms",
+    "European competitions",
+    "Serie A",
+    "1957",
+    "yellow and blue",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "has colours",
+    "was a founder member of",
+    "is referred to as",
+    "acquired by",
+    "reached the final of",
+    "has played in",
+    "won in",
+    "was founded in",
+    "won",
+    "ruled",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Hellas Verona F.C.",
+      "reached the final of",
+      "Coppa Italia"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "has colours",
+      "yellow and blue"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "is referred to as",
+      "the Mastiffs"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "was a founder member of",
+      "Serie B"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "competes in",
+      "Serie B"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "won in",
+      "1984–85 season"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "was founded in",
+      "1903"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "has played in",
+      "European competitions"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "is based in",
+      "Verona"
+    ],
+    [
+      "Della Scala",
+      "ruled",
+      "Verona"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "won",
+      "Italian champions"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "acquired by",
+      "Presidio Investors"
+    ],
+    [
+      "Hellas Verona F.C.",
+      "is referred to as",
+      "the Scaligeri"
+    ]
+  ]
+}

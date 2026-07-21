@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "British mystery film",
+    "Donald Bull",
+    "1939",
+    "Thorold Dickinson",
+    "Leonard Gribble",
+    "The Arsenal Stadium Mystery",
+    "Alan Hyman",
+    "Patrick Kirwan",
+    "Greta Gynt",
+    "Leslie Banks"
+  ],
+  "edges": [
+    "was directed by",
+    "is a",
+    "was written by",
+    "stars",
+    "is adapted from",
+    "was released in"
+  ],
+  "relations": [
+    [
+      "The Arsenal Stadium Mystery",
+      "was directed by",
+      "Thorold Dickinson"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "stars",
+      "Greta Gynt"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "is adapted from",
+      "the 1939 novel of the same title by Leonard Gribble"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "was written by",
+      "Patrick Kirwan"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "was written by",
+      "Donald Bull"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "was written by",
+      "Alan Hyman"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "is a",
+      "British mystery film"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "stars",
+      "Leslie Banks"
+    ],
+    [
+      "The Arsenal Stadium Mystery",
+      "was released in",
+      "1939"
+    ]
+  ]
+}

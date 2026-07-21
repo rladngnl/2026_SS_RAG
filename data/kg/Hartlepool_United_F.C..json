@@ -1,0 +1,183 @@
+{
+  "entities": [
+    "2021 National League play-off final",
+    "2020–21",
+    "Darlington",
+    "2006–07",
+    "FA Amateur Cup",
+    "Brian Clough",
+    "England",
+    "Torquay United",
+    "North Eastern League",
+    "Sheffield Wednesday",
+    "Football League",
+    "2002–03",
+    "1993–94",
+    "2016–17",
+    "Joshie Fletcher",
+    "West Hartlepool",
+    "1990–91",
+    "Hartlepool United Football Club",
+    "Borough of Hartlepool",
+    "Victoria Park",
+    "Ritchie Humphreys",
+    "National League",
+    "Hartlepools United Football & Athletic Club Company Ltd",
+    "Hartlepool",
+    "Fourth Division",
+    "County Durham",
+    "Third Division North",
+    "2005",
+    "2012–13"
+  ],
+  "edges": [
+    "returned to",
+    "were renamed to",
+    "won",
+    "competes in",
+    "is located in",
+    "started his managerial career at",
+    "won promotion in",
+    "were relegated in",
+    "were elected into",
+    "is based in",
+    "spent years in",
+    "has main rival",
+    "beat",
+    "achieved promotion back to",
+    "played home games at",
+    "won promotions out of",
+    "is the leading scorer for",
+    "was founded as",
+    "holds the record for most appearances for",
+    "ended their run in",
+    "were relegated out of"
+  ],
+  "relations": [
+    [
+      "West Hartlepool",
+      "won",
+      "FA Amateur Cup"
+    ],
+    [
+      "Hartlepool",
+      "were relegated in",
+      "1993–94"
+    ],
+    [
+      "Hartlepool",
+      "were relegated in",
+      "2012–13"
+    ],
+    [
+      "Hartlepool United Football Club",
+      "is based in",
+      "Hartlepool"
+    ],
+    [
+      "Hartlepools United",
+      "were elected into",
+      "Football League"
+    ],
+    [
+      "Hartlepools United",
+      "spent years in",
+      "Third Division North"
+    ],
+    [
+      "Hartlepool",
+      "ended their run in",
+      "Football League"
+    ],
+    [
+      "Hartlepool",
+      "played home games at",
+      "Victoria Park"
+    ],
+    [
+      "Hartlepool United Football Club",
+      "was founded as",
+      "Hartlepools United Football & Athletic Club Company Ltd"
+    ],
+    [
+      "Hartlepool United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Hartlepool",
+      "beat",
+      "Torquay United"
+    ],
+    [
+      "Hartlepool",
+      "won promotions out of",
+      "fourth tier"
+    ],
+    [
+      "Hartlepool",
+      "achieved promotion back to",
+      "Football League"
+    ],
+    [
+      "Hartlepool United Football Club",
+      "competes in",
+      "National League"
+    ],
+    [
+      "Hartlepool United Football Club",
+      "is located in",
+      "County Durham"
+    ],
+    [
+      "Hartlepool",
+      "were relegated out of",
+      "Third Division"
+    ],
+    [
+      "Hartlepool",
+      "were renamed to",
+      "Hartlepool United"
+    ],
+    [
+      "Ritchie Humphreys",
+      "holds the record for most appearances for",
+      "Hartlepool"
+    ],
+    [
+      "Hartlepool",
+      "has main rival",
+      "Darlington"
+    ],
+    [
+      "Joshie Fletcher",
+      "is the leading scorer for",
+      "Hartlepool"
+    ],
+    [
+      "Brian Clough",
+      "started his managerial career at",
+      "Hartlepool"
+    ],
+    [
+      "Hartlepool",
+      "won promotion in",
+      "1967–68"
+    ],
+    [
+      "Hartlepool",
+      "won promotion in",
+      "1990–91"
+    ],
+    [
+      "Hartlepools United",
+      "were renamed to",
+      "Hartlepool"
+    ],
+    [
+      "Hartlepool",
+      "returned to",
+      "National League"
+    ]
+  ]
+}

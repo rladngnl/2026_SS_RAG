@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "August 2018",
+    "Celtic Boys Club",
+    "Glasgow",
+    "St Patrick's Sports Academy",
+    "under-19",
+    "Scotland",
+    "1990s",
+    "1960s",
+    "football teams",
+    "historic sexual abuse offences",
+    "Motherwell",
+    "under-9",
+    "Celtic F.C."
+  ],
+  "edges": [
+    "were committed from",
+    "is in",
+    "operates",
+    "helped more than",
+    "was involved in",
+    "was renamed in",
+    "were committed until",
+    "is near",
+    "was renamed to",
+    "was affiliated with",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Celtic Boys Club",
+      "was involved in",
+      "historic sexual abuse offences"
+    ],
+    [
+      "historic sexual abuse offences",
+      "were committed until",
+      "1990s"
+    ],
+    [
+      "Celtic Boys Club",
+      "was renamed to",
+      "St Patrick's Sports Academy"
+    ],
+    [
+      "St Patrick's Sports Academy",
+      "is based in",
+      "Motherwell"
+    ],
+    [
+      "Motherwell",
+      "is near",
+      "Glasgow"
+    ],
+    [
+      "Glasgow",
+      "is in",
+      "Scotland"
+    ],
+    [
+      "Celtic Boys Club",
+      "helped more than",
+      "50 players"
+    ],
+    [
+      "historic sexual abuse offences",
+      "were committed from",
+      "1960s"
+    ],
+    [
+      "Celtic Boys Club",
+      "was affiliated with",
+      "Celtic F.C."
+    ],
+    [
+      "Celtic Boys Club",
+      "was renamed in",
+      "August 2018"
+    ],
+    [
+      "Celtic Boys Club",
+      "operates",
+      "football teams"
+    ]
+  ]
+}

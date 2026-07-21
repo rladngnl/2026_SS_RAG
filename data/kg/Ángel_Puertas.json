@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Ángel Puertas",
+    "Argentina",
+    "Buenos Aires",
+    "football defender",
+    "Ángel Maximiliano Puertas"
+  ],
+  "edges": [
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Ángel Maximiliano Puertas",
+      "is a",
+      "football defender"
+    ],
+    [
+      "Ángel Maximiliano Puertas",
+      "is from",
+      "Buenos Aires"
+    ],
+    [
+      "Ángel Maximiliano Puertas",
+      "is from",
+      "Argentina"
+    ]
+  ]
+}

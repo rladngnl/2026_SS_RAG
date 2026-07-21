@@ -1,0 +1,48 @@
+{
+  "entities": [
+    "Germany U21 national team",
+    "Fortuna Düsseldorf",
+    "SC Bregenz",
+    "Germany",
+    "Werder Bremen",
+    "Lars Unger",
+    "Brinkumer SV",
+    "Southend United"
+  ],
+  "edges": [
+    "is a former professional footballer for",
+    "represented"
+  ],
+  "relations": [
+    [
+      "Lars Unger",
+      "is a former professional footballer for",
+      "Werder Bremen"
+    ],
+    [
+      "Lars Unger",
+      "is a former professional footballer for",
+      "Southend United"
+    ],
+    [
+      "Lars Unger",
+      "is a former professional footballer for",
+      "Brinkumer SV"
+    ],
+    [
+      "Lars Unger",
+      "is a former professional footballer for",
+      "SC Bregenz"
+    ],
+    [
+      "Lars Unger",
+      "is a former professional footballer for",
+      "Fortuna Düsseldorf"
+    ],
+    [
+      "Lars Unger",
+      "represented",
+      "Germany U21 national team"
+    ]
+  ]
+}

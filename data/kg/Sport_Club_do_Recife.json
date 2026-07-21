@@ -1,0 +1,202 @@
+{
+  "entities": [
+    "1987 Campeonato Brasileiro",
+    "basketball",
+    "hockey",
+    "swimming",
+    "Flamengo",
+    "Clássico das Multidões",
+    "judo",
+    "Sport Recife",
+    "CBD/CBF titles",
+    "Náutico",
+    "futsal",
+    "volleyball",
+    "Copa União",
+    "Pernambuco",
+    "rowing",
+    "table tennis",
+    "taekwondo",
+    "América",
+    "Copa do Brasil",
+    "Santa Cruz",
+    "Recife",
+    "Campeonato Pernambucano",
+    "Campeonato Brasileiro Série B",
+    "Copa do Nordeste",
+    "Clássico dos Campeões",
+    "Sport Club do Recife",
+    "athletics",
+    "women's football",
+    "Clássico dos Clássicos"
+  ],
+  "edges": [
+    "participates in",
+    "derby with",
+    "derby against",
+    "is commonly known as",
+    "disputes the status of champion of",
+    "has won",
+    "disputes",
+    "won the official league sanctioned by",
+    "has a historical rival",
+    "is called",
+    "won",
+    "is in the state of",
+    "competes in",
+    "is located in",
+    "won the separate"
+  ],
+  "relations": [
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "futsal"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "volleyball"
+    ],
+    [
+      "Sport Club do Recife",
+      "competes in",
+      "Campeonato Brasileiro Série B"
+    ],
+    [
+      "Sport Club do Recife",
+      "won",
+      "Campeonato Pernambucano"
+    ],
+    [
+      "Sport Club do Recife",
+      "has won",
+      "Copa do Brasil"
+    ],
+    [
+      "Sport Club do Recife",
+      "competes in",
+      "Campeonato Pernambucano"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "rowing"
+    ],
+    [
+      "Sport Club do Recife",
+      "disputes",
+      "Clássico dos Clássicos"
+    ],
+    [
+      "Flamengo",
+      "won the separate",
+      "Copa União"
+    ],
+    [
+      "Sport Club do Recife",
+      "is in the state of",
+      "Pernambuco"
+    ],
+    [
+      "Sport Club do Recife",
+      "won the official league sanctioned by",
+      "CBF"
+    ],
+    [
+      "Sport Club do Recife",
+      "is called",
+      "Clássico dos Campeões"
+    ],
+    [
+      "Sport Club do Recife",
+      "is commonly known as",
+      "Sport Recife"
+    ],
+    [
+      "Sport Club do Recife",
+      "has won",
+      "CBD/CBF titles"
+    ],
+    [
+      "Sport Club do Recife",
+      "is called",
+      "Clássico das Multidões"
+    ],
+    [
+      "Sport Club do Recife",
+      "disputes the status of champion of",
+      "1987 Campeonato Brasileiro"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "judo"
+    ],
+    [
+      "Sport Club do Recife",
+      "derby against",
+      "Santa Cruz"
+    ],
+    [
+      "Sport Club do Recife",
+      "derby with",
+      "América"
+    ],
+    [
+      "Sport Club do Recife",
+      "is located in",
+      "Recife"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "swimming"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "table tennis"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "taekwondo"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "athletics"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "basketball"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "women's football"
+    ],
+    [
+      "Sport Club do Recife",
+      "participates in",
+      "hockey"
+    ],
+    [
+      "Sport Club do Recife",
+      "has a historical rival",
+      "Náutico"
+    ],
+    [
+      "Sport Club do Recife",
+      "won",
+      "Copa do Nordeste"
+    ],
+    [
+      "Sport Club do Recife",
+      "won",
+      "Campeonato Brasileiro Série B"
+    ]
+  ]
+}

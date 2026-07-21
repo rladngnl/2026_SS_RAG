@@ -1,0 +1,215 @@
+{
+  "entities": [
+    "Harvard Radcliffe Institute",
+    "Harvard's endowment",
+    "Fields Medalists",
+    "heads of state",
+    "heads of government",
+    "Rhodes Scholars",
+    "U.S. presidents",
+    "MacArthur Fellows",
+    "Constitution of Massachusetts",
+    "Medical Institution of Harvard University",
+    "John Harvard",
+    "Harvard Yard",
+    "Harvard University",
+    "Association of American Universities",
+    "Charles William Eliot",
+    "Nobel laureates",
+    "Massachusetts General Court",
+    "Academy Awards",
+    "Massachusetts Bay Colony",
+    "Harvard Library",
+    "Massachusetts",
+    "Olympic medals",
+    "Allston",
+    "Cambridge",
+    "Turing Award Recipients",
+    "United States",
+    "Marshall Scholars",
+    "Longwood Medical Area",
+    "James B. Conant",
+    "Harvard College",
+    "Charles River",
+    "Pulitzer Prize recipients",
+    "Faculty of Arts and Sciences",
+    "World War II",
+    "Fulbright Scholars",
+    "Great Depression"
+  ],
+  "edges": [
+    "is in",
+    "is the world's largest",
+    "offers study in",
+    "co-founded",
+    "has a president",
+    "is referred to as",
+    "has campuses including",
+    "includes",
+    "was authorized by",
+    "was led by",
+    "was founded by",
+    "has ten academic faculties and a faculty attached to",
+    "have won",
+    "makes it the wealthiest academic institution in",
+    "governs",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Harvard Library",
+      "is the world's largest",
+      "academic library"
+    ],
+    [
+      "Harvard University",
+      "co-founded",
+      "Association of American Universities"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "heads of government"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Pulitzer Prize recipients"
+    ],
+    [
+      "Harvard University",
+      "is located in",
+      "Cambridge"
+    ],
+    [
+      "Harvard University",
+      "was founded by",
+      "John Harvard"
+    ],
+    [
+      "Harvard students and alumni",
+      "have won",
+      "Olympic medals"
+    ],
+    [
+      "Faculty of Arts and Sciences",
+      "offers study in",
+      "a wide range of undergraduate and graduate academic disciplines"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Marshall Scholars"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "U.S. presidents"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "MacArthur Fellows"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Fulbright Scholars"
+    ],
+    [
+      "Harvard students and alumni",
+      "have won",
+      "Academy Awards"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Fields Medalists"
+    ],
+    [
+      "Harvard University",
+      "is in",
+      "Massachusetts"
+    ],
+    [
+      "Harvard University",
+      "has a president",
+      "Charles William Eliot"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Turing Award Recipients"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Charles River"
+    ],
+    [
+      "Massachusetts General Court",
+      "governs",
+      "Massachusetts Bay Colony"
+    ],
+    [
+      "Harvard University",
+      "is referred to as",
+      "Medical Institution of Harvard University"
+    ],
+    [
+      "Harvard University",
+      "was authorized by",
+      "Massachusetts General Court"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "heads of state"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Nobel laureates"
+    ],
+    [
+      "Harvard University",
+      "was led by",
+      "James B. Conant"
+    ],
+    [
+      "Harvard's endowment",
+      "makes it the wealthiest academic institution in",
+      "the world"
+    ],
+    [
+      "Harvard University",
+      "is in",
+      "United States"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Longwood Medical Area"
+    ],
+    [
+      "Harvard University",
+      "has ten academic faculties and a faculty attached to",
+      "Harvard Radcliffe Institute"
+    ],
+    [
+      "Harvard University",
+      "includes",
+      "Rhodes Scholars"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Allston"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Harvard Yard"
+    ]
+  ]
+}

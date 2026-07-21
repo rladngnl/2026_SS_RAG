@@ -1,0 +1,113 @@
+{
+  "entities": [
+    "Pappu Master",
+    "Pushpa: The Rise",
+    "Housefull 2",
+    "Om Shanti Om",
+    "Welcome to Sajjanpur",
+    "producer",
+    "Golmaal 3",
+    "Farah Khan",
+    "Golmaal Again",
+    "Indian actor",
+    "Golmaal Returns",
+    "film director",
+    "Pushpa 2: The Rule",
+    "Marathi films",
+    "Shreyas Talpade",
+    "Shah Rukh Khan",
+    "Hindi films",
+    "Allu Arjun"
+  ],
+  "edges": [
+    "appears in",
+    "is in",
+    "is directed by",
+    "dubbed for",
+    "appeared in",
+    "is",
+    "is better known for his role as"
+  ],
+  "relations": [
+    [
+      "Shreyas Talpade",
+      "appears in",
+      "Marathi films"
+    ],
+    [
+      "Shreyas Talpade",
+      "is",
+      "producer"
+    ],
+    [
+      "Shreyas Talpade",
+      "appeared in",
+      "Housefull 2"
+    ],
+    [
+      "Om Shanti Om",
+      "is directed by",
+      "Farah Khan"
+    ],
+    [
+      "Allu Arjun",
+      "is in",
+      "Pushpa: The Rise"
+    ],
+    [
+      "Shreyas Talpade",
+      "is",
+      "film director"
+    ],
+    [
+      "Pappu Master",
+      "is in",
+      "Om Shanti Om"
+    ],
+    [
+      "Shreyas Talpade",
+      "appeared in",
+      "Golmaal Again"
+    ],
+    [
+      "Shreyas Talpade",
+      "appeared in",
+      "Welcome to Sajjanpur"
+    ],
+    [
+      "Shreyas Talpade",
+      "is",
+      "Indian actor"
+    ],
+    [
+      "Shreyas Talpade",
+      "dubbed for",
+      "Allu Arjun"
+    ],
+    [
+      "Shreyas Talpade",
+      "appeared in",
+      "Golmaal Returns"
+    ],
+    [
+      "Allu Arjun",
+      "is in",
+      "Pushpa 2: The Rule"
+    ],
+    [
+      "Shreyas Talpade",
+      "appears in",
+      "Hindi films"
+    ],
+    [
+      "Shreyas Talpade",
+      "appeared in",
+      "Golmaal 3"
+    ],
+    [
+      "Shreyas Talpade",
+      "is better known for his role as",
+      "Pappu Master"
+    ]
+  ]
+}

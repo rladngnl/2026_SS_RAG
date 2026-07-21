@@ -1,0 +1,160 @@
+{
+  "entities": [
+    "Sydney Harbour",
+    "Sydney",
+    "Hawkesbury River",
+    "Aboriginal Australians",
+    "Royal National Park",
+    "Philippines",
+    "2023 FIFA Women's World Cup Final",
+    "Macarthur",
+    "2000 Summer Olympics",
+    "University of Sydney",
+    "India",
+    "New South Wales",
+    "Kingsford Smith Airport",
+    "University of New South Wales",
+    "United Kingdom",
+    "Vietnam",
+    "Arthur Phillip",
+    "First Fleet",
+    "Dharawal",
+    "Sydney Opera House",
+    "James Cook",
+    "2003 Rugby World Cup Final",
+    "Pacific Ocean",
+    "Sydneysiders",
+    "Sydney Harbour Bridge",
+    "Central Station",
+    "Australia",
+    "Alpha+ city",
+    "Globalization and World Cities Research Network",
+    "Botany Bay",
+    "Eora",
+    "mainland China",
+    "World War II",
+    "Ku-ring-gai Chase National Park",
+    "Blue Mountains",
+    "Darug"
+  ],
+  "edges": [
+    "is the capital city of",
+    "is the most populous city in",
+    "is ranked eleventh in the world for",
+    "is among the top fifteen most-visited cities worldwide",
+    "is the main passenger airport serving",
+    "is located on the east coast of",
+    "was founded as a British penal colony by",
+    "has hosted major international sporting events such as",
+    "has notable natural features including",
+    "surrounds",
+    "is classified as an",
+    "experienced mass migration after",
+    "is ranked",
+    "has major tourist attractions such as",
+    "is inhabited by",
+    "is the hub of"
+  ],
+  "relations": [
+    [
+      "Central Station",
+      "is the hub of",
+      "Sydney's suburban train, metro and light rail networks"
+    ],
+    [
+      "Sydney",
+      "is ranked eleventh in the world for",
+      "economic opportunity"
+    ],
+    [
+      "Sydney",
+      "surrounds",
+      "Sydney Harbour"
+    ],
+    [
+      "Sydney",
+      "has hosted major international sporting events such as",
+      "2003 Rugby World Cup Final"
+    ],
+    [
+      "University of Sydney",
+      "is ranked",
+      "18th in the world"
+    ],
+    [
+      "Kingsford Smith Airport",
+      "is the main passenger airport serving",
+      "Sydney"
+    ],
+    [
+      "Sydney",
+      "is classified as an",
+      "Alpha+ city"
+    ],
+    [
+      "Sydney",
+      "is the most populous city in",
+      "Australia"
+    ],
+    [
+      "Sydney",
+      "experienced mass migration after",
+      "World War II"
+    ],
+    [
+      "Sydney",
+      "is among the top fifteen most-visited cities worldwide",
+      "Sydney"
+    ],
+    [
+      "Sydney",
+      "was founded as a British penal colony by",
+      "Arthur Phillip"
+    ],
+    [
+      "Sydney",
+      "is the capital city of",
+      "New South Wales"
+    ],
+    [
+      "Sydney",
+      "has major tourist attractions such as",
+      "Sydney Opera House"
+    ],
+    [
+      "University of New South Wales",
+      "is ranked",
+      "19th in the world"
+    ],
+    [
+      "Sydney",
+      "is located on the east coast of",
+      "Australia"
+    ],
+    [
+      "Sydney",
+      "has major tourist attractions such as",
+      "Sydney Harbour Bridge"
+    ],
+    [
+      "Sydney",
+      "has hosted major international sporting events such as",
+      "2000 Summer Olympics"
+    ],
+    [
+      "Sydney",
+      "has notable natural features including",
+      "Sydney Harbour"
+    ],
+    [
+      "Sydney",
+      "has hosted major international sporting events such as",
+      "2023 FIFA Women's World Cup Final"
+    ],
+    [
+      "Sydney",
+      "is inhabited by",
+      "Aboriginal Australians"
+    ]
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "entities": [
+    "2006",
+    "blue and white",
+    "cultural heritage",
+    "St. Joan of Arc Turf Field",
+    "CSL record",
+    "Canadian Soccer League",
+    "York Region Shooters",
+    "CSL Championship",
+    "Vaughan Shooters",
+    "Canadian Professional Soccer League",
+    "Italia Shooters",
+    "Glen Shields Sun Devils",
+    "2014",
+    "City of Vaughan",
+    "Italy national team",
+    "regular season titles",
+    "Canadian soccer team",
+    "Ontario",
+    "Vaughan Sun Devils",
+    "2017",
+    "1998"
+  ],
+  "edges": [
+    "is a",
+    "reflects the",
+    "has colours",
+    "was an inaugural member of",
+    "plays in the",
+    "is a merger of",
+    "was formed in",
+    "mirrors the colours of",
+    "played their home games at",
+    "became a powerhouse within the",
+    "won in",
+    "won",
+    "achieved",
+    "is located in",
+    "joined in"
+  ],
+  "relations": [
+    [
+      "York Region Shooters",
+      "won in",
+      "2006"
+    ],
+    [
+      "York Region Shooters",
+      "reflects the",
+      "cultural heritage"
+    ],
+    [
+      "York Region Shooters",
+      "won in",
+      "2014"
+    ],
+    [
+      "York Region Shooters",
+      "won in",
+      "2017"
+    ],
+    [
+      "Glen Shields Sun Devils",
+      "was an inaugural member of",
+      "Canadian Professional Soccer League"
+    ],
+    [
+      "York Region Shooters",
+      "is located in",
+      "City of Vaughan"
+    ],
+    [
+      "York Region Shooters",
+      "played their home games at",
+      "St. Joan of Arc Turf Field"
+    ],
+    [
+      "York Region Shooters",
+      "is a",
+      "Canadian soccer team"
+    ],
+    [
+      "York Region Shooters",
+      "plays in the",
+      "Canadian Soccer League"
+    ],
+    [
+      "York Region Shooters",
+      "joined in",
+      "1998"
+    ],
+    [
+      "York Region Shooters",
+      "won",
+      "CSL Championship"
+    ],
+    [
+      "York Region Shooters",
+      "mirrors the colours of",
+      "Italy national team"
+    ],
+    [
+      "York Region Shooters",
+      "is a merger of",
+      "Glen Shields Sun Devils"
+    ],
+    [
+      "York Region Shooters",
+      "is a merger of",
+      "original York Region Shooters"
+    ],
+    [
+      "York Region Shooters",
+      "was formed in",
+      "2003"
+    ],
+    [
+      "York Region Shooters",
+      "is located in",
+      "Ontario"
+    ],
+    [
+      "York Region Shooters",
+      "became a powerhouse within the",
+      "Canadian Soccer League"
+    ],
+    [
+      "York Region Shooters",
+      "achieved",
+      "CSL record"
+    ],
+    [
+      "original York Region Shooters",
+      "was an inaugural member of",
+      "Canadian Professional Soccer League"
+    ],
+    [
+      "York Region Shooters",
+      "has colours",
+      "blue and white"
+    ]
+  ]
+}

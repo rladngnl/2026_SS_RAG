@@ -1,0 +1,128 @@
+{
+  "entities": [
+    "Maria Theresa",
+    "Pragmatic Allies",
+    "Austrian Netherlands",
+    "Hanover",
+    "War of the Austrian Succession",
+    "Great Britain",
+    "Bavaria",
+    "Sweden",
+    "Silesia",
+    "Spain",
+    "Diplomatic Revolution",
+    "Seven Years' War",
+    "Savoy",
+    "Anglo-Austrian Alliance",
+    "Treaty of Aix-la-Chapelle",
+    "Dutch Republic",
+    "Austria",
+    "Saxony",
+    "Prussia",
+    "France",
+    "Battle of Cartagena de Indias",
+    "Russia"
+  ],
+  "edges": [
+    "backed",
+    "made minor gains in",
+    "repelled",
+    "felt it had received little benefit from",
+    "was close to bankruptcy due to",
+    "gained very little from",
+    "challenged",
+    "led to",
+    "was a realignment caused by",
+    "occupied",
+    "was undermined by",
+    "was a battle in",
+    "has right to inherit"
+  ],
+  "relations": [
+    [
+      "Hanover",
+      "backed",
+      "Maria Theresa"
+    ],
+    [
+      "Prussia",
+      "challenged",
+      "Maria Theresa"
+    ],
+    [
+      "France",
+      "gained very little from",
+      "Treaty of Aix-la-Chapelle"
+    ],
+    [
+      "Austria",
+      "felt it had received little benefit from",
+      "British subsidies"
+    ],
+    [
+      "Spain",
+      "made minor gains in",
+      "Italy"
+    ],
+    [
+      "Great Britain",
+      "backed",
+      "Maria Theresa"
+    ],
+    [
+      "France",
+      "was close to bankruptcy due to",
+      "cost of the war"
+    ],
+    [
+      "Diplomatic Revolution",
+      "was a realignment caused by",
+      "Anglo-Austrian Alliance"
+    ],
+    [
+      "Diplomatic Revolution",
+      "led to",
+      "outbreak of the Seven Years' War"
+    ],
+    [
+      "Maria Theresa",
+      "has right to inherit",
+      "Austria"
+    ],
+    [
+      "Anglo-Austrian Alliance",
+      "was undermined by",
+      "British insistence that Austria cede Silesia to Prussia"
+    ],
+    [
+      "Spain",
+      "repelled",
+      "British invasion of South America"
+    ],
+    [
+      "Dutch Republic",
+      "backed",
+      "Maria Theresa"
+    ],
+    [
+      "Prussia",
+      "occupied",
+      "Silesia"
+    ],
+    [
+      "Battle of Cartagena de Indias",
+      "was a battle in",
+      "South America"
+    ],
+    [
+      "France",
+      "challenged",
+      "Maria Theresa"
+    ],
+    [
+      "Bavaria",
+      "challenged",
+      "Maria Theresa"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "entities": [
+    "Miami metropolitan area",
+    "Tampa Bay Mutiny",
+    "2001",
+    "Supporters' Shield",
+    "Miami Fusion F.C.",
+    "2002",
+    "Eastern Conference",
+    "Major League Soccer",
+    "MLS",
+    "Lockhart Stadium"
+  ],
+  "edges": [
+    "played from",
+    "was a member of",
+    "was contracted along with",
+    "competed in",
+    "played their home games at",
+    "won",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Miami Fusion F.C.",
+      "competed in",
+      "Major League Soccer"
+    ],
+    [
+      "Miami Fusion F.C.",
+      "played from",
+      "1998 to 2001"
+    ],
+    [
+      "Miami Fusion F.C.",
+      "played their home games at",
+      "Lockhart Stadium"
+    ],
+    [
+      "Miami Fusion F.C.",
+      "is based in",
+      "Miami metropolitan area"
+    ],
+    [
+      "Miami Fusion F.C.",
+      "won",
+      "Supporters' Shield"
+    ],
+    [
+      "Miami Fusion F.C.",
+      "was a member of",
+      "Eastern Conference"
+    ],
+    [
+      "Miami Fusion F.C.",
+      "was contracted along with",
+      "Tampa Bay Mutiny"
+    ]
+  ]
+}

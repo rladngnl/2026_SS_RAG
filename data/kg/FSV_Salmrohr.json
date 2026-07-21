@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Amateur Oberliga Südwest",
+    "German association football club",
+    "local talent",
+    "1921",
+    "FSV Salmrohr",
+    "Regionalliga West/Südwest",
+    "Salmrohr",
+    "Rhineland-Palatinate",
+    "national amateur title",
+    "1990"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "played in",
+    "earned",
+    "has relied on",
+    "was earned in",
+    "was founded in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "national amateur title",
+      "was earned in",
+      "1990"
+    ],
+    [
+      "FSV Salmrohr",
+      "is located in",
+      "Salmrohr"
+    ],
+    [
+      "FSV Salmrohr",
+      "has relied on",
+      "local talent"
+    ],
+    [
+      "Salmrohr",
+      "is in",
+      "Rhineland-Palatinate"
+    ],
+    [
+      "FSV Salmrohr",
+      "played in",
+      "Regionalliga West/Südwest"
+    ],
+    [
+      "FSV Salmrohr",
+      "is a",
+      "German association football club"
+    ],
+    [
+      "FSV Salmrohr",
+      "was founded in",
+      "1921"
+    ],
+    [
+      "FSV Salmrohr",
+      "earned",
+      "national amateur title"
+    ],
+    [
+      "FSV Salmrohr",
+      "played in",
+      "Amateur Oberliga Südwest"
+    ]
+  ]
+}

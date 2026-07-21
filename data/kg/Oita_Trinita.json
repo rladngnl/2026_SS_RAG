@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Ōita",
+    "Japanese football club",
+    "professional football",
+    "Ōita Trinita",
+    "J2 League",
+    "Ōita Prefecture"
+  ],
+  "edges": [
+    "is a",
+    "plays",
+    "plays in",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Ōita Trinita",
+      "is located in",
+      "Ōita"
+    ],
+    [
+      "Ōita Trinita",
+      "is part of",
+      "Ōita Prefecture"
+    ],
+    [
+      "Ōita Trinita",
+      "is a",
+      "Japanese football club"
+    ],
+    [
+      "Ōita Trinita",
+      "plays",
+      "professional football"
+    ],
+    [
+      "Ōita Trinita",
+      "plays in",
+      "J2 League"
+    ]
+  ]
+}

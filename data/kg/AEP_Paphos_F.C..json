@@ -1,0 +1,59 @@
+{
+  "entities": [
+    "Evagoras",
+    "AEK Kouklia",
+    "APOP",
+    "Athlitiki Enosi Pafos",
+    "9 June 2014",
+    "Pafos FC",
+    "Paphos",
+    "AEP Paphos",
+    "Cypriot football club"
+  ],
+  "edges": [
+    "was a",
+    "was dissolved on",
+    "was merged with",
+    "created",
+    "is also known as",
+    "was formed after the merger of",
+    "was based in"
+  ],
+  "relations": [
+    [
+      "AEP Paphos",
+      "was based in",
+      "Paphos"
+    ],
+    [
+      "AEP Paphos",
+      "was formed after the merger of",
+      "APOP and Evagoras"
+    ],
+    [
+      "AEP Paphos",
+      "was a",
+      "Cypriot football club"
+    ],
+    [
+      "AEP Paphos",
+      "was dissolved on",
+      "9 June 2014"
+    ],
+    [
+      "AEP Paphos",
+      "is also known as",
+      "Athlitiki Enosi Pafos"
+    ],
+    [
+      "AEP Paphos",
+      "created",
+      "Pafos FC"
+    ],
+    [
+      "AEP Paphos",
+      "was merged with",
+      "AEK Kouklia"
+    ]
+  ]
+}

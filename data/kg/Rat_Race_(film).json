@@ -1,0 +1,133 @@
+{
+  "entities": [
+    "Dave Thomas",
+    "Zucker Productions",
+    "2001",
+    "Cuba Gooding Jr.",
+    "John Cleese",
+    "$85.5 million",
+    "Amy Smart",
+    "Canada",
+    "comedy film",
+    "Rowan Atkinson",
+    "$48 million budget",
+    "Vince Vieluf",
+    "August 17, 2001",
+    "Andy Breckman",
+    "United States",
+    "Kathy Najimy",
+    "Silver City",
+    "Rat Race",
+    "Whoopi Goldberg",
+    "Jon Lovitz",
+    "New Mexico",
+    "$2 million",
+    "Stanley Kramer",
+    "Breckin Meyer",
+    "Seth Green",
+    "box office success",
+    "mixed reviews",
+    "Alphaville Films",
+    "Paramount Pictures",
+    "Las Vegas",
+    "Fireworks Pictures",
+    "Lanei Chapman",
+    "Wayne Knight",
+    "Jerry Zucker",
+    "It's a Mad, Mad, Mad, Mad World"
+  ],
+  "edges": [
+    "was a",
+    "was directed by",
+    "is a",
+    "was written by",
+    "had a budget of",
+    "race to",
+    "was produced by",
+    "is inspired by",
+    "are given the task of racing from",
+    "was released by",
+    "received",
+    "was released on",
+    "grossed",
+    "features an ensemble cast consisting of",
+    "contains"
+  ],
+  "relations": [
+    [
+      "Rat Race",
+      "was a",
+      "box office success"
+    ],
+    [
+      "Rat Race",
+      "is a",
+      "comedy film"
+    ],
+    [
+      "Rat Race",
+      "was released by",
+      "Paramount Pictures and Fireworks Pictures"
+    ],
+    [
+      "Rat Race",
+      "was released on",
+      "August 17, 2001"
+    ],
+    [
+      "Rat Race",
+      "had a budget of",
+      "$48 million"
+    ],
+    [
+      "Rat Race",
+      "was directed by",
+      "Jerry Zucker"
+    ],
+    [
+      "Rat Race",
+      "was written by",
+      "Andy Breckman"
+    ],
+    [
+      "Rat Race",
+      "received",
+      "mixed reviews"
+    ],
+    [
+      "the storage locker",
+      "contains",
+      "$2 million"
+    ],
+    [
+      "Rat Race",
+      "grossed",
+      "$85.5 million"
+    ],
+    [
+      "six teams",
+      "are given the task of racing from",
+      "Las Vegas"
+    ],
+    [
+      "Rat Race",
+      "features an ensemble cast consisting of",
+      "Rowan Atkinson, John Cleese, Whoopi Goldberg, Cuba Gooding Jr., Wayne Knight, Jon Lovitz, Kathy Najimy, Lanei Chapman, Breckin Meyer, Amy Smart, Seth Green, Vince Vieluf and Dave Thomas"
+    ],
+    [
+      "Rat Race",
+      "was produced by",
+      "Alphaville Films and Zucker Productions"
+    ],
+    [
+      "six teams",
+      "race to",
+      "Silver City"
+    ],
+    [
+      "Rat Race",
+      "is inspired by",
+      "It's a Mad, Mad, Mad, Mad World"
+    ]
+  ]
+}

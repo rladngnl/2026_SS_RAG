@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "Welsh politician",
+    "Pakistan Movement activist",
+    "East Pakistan cricketer",
+    "East Pakistani educationist",
+    "Bangladeshi academic",
+    "Altaf Hussain Hali",
+    "Altaf Hossain",
+    "Indian Urdu poet",
+    "politician",
+    "Pakistani politician",
+    "Md. Altaf Hossain",
+    "Altaf Hussain",
+    "journalist",
+    "Altaf Husain"
+  ],
+  "edges": [
+    "may refer to"
+  ],
+  "relations": [
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Welsh politician"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Md. Altaf Hossain"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Bangladeshi academic"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "politician"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Pakistani politician"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Pakistan Movement activist"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "East Pakistan cricketer"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Altaf Husain"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Altaf Hossain"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "journalist"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "East Pakistani educationist"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Indian Urdu poet"
+    ],
+    [
+      "Altaf Hussain",
+      "may refer to",
+      "Altaf Hussain Hali"
+    ]
+  ]
+}

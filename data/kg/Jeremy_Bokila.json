@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "professional footballer",
+    "Scottish Championship",
+    "national team",
+    "DR Congo",
+    "Livingston",
+    "Congolese",
+    "Jeremy Bokila"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "formerly played for",
+    "last played for",
+    "has a"
+  ],
+  "relations": [
+    [
+      "Jeremy Bokila",
+      "last played for",
+      "Livingston"
+    ],
+    [
+      "Jeremy Bokila",
+      "formerly played for",
+      "DR Congo"
+    ],
+    [
+      "Jeremy Bokila",
+      "is a",
+      "Congolese"
+    ],
+    [
+      "Jeremy Bokila",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Livingston",
+      "is in",
+      "Scottish Championship"
+    ],
+    [
+      "DR Congo",
+      "has a",
+      "national team"
+    ]
+  ]
+}

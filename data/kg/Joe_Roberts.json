@@ -1,0 +1,16 @@
+{
+  "entities": [
+    "Joe_Roberts",
+    "Joseph Roberts"
+  ],
+  "edges": [
+    "may refer to"
+  ],
+  "relations": [
+    [
+      "Joe_Roberts",
+      "may refer to",
+      "Joseph Roberts"
+    ]
+  ]
+}

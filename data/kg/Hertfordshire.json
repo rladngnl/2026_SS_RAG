@@ -1,0 +1,130 @@
+{
+  "entities": [
+    "Greater London",
+    "St Albans",
+    "Middlesex",
+    "Cambridgeshire",
+    "Hertfordshire",
+    "Buckinghamshire",
+    "Potters Bar",
+    "Bedfordshire",
+    "New Towns Act 1946",
+    "Essex",
+    "rivers Colne",
+    "rivers Lea",
+    "Watford",
+    "Tring",
+    "Stevenage",
+    "East of England",
+    "Hemel Hempstead",
+    "Chilterns",
+    "Letchworth"
+  ],
+  "edges": [
+    "is in the centre of",
+    "is in the south-west of",
+    "centres on the headwaters and upper valleys of",
+    "had an estimated population of",
+    "has an area of",
+    "is a ceremonial county in",
+    "is in the west of",
+    "is in the north of",
+    "was historically part of",
+    "has served as the prototype garden city in",
+    "is covered by",
+    "became the first town to expand under",
+    "borders"
+  ],
+  "relations": [
+    [
+      "Hertfordshire",
+      "borders",
+      "Greater London"
+    ],
+    [
+      "Stevenage",
+      "became the first town to expand under",
+      "New Towns Act 1946"
+    ],
+    [
+      "Hertfordshire",
+      "borders",
+      "Bedfordshire"
+    ],
+    [
+      "Hertfordshire",
+      "centres on the headwaters and upper valleys of",
+      "rivers Colne"
+    ],
+    [
+      "Hertfordshire",
+      "is a ceremonial county in",
+      "East of England"
+    ],
+    [
+      "Hertfordshire",
+      "had an estimated population of",
+      "1,236,191 in 2024"
+    ],
+    [
+      "Hertfordshire",
+      "is covered by",
+      "the Metropolitan green belt"
+    ],
+    [
+      "Watford",
+      "is in the south-west of",
+      "Hertfordshire"
+    ],
+    [
+      "Hertfordshire",
+      "borders",
+      "Essex"
+    ],
+    [
+      "Stevenage",
+      "is in the north of",
+      "Hertfordshire"
+    ],
+    [
+      "Potters Bar",
+      "was historically part of",
+      "Middlesex"
+    ],
+    [
+      "Hertfordshire",
+      "has an area of",
+      "634 square miles"
+    ],
+    [
+      "Hertfordshire",
+      "borders",
+      "Cambridgeshire"
+    ],
+    [
+      "Hertfordshire",
+      "centres on the headwaters and upper valleys of",
+      "rivers Lea"
+    ],
+    [
+      "Letchworth",
+      "has served as the prototype garden city in",
+      "Hertfordshire"
+    ],
+    [
+      "Hemel Hempstead",
+      "is in the west of",
+      "Hertfordshire"
+    ],
+    [
+      "St Albans",
+      "is in the centre of",
+      "Hertfordshire"
+    ],
+    [
+      "Hertfordshire",
+      "borders",
+      "Buckinghamshire"
+    ]
+  ]
+}

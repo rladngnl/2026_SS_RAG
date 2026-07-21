@@ -1,0 +1,250 @@
+{
+  "entities": [
+    "Roses derby",
+    "Bolton Wanderers",
+    "Oldham County",
+    "First Division",
+    "Greater Manchester",
+    "Oldham Athletic Association Football Club",
+    "EFL League Two",
+    "1962–63",
+    "1982",
+    "Huddersfield Town",
+    "Pine Villa F.C.",
+    "1973–74",
+    "Lancashire Combination",
+    "England",
+    "1992",
+    "League One",
+    "2018",
+    "Premier League",
+    "Manchester and Lancashire leagues",
+    "Football League",
+    "1952–53 campaign",
+    "Jimmy Frizzell",
+    "1997",
+    "2025 National League play-off final",
+    "Rochdale",
+    "League Cup",
+    "1994",
+    "Oldham",
+    "Joe Royle",
+    "1990–91",
+    "Second Division",
+    "Third Division title",
+    "Boundary Park",
+    "Latics",
+    "2021–22 season",
+    "1970–71",
+    "National League",
+    "1970",
+    "Fourth Division",
+    "Second Division title",
+    "Third Division North",
+    "1990"
+  ],
+  "edges": [
+    "returned to",
+    "moved into",
+    "won",
+    "competes in",
+    "was relegated in",
+    "changed name to",
+    "is located in",
+    "contests rivalries with",
+    "is known to fans as",
+    "was relegated back in",
+    "finished second in",
+    "was in charge for",
+    "is known as",
+    "culminated in relegation to",
+    "plays home matches at",
+    "became founder members of",
+    "was elected into",
+    "was founded in",
+    "fell into",
+    "folded in",
+    "was at the club from",
+    "reached",
+    "secured promotion in",
+    "won promotion out of",
+    "fell to"
+  ],
+  "relations": [
+    [
+      "Oldham Athletic A.F.C.",
+      "contests rivalries with",
+      "Bolton Wanderers"
+    ],
+    [
+      "Pine Villa",
+      "moved into",
+      "Boundary Park"
+    ],
+    [
+      "Joe Royle",
+      "was in charge for",
+      "12 years"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "won",
+      "Lancashire Combination league title"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "was relegated in",
+      "1923"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "fell into",
+      "National League"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "was relegated back in",
+      "1953"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "contests rivalries with",
+      "Rochdale"
+    ],
+    [
+      "Huddersfield Town",
+      "is known as",
+      "Roses derby"
+    ],
+    [
+      "Oldham Athletic Association Football Club",
+      "is located in",
+      "Oldham"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "secured promotion in",
+      "1962–63"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "culminated in relegation to",
+      "EFL League Two"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "was relegated in",
+      "1994"
+    ],
+    [
+      "Pine Villa",
+      "changed name to",
+      "Oldham Athletic A.F.C."
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "is known to fans as",
+      "Latics"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "won promotion out of",
+      "Second Division"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "returned to",
+      "Football League"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "reached",
+      "League Cup final"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "finished second in",
+      "First Division"
+    ],
+    [
+      "Oldham Athletic Association Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "became founder members of",
+      "Premier League"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "contests rivalries with",
+      "Huddersfield Town"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "fell to",
+      "third tier"
+    ],
+    [
+      "Oldham Athletic Association Football Club",
+      "competes in",
+      "EFL League Two"
+    ],
+    [
+      "Pine Villa F.C.",
+      "was founded in",
+      "1895"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "was elected into",
+      "Football League"
+    ],
+    [
+      "Oldham Athletic Association Football Club",
+      "is located in",
+      "Greater Manchester"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "secured promotion in",
+      "1970–71"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "won",
+      "2025 National League play-off final"
+    ],
+    [
+      "Oldham County",
+      "folded in",
+      "1899"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "plays home matches at",
+      "Boundary Park"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "won",
+      "Second Division title"
+    ],
+    [
+      "Jimmy Frizzell",
+      "was at the club from",
+      "1970 to 1982"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "won",
+      "Third Division North"
+    ],
+    [
+      "Oldham Athletic A.F.C.",
+      "won",
+      "Third Division title"
+    ]
+  ]
+}

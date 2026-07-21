@@ -1,0 +1,152 @@
+{
+  "entities": [
+    "FIFA",
+    "Copa América",
+    "CONMEBOL–UEFA Cup of Champions",
+    "Lionel Messi",
+    "FIFA Men's World Ranking",
+    "FIFA World Cup",
+    "England",
+    "FIFA Confederations Cup",
+    "CONMEBOL",
+    "Brazil",
+    "Panamerican Championship",
+    "Diego Maradona",
+    "Uruguay",
+    "Argentina national football team",
+    "la Albiceleste",
+    "Argentine Football Association",
+    "PFC",
+    "Netherlands"
+  ],
+  "edges": [
+    "won the",
+    "was a founding member of",
+    "represents",
+    "is administered by",
+    "has won",
+    "ranks",
+    "is known for having rivalries with",
+    "won the inaugural",
+    "was a member of",
+    "holds the record for",
+    "has been a member of",
+    "is nicknamed",
+    "has appeared in",
+    "won",
+    "has players who have won",
+    "won their most recent"
+  ],
+  "relations": [
+    [
+      "Argentina national football team",
+      "has been a member of",
+      "FIFA"
+    ],
+    [
+      "Argentina national football team",
+      "is known for having rivalries with",
+      "England"
+    ],
+    [
+      "Diego Maradona",
+      "won",
+      "FIFA World Cup Golden Ball"
+    ],
+    [
+      "Argentina national football team",
+      "won their most recent",
+      "World Cup"
+    ],
+    [
+      "Argentina national football team",
+      "is administered by",
+      "Argentine Football Association"
+    ],
+    [
+      "Argentina national football team",
+      "is known for having rivalries with",
+      "Brazil"
+    ],
+    [
+      "Argentina national football team",
+      "has appeared in",
+      "World Cup finals"
+    ],
+    [
+      "Argentina national football team",
+      "has won",
+      "Copa América"
+    ],
+    [
+      "Argentina national football team",
+      "won the",
+      "Panamerican Championship"
+    ],
+    [
+      "Argentina national football team",
+      "is known for having rivalries with",
+      "Uruguay"
+    ],
+    [
+      "Argentina national football team",
+      "ranks",
+      "FIFA Men's World Ranking"
+    ],
+    [
+      "Argentina national football team",
+      "holds the record for",
+      "most official international titles"
+    ],
+    [
+      "Argentina national football team",
+      "won the",
+      "CONMEBOL–UEFA Cup of Champions"
+    ],
+    [
+      "Argentina national football team",
+      "has players who have won",
+      "FIFA World Cup Golden Ball"
+    ],
+    [
+      "Argentina national football team",
+      "was a member of",
+      "PFC"
+    ],
+    [
+      "Argentina national football team",
+      "represents",
+      "Argentina"
+    ],
+    [
+      "Argentina national football team",
+      "won the inaugural",
+      "FIFA Confederations Cup"
+    ],
+    [
+      "Argentina national football team",
+      "was a founding member of",
+      "CONMEBOL"
+    ],
+    [
+      "Argentina national football team",
+      "is nicknamed",
+      "la Albiceleste"
+    ],
+    [
+      "Lionel Messi",
+      "won",
+      "FIFA World Cup Golden Ball"
+    ],
+    [
+      "Argentina national football team",
+      "has won",
+      "FIFA World Cup"
+    ],
+    [
+      "Argentina national football team",
+      "is known for having rivalries with",
+      "Netherlands"
+    ]
+  ]
+}

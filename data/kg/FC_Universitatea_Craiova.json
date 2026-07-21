@@ -1,0 +1,154 @@
+{
+  "entities": [
+    "CS Universitatea Craiova",
+    "Ion Oblemenco Stadium",
+    "sports club",
+    "tradition",
+    "Romanian league system",
+    "top flight",
+    "lower leagues",
+    "Liga I",
+    "Romanian professional football club",
+    "Craiova",
+    "five national cups",
+    "trophies",
+    "FC U Craiova 1948",
+    "2025–26 season",
+    "unofficial successor",
+    "four national titles",
+    "2021–22 season",
+    "temporary banishment",
+    "FC Universitatea Craiova",
+    "1948",
+    "1991",
+    "football department",
+    "records",
+    "2012",
+    "1992–93 Cupa României",
+    "two decades",
+    "Dolj County",
+    "Universitatea Craiova football team"
+  ],
+  "edges": [
+    "is a",
+    "claims all the",
+    "returned to",
+    "shares",
+    "dissolved its",
+    "is commonly known as",
+    "took its berth in",
+    "is located in",
+    "was excluded from",
+    "is one of the two entities asserting the history of",
+    "won",
+    "was reorganised several times and deemed an",
+    "has only major honour as",
+    "has uncertain divisional status ahead of",
+    "retired from every competition following their",
+    "continued its",
+    "returned in the",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FC Universitatea Craiova",
+      "took its berth in",
+      "top flight"
+    ],
+    [
+      "FC U Craiova",
+      "claims all the",
+      "trophies"
+    ],
+    [
+      "FC U Craiova",
+      "shares",
+      "Ion Oblemenco Stadium"
+    ],
+    [
+      "FC U Craiova",
+      "returned to",
+      "Liga I"
+    ],
+    [
+      "Universitatea Craiova football team",
+      "won",
+      "five national cups"
+    ],
+    [
+      "FC U Craiova",
+      "was excluded from",
+      "Romanian league system"
+    ],
+    [
+      "FC U Craiova",
+      "is located in",
+      "Dolj County"
+    ],
+    [
+      "FC U Craiova",
+      "is one of the two entities asserting the history of",
+      "Universitatea Craiova football team"
+    ],
+    [
+      "FC U Craiova",
+      "retired from every competition following their",
+      "temporary banishment"
+    ],
+    [
+      "FC U Craiova",
+      "continued its",
+      "tradition"
+    ],
+    [
+      "FC U Craiova",
+      "returned in the",
+      "2021–22 season"
+    ],
+    [
+      "FC U Craiova",
+      "is a",
+      "Romanian professional football club"
+    ],
+    [
+      "Universitatea Craiova football team",
+      "dissolved its",
+      "football department"
+    ],
+    [
+      "FC U Craiova",
+      "has uncertain divisional status ahead of",
+      "2025–26 season"
+    ],
+    [
+      "FC U Craiova",
+      "is based in",
+      "Craiova"
+    ],
+    [
+      "FC U Craiova",
+      "has only major honour as",
+      "1992–93 Cupa României"
+    ],
+    [
+      "Universitatea Craiova football team",
+      "won",
+      "four national titles"
+    ],
+    [
+      "FC U Craiova",
+      "was reorganised several times and deemed an",
+      "unofficial successor"
+    ],
+    [
+      "FC Universitatea Craiova",
+      "is commonly known as",
+      "FC U Craiova 1948"
+    ],
+    [
+      "FC U Craiova",
+      "claims all the",
+      "records"
+    ]
+  ]
+}

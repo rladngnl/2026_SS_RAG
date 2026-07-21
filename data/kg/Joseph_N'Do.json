@@ -1,0 +1,61 @@
+{
+  "entities": [
+    "professional footballer",
+    "Cameroonian",
+    "League of Ireland",
+    "Joseph Cyrille Ndo",
+    "Cameroon national team",
+    "attacking midfielder",
+    "commentator",
+    "forward",
+    "football coach"
+  ],
+  "edges": [
+    "played as",
+    "is regarded as",
+    "made appearances for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Joseph Cyrille Ndo",
+      "played as",
+      "attacking midfielder"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "played as",
+      "forward"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "is",
+      "Cameroonian"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "is",
+      "commentator"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "is",
+      "football coach"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "is regarded as",
+      "one of the greatest players to have played in the League of Ireland"
+    ],
+    [
+      "Joseph Cyrille Ndo",
+      "made appearances for",
+      "Cameroon national team"
+    ]
+  ]
+}

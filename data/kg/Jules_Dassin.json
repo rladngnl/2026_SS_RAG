@@ -1,0 +1,206 @@
+{
+  "entities": [
+    "Rififi",
+    "Topkapi",
+    "Greece",
+    "Hollywood blacklist",
+    "film director",
+    "Best Original Screenplay",
+    "Directors Guild of America",
+    "1955 Cannes Film Festival",
+    "Best Direction of a Musical",
+    "Illya Darling",
+    "Academy of Motion Picture Arts and Sciences",
+    "Best Musical",
+    "Joe Dassin",
+    "crime films",
+    "producer",
+    "Night and the City",
+    "theatre director",
+    "The Naked City",
+    "Melina Mercouri",
+    "American",
+    "Best Director Award",
+    "writer",
+    "Tony nominations",
+    "Brute Force",
+    "Never on Sunday",
+    "Jules Dassin",
+    "Thieves' Highway",
+    "Julius Dassin",
+    "Uptight",
+    "Academy Award",
+    "noir films",
+    "actor",
+    "France"
+  ],
+  "edges": [
+    "was the husband of",
+    "was",
+    "was the father of",
+    "earned",
+    "was awarded at",
+    "was best-known for",
+    "received",
+    "directed",
+    "was a member of",
+    "was a subject of",
+    "adapted",
+    "moved to",
+    "won",
+    "was adapted into",
+    "were for"
+  ],
+  "relations": [
+    [
+      "Jules Dassin",
+      "directed",
+      "Brute Force"
+    ],
+    [
+      "Jules Dassin",
+      "was the husband of",
+      "Melina Mercouri"
+    ],
+    [
+      "Jules Dassin",
+      "was a member of",
+      "Directors Guild of America"
+    ],
+    [
+      "Jules Dassin",
+      "adapted",
+      "Never on Sunday"
+    ],
+    [
+      "Jules Dassin",
+      "was",
+      "American film and theatre director"
+    ],
+    [
+      "Jules Dassin",
+      "earned",
+      "Tony nominations"
+    ],
+    [
+      "Jules Dassin",
+      "directed",
+      "Night and the City"
+    ],
+    [
+      "Tony nominations",
+      "were for",
+      "Best Direction of a Musical"
+    ],
+    [
+      "Jules Dassin",
+      "was the father of",
+      "Joe Dassin"
+    ],
+    [
+      "Jules Dassin",
+      "was",
+      "producer"
+    ],
+    [
+      "Jules Dassin",
+      "directed",
+      "Rififi"
+    ],
+    [
+      "Jules Dassin",
+      "moved to",
+      "France"
+    ],
+    [
+      "Jules Dassin",
+      "directed",
+      "Uptight"
+    ],
+    [
+      "Tony nominations",
+      "were for",
+      "Best Musical"
+    ],
+    [
+      "Never on Sunday",
+      "was adapted into",
+      "Illya Darling"
+    ],
+    [
+      "Jules Dassin",
+      "was",
+      "writer"
+    ],
+    [
+      "Jules Dassin",
+      "was best-known for",
+      "noir films"
+    ],
+    [
+      "Jules Dassin",
+      "was",
+      "actor"
+    ],
+    [
+      "Jules Dassin",
+      "moved to",
+      "Greece"
+    ],
+    [
+      "Academy Award nominations",
+      "were for",
+      "Best Original Screenplay"
+    ],
+    [
+      "Jules Dassin",
+      "directed",
+      "Thieves' Highway"
+    ],
+    [
+      "Jules Dassin",
+      "was a member of",
+      "Academy of Motion Picture Arts and Sciences"
+    ],
+    [
+      "Academy Award nominations",
+      "were for",
+      "Best Director"
+    ],
+    [
+      "Jules Dassin",
+      "directed",
+      "Topkapi"
+    ],
+    [
+      "Jules Dassin",
+      "was a subject of",
+      "Hollywood blacklist"
+    ],
+    [
+      "Jules Dassin",
+      "was best-known for",
+      "crime films"
+    ],
+    [
+      "Jules Dassin",
+      "won",
+      "Best Director Award"
+    ],
+    [
+      "Jules Dassin",
+      "directed",
+      "The Naked City"
+    ],
+    [
+      "Jules Dassin",
+      "received",
+      "Academy Award nominations"
+    ],
+    [
+      "Best Director Award",
+      "was awarded at",
+      "1955 Cannes Film Festival"
+    ]
+  ]
+}

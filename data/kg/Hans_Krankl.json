@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "former professional footballer",
+    "Austrian",
+    "Austria's greatest players",
+    "prolific striker",
+    "Johann Krankl",
+    "Hans Krankl"
+  ],
+  "edges": [
+    "is regarded by many as",
+    "is"
+  ],
+  "relations": [
+    [
+      "Hans Krankl",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Hans Krankl",
+      "is regarded by many as",
+      "Austria's greatest players"
+    ],
+    [
+      "Hans Krankl",
+      "is",
+      "Austrian"
+    ],
+    [
+      "Hans Krankl",
+      "is",
+      "prolific striker"
+    ]
+  ]
+}

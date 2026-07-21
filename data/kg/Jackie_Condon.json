@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "1929",
+    "John Michael Condon",
+    "original cast member",
+    "silent era",
+    "Our Gang",
+    "American child actor",
+    "1922",
+    "short series",
+    "Pathé",
+    "Jackie Condon",
+    "Hal Roach"
+  ],
+  "edges": [
+    "is a",
+    "was active until",
+    "was part of the",
+    "was produced by",
+    "was an",
+    "is also known as",
+    "was a regular in",
+    "was produced during",
+    "was active from"
+  ],
+  "relations": [
+    [
+      "Jackie Condon",
+      "was active from",
+      "1922"
+    ],
+    [
+      "Our Gang",
+      "was produced by",
+      "Pathé"
+    ],
+    [
+      "Our Gang",
+      "was part of the",
+      "silent era"
+    ],
+    [
+      "Jackie Condon",
+      "is also known as",
+      "John Michael Condon"
+    ],
+    [
+      "Jackie Condon",
+      "was active until",
+      "1929"
+    ],
+    [
+      "Jackie Condon",
+      "was an",
+      "American child actor"
+    ],
+    [
+      "Our Gang",
+      "is a",
+      "short series"
+    ],
+    [
+      "Jackie Condon",
+      "was an",
+      "original cast member"
+    ],
+    [
+      "Jackie Condon",
+      "was a regular in",
+      "Our Gang"
+    ],
+    [
+      "Our Gang",
+      "was produced during",
+      "Hal Roach"
+    ]
+  ]
+}

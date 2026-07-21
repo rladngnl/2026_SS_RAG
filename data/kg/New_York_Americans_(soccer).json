@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "1931",
+    "second American Soccer League",
+    "soccer club",
+    "first American Soccer League",
+    "New York",
+    "New York Americans"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "is based in",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "New York Americans",
+      "is a",
+      "soccer club"
+    ],
+    [
+      "New York Americans",
+      "was founded in",
+      "1931"
+    ],
+    [
+      "New York Americans",
+      "played in",
+      "first American Soccer League"
+    ],
+    [
+      "New York Americans",
+      "is based in",
+      "New York"
+    ],
+    [
+      "New York Americans",
+      "played in",
+      "second American Soccer League"
+    ]
+  ]
+}

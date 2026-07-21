@@ -1,0 +1,40 @@
+{
+  "entities": [
+    "Salvadoran footballer",
+    "defender",
+    "Municipal Limeño",
+    "Edwin González",
+    "soccer",
+    "football",
+    "Edwin Alexander González Valenzuela",
+    "Salvadoran second division"
+  ],
+  "edges": [
+    "plays for",
+    "is in",
+    "is a",
+    "plays"
+  ],
+  "relations": [
+    [
+      "Municipal Limeño",
+      "is in",
+      "Salvadoran second division"
+    ],
+    [
+      "Edwin Alexander González Valenzuela",
+      "plays for",
+      "Municipal Limeño"
+    ],
+    [
+      "Edwin Alexander González Valenzuela",
+      "is a",
+      "Salvadoran footballer"
+    ],
+    [
+      "Edwin Alexander González Valenzuela",
+      "plays",
+      "defender"
+    ]
+  ]
+}

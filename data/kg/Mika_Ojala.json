@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "professional footballer",
+    "VG-62",
+    "age 21",
+    "Inter Turku",
+    "January 2010",
+    "Finland",
+    "midfielder",
+    "Mika Ojala",
+    "football coach"
+  ],
+  "edges": [
+    "is a",
+    "made his international debut for",
+    "began his senior club career playing for",
+    "debuted in",
+    "was at the age of",
+    "signed with",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Mika Ojala",
+      "debuted in",
+      "January 2010"
+    ],
+    [
+      "Mika Ojala",
+      "is a",
+      "football coach"
+    ],
+    [
+      "Mika Ojala",
+      "was at the age of",
+      "age 21"
+    ],
+    [
+      "Mika Ojala",
+      "began his senior club career playing for",
+      "VG-62"
+    ],
+    [
+      "Mika Ojala",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Mika Ojala",
+      "signed with",
+      "Inter Turku"
+    ],
+    [
+      "Mika Ojala",
+      "plays as a",
+      "midfielder"
+    ],
+    [
+      "Mika Ojala",
+      "made his international debut for",
+      "Finland"
+    ]
+  ]
+}

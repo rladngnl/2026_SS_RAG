@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "professional footballer",
+    "Dorian Pierre Dervite-Vaussoue",
+    "U16",
+    "Dorian Dervite",
+    "defender",
+    "U21",
+    "former French youth International",
+    "French"
+  ],
+  "edges": [
+    "has played at every youth level from",
+    "is a",
+    "plays as a",
+    "is known as"
+  ],
+  "relations": [
+    [
+      "Dorian Dervite",
+      "plays as a",
+      "defender"
+    ],
+    [
+      "Dorian Dervite",
+      "is a",
+      "former French youth International"
+    ],
+    [
+      "Dorian Dervite",
+      "has played at every youth level from",
+      "U16 to U21"
+    ],
+    [
+      "Dorian Dervite",
+      "is a",
+      "French professional footballer"
+    ],
+    [
+      "Dorian Dervite",
+      "is known as",
+      "Dorian Pierre Dervite-Vaussoue"
+    ]
+  ]
+}

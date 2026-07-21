@@ -1,0 +1,53 @@
+{
+  "entities": [
+    "film producer",
+    "screenwriter",
+    "Martin Scorsese",
+    "Thorold Dickinson",
+    "British",
+    "university professor of film",
+    "film director",
+    "film editor"
+  ],
+  "edges": [
+    "describes",
+    "is"
+  ],
+  "relations": [
+    [
+      "Thorold Dickinson",
+      "is",
+      "British"
+    ],
+    [
+      "Thorold Dickinson",
+      "is",
+      "film editor"
+    ],
+    [
+      "Martin Scorsese",
+      "describes",
+      "Thorold Dickinson"
+    ],
+    [
+      "Thorold Dickinson",
+      "is",
+      "university professor of film"
+    ],
+    [
+      "Thorold Dickinson",
+      "is",
+      "screenwriter"
+    ],
+    [
+      "Thorold Dickinson",
+      "is",
+      "film director"
+    ],
+    [
+      "Thorold Dickinson",
+      "is",
+      "film producer"
+    ]
+  ]
+}

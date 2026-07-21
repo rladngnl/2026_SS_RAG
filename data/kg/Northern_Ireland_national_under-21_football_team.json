@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "European Under-21 Football Championship campaign",
+    "Northern Ireland U21s",
+    "Northern Ireland",
+    "Northern Irish players",
+    "Irish Football Association",
+    "UEFA European Under-21 Football Championship",
+    "Northern Ireland under-21s",
+    "Northern Ireland national under-21 football team"
+  ],
+  "edges": [
+    "are eligible to play for",
+    "is open to players whose parents or grandparents were born in",
+    "is the highest level of youth football in",
+    "is controlled by",
+    "is also known as",
+    "is open to players born in",
+    "is for",
+    "is for players aged 21 or under at the start of",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Northern Ireland national under-21 football team",
+      "is the highest level of youth football in",
+      "Northern Ireland"
+    ],
+    [
+      "Northern Irish players",
+      "are eligible to play for",
+      "Northern Ireland national under-21 football team"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is open to players whose parents or grandparents were born in",
+      "Northern Ireland"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "competes in",
+      "UEFA European Under-21 Football Championship"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is also known as",
+      "Northern Ireland under-21s"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is for players aged 21 or under at the start of",
+      "European Under-21 Football Championship campaign"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is for",
+      "Northern Irish players"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is controlled by",
+      "Irish Football Association"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is also known as",
+      "Northern Ireland U21s"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is open to players born in",
+      "Northern Ireland"
+    ]
+  ]
+}

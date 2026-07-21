@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "North America",
+    "E. Remington and Sons",
+    "RemArms, LLC",
+    "Remington Outdoor Company",
+    "Czechoslovak Group",
+    "2015 ATF statistics",
+    "Eliphalet Remington",
+    "Remington Arms Company, LLC",
+    "Ilion, New York",
+    "Remington Ammunition",
+    "Remington Firearms"
+  ],
+  "edges": [
+    "had its lines of business sold to",
+    "was an American manufacturer of",
+    "developed or adopted more cartridges than any other",
+    "went bankrupt in",
+    "is owned by",
+    "was founded in",
+    "was located in",
+    "was according to",
+    "was the largest rifle manufacturer in",
+    "founded"
+  ],
+  "relations": [
+    [
+      "Remington Firearms",
+      "is owned by",
+      "RemArms, LLC"
+    ],
+    [
+      "Remington Arms Company, LLC",
+      "was the largest rifle manufacturer in",
+      "North America"
+    ],
+    [
+      "E. Remington and Sons",
+      "was located in",
+      "Ilion, New York"
+    ],
+    [
+      "Remington Arms Company, LLC",
+      "developed or adopted more cartridges than any other",
+      "gun maker or ammunition manufacturer in the world"
+    ],
+    [
+      "Remington Outdoor Company",
+      "went bankrupt in",
+      "2020"
+    ],
+    [
+      "Remington Arms Company, LLC",
+      "was according to",
+      "2015 ATF statistics"
+    ],
+    [
+      "Eliphalet Remington",
+      "founded",
+      "E. Remington and Sons"
+    ],
+    [
+      "E. Remington and Sons",
+      "was founded in",
+      "1816"
+    ],
+    [
+      "Remington Arms Company, LLC",
+      "was an American manufacturer of",
+      "firearms and ammunition"
+    ],
+    [
+      "Remington Outdoor Company",
+      "had its lines of business sold to",
+      "several purchasers"
+    ],
+    [
+      "Remington Ammunition",
+      "is owned by",
+      "Czechoslovak Group"
+    ]
+  ]
+}

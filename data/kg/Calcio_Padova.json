@@ -1,0 +1,133 @@
+{
+  "entities": [
+    "Serie B",
+    "Football Padova",
+    "1996",
+    "liquidation",
+    "Veneto",
+    "red",
+    "2014",
+    "Padua",
+    "2015",
+    "Biancoscudati Padova",
+    "phoenix club",
+    "2014–15 Lega Pro",
+    "Serie A",
+    "Italian football club",
+    "2014–15 Serie D",
+    "white",
+    "Padova",
+    "Calcio Padova"
+  ],
+  "edges": [
+    "has official colours",
+    "was refounded in",
+    "is a",
+    "is commonly referred to as",
+    "is based in",
+    "allowed the new iteration to use the original name",
+    "is an",
+    "last played in",
+    "currently plays in",
+    "was awarded for",
+    "was awarded to",
+    "was expelled from",
+    "was established in",
+    "was renamed to",
+    "was in the process of",
+    "was founded in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Calcio Padova",
+      "is an",
+      "Italian football club"
+    ],
+    [
+      "Calcio Padova",
+      "is commonly referred to as",
+      "Padova"
+    ],
+    [
+      "Calcio Padova",
+      "currently plays in",
+      "Serie B"
+    ],
+    [
+      "Calcio Padova",
+      "last played in",
+      "1996"
+    ],
+    [
+      "Calcio Padova",
+      "is based in",
+      "Padua"
+    ],
+    [
+      "Calcio Padova",
+      "was in the process of",
+      "liquidation"
+    ],
+    [
+      "Calcio Padova",
+      "is located in",
+      "Veneto"
+    ],
+    [
+      "Calcio Padova",
+      "has official colours",
+      "white and red"
+    ],
+    [
+      "Biancoscudati Padova",
+      "was awarded for",
+      "2014–15 Serie D"
+    ],
+    [
+      "Calcio Padova",
+      "was founded in",
+      "1910"
+    ],
+    [
+      "original Padova",
+      "was renamed to",
+      "Football Padova"
+    ],
+    [
+      "Calcio Padova",
+      "last played in",
+      "Serie A"
+    ],
+    [
+      "Calcio Padova",
+      "was expelled from",
+      "2014–15 Lega Pro"
+    ],
+    [
+      "Calcio Padova",
+      "is a",
+      "phoenix club"
+    ],
+    [
+      "Calcio Padova",
+      "was established in",
+      "2015"
+    ],
+    [
+      "Football Padova",
+      "allowed the new iteration to use the original name",
+      "Calcio Padova"
+    ],
+    [
+      "Calcio Padova",
+      "was refounded in",
+      "2014"
+    ],
+    [
+      "sports title",
+      "was awarded to",
+      "Biancoscudati Padova"
+    ]
+  ]
+}

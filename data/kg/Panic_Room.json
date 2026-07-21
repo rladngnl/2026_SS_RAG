@@ -1,0 +1,217 @@
+{
+  "entities": [
+    "2000",
+    "Jodie Foster",
+    "2002",
+    "daughter",
+    "production cost",
+    "critics",
+    "Canada",
+    "David Fincher",
+    "Kristen Stewart",
+    "mother",
+    "Forest Whitaker",
+    "performance",
+    "United States",
+    "gross",
+    "worldwide total",
+    "Panic Room",
+    "March 29, 2002",
+    "computer-generated imagery",
+    "1999",
+    "burglars",
+    "American thriller film",
+    "Nicole Kidman",
+    "direction",
+    "Dwight Yoakam",
+    "news coverage",
+    "opening weekend",
+    "Sony Pictures Releasing",
+    "David Koepp",
+    "filming",
+    "Jared Leto",
+    "Fight Club",
+    "Raleigh Studios",
+    "screenplay"
+  ],
+  "edges": [
+    "is invaded by",
+    "is a",
+    "grossed in the United States and Canada",
+    "had a production cost of",
+    "replaced",
+    "are played by",
+    "is from",
+    "became pregnant during",
+    "grossed in other territories",
+    "was originally cast as",
+    "was released in",
+    "left after aggravating",
+    "was directed by",
+    "was written by",
+    "stars",
+    "has a worldwide total of",
+    "was released on",
+    "follows",
+    "was suspended until after",
+    "commended",
+    "was positively reviewed by",
+    "was built on",
+    "was released by",
+    "used",
+    "was inspired by",
+    "grossed on its opening weekend"
+  ],
+  "relations": [
+    [
+      "critics",
+      "commended",
+      "Fincher's direction"
+    ],
+    [
+      "Panic Room",
+      "used",
+      "computer-generated imagery"
+    ],
+    [
+      "Fight Club",
+      "was released in",
+      "1999"
+    ],
+    [
+      "Foster",
+      "replaced",
+      "Kidman"
+    ],
+    [
+      "burglars",
+      "are played by",
+      "Jared Leto"
+    ],
+    [
+      "Panic Room",
+      "follows",
+      "Fight Club"
+    ],
+    [
+      "burglars",
+      "are played by",
+      "Forest Whitaker"
+    ],
+    [
+      "Panic Room",
+      "was released on",
+      "March 29, 2002"
+    ],
+    [
+      "Panic Room",
+      "is invaded by",
+      "burglars"
+    ],
+    [
+      "Nicole Kidman",
+      "left after aggravating",
+      "a previous injury"
+    ],
+    [
+      "Foster",
+      "became pregnant during",
+      "the shooting schedule"
+    ],
+    [
+      "Panic Room",
+      "was directed by",
+      "David Fincher"
+    ],
+    [
+      "critics",
+      "commended",
+      "Foster's performance"
+    ],
+    [
+      "Panic Room",
+      "was released by",
+      "Sony Pictures Releasing"
+    ],
+    [
+      "filming",
+      "was suspended until after",
+      "she gave birth"
+    ],
+    [
+      "Panic Room",
+      "stars",
+      "Kristen Stewart"
+    ],
+    [
+      "Panic Room",
+      "grossed in other territories",
+      "100.7 million"
+    ],
+    [
+      "David Koepp",
+      "was inspired by",
+      "news coverage"
+    ],
+    [
+      "burglars",
+      "are played by",
+      "Dwight Yoakam"
+    ],
+    [
+      "Panic Room",
+      "grossed on its opening weekend",
+      "30 million"
+    ],
+    [
+      "Panic Room",
+      "has a worldwide total of",
+      "197.1 million"
+    ],
+    [
+      "Panic Room",
+      "was built on",
+      "Raleigh Studios"
+    ],
+    [
+      "Panic Room",
+      "is a",
+      "2002 American thriller film"
+    ],
+    [
+      "Nicole Kidman",
+      "was originally cast as",
+      "mother"
+    ],
+    [
+      "Panic Room",
+      "was positively reviewed by",
+      "critics"
+    ],
+    [
+      "Panic Room",
+      "stars",
+      "Jodie Foster"
+    ],
+    [
+      "news coverage",
+      "is from",
+      "2000"
+    ],
+    [
+      "Panic Room",
+      "grossed in the United States and Canada",
+      "96.4 million"
+    ],
+    [
+      "Panic Room",
+      "was written by",
+      "David Koepp"
+    ],
+    [
+      "Panic Room",
+      "had a production cost of",
+      "48 million"
+    ]
+  ]
+}

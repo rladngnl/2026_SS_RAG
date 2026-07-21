@@ -1,0 +1,106 @@
+{
+  "entities": [
+    "2006",
+    "Soldier Field",
+    "2000",
+    "National Football League",
+    "2003",
+    "MLS",
+    "Great Chicago Fire",
+    "2003 MLS Supporters' Shield",
+    "October 8, 1997",
+    "Chicago Bears",
+    "Chicago Fire Juniors",
+    "Chicago Fire Football Club",
+    "MLS Cup",
+    "U.S. Open Cup",
+    "1871",
+    "Chicago",
+    "Eastern Conference",
+    "Major League Soccer",
+    "NFL",
+    "Chicago Fire Foundation",
+    "1998",
+    "Chicago Fire Development Academy"
+  ],
+  "edges": [
+    "began play in",
+    "competes in",
+    "operates",
+    "is a member of",
+    "is valued at",
+    "was founded on",
+    "maintains",
+    "won",
+    "is shared with",
+    "is based in",
+    "plays home games at"
+  ],
+  "relations": [
+    [
+      "Chicago Fire Football Club",
+      "operates",
+      "Chicago Fire Foundation"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "is a member of",
+      "Eastern Conference"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "was founded on",
+      "October 8, 1997"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "won",
+      "U.S. Open Cup"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "maintains",
+      "Chicago Fire Development Academy"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "is valued at",
+      "over $500 million"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "competes in",
+      "Major League Soccer"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "won",
+      "MLS Cup"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "began play in",
+      "1998"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "won",
+      "2003 MLS Supporters' Shield"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "plays home games at",
+      "Soldier Field"
+    ],
+    [
+      "Chicago Fire Football Club",
+      "is based in",
+      "Chicago"
+    ],
+    [
+      "Soldier Field",
+      "is shared with",
+      "Chicago Bears"
+    ]
+  ]
+}

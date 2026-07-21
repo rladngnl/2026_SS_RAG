@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "North America",
+    "professional footballer",
+    "career league appearances",
+    "midfielder",
+    "Dutch",
+    "André Oostrom",
+    "Netherlands"
+  ],
+  "edges": [
+    "played as",
+    "made",
+    "was",
+    "was active in"
+  ],
+  "relations": [
+    [
+      "André Oostrom",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "André Oostrom",
+      "was",
+      "professional footballer"
+    ],
+    [
+      "André Oostrom",
+      "was active in",
+      "North America"
+    ],
+    [
+      "André Oostrom",
+      "was",
+      "Dutch"
+    ],
+    [
+      "André Oostrom",
+      "was active in",
+      "Netherlands"
+    ],
+    [
+      "André Oostrom",
+      "made",
+      "career league appearances"
+    ]
+  ]
+}

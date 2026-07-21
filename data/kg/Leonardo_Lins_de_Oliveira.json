@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "Ipatinga",
+    "defender",
+    "Leonardo Lins de Oliveira",
+    "Brazilian",
+    "Leo Oliveira"
+  ],
+  "edges": [
+    "plays for",
+    "is a",
+    "is known as"
+  ],
+  "relations": [
+    [
+      "Leonardo Lins de Oliveira",
+      "is a",
+      "defender"
+    ],
+    [
+      "Leonardo Lins de Oliveira",
+      "plays for",
+      "Ipatinga"
+    ],
+    [
+      "Leonardo Lins de Oliveira",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Leonardo Lins de Oliveira",
+      "is known as",
+      "Leo Oliveira"
+    ]
+  ]
+}

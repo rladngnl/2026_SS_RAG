@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "1956",
+    "coal-miner's club",
+    "KNVB Cup",
+    "Roda Sport",
+    "Sportvereniging Roda Juliana Combinatie Kerkrade",
+    "Eerste Divisie",
+    "coal miners",
+    "2014",
+    "MVV",
+    "Maastricht",
+    "2009–10",
+    "Kerkrade",
+    "Rapid JC",
+    "Roda",
+    "Dutch",
+    "Roda JC Kerkrade",
+    "1973",
+    "Netherlands"
+  ],
+  "edges": [
+    "added Kerkrade to the name in",
+    "was promoted back to the top division in",
+    "is a",
+    "plays in",
+    "was founded by a merger between",
+    "is known as the",
+    "was relegated in",
+    "were champions of the Netherlands in"
+  ],
+  "relations": [
+    [
+      "Roda JC Kerkrade",
+      "is known as the",
+      "coal-miner's club"
+    ],
+    [
+      "Roda JC Kerkrade",
+      "was promoted back to the top division in",
+      "1973"
+    ],
+    [
+      "Roda JC Kerkrade",
+      "was founded by a merger between",
+      "Rapid JC and Roda Sport"
+    ],
+    [
+      "Rapid JC",
+      "were champions of the Netherlands in",
+      "1956"
+    ],
+    [
+      "Roda JC Kerkrade",
+      "was relegated in",
+      "2014"
+    ],
+    [
+      "Roda JC Kerkrade",
+      "plays in",
+      "Eerste Divisie"
+    ],
+    [
+      "Roda JC Kerkrade",
+      "is a",
+      "Dutch professional football club"
+    ],
+    [
+      "Roda JC Kerkrade",
+      "added Kerkrade to the name in",
+      "2009–10"
+    ]
+  ]
+}

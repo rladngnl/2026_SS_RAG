@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Ricardo Martínez",
+    "Asunción",
+    "18 February 1984",
+    "Paraguayan",
+    "former football centre-back",
+    "Ricardo Julián Martinez Pavón"
+  ],
+  "edges": [
+    "is a",
+    "is also known as",
+    "was born in",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Ricardo Martínez",
+      "was born on",
+      "18 February 1984"
+    ],
+    [
+      "Ricardo Martínez",
+      "is a",
+      "former football centre-back"
+    ],
+    [
+      "Ricardo Julián Martinez Pavón",
+      "is also known as",
+      "Ricardo Martínez"
+    ],
+    [
+      "Ricardo Martínez",
+      "was born in",
+      "Asunción"
+    ],
+    [
+      "Ricardo Martínez",
+      "is",
+      "Paraguayan"
+    ]
+  ]
+}

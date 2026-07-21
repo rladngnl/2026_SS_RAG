@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "22 November 1976",
+    "soccer player",
+    "Jonathan Perry",
+    "defender",
+    "New Zealand"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Jonathan Perry",
+      "is a",
+      "soccer player"
+    ],
+    [
+      "Jonathan Perry",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Jonathan Perry",
+      "was born on",
+      "22 November 1976"
+    ],
+    [
+      "Jonathan Perry",
+      "is from",
+      "New Zealand"
+    ]
+  ]
+}

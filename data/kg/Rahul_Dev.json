@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "Rahul Dev Kaushal",
+    "day 63",
+    "Kannada films",
+    "Malayalam films",
+    "Odia films",
+    "Bigg Boss",
+    "Telugu films",
+    "Indian actor",
+    "Tamil films",
+    "Bengali films",
+    "Hindi season 10",
+    "former model",
+    "Hindi films"
+  ],
+  "edges": [
+    "was evicted on",
+    "works in",
+    "is",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Tamil films"
+    ],
+    [
+      "Bigg Boss",
+      "is",
+      "Hindi season 10"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Hindi films"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Malayalam films"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Kannada films"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "participated in",
+      "Bigg Boss"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Telugu films"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Bengali films"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "is",
+      "former model"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "is",
+      "Indian actor"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "works in",
+      "Odia films"
+    ],
+    [
+      "Rahul Dev Kaushal",
+      "was evicted on",
+      "day 63"
+    ]
+  ]
+}

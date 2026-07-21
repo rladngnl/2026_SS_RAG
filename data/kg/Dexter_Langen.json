@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Hesse",
+    "nursery teacher",
+    "football defender",
+    "Friedberg",
+    "Dexter Langen",
+    "Germany"
+  ],
+  "edges": [
+    "is a",
+    "was born in",
+    "is from",
+    "is training to be a"
+  ],
+  "relations": [
+    [
+      "Dexter Langen",
+      "was born in",
+      "Friedberg"
+    ],
+    [
+      "Dexter Langen",
+      "is a",
+      "football defender"
+    ],
+    [
+      "Dexter Langen",
+      "is training to be a",
+      "nursery teacher"
+    ],
+    [
+      "Dexter Langen",
+      "is from",
+      "Hesse"
+    ],
+    [
+      "Dexter Langen",
+      "is from",
+      "Germany"
+    ]
+  ]
+}

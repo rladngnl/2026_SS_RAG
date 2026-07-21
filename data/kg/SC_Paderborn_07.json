@@ -1,0 +1,92 @@
+{
+  "entities": [
+    "2018–19 season",
+    "2. Bundesliga",
+    "Paderborn",
+    "3. Liga",
+    "North Rhine-Westphalia",
+    "2013–14 season",
+    "Regionalliga West",
+    "Sport-Club Paderborn 07 e.V.",
+    "2016–17 season",
+    "SC Paderborn 07",
+    "Bundesliga",
+    "1860 Munich",
+    "2019–20 season"
+  ],
+  "edges": [
+    "returned to",
+    "finished 18th in",
+    "was saved in",
+    "is located in",
+    "plays in",
+    "reached 2nd place in",
+    "was relegated to",
+    "will play in",
+    "was refused a license",
+    "secured promotion to",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "SC Paderborn 07",
+      "was relegated to",
+      "2. Bundesliga"
+    ],
+    [
+      "SC Paderborn 07",
+      "secured promotion to",
+      "Bundesliga"
+    ],
+    [
+      "SC Paderborn 07",
+      "finished 18th in",
+      "2019–20 season"
+    ],
+    [
+      "SC Paderborn 07",
+      "is located in",
+      "North Rhine-Westphalia"
+    ],
+    [
+      "1860 Munich",
+      "was refused a license",
+      "SC Paderborn 07"
+    ],
+    [
+      "SC Paderborn 07",
+      "plays in",
+      "2. Bundesliga"
+    ],
+    [
+      "SC Paderborn 07",
+      "was saved in",
+      "2016–17 season"
+    ],
+    [
+      "SC Paderborn 07",
+      "was relegated to",
+      "3. Liga"
+    ],
+    [
+      "SC Paderborn 07",
+      "is based in",
+      "Paderborn"
+    ],
+    [
+      "SC Paderborn 07",
+      "returned to",
+      "2. Bundesliga"
+    ],
+    [
+      "SC Paderborn 07",
+      "will play in",
+      "Bundesliga"
+    ],
+    [
+      "SC Paderborn 07",
+      "reached 2nd place in",
+      "2018–19 season"
+    ]
+  ]
+}

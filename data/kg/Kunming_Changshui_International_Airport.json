@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "Sichuan Airlines",
+    "China",
+    "Lucky Air",
+    "ZPPP",
+    "2024",
+    "Wujiaba International Airport",
+    "Kunming",
+    "China Eastern Airlines",
+    "South Asia",
+    "Southeast Asia",
+    "Kunming Changshui International Airport",
+    "47th busiest airport",
+    "SOM",
+    "Arup",
+    "2025",
+    "Ruili Airlines",
+    "Yunnan province",
+    "4th busiest airport",
+    "Kunming Airlines",
+    "KMG",
+    "49.7057 million"
+  ],
+  "edges": [
+    "replaced",
+    "is in",
+    "is a hub for",
+    "handled over",
+    "opened on",
+    "is the",
+    "reached",
+    "was engineered by",
+    "was designed by",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Kunming Changshui International Airport",
+      "is a hub for",
+      "Ruili Airlines"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is in",
+      "Yunnan province"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "handled over",
+      "47,000,000 passengers in 2024"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "was engineered by",
+      "Arup"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "opened on",
+      "28 June 2012"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is the",
+      "47th busiest airport in the world"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is a hub for",
+      "China Eastern Airlines"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is located in",
+      "Kunming"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is a hub for",
+      "Sichuan Airlines"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "replaced",
+      "Wujiaba International Airport"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "was designed by",
+      "SOM"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is a hub for",
+      "Lucky Air"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is the",
+      "4th busiest airport in China"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "is a hub for",
+      "Kunming Airlines"
+    ],
+    [
+      "Kunming Changshui International Airport",
+      "reached",
+      "49.7057 million passengers in 2025"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "Houston Dynamo",
+    "American",
+    "2006",
+    "January 21, 1982",
+    "Martin Hutton",
+    "former soccer player",
+    "Major League Soccer"
+  ],
+  "edges": [
+    "is a",
+    "last played for",
+    "last played in",
+    "is",
+    "was born on",
+    "is part of"
+  ],
+  "relations": [
+    [
+      "Martin Hutton",
+      "last played for",
+      "Houston Dynamo"
+    ],
+    [
+      "Houston Dynamo",
+      "is part of",
+      "Major League Soccer"
+    ],
+    [
+      "Martin Hutton",
+      "last played in",
+      "2006"
+    ],
+    [
+      "Martin Hutton",
+      "is a",
+      "former soccer player"
+    ],
+    [
+      "Martin Hutton",
+      "was born on",
+      "January 21, 1982"
+    ],
+    [
+      "Martin Hutton",
+      "is",
+      "American"
+    ]
+  ]
+}

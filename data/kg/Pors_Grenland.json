@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "Porsgrunn",
+    "Erik Pedersen",
+    "Pors Fotball",
+    "Norwegian football club",
+    "Pors Stadion",
+    "2. divisjon",
+    "Jan Halvor Halvorsen",
+    "blue jerseys"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "plays in",
+    "has home ground",
+    "had notable former player"
+  ],
+  "relations": [
+    [
+      "Pors Fotball",
+      "had notable former player",
+      "Jan Halvor Halvorsen"
+    ],
+    [
+      "Pors Fotball",
+      "is a",
+      "Norwegian football club"
+    ],
+    [
+      "Pors Fotball",
+      "is from",
+      "Porsgrunn"
+    ],
+    [
+      "Pors Fotball",
+      "had notable former player",
+      "Erik Pedersen"
+    ],
+    [
+      "Pors Fotball",
+      "plays in",
+      "2. divisjon"
+    ],
+    [
+      "Pors Fotball",
+      "has home ground",
+      "Pors Stadion"
+    ],
+    [
+      "Pors Fotball",
+      "plays in",
+      "blue jerseys"
+    ]
+  ]
+}

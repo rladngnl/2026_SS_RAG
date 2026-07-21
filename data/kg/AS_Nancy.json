@@ -1,0 +1,209 @@
+{
+  "entities": [
+    "Chien Lee",
+    "UEFA",
+    "Partners Path Capital",
+    "Roger Lemerre",
+    "Michaël Cuisance",
+    "Grand Est",
+    "Tony Cascarino",
+    "Jean-Michel Moutier",
+    "Amine Bassi",
+    "Stade Marcel Picot",
+    "Maurice de Vienne",
+    "Olivier Rouyer",
+    "AS Nancy Lorraine",
+    "Tony Vairelles",
+    "Ligue 2",
+    "Paul Conway",
+    "Randy Frankel",
+    "Pacific Media Group",
+    "Jacques Rousselot",
+    "Clément Lenglet",
+    "Tomblaine",
+    "Bernard Zénier",
+    "Coupe de la Ligue",
+    "Coupe de France",
+    "NewCity Capital",
+    "Mustapha Hadji",
+    "ASNL",
+    "Championnat National",
+    "Michel Platini",
+    "Youssouf Hadji",
+    "Aleksandr Zavarov",
+    "Nancy",
+    "Association Sportive Lorraine",
+    "Union sportive Frontière",
+    "Krishen Sud",
+    "Neil El Aynaoui"
+  ],
+  "edges": [
+    "won the",
+    "began his career at",
+    "became the chairman of the board of",
+    "is based in",
+    "has participated in",
+    "has won",
+    "is also known as",
+    "plays its home matches at",
+    "was crowned champions on",
+    "was founded in",
+    "was removed from",
+    "acquired",
+    "competes in",
+    "is located in",
+    "is a notable player of"
+  ],
+  "relations": [
+    [
+      "AS Nancy Lorraine",
+      "was founded in",
+      "1967"
+    ],
+    [
+      "Michel Platini",
+      "began his career at",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "competes in",
+      "Ligue 2"
+    ],
+    [
+      "Chien Lee",
+      "acquired",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Clément Lenglet",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Neil El Aynaoui",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Michaël Cuisance",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Chien Lee",
+      "became the chairman of the board of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Youssouf Hadji",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Tony Vairelles",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Mustapha Hadji",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Aleksandr Zavarov",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Roger Lemerre",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "has participated in",
+      "three European competitions"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "won the",
+      "Coupe de France"
+    ],
+    [
+      "Tony Cascarino",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Olivier Rouyer",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "won the",
+      "Coupe de la Ligue"
+    ],
+    [
+      "Jean-Michel Moutier",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Bernard Zénier",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "Stade Marcel Picot",
+      "is located in",
+      "Tomblaine"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "is based in",
+      "Nancy"
+    ],
+    [
+      "Paul Conway",
+      "was removed from",
+      "AS Nancy Lorraine’s Board of Directors"
+    ],
+    [
+      "Michel Platini",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "is also known as",
+      "Nancy"
+    ],
+    [
+      "Amine Bassi",
+      "is a notable player of",
+      "AS Nancy Lorraine"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "was crowned champions on",
+      "May 2, 2025"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "has won",
+      "8 titles"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "is also known as",
+      "ASNL"
+    ],
+    [
+      "AS Nancy Lorraine",
+      "plays its home matches at",
+      "Stade Marcel Picot"
+    ]
+  ]
+}

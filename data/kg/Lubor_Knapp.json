@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "footballer",
+    "midfielder",
+    "3 August 1976",
+    "Czech",
+    "SK Pržno",
+    "Lubor Knapp"
+  ],
+  "edges": [
+    "plays for",
+    "was born on",
+    "is a",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Lubor Knapp",
+      "is a",
+      "Czech footballer"
+    ],
+    [
+      "Lubor Knapp",
+      "plays for",
+      "SK Pržno"
+    ],
+    [
+      "Lubor Knapp",
+      "was born on",
+      "3 August 1976"
+    ],
+    [
+      "Lubor Knapp",
+      "plays as a",
+      "midfielder"
+    ]
+  ]
+}

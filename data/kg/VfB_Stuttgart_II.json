@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "3. Liga",
+    "VfB Stuttgart II",
+    "VfB Stuttgart Amateure",
+    "German football team",
+    "Stuttgart",
+    "VfB Stuttgart",
+    "reserve team"
+  ],
+  "edges": [
+    "is a",
+    "is the reserve team of",
+    "was previously known as",
+    "is playing in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "VfB Stuttgart II",
+      "is the reserve team of",
+      "VfB Stuttgart"
+    ],
+    [
+      "VfB Stuttgart II",
+      "is a",
+      "German football team"
+    ],
+    [
+      "VfB Stuttgart II",
+      "was previously known as",
+      "VfB Stuttgart Amateure"
+    ],
+    [
+      "VfB Stuttgart II",
+      "is located in",
+      "Stuttgart"
+    ],
+    [
+      "VfB Stuttgart II",
+      "is playing in",
+      "3. Liga"
+    ]
+  ]
+}

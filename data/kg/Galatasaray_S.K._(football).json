@@ -1,0 +1,145 @@
+{
+  "entities": [
+    "Kıtalar Arası Derbi",
+    "Rams Park",
+    "Bosphorus strait",
+    "Ali Sami Yen Stadium",
+    "Galatasaray Sports Club",
+    "Istanbul",
+    "Club Champions Cup",
+    "IFFHS World Rankings",
+    "UEFA Champions League",
+    "Galatasaray Community Cooperation Committee",
+    "treble",
+    "Galatasaray",
+    "Süper Lig",
+    "Turkish Cup",
+    "Turkish Super Cup",
+    "Beşiktaş J.K.",
+    "2025",
+    "İnönü Stadium",
+    "UEFA Cup",
+    "Taksim Stadium",
+    "Galatasaray High School",
+    "1999–2000 season",
+    "Istanbul Football League",
+    "Fenerbahçe",
+    "Galatasaray Spor Kulübü",
+    "UEFA Super Cup",
+    "Seyrantepe"
+  ],
+  "edges": [
+    "is ranked first in",
+    "is the most successful club of the",
+    "has a rivalry with",
+    "has reached the semi-finals in",
+    "has won",
+    "achieved a treble in",
+    "is a part of",
+    "has the most titles in",
+    "is in 2nd position in",
+    "previously played at",
+    "has reached the quarter-finals in",
+    "is involved in the derby called",
+    "is the most successful club in",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Galatasaray",
+      "has the most titles in",
+      "Süper Lig"
+    ],
+    [
+      "Galatasaray",
+      "has won",
+      "UEFA Super Cup"
+    ],
+    [
+      "Galatasaray",
+      "has reached the quarter-finals in",
+      "UEFA Champions League"
+    ],
+    [
+      "Galatasaray",
+      "has the most titles in",
+      "Turkish Cup"
+    ],
+    [
+      "Galatasaray",
+      "has reached the semi-finals in",
+      "Club Champions Cup"
+    ],
+    [
+      "Galatasaray",
+      "is the most successful club in",
+      "European competitions"
+    ],
+    [
+      "Galatasaray",
+      "previously played at",
+      "Ali Sami Yen Stadium"
+    ],
+    [
+      "Galatasaray",
+      "has the most titles in",
+      "Turkish Super Cup"
+    ],
+    [
+      "Galatasaray",
+      "has a rivalry with",
+      "Beşiktaş J.K."
+    ],
+    [
+      "Galatasaray",
+      "is a part of",
+      "Galatasaray Sports Club"
+    ],
+    [
+      "Galatasaray",
+      "is based in",
+      "Istanbul"
+    ],
+    [
+      "Galatasaray",
+      "achieved a treble in",
+      "1999–2000 season"
+    ],
+    [
+      "Galatasaray",
+      "is involved in the derby called",
+      "Kıtalar Arası Derbi"
+    ],
+    [
+      "Galatasaray",
+      "has won",
+      "UEFA Cup"
+    ],
+    [
+      "Galatasaray",
+      "has a rivalry with",
+      "Fenerbahçe"
+    ],
+    [
+      "Galatasaray",
+      "is in 2nd position in",
+      "UEFA coefficient"
+    ],
+    [
+      "Galatasaray",
+      "is the most successful club of the",
+      "20th century"
+    ],
+    [
+      "Galatasaray",
+      "is ranked first in",
+      "IFFHS World Rankings"
+    ],
+    [
+      "Galatasaray",
+      "plays at",
+      "Rams Park"
+    ]
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    "1931",
+    "1929",
+    "1933",
+    "Boston Soccer Club",
+    "Boston Bears",
+    "1929–1930 season",
+    "International Soccer League",
+    "1932",
+    "ASL",
+    "1926",
+    "American Soccer League",
+    "1924"
+  ],
+  "edges": [
+    "folded in",
+    "competed from",
+    "had originally been known as",
+    "suspended operations during",
+    "competed in",
+    "competed until",
+    "were a member of"
+  ],
+  "relations": [
+    [
+      "Boston Bears",
+      "had originally been known as",
+      "Boston Soccer Club"
+    ],
+    [
+      "Boston Soccer Club",
+      "competed in",
+      "ASL"
+    ],
+    [
+      "Boston Soccer Club",
+      "competed in",
+      "International Soccer League"
+    ],
+    [
+      "Boston Bears",
+      "competed in",
+      "1932"
+    ],
+    [
+      "Boston Bears",
+      "competed in",
+      "1931"
+    ],
+    [
+      "Boston Bears",
+      "were a member of",
+      "American Soccer League"
+    ],
+    [
+      "Boston Soccer Club",
+      "competed from",
+      "1924"
+    ],
+    [
+      "Boston Bears",
+      "suspended operations during",
+      "1929–1930 season"
+    ],
+    [
+      "Boston Bears",
+      "folded in",
+      "1933"
+    ],
+    [
+      "Boston Soccer Club",
+      "competed until",
+      "1929"
+    ]
+  ]
+}

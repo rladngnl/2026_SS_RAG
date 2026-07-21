@@ -1,0 +1,229 @@
+{
+  "entities": [
+    "Stephen Curry",
+    "Tim Hardaway",
+    "Pacific Division",
+    "Chris Mullin",
+    "Finals appearances",
+    "Tom Gola",
+    "Chase Center",
+    "Jamaal Wilkes",
+    "Wilt Chamberlain",
+    "Kevin Durant",
+    "Golden State Warriors",
+    "Neil Johnston",
+    "Dubs",
+    "Western Conference",
+    "Basketball Association of America",
+    "Draymond Green",
+    "Klay Thompson",
+    "BAA",
+    "Philadelphia",
+    "Toronto Raptors",
+    "Chamberlain",
+    "Mitch Richmond",
+    "Paul Arizin",
+    "Cleveland Cavaliers",
+    "NBA championships",
+    "National Basketball Association",
+    "Los Angeles Lakers",
+    "Run TMC",
+    "San Francisco",
+    "MVP",
+    "Rick Barry",
+    "Boston Celtics",
+    "NBA"
+  ],
+  "edges": [
+    "compete in",
+    "were founded in",
+    "powered the Warriors to their third championship in",
+    "is one of the players in franchise history to win the league MVP award",
+    "returned to championship glory in",
+    "are nicknamed",
+    "achieved the best-ever regular-season record in",
+    "are based in",
+    "were led by",
+    "won back-to-back championships in",
+    "hold several NBA records including",
+    "returned to the playoffs and defeated",
+    "won again in",
+    "became playoff regulars with stars",
+    "drafted",
+    "lost the 2019 Finals to",
+    "won the inaugural championship in",
+    "lost the Finals to",
+    "finished the 1964–65 season with",
+    "is considered among the greatest backcourts of all time with",
+    "play their home games at",
+    "rank third for the most NBA championships and Finals appearances behind",
+    "are a member of"
+  ],
+  "relations": [
+    [
+      "Stephen Curry",
+      "is considered among the greatest backcourts of all time with",
+      "Klay Thompson"
+    ],
+    [
+      "Golden State Warriors",
+      "are nicknamed",
+      "Dubs"
+    ],
+    [
+      "Golden State Warriors",
+      "are based in",
+      "San Francisco"
+    ],
+    [
+      "Golden State Warriors",
+      "won back-to-back championships in",
+      "2017"
+    ],
+    [
+      "Rick Barry",
+      "powered the Warriors to their third championship in",
+      "1975"
+    ],
+    [
+      "Golden State Warriors",
+      "won back-to-back championships in",
+      "2018"
+    ],
+    [
+      "Golden State Warriors",
+      "drafted",
+      "Rick Barry"
+    ],
+    [
+      "Golden State Warriors",
+      "became playoff regulars with stars",
+      "Tim Hardaway"
+    ],
+    [
+      "Golden State Warriors",
+      "won again in",
+      "1956"
+    ],
+    [
+      "Golden State Warriors",
+      "rank third for the most NBA championships and Finals appearances behind",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Golden State Warriors",
+      "were led by",
+      "Paul Arizin"
+    ],
+    [
+      "Golden State Warriors",
+      "achieved the best-ever regular-season record in",
+      "2016"
+    ],
+    [
+      "Golden State Warriors",
+      "finished the 1964–65 season with",
+      "NBA's worst record"
+    ],
+    [
+      "Golden State Warriors",
+      "became playoff regulars with stars",
+      "Chris Mullin"
+    ],
+    [
+      "Golden State Warriors",
+      "returned to the playoffs and defeated",
+      "Boston Celtics"
+    ],
+    [
+      "Golden State Warriors",
+      "rank third for the most NBA championships and Finals appearances behind",
+      "Boston Celtics"
+    ],
+    [
+      "Golden State Warriors",
+      "hold several NBA records including",
+      "best regular season"
+    ],
+    [
+      "Golden State Warriors",
+      "are a member of",
+      "Western Conference"
+    ],
+    [
+      "Golden State Warriors",
+      "were led by",
+      "Neil Johnston"
+    ],
+    [
+      "Golden State Warriors",
+      "were founded in",
+      "Philadelphia"
+    ],
+    [
+      "Golden State Warriors",
+      "lost the 2019 Finals to",
+      "Toronto Raptors"
+    ],
+    [
+      "Chamberlain",
+      "is one of the players in franchise history to win the league MVP award",
+      "MVP"
+    ],
+    [
+      "Golden State Warriors",
+      "returned to championship glory in",
+      "2015"
+    ],
+    [
+      "Golden State Warriors",
+      "lost the Finals to",
+      "Cleveland Cavaliers"
+    ],
+    [
+      "Golden State Warriors",
+      "compete in",
+      "National Basketball Association"
+    ],
+    [
+      "Golden State Warriors",
+      "play their home games at",
+      "Chase Center"
+    ],
+    [
+      "Golden State Warriors",
+      "won the inaugural championship in",
+      "Basketball Association of America"
+    ],
+    [
+      "Golden State Warriors",
+      "became playoff regulars with stars",
+      "Mitch Richmond"
+    ],
+    [
+      "Golden State Warriors",
+      "are a member of",
+      "Pacific Division"
+    ],
+    [
+      "Golden State Warriors",
+      "hold several NBA records including",
+      "most wins in a season"
+    ],
+    [
+      "Golden State Warriors",
+      "hold several NBA records including",
+      "best postseason run"
+    ],
+    [
+      "Golden State Warriors",
+      "were led by",
+      "Tom Gola"
+    ],
+    [
+      "Curry",
+      "is one of the players in franchise history to win the league MVP award",
+      "MVP"
+    ]
+  ]
+}

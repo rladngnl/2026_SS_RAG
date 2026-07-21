@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "soccer manager",
+    "China women's national football team",
+    "professional player",
+    "Ante Milicic",
+    "head coach",
+    "Australia"
+  ],
+  "edges": [
+    "is head coach of",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Ante Milicic",
+      "is",
+      "soccer manager"
+    ],
+    [
+      "Ante Milicic",
+      "is head coach of",
+      "China women's national football team"
+    ],
+    [
+      "Ante Milicic",
+      "is",
+      "professional player"
+    ],
+    [
+      "Ante Milicic",
+      "is from",
+      "Australia"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    "José Luis Mumbiela Sierra",
+    "bishop",
+    "Chilean former footballer",
+    "José Luis Sierra (footballer, born 1997)",
+    "Chilean football coach",
+    "José Luis Sierra",
+    "José Luis Sierra (footballer, born 1968)",
+    "Spanish-born Kazakhstani Roman Catholic prelate"
+  ],
+  "edges": [
+    "may refer to",
+    "is"
+  ],
+  "relations": [
+    [
+      "José Luis Sierra",
+      "may refer to",
+      "José Luis Mumbiela Sierra"
+    ],
+    [
+      "José Luis Mumbiela Sierra",
+      "is",
+      "Spanish-born Kazakhstani Roman Catholic prelate"
+    ],
+    [
+      "José Luis Sierra (footballer, born 1968)",
+      "is",
+      "Chilean football coach"
+    ],
+    [
+      "José Luis Mumbiela Sierra",
+      "is",
+      "bishop"
+    ],
+    [
+      "José Luis Sierra",
+      "may refer to",
+      "José Luis Sierra (footballer, born 1968)"
+    ],
+    [
+      "José Luis Sierra (footballer, born 1997)",
+      "is",
+      "Chilean former footballer"
+    ],
+    [
+      "José Luis Sierra",
+      "may refer to",
+      "José Luis Sierra (footballer, born 1997)"
+    ]
+  ]
+}

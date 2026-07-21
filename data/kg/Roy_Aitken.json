@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "Aberdeen",
+    "assistant manager",
+    "manager",
+    "Scottish League Cup",
+    "Newcastle United",
+    "Scotland",
+    "midfield",
+    "Celtic",
+    "St Mirren",
+    "Roy Aitken",
+    "Leeds United",
+    "Robert Sime Aitken",
+    "Aston Villa",
+    "Scottish",
+    "football player",
+    "defence"
+  ],
+  "edges": [
+    "is a",
+    "made over",
+    "was appointed",
+    "was sacked in",
+    "led the Dons to a",
+    "had become",
+    "made",
+    "has coached",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Roy Aitken",
+      "led the Dons to a",
+      "Scottish League Cup win in 1995–96"
+    ],
+    [
+      "Roy Aitken",
+      "is a",
+      "manager"
+    ],
+    [
+      "Roy Aitken",
+      "had become",
+      "assistant manager at Aberdeen"
+    ],
+    [
+      "Roy Aitken",
+      "was appointed",
+      "manager of Aberdeen"
+    ],
+    [
+      "Roy Aitken",
+      "was sacked in",
+      "November 1997"
+    ],
+    [
+      "Roy Aitken",
+      "played for",
+      "Newcastle United"
+    ],
+    [
+      "Roy Aitken",
+      "made",
+      "57 international appearances for Scotland"
+    ],
+    [
+      "Roy Aitken",
+      "played for",
+      "Aberdeen"
+    ],
+    [
+      "Roy Aitken",
+      "played for",
+      "St Mirren"
+    ],
+    [
+      "Roy Aitken",
+      "has coached",
+      "several clubs including Leeds United and Aston Villa"
+    ],
+    [
+      "Roy Aitken",
+      "is a",
+      "Scottish former football player"
+    ],
+    [
+      "Roy Aitken",
+      "made over",
+      "480 league appearances for Celtic"
+    ]
+  ]
+}

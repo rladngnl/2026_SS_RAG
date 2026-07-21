@@ -1,0 +1,186 @@
+{
+  "entities": [
+    "keyboardist",
+    "February 11, 1977",
+    "songwriter",
+    "artist",
+    "California",
+    "singer",
+    "graphic designer",
+    "Japanese American National Museum",
+    "2018",
+    "Post Traumatic",
+    "primary songwriter",
+    "X-Ecutioners",
+    "Fort Minor",
+    "American",
+    "rapper",
+    "Lupe Fiasco",
+    "Michael Kenji Shinoda",
+    "Linkin Park",
+    "co-lead vocalist",
+    "Chester Bennington",
+    "rhythm guitarist",
+    "Machine Shop Records",
+    "record producer",
+    "Styles of Beyond",
+    "Mike Shinoda",
+    "1996",
+    "2004"
+  ],
+  "edges": [
+    "has painted",
+    "released",
+    "served as a producer for",
+    "co-founded",
+    "is based in",
+    "created",
+    "are about",
+    "is an",
+    "was created in",
+    "have been featured in",
+    "is",
+    "is the co-founder of",
+    "was released in",
+    "was founded in",
+    "was",
+    "consists of"
+  ],
+  "relations": [
+    [
+      "Mike Shinoda",
+      "is",
+      "songwriter"
+    ],
+    [
+      "Mike Shinoda",
+      "released",
+      "Post Traumatic"
+    ],
+    [
+      "Mike Shinoda",
+      "served as a producer for",
+      "Lupe Fiasco"
+    ],
+    [
+      "Mike Shinoda",
+      "served as a producer for",
+      "Styles of Beyond"
+    ],
+    [
+      "Fort Minor",
+      "was created in",
+      "2004"
+    ],
+    [
+      "Post Traumatic",
+      "was released in",
+      "2018"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "American"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "rhythm guitarist"
+    ],
+    [
+      "Linkin Park",
+      "was founded in",
+      "1996"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "keyboardist"
+    ],
+    [
+      "Mike Shinoda",
+      "has painted",
+      "several pieces of artwork"
+    ],
+    [
+      "Chester Bennington",
+      "was",
+      "his Linkin Park bandmate"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "singer"
+    ],
+    [
+      "Post Traumatic",
+      "consists of",
+      "18 songs"
+    ],
+    [
+      "Mike Shinoda",
+      "created",
+      "Fort Minor"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "record producer"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "primary songwriter"
+    ],
+    [
+      "18 songs",
+      "are about",
+      "his feelings following the death of Chester Bennington"
+    ],
+    [
+      "several pieces of artwork",
+      "have been featured in",
+      "Japanese American National Museum"
+    ],
+    [
+      "Mike Shinoda",
+      "is an",
+      "artist"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "graphic designer"
+    ],
+    [
+      "Mike Shinoda",
+      "served as a producer for",
+      "X-Ecutioners"
+    ],
+    [
+      "Machine Shop Records",
+      "is based in",
+      "California"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "co-lead vocalist"
+    ],
+    [
+      "Mike Shinoda",
+      "co-founded",
+      "Linkin Park"
+    ],
+    [
+      "Mike Shinoda",
+      "is",
+      "rapper"
+    ],
+    [
+      "Mike Shinoda",
+      "is the co-founder of",
+      "Machine Shop Records"
+    ]
+  ]
+}

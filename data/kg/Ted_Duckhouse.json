@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "Birmingham City",
+    "Northampton Town",
+    "9 April 1918",
+    "professional footballer",
+    "1948",
+    "Peter Doherty",
+    "Ted Duckhouse",
+    "Shelfield",
+    "FA Cup",
+    "defender",
+    "1978",
+    "Walsall",
+    "West Bromwich Albion",
+    "Derby County",
+    "Second Division",
+    "Staffordshire",
+    "English",
+    "Edward Duckhouse"
+  ],
+  "edges": [
+    "was a",
+    "was part of the",
+    "died in",
+    "played as a",
+    "was born in",
+    "helped Birmingham to reach the semifinal of the",
+    "played for",
+    "collided with"
+  ],
+  "relations": [
+    [
+      "Edward Duckhouse",
+      "was part of the",
+      "Second Division championship-winning side"
+    ],
+    [
+      "Edward Duckhouse",
+      "was a",
+      "professional footballer"
+    ],
+    [
+      "Edward Duckhouse",
+      "helped Birmingham to reach the semifinal of the",
+      "FA Cup"
+    ],
+    [
+      "Edward Duckhouse",
+      "played for",
+      "Northampton Town"
+    ],
+    [
+      "Edward Duckhouse",
+      "collided with",
+      "Peter Doherty"
+    ],
+    [
+      "Edward Duckhouse",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Edward Duckhouse",
+      "was born in",
+      "Shelfield"
+    ],
+    [
+      "Edward Duckhouse",
+      "played for",
+      "Birmingham City"
+    ],
+    [
+      "Edward Duckhouse",
+      "died in",
+      "Walsall"
+    ]
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "entities": [
+    "police officers",
+    "From Dusk till Dawn",
+    "1980s",
+    "martial artist",
+    "American actor",
+    "2002",
+    "Italy",
+    "Universal Pictures",
+    "The Appaloosa",
+    "Best Supporting Actor – Motion Picture",
+    "Wes Craven's New Nightmare",
+    "1961",
+    "Brooklyn",
+    "1974",
+    "England",
+    "Raid on Entebbe",
+    "August 5, 1936",
+    "Stella Adler",
+    "1977",
+    "Death of a Gunfighter",
+    "John Saxon",
+    "Golden Globe Award",
+    "Black Christmas",
+    "character actor",
+    "1970s",
+    "European films",
+    "1969",
+    "1994",
+    "Joe Kidd",
+    "detectives",
+    "1990s",
+    "television",
+    "Carmine Orrico",
+    "horror films",
+    "New Star of the Year – Actor",
+    "1972",
+    "A Nightmare on Elm Street",
+    "1984",
+    "Rock",
+    "Westerns",
+    "July 25, 2020",
+    "1996",
+    "1966",
+    "Pretty Baby",
+    "Italian films",
+    "Hollywood",
+    "Jonathan of the Bears",
+    "Bruce Lee",
+    "film",
+    "Portrait in Black",
+    "Enter the Dragon",
+    "New York",
+    "1956",
+    "1973"
+  ],
+  "edges": [
+    "appeared in films such as",
+    "died on",
+    "was known for his work in",
+    "appeared in the made-for-television thriller",
+    "appeared in the martial arts film",
+    "was an",
+    "won",
+    "was born on",
+    "said in a 2002 interview",
+    "was a",
+    "was born as",
+    "had supporting roles in the Westerns",
+    "established himself as a",
+    "studied acting with",
+    "co-starred with",
+    "appeared in numerous",
+    "occasionally appeared in films in the",
+    "often played",
+    "worked on",
+    "had small roles in",
+    "began his career as a contract actor for",
+    "appeared in Italian productions all through the",
+    "made",
+    "appeared in",
+    "frequently portrayed"
+  ],
+  "relations": [
+    [
+      "John Saxon",
+      "was a",
+      "martial artist"
+    ],
+    [
+      "John Saxon",
+      "frequently portrayed",
+      "law-enforcement officials in horror films"
+    ],
+    [
+      "John Saxon",
+      "appeared in",
+      "A Nightmare on Elm Street"
+    ],
+    [
+      "John Saxon",
+      "occasionally appeared in films in the",
+      "1990s"
+    ],
+    [
+      "John Saxon",
+      "appeared in films such as",
+      "Portrait in Black"
+    ],
+    [
+      "John Saxon",
+      "appeared in the made-for-television thriller",
+      "Raid on Entebbe"
+    ],
+    [
+      "John Saxon",
+      "often played",
+      "police officers and detectives"
+    ],
+    [
+      "John Saxon",
+      "had supporting roles in the Westerns",
+      "The Appaloosa"
+    ],
+    [
+      "John Saxon",
+      "had small roles in",
+      "Wes Craven's New Nightmare"
+    ],
+    [
+      "John Saxon",
+      "was an",
+      "American actor"
+    ],
+    [
+      "John Saxon",
+      "studied acting with",
+      "Stella Adler"
+    ],
+    [
+      "John Saxon",
+      "appeared in",
+      "Black Christmas"
+    ],
+    [
+      "John Saxon",
+      "appeared in the martial arts film",
+      "Enter the Dragon"
+    ],
+    [
+      "John Saxon",
+      "died on",
+      "July 25, 2020"
+    ],
+    [
+      "John Saxon",
+      "made",
+      "Jonathan of the Bears"
+    ],
+    [
+      "John Saxon",
+      "began his career as a contract actor for",
+      "Universal Pictures"
+    ],
+    [
+      "John Saxon",
+      "had supporting roles in the Westerns",
+      "Death of a Gunfighter"
+    ],
+    [
+      "John Saxon",
+      "said in a 2002 interview",
+      "\"At the time, Hollywood was going through a crisis, but England and Italy were making a great many films.\""
+    ],
+    [
+      "John Saxon",
+      "appeared in films such as",
+      "Rock"
+    ],
+    [
+      "John Saxon",
+      "co-starred with",
+      "Bruce Lee"
+    ],
+    [
+      "John Saxon",
+      "was born on",
+      "August 5, 1936"
+    ],
+    [
+      "John Saxon",
+      "was known for his work in",
+      "Westerns and horror films"
+    ],
+    [
+      "John Saxon",
+      "had supporting roles in the Westerns",
+      "Joe Kidd"
+    ],
+    [
+      "John Saxon",
+      "was born as",
+      "Carmine Orrico"
+    ],
+    [
+      "John Saxon",
+      "appeared in Italian productions all through the",
+      "1970s and 1980s"
+    ],
+    [
+      "John Saxon",
+      "had small roles in",
+      "From Dusk till Dawn"
+    ],
+    [
+      "John Saxon",
+      "appeared in films such as",
+      "Pretty Baby"
+    ],
+    [
+      "John Saxon",
+      "established himself as a",
+      "character actor"
+    ],
+    [
+      "John Saxon",
+      "worked on",
+      "more than 200 film and television projects"
+    ],
+    [
+      "John Saxon",
+      "appeared in numerous",
+      "Italian films"
+    ],
+    [
+      "John Saxon",
+      "won",
+      "Golden Globe Award for New Star of the Year – Actor"
+    ]
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "entities": [
+    "Adhipathi",
+    "2001",
+    "Jagathy Sreekumar",
+    "26 January 2000",
+    "Kerala",
+    "Mohan Babu",
+    "Antony Perumbavoor",
+    "Soundarya",
+    "India",
+    "Mammootty",
+    "50th Republic Day",
+    "2014",
+    "200 days",
+    "Nagarjuna Akkineni",
+    "Narasimham",
+    "20 crores",
+    "Preeti Jhangiani",
+    "Thilakan",
+    "Shaji Kailas",
+    "Aashirvad Cinemas",
+    "Dubai",
+    "Narasimham Returns",
+    "Kanaka",
+    "N. F. Varghese",
+    "Mohanlal",
+    "Ranjith",
+    "Aishwariyaa Bhaskaran"
+  ],
+  "edges": [
+    "premiered in",
+    "was re-released as",
+    "stars",
+    "grossed over",
+    "features",
+    "is produced by",
+    "is owned by",
+    "was released on",
+    "is directed by",
+    "was re-released in",
+    "was remade as",
+    "ran for",
+    "is set in",
+    "was released in",
+    "is written by"
+  ],
+  "relations": [
+    [
+      "Narasimham",
+      "features",
+      "Thilakan"
+    ],
+    [
+      "Narasimham",
+      "stars",
+      "Mohanlal"
+    ],
+    [
+      "Narasimham",
+      "was released on",
+      "26 January 2000"
+    ],
+    [
+      "Narasimham",
+      "features",
+      "N. F. Varghese"
+    ],
+    [
+      "Narasimham",
+      "was remade as",
+      "Adhipathi"
+    ],
+    [
+      "Narasimham",
+      "features",
+      "Aishwariyaa Bhaskaran"
+    ],
+    [
+      "Narasimham",
+      "grossed over",
+      "20 crores"
+    ],
+    [
+      "Adhipathi",
+      "stars",
+      "Nagarjuna Akkineni"
+    ],
+    [
+      "Narasimham",
+      "is set in",
+      "India"
+    ],
+    [
+      "Adhipathi",
+      "stars",
+      "Preeti Jhangiani"
+    ],
+    [
+      "Aashirvad Cinemas",
+      "is owned by",
+      "Antony Perumbavoor"
+    ],
+    [
+      "Narasimham Returns",
+      "was re-released in",
+      "Kerala"
+    ],
+    [
+      "Narasimham",
+      "features",
+      "Kanaka"
+    ],
+    [
+      "Narasimham",
+      "is produced by",
+      "Aashirvad Cinemas"
+    ],
+    [
+      "Narasimham",
+      "features",
+      "Jagathy Sreekumar"
+    ],
+    [
+      "Narasimham",
+      "is set in",
+      "Kerala"
+    ],
+    [
+      "Narasimham",
+      "features",
+      "Mammootty"
+    ],
+    [
+      "Adhipathi",
+      "was released in",
+      "2001"
+    ],
+    [
+      "Adhipathi",
+      "stars",
+      "Mohan Babu"
+    ],
+    [
+      "Narasimham",
+      "is directed by",
+      "Shaji Kailas"
+    ],
+    [
+      "Narasimham Returns",
+      "premiered in",
+      "Dubai"
+    ],
+    [
+      "Narasimham",
+      "was released on",
+      "50th Republic Day"
+    ],
+    [
+      "Narasimham",
+      "ran for",
+      "200 days"
+    ],
+    [
+      "Narasimham",
+      "is written by",
+      "Ranjith"
+    ],
+    [
+      "Narasimham",
+      "was re-released as",
+      "Narasimham Returns"
+    ],
+    [
+      "Narasimham Returns",
+      "was released in",
+      "2014"
+    ],
+    [
+      "Adhipathi",
+      "stars",
+      "Soundarya"
+    ]
+  ]
+}

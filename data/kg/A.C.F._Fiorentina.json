@@ -1,0 +1,140 @@
+{
+  "entities": [
+    "UEFA Conference League",
+    "European Cup",
+    "purple colours",
+    "1968–69 Italian league title",
+    "Florence",
+    "Associazione Calcio Firenze Fiorentina",
+    "2022–23 UEFA Conference League",
+    "43,147 capacity",
+    "1955–56 Italian league title",
+    "Europa League",
+    "first Italian team",
+    "fifteen European teams",
+    "Tuscany",
+    "European Cup/Champions League",
+    "Italian league titles",
+    "Supercoppa Italiana",
+    "2023 Europa Conference League final",
+    "Viola",
+    "A.C.F. Fiorentina",
+    "2023–24 UEFA Conference League",
+    "six Coppa Italia trophies",
+    "UEFA Cup",
+    "Serie A",
+    "UEFA Cup Winners' Cup",
+    "Stadio Artemio Franchi",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "was refounded in",
+    "is one of",
+    "has a capacity of",
+    "is known widely by the nickname",
+    "has won",
+    "is the first Italian team to reach the final in",
+    "is located in",
+    "was founded by a merger in",
+    "has played at",
+    "reached the final of",
+    "has played in",
+    "is associated with",
+    "won",
+    "lost",
+    "is commonly referred to as",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "A.C.F. Fiorentina",
+      "was refounded in",
+      "August 2002"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "has won",
+      "two Italian league titles"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "was founded by a merger in",
+      "August 1926"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "has played at",
+      "Stadio Artemio Franchi"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is one of",
+      "fifteen European teams"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is based in",
+      "Florence"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is commonly referred to as",
+      "Fiorentina"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "won",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "has won",
+      "six Coppa Italia trophies"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "has won",
+      "one Supercoppa Italiana"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is located in",
+      "Tuscany"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is associated with",
+      "purple colours"
+    ],
+    [
+      "Stadio Artemio Franchi",
+      "has a capacity of",
+      "43,147"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "reached the final of",
+      "the 2023 Europa Conference League final"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "lost",
+      "five finals"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is the first Italian team to reach the final in",
+      "the European Cup"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "is known widely by the nickname",
+      "Viola"
+    ],
+    [
+      "A.C.F. Fiorentina",
+      "has played in",
+      "Serie A"
+    ]
+  ]
+}

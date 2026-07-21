@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "ASEAN football teams",
+    "Football Association of Thailand",
+    "AFC U-23 Championship",
+    "Thailand Olympic football team",
+    "Asian Games",
+    "Southeast Asian Games",
+    "Thailand national under-23 football team",
+    "Olympic Games"
+  ],
+  "edges": [
+    "is the most successful among",
+    "has won",
+    "is controlled by",
+    "is also known as",
+    "represents",
+    "never won any gold medal in"
+  ],
+  "relations": [
+    [
+      "Thailand national under-23 football team",
+      "has won",
+      "Southeast Asian Games gold medal"
+    ],
+    [
+      "Thailand national under-23 football team",
+      "is the most successful among",
+      "ASEAN football teams"
+    ],
+    [
+      "Thailand national under-23 football team",
+      "is controlled by",
+      "Football Association of Thailand"
+    ],
+    [
+      "Thailand national under-23 football team",
+      "represents",
+      "Thailand"
+    ],
+    [
+      "Thailand national under-23 football team",
+      "is also known as",
+      "Thailand Olympic football team"
+    ],
+    [
+      "Thailand national under-23 football team",
+      "never won any gold medal in",
+      "Asian level"
+    ]
+  ]
+}

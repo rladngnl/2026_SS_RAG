@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "Mariusz Mowlik",
+    "11-Football Players agency",
+    "Poland",
+    "Greece",
+    "defender",
+    "Austria"
+  ],
+  "edges": [
+    "is a former professional footballer",
+    "has played in",
+    "is currently the co-owner of"
+  ],
+  "relations": [
+    [
+      "Mariusz Mowlik",
+      "has played in",
+      "Austria"
+    ],
+    [
+      "Mariusz Mowlik",
+      "is currently the co-owner of",
+      "11-Football Players agency"
+    ],
+    [
+      "Mariusz Mowlik",
+      "has played in",
+      "Greece"
+    ],
+    [
+      "Mariusz Mowlik",
+      "has played in",
+      "Poland"
+    ],
+    [
+      "Mariusz Mowlik",
+      "is a former professional footballer",
+      "defender"
+    ]
+  ]
+}

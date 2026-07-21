@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "manager",
+    "February 16, 1978",
+    "2012",
+    "Nicolas Florentin",
+    "AS Nancy-Lorraine B",
+    "French",
+    "football midfielder"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "manages",
+    "retired in",
+    "is",
+    "is currently the"
+  ],
+  "relations": [
+    [
+      "Nicolas Florentin",
+      "is born on",
+      "February 16, 1978"
+    ],
+    [
+      "Nicolas Florentin",
+      "is currently the",
+      "manager"
+    ],
+    [
+      "Nicolas Florentin",
+      "manages",
+      "AS Nancy-Lorraine B"
+    ],
+    [
+      "Nicolas Florentin",
+      "is a",
+      "football midfielder"
+    ],
+    [
+      "Nicolas Florentin",
+      "is",
+      "French"
+    ],
+    [
+      "Nicolas Florentin",
+      "retired in",
+      "2012"
+    ]
+  ]
+}

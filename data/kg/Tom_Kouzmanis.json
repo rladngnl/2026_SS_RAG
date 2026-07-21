@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Canada",
+    "soccer player",
+    "striker",
+    "international level",
+    "Tom Kouzmanis",
+    "Thomas Kouzmanis",
+    "midfielder",
+    "professional level"
+  ],
+  "edges": [
+    "played as",
+    "is a",
+    "was born in",
+    "played at"
+  ],
+  "relations": [
+    [
+      "Thomas Kouzmanis",
+      "is a",
+      "soccer player"
+    ],
+    [
+      "Thomas Kouzmanis",
+      "played at",
+      "international level"
+    ],
+    [
+      "Thomas Kouzmanis",
+      "was born in",
+      "Canada"
+    ],
+    [
+      "Thomas Kouzmanis",
+      "played as",
+      "striker"
+    ],
+    [
+      "Thomas Kouzmanis",
+      "played at",
+      "professional level"
+    ],
+    [
+      "Thomas Kouzmanis",
+      "played as",
+      "midfielder"
+    ]
+  ]
+}

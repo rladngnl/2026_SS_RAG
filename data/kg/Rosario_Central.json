@@ -1,0 +1,151 @@
+{
+  "entities": [
+    "Copa CONMEBOL",
+    "2025 Liga",
+    "Argentine Primera División",
+    "Argentina",
+    "FIFA",
+    "AFA",
+    "Club Atlético Rosario Central",
+    "Copa Conmebol",
+    "Central Argentine Railway",
+    "Rosario's Football Association",
+    "1995",
+    "Argentine Football Association",
+    "2018 Copa Argentina",
+    "British railway workers",
+    "1978 FIFA World Cup",
+    "Estadio Gigante de Arroyito",
+    "El Clásico Rosarino",
+    "Copa Sudamericana",
+    "Rosario Central",
+    "24 December 1889",
+    "Newell's Old Boys"
+  ],
+  "edges": [
+    "was won by",
+    "took its name from",
+    "is known as",
+    "is the precursor of",
+    "has a rivalry with",
+    "holds a significant lead in",
+    "was founded by",
+    "has won",
+    "plays in",
+    "was considered by",
+    "was founded on",
+    "is one of the stadiums where",
+    "has a home stadium at",
+    "has sustained",
+    "won",
+    "affiliated itself to",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Club Atlético Rosario Central",
+      "was founded by",
+      "British railway workers"
+    ],
+    [
+      "Rosario Central",
+      "has sustained",
+      "this competitive gap for over 72 years"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "took its name from",
+      "Central Argentine Railway"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "won",
+      "1995"
+    ],
+    [
+      "Estadio Gigante de Arroyito",
+      "is one of the stadiums where",
+      "Argentina played in the 1978 FIFA World Cup"
+    ],
+    [
+      "Copa Conmebol",
+      "was won by",
+      "Club Atlético Rosario Central"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "has a rivalry with",
+      "Newell's Old Boys"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "is based in",
+      "Argentina"
+    ],
+    [
+      "Rosario Central",
+      "is known as",
+      "El Clásico Rosarino"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "affiliated itself to",
+      "Argentine Football Association"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "was considered by",
+      "FIFA"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "won",
+      "Copa CONMEBOL"
+    ],
+    [
+      "Rosario Central",
+      "holds a significant lead in",
+      "head-to-head victories"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "has won",
+      "2025 Liga"
+    ],
+    [
+      "Rosario Central",
+      "has won",
+      "20 more matches"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "plays in",
+      "Argentine Primera División"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "has a home stadium at",
+      "Estadio Gigante de Arroyito"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "was founded on",
+      "24 December 1889"
+    ],
+    [
+      "Copa CONMEBOL",
+      "is the precursor of",
+      "Copa Sudamericana"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "won",
+      "2018 Copa Argentina"
+    ],
+    [
+      "Club Atlético Rosario Central",
+      "won",
+      "Copa Conmebol"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "entities": [
+    "Grigory Kenkishvili",
+    "18 May 1980",
+    "Grigory Olegovich Kenkishvili",
+    "Russia",
+    "football player"
+  ],
+  "edges": [
+    "was born on",
+    "is a former",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Grigory Olegovich Kenkishvili",
+      "is a former",
+      "football player"
+    ],
+    [
+      "Grigory Olegovich Kenkishvili",
+      "is from",
+      "Russia"
+    ],
+    [
+      "Grigory Olegovich Kenkishvili",
+      "was born on",
+      "18 May 1980"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "Romanian Liga I",
+    "footballer",
+    "FC Brașov",
+    "Diego Gaúcho",
+    "defender",
+    "Diego Goldim",
+    "Brazilian",
+    "Gil Vicente F.C."
+  ],
+  "edges": [
+    "is a",
+    "is in the league",
+    "is known as",
+    "played for",
+    "plays as a",
+    "previously played for"
+  ],
+  "relations": [
+    [
+      "Diego Gaúcho",
+      "is a",
+      "Brazilian footballer"
+    ],
+    [
+      "Diego Goldim",
+      "is known as",
+      "Diego Gaúcho"
+    ],
+    [
+      "Diego Gaúcho",
+      "plays as a",
+      "defender"
+    ],
+    [
+      "FC Brașov",
+      "is in the league",
+      "Romanian Liga I"
+    ],
+    [
+      "Diego Gaúcho",
+      "played for",
+      "FC Brașov"
+    ],
+    [
+      "Diego Gaúcho",
+      "previously played for",
+      "Gil Vicente F.C."
+    ]
+  ]
+}

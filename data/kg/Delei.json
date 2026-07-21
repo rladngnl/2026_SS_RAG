@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Brazil national team",
+    "Campeonato Brasileiro Série A",
+    "Wanderley Alves de Oliveira",
+    "Brazil",
+    "head coach",
+    "soccer",
+    "Delei",
+    "football"
+  ],
+  "edges": [
+    "played for",
+    "is a former",
+    "is also known by the nickname",
+    "worked as a"
+  ],
+  "relations": [
+    [
+      "Delei",
+      "played for",
+      "Brazil national team"
+    ],
+    [
+      "Delei",
+      "worked as a",
+      "head coach"
+    ],
+    [
+      "Delei",
+      "is a former",
+      "football player"
+    ],
+    [
+      "Delei",
+      "is also known by the nickname",
+      "Wanderley Alves de Oliveira"
+    ],
+    [
+      "Delei",
+      "played for",
+      "Campeonato Brasileiro Série A"
+    ]
+  ]
+}

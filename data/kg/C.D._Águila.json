@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "San Miguel",
+    "CONCACAF Champions' Cup",
+    "C.D. Águila",
+    "Club Deportivo Águila",
+    "1976 CONCACAF Champions' Cup",
+    "Estadio Juan Francisco Barraza",
+    "Primera División",
+    "Águila",
+    "San Miguel derby",
+    "Dragón",
+    "El Clásico",
+    "Copa Presidente",
+    "FAS",
+    "El Salvador"
+  ],
+  "edges": [
+    "is known as",
+    "is one of the most successful clubs in",
+    "is commonly known as",
+    "is based in",
+    "has won",
+    "has a long standing rivalry with",
+    "competes with",
+    "won",
+    "is known as the",
+    "competes in",
+    "has played their home games at"
+  ],
+  "relations": [
+    [
+      "C.D. Águila",
+      "is commonly known as",
+      "Águila"
+    ],
+    [
+      "FAS",
+      "is known as",
+      "El Clásico"
+    ],
+    [
+      "Dragón",
+      "is known as the",
+      "San Miguel derby"
+    ],
+    [
+      "C.D. Águila",
+      "has won",
+      "one CONCACAF Champions' Cup"
+    ],
+    [
+      "C.D. Águila",
+      "is one of the most successful clubs in",
+      "El Salvador"
+    ],
+    [
+      "C.D. Águila",
+      "has won",
+      "seventeen Primera División championships"
+    ],
+    [
+      "C.D. Águila",
+      "has a long standing rivalry with",
+      "Dragón"
+    ],
+    [
+      "C.D. Águila",
+      "competes in",
+      "Primera División"
+    ],
+    [
+      "C.D. Águila",
+      "is based in",
+      "San Miguel"
+    ],
+    [
+      "C.D. Águila",
+      "competes with",
+      "FAS"
+    ],
+    [
+      "C.D. Águila",
+      "has won",
+      "one Copa Presidente"
+    ],
+    [
+      "C.D. Águila",
+      "has played their home games at",
+      "Estadio Juan Francisco Barraza"
+    ],
+    [
+      "C.D. Águila",
+      "won",
+      "1976 CONCACAF Champions' Cup"
+    ]
+  ]
+}

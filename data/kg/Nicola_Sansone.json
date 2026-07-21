@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "professional footballer",
+    "10 September 1991",
+    "Italy national team",
+    "Germany",
+    "Italy",
+    "forward",
+    "Nicola Sansone",
+    "Nicola Domenico Sansone"
+  ],
+  "edges": [
+    "is from",
+    "plays as",
+    "was born in",
+    "is",
+    "was born on",
+    "has played for"
+  ],
+  "relations": [
+    [
+      "Nicola Domenico Sansone",
+      "plays as",
+      "forward"
+    ],
+    [
+      "Nicola Domenico Sansone",
+      "was born on",
+      "10 September 1991"
+    ],
+    [
+      "Nicola Domenico Sansone",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "Nicola Domenico Sansone",
+      "has played for",
+      "Italy national team"
+    ],
+    [
+      "Nicola Domenico Sansone",
+      "is from",
+      "Italy"
+    ],
+    [
+      "Nicola Domenico Sansone",
+      "was born in",
+      "Germany"
+    ]
+  ]
+}

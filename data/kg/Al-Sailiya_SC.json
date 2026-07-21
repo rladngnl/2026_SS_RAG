@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Al-Sailiya Sports Club",
+    "Qatar",
+    "نادي السيلية الرياضي",
+    "Arabic",
+    "Doha",
+    "professional football club",
+    "Qatar Stars League",
+    "Hamad bin Khalifa Stadium"
+  ],
+  "edges": [
+    "is a",
+    "is located in",
+    "is referred to as",
+    "is known in",
+    "competes in",
+    "is based in",
+    "plays home games at"
+  ],
+  "relations": [
+    [
+      "Al-Sailiya Sports Club",
+      "is located in",
+      "Qatar"
+    ],
+    [
+      "Al-Sailiya Sports Club",
+      "is known in",
+      "Arabic"
+    ],
+    [
+      "Al-Sailiya Sports Club",
+      "plays home games at",
+      "Hamad bin Khalifa Stadium"
+    ],
+    [
+      "Al-Sailiya Sports Club",
+      "is referred to as",
+      "نادي السيلية الرياضي"
+    ],
+    [
+      "Al-Sailiya Sports Club",
+      "is based in",
+      "Doha"
+    ],
+    [
+      "Al-Sailiya Sports Club",
+      "competes in",
+      "Qatar Stars League"
+    ],
+    [
+      "Al-Sailiya Sports Club",
+      "is a",
+      "professional football club"
+    ]
+  ]
+}

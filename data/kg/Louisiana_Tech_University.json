@@ -1,0 +1,180 @@
+{
+  "entities": [
+    "7 men's teams",
+    "9 women's teams",
+    "Lady Techsters women's basketball program",
+    "Fall 2018",
+    "Monroe",
+    "1982",
+    "16 varsity NCAA Division I sports teams",
+    "1981",
+    "University of Louisiana System",
+    "Bulldogs football team",
+    "Louisiana Tech University Shreveport Center",
+    "Football Bowl Subdivision",
+    "Louisiana",
+    "Bossier City",
+    "Ruston",
+    "1960s",
+    "Second Industrial Revolution",
+    "Sunbelt Conference",
+    "13 Final Four appearances",
+    "R2: Doctoral Universities",
+    "Louisiana Tech",
+    "Academic Success Center",
+    "Louisiana Industrial Institute",
+    "United States",
+    "Barksdale Air Force Base",
+    "Conference USA",
+    "La. Tech",
+    "Industrial Institute and College of Louisiana",
+    "Louisiana Tech University",
+    "5 academic colleges",
+    "Louisiana Polytechnic Institute",
+    "1970",
+    "1,282 students",
+    "1988",
+    "CenturyLink campus",
+    "12,463 students"
+  ],
+  "edges": [
+    "fields",
+    "is classified as",
+    "became desegregated in",
+    "enrolled",
+    "opened as",
+    "is located in",
+    "is known for",
+    "changed its name to",
+    "made",
+    "won titles in",
+    "has",
+    "won",
+    "was established in",
+    "is part of",
+    "is a member of",
+    "holds classes at"
+  ],
+  "relations": [
+    [
+      "Louisiana Polytechnic Institute",
+      "became desegregated in",
+      "1960s"
+    ],
+    [
+      "Louisiana Tech University",
+      "is located in",
+      "Ruston"
+    ],
+    [
+      "Louisiana Tech University",
+      "has",
+      "5 academic colleges"
+    ],
+    [
+      "Lady Techsters women's basketball program",
+      "made",
+      "13 Final Four appearances"
+    ],
+    [
+      "Louisiana Tech University",
+      "is part of",
+      "University of Louisiana System"
+    ],
+    [
+      "Louisiana Tech University",
+      "opened as",
+      "Industrial Institute and College of Louisiana"
+    ],
+    [
+      "Louisiana Polytechnic Institute",
+      "changed its name to",
+      "Louisiana Tech University"
+    ],
+    [
+      "Lady Techsters women's basketball program",
+      "won",
+      "3 national championship titles"
+    ],
+    [
+      "Louisiana Tech University",
+      "is classified as",
+      "R2: Doctoral Universities"
+    ],
+    [
+      "Lady Techsters women's basketball program",
+      "won titles in",
+      "1981, 1982, 1988"
+    ],
+    [
+      "Louisiana Tech University",
+      "holds classes at",
+      "CenturyLink campus"
+    ],
+    [
+      "Industrial Institute and College of Louisiana",
+      "was established in",
+      "1894"
+    ],
+    [
+      "Louisiana Tech University",
+      "enrolled",
+      "12,463 students"
+    ],
+    [
+      "Louisiana Tech University",
+      "holds classes at",
+      "Bossier City"
+    ],
+    [
+      "Louisiana Tech University",
+      "fields",
+      "16 varsity NCAA Division I sports teams"
+    ],
+    [
+      "Louisiana Tech University",
+      "is a member of",
+      "Conference USA"
+    ],
+    [
+      "Louisiana Tech University",
+      "holds classes at",
+      "Monroe"
+    ],
+    [
+      "Louisiana Tech University",
+      "holds classes at",
+      "Louisiana Tech University Shreveport Center"
+    ],
+    [
+      "Industrial Institute and College of Louisiana",
+      "changed its name to",
+      "Louisiana Industrial Institute"
+    ],
+    [
+      "Louisiana Tech University",
+      "holds classes at",
+      "Academic Success Center"
+    ],
+    [
+      "Louisiana Tech University",
+      "holds classes at",
+      "Barksdale Air Force Base"
+    ],
+    [
+      "Louisiana Tech University",
+      "is known for",
+      "Lady Techsters women's basketball program"
+    ],
+    [
+      "Louisiana Industrial Institute",
+      "changed its name to",
+      "Louisiana Polytechnic Institute"
+    ],
+    [
+      "Louisiana Tech University",
+      "is known for",
+      "Bulldogs football team"
+    ]
+  ]
+}

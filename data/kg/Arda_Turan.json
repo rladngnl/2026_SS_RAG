@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "Arda Turan",
+    "football manager",
+    "Atlético Madrid",
+    "Turkey national team",
+    "100 senior national caps",
+    "Don Balón",
+    "Shakhtar Donetsk",
+    "The Guardian",
+    "25 November 2014",
+    "Spanish La Liga",
+    "Galatasaray",
+    "sixth-most capped player",
+    "17 goals",
+    "Turkish",
+    "Barcelona",
+    "UEFA Euro 2008",
+    "former player",
+    "30 January 1987",
+    "UEFA Team of the Year"
+  ],
+  "edges": [
+    "is a",
+    "was ranked 38th in",
+    "was nominated for",
+    "gained",
+    "scored",
+    "was captain of",
+    "was ranked eighth in",
+    "is currently the head coach of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Arda Turan",
+      "was nominated for",
+      "the UEFA Team of the Year"
+    ],
+    [
+      "Arda Turan",
+      "was captain of",
+      "Galatasaray"
+    ],
+    [
+      "Arda Turan",
+      "scored",
+      "17 goals"
+    ],
+    [
+      "Arda Turan",
+      "was ranked eighth in",
+      "the 100 Best Young Football Players in the World"
+    ],
+    [
+      "Arda Turan",
+      "is a",
+      "Turkish football manager"
+    ],
+    [
+      "Arda Turan",
+      "was ranked 38th in",
+      "The 100 Best Footballers in the World"
+    ],
+    [
+      "Arda Turan",
+      "gained",
+      "100 senior national caps"
+    ],
+    [
+      "Arda Turan",
+      "is a",
+      "former player"
+    ],
+    [
+      "Arda Turan",
+      "is currently the head coach of",
+      "Shakhtar Donetsk"
+    ],
+    [
+      "Arda Turan",
+      "is",
+      "Turkey's sixth-most capped player"
+    ]
+  ]
+}

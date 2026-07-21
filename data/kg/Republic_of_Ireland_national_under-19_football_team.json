@@ -1,0 +1,31 @@
+{
+  "entities": [
+    "European Under-19 Football Championship",
+    "national under-19 football team",
+    "Football Association of Ireland",
+    "Republic of Ireland",
+    "championships"
+  ],
+  "edges": [
+    "is controlled by",
+    "has competed in",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Republic of Ireland national under-19 football team",
+      "has competed in",
+      "championships"
+    ],
+    [
+      "Republic of Ireland national under-19 football team",
+      "competes in",
+      "European Under-19 Football Championship"
+    ],
+    [
+      "Republic of Ireland national under-19 football team",
+      "is controlled by",
+      "Football Association of Ireland"
+    ]
+  ]
+}

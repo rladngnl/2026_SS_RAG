@@ -1,0 +1,147 @@
+{
+  "entities": [
+    "under-18",
+    "Lincolnshire Senior Cup",
+    "Grimsby Town",
+    "2014–15",
+    "Portsmouth",
+    "Dagenham & Redbridge",
+    "Grantham Town",
+    "Midland League Division One",
+    "Leicester St Andrews",
+    "professional footballer",
+    "defender",
+    "League One",
+    "play-off final",
+    "Notts County",
+    "retirement",
+    "2023",
+    "Irish",
+    "Plymouth Argyle",
+    "Port Vale",
+    "2025",
+    "Nuneaton Borough",
+    "League Two title",
+    "promotion",
+    "under-19",
+    "Burton Albion",
+    "2015–16",
+    "Damien McCrory",
+    "League Two",
+    "international caps"
+  ],
+  "edges": [
+    "moved on to",
+    "signed professional forms with",
+    "is a",
+    "signed a two-year deal with",
+    "plays for",
+    "joined",
+    "won",
+    "spent two years on loan at",
+    "won international caps for",
+    "came out of retirement to play for",
+    "achieved promotion out of",
+    "played for",
+    "plays as a",
+    "joined on loan",
+    "helped"
+  ],
+  "relations": [
+    [
+      "Damien McCrory",
+      "signed a two-year deal with",
+      "Burton Albion"
+    ],
+    [
+      "Damien McCrory",
+      "plays for",
+      "Leicester St Andrews"
+    ],
+    [
+      "Damien McCrory",
+      "moved on to",
+      "Notts County"
+    ],
+    [
+      "Damien McCrory",
+      "moved on to",
+      "Nuneaton Borough"
+    ],
+    [
+      "Damien McCrory",
+      "joined",
+      "Dagenham & Redbridge"
+    ],
+    [
+      "Damien McCrory",
+      "signed professional forms with",
+      "Plymouth Argyle"
+    ],
+    [
+      "Burton Albion",
+      "achieved promotion out of",
+      "League One"
+    ],
+    [
+      "Damien McCrory",
+      "joined",
+      "Grantham Town"
+    ],
+    [
+      "Damien McCrory",
+      "plays as a",
+      "defender"
+    ],
+    [
+      "Damien McCrory",
+      "played for",
+      "Dagenham & Redbridge"
+    ],
+    [
+      "Damien McCrory",
+      "spent two years on loan at",
+      "Port Vale"
+    ],
+    [
+      "Damien McCrory",
+      "won international caps for",
+      "Ireland"
+    ],
+    [
+      "Damien McCrory",
+      "spent two years on loan at",
+      "Grimsby Town"
+    ],
+    [
+      "Damien McCrory",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Damien McCrory",
+      "helped",
+      "Burton Albion"
+    ],
+    [
+      "Damien McCrory",
+      "won",
+      "Lincolnshire Senior Cup"
+    ],
+    [
+      "Damien McCrory",
+      "joined on loan",
+      "Portsmouth"
+    ],
+    [
+      "Damien McCrory",
+      "came out of retirement to play for",
+      "Leicester St Andrews"
+    ],
+    [
+      "Burton Albion",
+      "won",
+      "League Two title"
+    ]
+  ]
+}

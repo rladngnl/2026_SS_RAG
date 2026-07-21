@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "Yaroslavl",
+    "defeats",
+    "goal difference",
+    "wins",
+    "USSR championships",
+    "FC Shinnik Yaroslavl",
+    "matches",
+    "draws",
+    "Khimik",
+    "Yaroslavl Tyre Factory",
+    "football"
+  ],
+  "edges": [
+    "became affiliated with",
+    "has a goal difference of",
+    "has played",
+    "includes",
+    "is based in",
+    "was called"
+  ],
+  "relations": [
+    [
+      "USSR championships",
+      "includes",
+      "draws"
+    ],
+    [
+      "USSR championships",
+      "includes",
+      "matches"
+    ],
+    [
+      "FC Shinnik Yaroslavl",
+      "is based in",
+      "Yaroslavl"
+    ],
+    [
+      "FC Shinnik Yaroslavl",
+      "has played",
+      "USSR championships"
+    ],
+    [
+      "USSR championships",
+      "includes",
+      "wins"
+    ],
+    [
+      "USSR championships",
+      "has a goal difference of",
+      "goal difference"
+    ],
+    [
+      "FC Shinnik Yaroslavl",
+      "became affiliated with",
+      "Yaroslavl Tyre Factory"
+    ],
+    [
+      "USSR championships",
+      "includes",
+      "defeats"
+    ],
+    [
+      "FC Shinnik Yaroslavl",
+      "was called",
+      "Khimik"
+    ]
+  ]
+}

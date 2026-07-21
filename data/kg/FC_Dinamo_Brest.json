@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "2007",
+    "Belarus",
+    "FC Dynamo Brest",
+    "2018",
+    "2017",
+    "2019",
+    "Brest",
+    "Belarusian Cup",
+    "Belarusian Premier League"
+  ],
+  "edges": [
+    "is based in",
+    "plays in",
+    "won the Belarusian Cup in",
+    "won its first title in",
+    "has won the"
+  ],
+  "relations": [
+    [
+      "FC Dynamo Brest",
+      "won the Belarusian Cup in",
+      "2017"
+    ],
+    [
+      "FC Dynamo Brest",
+      "is based in",
+      "Brest"
+    ],
+    [
+      "FC Dynamo Brest",
+      "has won the",
+      "Belarusian Cup"
+    ],
+    [
+      "FC Dynamo Brest",
+      "won the Belarusian Cup in",
+      "2018"
+    ],
+    [
+      "FC Dynamo Brest",
+      "won the Belarusian Cup in",
+      "2007"
+    ],
+    [
+      "FC Dynamo Brest",
+      "won its first title in",
+      "2019"
+    ],
+    [
+      "FC Dynamo Brest",
+      "plays in",
+      "Belarusian Premier League"
+    ]
+  ]
+}

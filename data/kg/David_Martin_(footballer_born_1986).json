@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "Tranmere Rovers",
+    "West Ham United",
+    "England U17",
+    "England U18",
+    "footballer",
+    "England U19",
+    "goalkeeper",
+    "Wimbledon",
+    "Accrington Stanley",
+    "Leicester City",
+    "Millwall",
+    "Derby County",
+    "Milton Keynes Dons",
+    "England U16",
+    "Southend United",
+    "David Martin",
+    "Leeds United",
+    "Liverpool"
+  ],
+  "edges": [
+    "played at youth international level for",
+    "played as",
+    "is a",
+    "played for"
+  ],
+  "relations": [
+    [
+      "David Martin",
+      "played at youth international level for",
+      "England U17"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Southend United"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Derby County"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Leicester City"
+    ],
+    [
+      "David Martin",
+      "played at youth international level for",
+      "England U18"
+    ],
+    [
+      "David Martin",
+      "played at youth international level for",
+      "England U16"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Tranmere Rovers"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Milton Keynes Dons"
+    ],
+    [
+      "David Martin",
+      "played as",
+      "goalkeeper"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Liverpool"
+    ],
+    [
+      "David Martin",
+      "is a",
+      "footballer"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Millwall"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Leeds United"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Wimbledon"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "West Ham United"
+    ],
+    [
+      "David Martin",
+      "played at youth international level for",
+      "England U19"
+    ],
+    [
+      "David Martin",
+      "played for",
+      "Accrington Stanley"
+    ]
+  ]
+}

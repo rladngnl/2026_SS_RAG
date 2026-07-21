@@ -1,0 +1,127 @@
+{
+  "entities": [
+    "First Division",
+    "Walsall",
+    "Welsh national team",
+    "Sutton United",
+    "professional footballer",
+    "Portugal",
+    "defender",
+    "Norway",
+    "Cardiff City",
+    "AFC Wimbledon",
+    "June 2000",
+    "Icelandic club KR Reykjavík",
+    "Port Vale",
+    "Viking FK",
+    "Scottish club Dundee",
+    "Malaysian club Sabah FA",
+    "Welsh",
+    "Rhys David Weston",
+    "Arsenal Academy"
+  ],
+  "edges": [
+    "signed for",
+    "is a",
+    "returned to",
+    "made his debut for",
+    "represented",
+    "played for",
+    "joined",
+    "made his debut in",
+    "played as a",
+    "was loaned out to",
+    "was born in",
+    "chose to represent",
+    "signed with",
+    "is a graduate of",
+    "captained"
+  ],
+  "relations": [
+    [
+      "Rhys David Weston",
+      "was born in",
+      "England"
+    ],
+    [
+      "Rhys David Weston",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Rhys David Weston",
+      "was loaned out to",
+      "Sutton United"
+    ],
+    [
+      "Rhys David Weston",
+      "chose to represent",
+      "Wales"
+    ],
+    [
+      "Rhys David Weston",
+      "joined",
+      "Icelandic club KR Reykjavík"
+    ],
+    [
+      "Rhys David Weston",
+      "represented",
+      "Welsh national team"
+    ],
+    [
+      "Rhys David Weston",
+      "made his debut in",
+      "June 2000"
+    ],
+    [
+      "Rhys David Weston",
+      "played for",
+      "Viking FK"
+    ],
+    [
+      "Rhys David Weston",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Rhys David Weston",
+      "signed with",
+      "Cardiff City"
+    ],
+    [
+      "Rhys David Weston",
+      "played for",
+      "Walsall"
+    ],
+    [
+      "Rhys David Weston",
+      "is a graduate of",
+      "Arsenal Academy"
+    ],
+    [
+      "Rhys David Weston",
+      "captained",
+      "Scottish club Dundee"
+    ],
+    [
+      "Rhys David Weston",
+      "made his debut for",
+      "Welsh national team"
+    ],
+    [
+      "Rhys David Weston",
+      "signed for",
+      "Malaysian club Sabah FA"
+    ],
+    [
+      "Rhys David Weston",
+      "played for",
+      "Port Vale"
+    ],
+    [
+      "Rhys David Weston",
+      "returned to",
+      "AFC Wimbledon"
+    ]
+  ]
+}

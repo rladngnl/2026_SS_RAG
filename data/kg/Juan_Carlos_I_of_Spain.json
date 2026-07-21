@@ -1,0 +1,147 @@
+{
+  "entities": [
+    "€1.8 billion",
+    "Spanish monarchy",
+    "$2.3 billion",
+    "Count of Barcelona",
+    "King of Spain",
+    "Saudi Arabia",
+    "Elena",
+    "New York Times",
+    "Spain",
+    "Infante Juan",
+    "Ibero-America",
+    "Felipe",
+    "rey emérito",
+    "Spanish Civil War",
+    "Felipe VI",
+    "Francisco Franco",
+    "Juan Carlos I",
+    "Alfonso XIII",
+    "Cristina",
+    "Spanish Constitution of 1978",
+    "Princess Sophia of Greece and Denmark"
+  ],
+  "edges": [
+    "has children",
+    "married",
+    "lived in self-imposed exile from",
+    "is referred to as",
+    "estimated fortune of",
+    "was involved in a public controversy centering on",
+    "is grandson of",
+    "was involved in the approval of",
+    "is member of",
+    "abdicated in favour of",
+    "was born in",
+    "was declared successor by",
+    "was estimated to have fortune of",
+    "reigned as",
+    "was considered the most popular leader across",
+    "was involved in controversies surrounding",
+    "is son of",
+    "played a major role in preventing a coup that attempted to revert to"
+  ],
+  "relations": [
+    [
+      "Juan Carlos I",
+      "is referred to as",
+      "rey emérito"
+    ],
+    [
+      "Juan Carlos I",
+      "abdicated in favour of",
+      "Felipe VI"
+    ],
+    [
+      "Juan Carlos I",
+      "is member of",
+      "Spanish royal family"
+    ],
+    [
+      "Juan Carlos I",
+      "reigned as",
+      "King of Spain"
+    ],
+    [
+      "Juan Carlos I",
+      "was born in",
+      "Rome"
+    ],
+    [
+      "Juan Carlos I",
+      "is grandson of",
+      "Alfonso XIII"
+    ],
+    [
+      "Juan Carlos I",
+      "was involved in the approval of",
+      "Spanish Constitution of 1978"
+    ],
+    [
+      "Juan Carlos I",
+      "was estimated to have fortune of",
+      "€1.8 billion"
+    ],
+    [
+      "Juan Carlos I",
+      "has children",
+      "Felipe"
+    ],
+    [
+      "Juan Carlos I",
+      "lived in self-imposed exile from",
+      "Spain"
+    ],
+    [
+      "Juan Carlos I",
+      "married",
+      "Princess Sophia of Greece and Denmark"
+    ],
+    [
+      "Juan Carlos I",
+      "was involved in controversies surrounding",
+      "his family"
+    ],
+    [
+      "Juan Carlos I",
+      "was considered the most popular leader across",
+      "Ibero-America"
+    ],
+    [
+      "Juan Carlos I",
+      "has children",
+      "Cristina"
+    ],
+    [
+      "Juan Carlos I",
+      "is son of",
+      "Infante Juan"
+    ],
+    [
+      "New York Times",
+      "estimated fortune of",
+      "Juan Carlos I"
+    ],
+    [
+      "Juan Carlos I",
+      "was involved in a public controversy centering on",
+      "an elephant-hunting trip"
+    ],
+    [
+      "Juan Carlos I",
+      "was declared successor by",
+      "Francisco Franco"
+    ],
+    [
+      "Juan Carlos I",
+      "has children",
+      "Elena"
+    ],
+    [
+      "Juan Carlos I",
+      "played a major role in preventing a coup that attempted to revert to",
+      "Francoist government"
+    ]
+  ]
+}

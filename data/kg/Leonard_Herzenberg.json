@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "geneticist",
+    "professor",
+    "Stanford University",
+    "Leonard Arthur Herzenberg",
+    "cell biology",
+    "October 27, 2013",
+    "Len Herzenberg",
+    "immunologist",
+    "viable cells",
+    "November 5, 1931"
+  ],
+  "edges": [
+    "contributed to the development of",
+    "made it possible to sort",
+    "taught at",
+    "was"
+  ],
+  "relations": [
+    [
+      "Leonard Arthur Herzenberg",
+      "was",
+      "immunologist"
+    ],
+    [
+      "cell biology",
+      "made it possible to sort",
+      "viable cells"
+    ],
+    [
+      "Leonard Arthur Herzenberg",
+      "was",
+      "professor"
+    ],
+    [
+      "Leonard Arthur Herzenberg",
+      "contributed to the development of",
+      "cell biology"
+    ],
+    [
+      "Leonard Arthur Herzenberg",
+      "was",
+      "geneticist"
+    ],
+    [
+      "Leonard Arthur Herzenberg",
+      "taught at",
+      "Stanford University"
+    ]
+  ]
+}

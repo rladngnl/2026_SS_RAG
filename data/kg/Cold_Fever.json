@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "road movie",
+    "Á köldum klaka",
+    "Cold Fever",
+    "Icelandic film",
+    "Friðrik Þór Friðriksson",
+    "Japanese man",
+    "Icelandic-Japanese road movie",
+    "English language",
+    "1995",
+    "Iceland"
+  ],
+  "edges": [
+    "is a",
+    "was made in",
+    "is directed by",
+    "is the release year of",
+    "is set in",
+    "was promoted as",
+    "depicts the travels of",
+    "is",
+    "is the Icelandic title of"
+  ],
+  "relations": [
+    [
+      "1995",
+      "is the release year of",
+      "Cold Fever"
+    ],
+    [
+      "Cold Fever",
+      "was made in",
+      "English language"
+    ],
+    [
+      "Cold Fever",
+      "depicts the travels of",
+      "Japanese man"
+    ],
+    [
+      "Cold Fever",
+      "is directed by",
+      "Friðrik Þór Friðriksson"
+    ],
+    [
+      "Cold Fever",
+      "is set in",
+      "Iceland"
+    ],
+    [
+      "Cold Fever",
+      "is a",
+      "road movie"
+    ],
+    [
+      "Cold Fever",
+      "was promoted as",
+      "the best Icelandic-Japanese road movie of 1995"
+    ],
+    [
+      "Á köldum klaka",
+      "is the Icelandic title of",
+      "Cold Fever"
+    ],
+    [
+      "Cold Fever",
+      "is",
+      "Icelandic film"
+    ]
+  ]
+}

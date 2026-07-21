@@ -1,0 +1,76 @@
+{
+  "entities": [
+    "FK Metalac Gornji Milanovac",
+    "FK Hajduk Beograd",
+    "Bosnian",
+    "Serbian",
+    "footballer",
+    "FK Mladost Lučani",
+    "Kazakh",
+    "Moldavian",
+    "FC Irtysh Pavlodar",
+    "FK Sevojno",
+    "FK Leotar",
+    "FC Zimbru Chișinău",
+    "Bojan Simić",
+    "FK Budućnost Banatski Dvor"
+  ],
+  "edges": [
+    "played abroad with",
+    "is a",
+    "played with",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Bojan Simić",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Bojan Simić",
+      "played abroad with",
+      "FC Irtysh Pavlodar"
+    ],
+    [
+      "Bojan Simić",
+      "played with",
+      "FK Mladost Lučani"
+    ],
+    [
+      "Bojan Simić",
+      "played with",
+      "FK Sevojno"
+    ],
+    [
+      "Bojan Simić",
+      "played with",
+      "FK Hajduk Beograd"
+    ],
+    [
+      "Bojan Simić",
+      "played abroad with",
+      "FC Zimbru Chișinău"
+    ],
+    [
+      "Bojan Simić",
+      "is from",
+      "Serbian"
+    ],
+    [
+      "Bojan Simić",
+      "played with",
+      "FK Metalac Gornji Milanovac"
+    ],
+    [
+      "Bojan Simić",
+      "played abroad with",
+      "FK Leotar"
+    ],
+    [
+      "Bojan Simić",
+      "played with",
+      "FK Budućnost Banatski Dvor"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "Football Association of Malaysia",
+    "Sabah",
+    "Scott O'Donell",
+    "FAM",
+    "Asian Football Confederation",
+    "Ong Kim Swee",
+    "S. League Coach of the Year 2003"
+  ],
+  "edges": [
+    "was appointed by",
+    "is Technical Director of",
+    "is a former director of coach education for",
+    "accepted the position as the new head coach of",
+    "tendered his resignation on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Scott O'Donell",
+      "is a former director of coach education for",
+      "Asian Football Confederation"
+    ],
+    [
+      "Ong Kim Swee",
+      "accepted the position as the new head coach of",
+      "Sabah"
+    ],
+    [
+      "Scott O'Donell",
+      "is Technical Director of",
+      "FAM"
+    ],
+    [
+      "Ong Kim Swee",
+      "tendered his resignation on",
+      "October 4, 2021"
+    ],
+    [
+      "Scott O'Donell",
+      "was appointed by",
+      "Football Association of Malaysia"
+    ],
+    [
+      "Scott O'Donell",
+      "was",
+      "S. League Coach of the Year 2003"
+    ]
+  ]
+}

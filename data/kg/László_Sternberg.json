@@ -1,0 +1,136 @@
+{
+  "entities": [
+    "New York Giants",
+    "Red Star Paris",
+    "Italy",
+    "American Soccer League",
+    "Újpest FC",
+    "Eastern Professional Soccer League",
+    "defender",
+    "1929 National Challenge Cup",
+    "1937",
+    "Andrea Doria",
+    "New York Americans",
+    "Novese Novi Ligure",
+    "United States",
+    "Hungary",
+    "1934 FIFA World Cup",
+    "Brooklyn Hakoah",
+    "United States Football Federation",
+    "Soccer Wars",
+    "Hakoah All-Stars",
+    "footballer",
+    "Jewish team",
+    "Hungary national football team",
+    "coach",
+    "1938",
+    "László Sternberg"
+  ],
+  "edges": [
+    "was a",
+    "began his career with",
+    "played in",
+    "returned to",
+    "finished his career with",
+    "coached",
+    "coached from",
+    "signed with",
+    "joined",
+    "moved to",
+    "won",
+    "briefly played for",
+    "captained"
+  ],
+  "relations": [
+    [
+      "László Sternberg",
+      "played in",
+      "1934 FIFA World Cup"
+    ],
+    [
+      "László Sternberg",
+      "played in",
+      "Eastern Professional Soccer League"
+    ],
+    [
+      "Brooklyn Hakoah",
+      "won",
+      "1929 National Challenge Cup"
+    ],
+    [
+      "László Sternberg",
+      "briefly played for",
+      "New York Americans"
+    ],
+    [
+      "László Sternberg",
+      "moved to",
+      "Andrea Doria"
+    ],
+    [
+      "László Sternberg",
+      "captained",
+      "Hungary national football team"
+    ],
+    [
+      "László Sternberg",
+      "returned to",
+      "Hungary"
+    ],
+    [
+      "László Sternberg",
+      "moved to",
+      "Brooklyn Hakoah"
+    ],
+    [
+      "László Sternberg",
+      "joined",
+      "Újpest FC"
+    ],
+    [
+      "László Sternberg",
+      "finished his career with",
+      "Red Star Paris"
+    ],
+    [
+      "László Sternberg",
+      "signed with",
+      "New York Giants"
+    ],
+    [
+      "László Sternberg",
+      "returned to",
+      "Europe"
+    ],
+    [
+      "László Sternberg",
+      "coached from",
+      "1937 to 1938"
+    ],
+    [
+      "László Sternberg",
+      "began his career with",
+      "Novese Novi Ligure"
+    ],
+    [
+      "László Sternberg",
+      "was a",
+      "footballer"
+    ],
+    [
+      "László Sternberg",
+      "was a",
+      "defender"
+    ],
+    [
+      "László Sternberg",
+      "coached",
+      "Újpest FC"
+    ],
+    [
+      "László Sternberg",
+      "moved to",
+      "United States"
+    ]
+  ]
+}

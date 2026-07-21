@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "Martinique national team",
+    "Steeve Olivier Elana",
+    "goalkeeper",
+    "11 July 1980",
+    "former professional footballer",
+    "metropolitan France",
+    "French",
+    "FC Martigues"
+  ],
+  "edges": [
+    "is a",
+    "represented",
+    "plays for",
+    "plays as",
+    "was born in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Steeve Olivier Elana",
+      "represented",
+      "Martinique national team"
+    ],
+    [
+      "Steeve Olivier Elana",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Steeve Olivier Elana",
+      "is",
+      "French"
+    ],
+    [
+      "Steeve Olivier Elana",
+      "plays as",
+      "goalkeeper"
+    ],
+    [
+      "Steeve Olivier Elana",
+      "plays for",
+      "FC Martigues"
+    ],
+    [
+      "Steeve Olivier Elana",
+      "was born in",
+      "metropolitan France"
+    ]
+  ]
+}

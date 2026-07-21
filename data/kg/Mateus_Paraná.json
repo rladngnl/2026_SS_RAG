@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "footballer",
+    "Mateus Paraná",
+    "21 May 1987",
+    "Edson Edmar Dias de Souza",
+    "Brazilian"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is known as"
+  ],
+  "relations": [
+    [
+      "Edson Edmar Dias de Souza",
+      "is known as",
+      "Mateus Paraná"
+    ],
+    [
+      "Mateus Paraná",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Edson Edmar Dias de Souza",
+      "was born on",
+      "21 May 1987"
+    ],
+    [
+      "Mateus Paraná",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

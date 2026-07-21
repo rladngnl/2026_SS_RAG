@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Gheorghe Mulțescu",
+    "13 November 1951",
+    "Romania",
+    "football manager",
+    "15 September 2024",
+    "football player"
+  ],
+  "edges": [
+    "was born on",
+    "was from",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Gheorghe Mulțescu",
+      "was from",
+      "Romania"
+    ],
+    [
+      "Gheorghe Mulțescu",
+      "was born on",
+      "13 November 1951"
+    ],
+    [
+      "Gheorghe Mulțescu",
+      "died on",
+      "15 September 2024"
+    ],
+    [
+      "Gheorghe Mulțescu",
+      "was",
+      "football manager"
+    ],
+    [
+      "Gheorghe Mulțescu",
+      "was",
+      "football player"
+    ]
+  ]
+}

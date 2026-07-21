@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "United States Army",
+    "Poet Laureate Consultant",
+    "Library of Congress",
+    "Pulitzer Prize for Poetry",
+    "company clerk",
+    "1945",
+    "American poet",
+    "Karl Jay Shapiro",
+    "World War II",
+    "1946",
+    "V-Letter and Other Poems",
+    "Pacific Theater"
+  ],
+  "edges": [
+    "served in",
+    "was a",
+    "served during",
+    "wrote",
+    "was appointed",
+    "was appointed in",
+    "in the",
+    "to the",
+    "was awarded in",
+    "is",
+    "was awarded"
+  ],
+  "relations": [
+    [
+      "Karl Jay Shapiro",
+      "is",
+      "American poet"
+    ],
+    [
+      "Karl Jay Shapiro",
+      "was awarded",
+      "Pulitzer Prize for Poetry"
+    ],
+    [
+      "Poet Laureate Consultant",
+      "was appointed in",
+      "1946"
+    ],
+    [
+      "Karl Jay Shapiro",
+      "was appointed",
+      "Poet Laureate Consultant"
+    ],
+    [
+      "Karl Jay Shapiro",
+      "wrote",
+      "V-Letter and Other Poems"
+    ],
+    [
+      "company clerk",
+      "in the",
+      "United States Army"
+    ],
+    [
+      "Karl Jay Shapiro",
+      "served in",
+      "Pacific Theater"
+    ],
+    [
+      "Karl Jay Shapiro",
+      "served during",
+      "World War II"
+    ],
+    [
+      "Poet Laureate Consultant",
+      "to the",
+      "Library of Congress"
+    ],
+    [
+      "Karl Jay Shapiro",
+      "was a",
+      "company clerk"
+    ],
+    [
+      "Pulitzer Prize for Poetry",
+      "was awarded in",
+      "1945"
+    ]
+  ]
+}

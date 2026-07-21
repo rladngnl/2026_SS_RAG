@@ -1,0 +1,164 @@
+{
+  "entities": [
+    "UEFA Intertoto Cup",
+    "Paris Saint-Germain",
+    "domestic trophies",
+    "European Cup",
+    "Brand Finance",
+    "Stade Vélodrome",
+    "Olympique de Marseille",
+    "OM",
+    "Deloitte Football Money League",
+    "Trophée des Champions",
+    "€287 million",
+    "2018",
+    "UEFA Champions League",
+    "Ligue 2 title",
+    "AA",
+    "1993",
+    "Marseille",
+    "league titles",
+    "Ligue 1",
+    "Coupe Charles Drago",
+    "Frank McCourt",
+    "trophies",
+    "Coupe de la Ligue",
+    "UEFA Europa League",
+    "Coupe de France",
+    "2025",
+    "brand strength",
+    "1999",
+    "2023–2024 season",
+    "1991",
+    "major titles",
+    "2004",
+    "Le Classique",
+    "brand value",
+    "2005"
+  ],
+  "edges": [
+    "ranked",
+    "was rated",
+    "has a rivalry with",
+    "marked the club's second continental triumph with",
+    "was contested in",
+    "has won",
+    "was runners-up at",
+    "bought",
+    "was listed in",
+    "was won in",
+    "won",
+    "was ranked by Brand Finance in",
+    "is the second most decorated French football team with",
+    "had revenue approximated at",
+    "competes in",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Olympique de Marseille",
+      "has a rivalry with",
+      "Paris Saint-Germain"
+    ],
+    [
+      "European Cup",
+      "was contested in",
+      "1991"
+    ],
+    [
+      "Olympique de Marseille",
+      "has won",
+      "26 domestic trophies"
+    ],
+    [
+      "UEFA Intertoto Cup",
+      "was won in",
+      "2005"
+    ],
+    [
+      "Olympique de Marseille",
+      "was listed in",
+      "Deloitte Football Money League"
+    ],
+    [
+      "Olympique de Marseille",
+      "marked the club's second continental triumph with",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "Olympique de Marseille",
+      "won",
+      "UEFA Champions League"
+    ],
+    [
+      "Olympique de Marseille",
+      "is the second most decorated French football team with",
+      "29 trophies"
+    ],
+    [
+      "UEFA Europa League",
+      "was contested in",
+      "2004"
+    ],
+    [
+      "Olympique de Marseille",
+      "was ranked by Brand Finance in",
+      "2025"
+    ],
+    [
+      "UEFA Europa League",
+      "was contested in",
+      "1999"
+    ],
+    [
+      "Olympique de Marseille",
+      "had revenue approximated at",
+      "€287 million"
+    ],
+    [
+      "Olympique de Marseille",
+      "was rated",
+      "AA"
+    ],
+    [
+      "Olympique de Marseille",
+      "was runners-up at",
+      "UEFA Europa League"
+    ],
+    [
+      "Olympique de Marseille",
+      "was runners-up at",
+      "European Cup"
+    ],
+    [
+      "UEFA Europa League",
+      "was contested in",
+      "2018"
+    ],
+    [
+      "Frank McCourt",
+      "bought",
+      "95% of the club's stake"
+    ],
+    [
+      "Deloitte Football Money League",
+      "ranked",
+      "19th highest revenue in the world"
+    ],
+    [
+      "Olympique de Marseille",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "Olympique de Marseille",
+      "plays home matches at",
+      "Stade Vélodrome"
+    ],
+    [
+      "UEFA Champions League",
+      "was won in",
+      "1993"
+    ]
+  ]
+}

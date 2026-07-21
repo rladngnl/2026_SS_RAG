@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "footballer",
+    "Montenegrin",
+    "defender",
+    "Ljubomir Radanović",
+    "Yugoslav",
+    "21 July 1960"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is a former",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Ljubomir Radanović",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Ljubomir Radanović",
+      "was born on",
+      "21 July 1960"
+    ],
+    [
+      "Ljubomir Radanović",
+      "is a former",
+      "Montenegrin"
+    ],
+    [
+      "Ljubomir Radanović",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Ljubomir Radanović",
+      "is a former",
+      "Yugoslav"
+    ]
+  ]
+}

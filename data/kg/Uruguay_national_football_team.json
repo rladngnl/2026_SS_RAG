@@ -1,0 +1,145 @@
+{
+  "entities": [
+    "los Charrúas",
+    "FIFA World Cup",
+    "Amsterdam 1928",
+    "Montevideo",
+    "Clásico del Río Negro",
+    "Paris 1924",
+    "Switzerland",
+    "Argentina",
+    "CONMEBOL",
+    "Estadio Centenario",
+    "FIFA Olympic titles",
+    "Maracanazo",
+    "PFC",
+    "1980 World Champions' Gold Cup",
+    "FIFA",
+    "Copa América",
+    "FIFA World Cups",
+    "Asociación Uruguaya de Fútbol",
+    "Uruguayan Football Association",
+    "la Celeste",
+    "Uruguay national football team",
+    "Brazil",
+    "Clásico del Río de la Plata"
+  ],
+  "edges": [
+    "secured a title at",
+    "is known as",
+    "displays",
+    "recognizes",
+    "is administered by",
+    "is a founding member of",
+    "has won",
+    "has developed",
+    "defeated",
+    "is the governing body of",
+    "beat",
+    "is nicknamed",
+    "has achieved",
+    "is a member of"
+  ],
+  "relations": [
+    [
+      "Asociación Uruguaya de Fútbol",
+      "is a founding member of",
+      "CONMEBOL"
+    ],
+    [
+      "Uruguay national football team",
+      "beat",
+      "Brazil"
+    ],
+    [
+      "Uruguay national football team",
+      "defeated",
+      "Argentina"
+    ],
+    [
+      "Uruguay national football team",
+      "secured a title at",
+      "FIFA World Cup"
+    ],
+    [
+      "Uruguay national football team",
+      "is known as",
+      "Clásico del Río Negro"
+    ],
+    [
+      "Uruguay national football team",
+      "displays",
+      "four five-pointed stars"
+    ],
+    [
+      "Uruguay national football team",
+      "is nicknamed",
+      "los Charrúas"
+    ],
+    [
+      "Uruguay national football team",
+      "is nicknamed",
+      "la Celeste"
+    ],
+    [
+      "Asociación Uruguaya de Fútbol",
+      "is the governing body of",
+      "football in Uruguay"
+    ],
+    [
+      "FIFA",
+      "recognizes",
+      "Uruguay as Champions of World Champions"
+    ],
+    [
+      "Uruguay national football team",
+      "is administered by",
+      "Asociación Uruguaya de Fútbol"
+    ],
+    [
+      "Uruguay national football team",
+      "is known as",
+      "Clásico del Río de la Plata"
+    ],
+    [
+      "Uruguay national football team",
+      "has won",
+      "two FIFA Olympic titles"
+    ],
+    [
+      "Uruguay national football team",
+      "has won",
+      "four world FIFA–organized championships"
+    ],
+    [
+      "Uruguay national football team",
+      "has won",
+      "Copa América 15 times"
+    ],
+    [
+      "Uruguay national football team",
+      "has achieved",
+      "highest FIFA World Ranking of 2nd place"
+    ],
+    [
+      "Uruguay national football team",
+      "has developed",
+      "many rivalries"
+    ],
+    [
+      "Uruguay national football team",
+      "beat",
+      "Switzerland"
+    ],
+    [
+      "Asociación Uruguaya de Fútbol",
+      "is a member of",
+      "FIFA"
+    ],
+    [
+      "Uruguay national football team",
+      "has won",
+      "two FIFA World Cups"
+    ]
+  ]
+}

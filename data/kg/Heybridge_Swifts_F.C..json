@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "England",
+    "Maldon",
+    "Heybridge Swifts Football Club",
+    "Essex",
+    "Scraley Road",
+    "Heybridge",
+    "Essex Senior League"
+  ],
+  "edges": [
+    "is in",
+    "is located near",
+    "is a member of",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Heybridge Swifts Football Club",
+      "is located near",
+      "Maldon"
+    ],
+    [
+      "Heybridge Swifts Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Heybridge Swifts Football Club",
+      "is a member of",
+      "Essex Senior League"
+    ],
+    [
+      "Heybridge Swifts Football Club",
+      "plays at",
+      "Scraley Road"
+    ],
+    [
+      "Heybridge Swifts Football Club",
+      "is in",
+      "Essex"
+    ],
+    [
+      "Heybridge Swifts Football Club",
+      "is based in",
+      "Heybridge"
+    ]
+  ]
+}

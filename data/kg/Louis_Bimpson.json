@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "English footballer",
+    "striker",
+    "James Louis Bimpson",
+    "13 November 2021",
+    "1950s",
+    "14 May 1929",
+    "Liverpool"
+  ],
+  "edges": [
+    "during",
+    "played as",
+    "died on",
+    "was born on",
+    "played for",
+    "was"
+  ],
+  "relations": [
+    [
+      "James Louis Bimpson",
+      "was",
+      "English footballer"
+    ],
+    [
+      "James Louis Bimpson",
+      "played as",
+      "striker"
+    ],
+    [
+      "James Louis Bimpson",
+      "was born on",
+      "14 May 1929"
+    ],
+    [
+      "James Louis Bimpson",
+      "played for",
+      "Liverpool"
+    ],
+    [
+      "James Louis Bimpson",
+      "during",
+      "1950s"
+    ],
+    [
+      "James Louis Bimpson",
+      "died on",
+      "13 November 2021"
+    ]
+  ]
+}

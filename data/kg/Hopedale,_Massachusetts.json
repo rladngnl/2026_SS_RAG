@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "Draper Corporation",
+    "Massachusetts",
+    "Greater Boston",
+    "population",
+    "Hopedale",
+    "public schools",
+    "census-designated place",
+    "20th century",
+    "2020 census",
+    "Worcester County",
+    "1980",
+    "loom manufacturer",
+    "Boston"
+  ],
+  "edges": [
+    "was a",
+    "has become a bedroom community for",
+    "is home to",
+    "contains the",
+    "is located southwest of",
+    "was recorded in the",
+    "had a population of",
+    "closed in",
+    "operated throughout the",
+    "is a town in",
+    "was home to"
+  ],
+  "relations": [
+    [
+      "Hopedale",
+      "has become a bedroom community for",
+      "professionals working in Greater Boston"
+    ],
+    [
+      "Hopedale",
+      "is a town in",
+      "Worcester County"
+    ],
+    [
+      "Hopedale",
+      "is home to",
+      "public schools"
+    ],
+    [
+      "Hopedale",
+      "was recorded in the",
+      "2020 census"
+    ],
+    [
+      "Hopedale",
+      "was home to",
+      "Draper Corporation"
+    ],
+    [
+      "Draper Corporation",
+      "operated throughout the",
+      "20th century"
+    ],
+    [
+      "Draper Corporation",
+      "was a",
+      "loom manufacturer"
+    ],
+    [
+      "Draper Corporation",
+      "closed in",
+      "1980"
+    ],
+    [
+      "Hopedale",
+      "had a population of",
+      "6,017"
+    ],
+    [
+      "Hopedale",
+      "contains the",
+      "census-designated place"
+    ],
+    [
+      "Hopedale",
+      "is located southwest of",
+      "Boston"
+    ]
+  ]
+}

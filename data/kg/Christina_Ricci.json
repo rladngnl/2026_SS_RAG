@@ -1,0 +1,462 @@
+{
+  "entities": [
+    "The Ice Storm",
+    "Buffalo '66",
+    "2006",
+    "Yellowjackets",
+    "2000",
+    "2001",
+    "Bel Ami",
+    "Ally McBeal",
+    "Liza Bump",
+    "2015",
+    "Wednesday Addams",
+    "American actress",
+    "The Man Who Cried",
+    "Screen Actors Guild",
+    "Golden Globe",
+    "2002",
+    "2003",
+    "Time Stands Still",
+    "The Addams Family",
+    "Pan Am",
+    "Donald Margulies",
+    "2010",
+    "2024",
+    "The Matrix Resurrections",
+    "2011–2012",
+    "Sleepy Hollow",
+    "The Lizzie Borden Chronicles",
+    "Cursed",
+    "Pecker",
+    "Wednesday",
+    "RAINN",
+    "1997",
+    "Speed Racer",
+    "Casper",
+    "Grey's Anatomy",
+    "1993",
+    "200 Cigarettes",
+    "Rape, Abuse & Incest National Network",
+    "The Opposite of Sex",
+    "Monster",
+    "Christina Ricci",
+    "Batman: Caped Crusader",
+    "Black Snake Moan",
+    "Now and Then",
+    "Z: The Beginning of Everything",
+    "1999",
+    "1995",
+    "Penelope",
+    "February 12, 1980",
+    "Misty Quigley",
+    "2022–present",
+    "Mermaids",
+    "1991",
+    "Marilyn Thornhill",
+    "Primetime Emmy Award",
+    "2012",
+    "2008",
+    "Anything Else",
+    "2021",
+    "2017",
+    "1998",
+    "2005",
+    "Prozac Nation",
+    "Pumpkin",
+    "1990"
+  ],
+  "edges": [
+    "made her Broadway debut in",
+    "is the national spokesperson for",
+    "is also known as",
+    "made her film debut in",
+    "was born on",
+    "produced and starred in",
+    "starred on",
+    "is set to release in",
+    "is",
+    "voiced",
+    "was released in",
+    "played",
+    "is in",
+    "was written by",
+    "is ongoing since",
+    "appeared as",
+    "received nominations for",
+    "was aired from",
+    "starred in",
+    "was in",
+    "established herself as a teen idol in",
+    "had a sequel in",
+    "had a guest role on",
+    "moved into adult-oriented projects such as"
+  ],
+  "relations": [
+    [
+      "Monster",
+      "was released in",
+      "2003"
+    ],
+    [
+      "Christina Ricci",
+      "played",
+      "Misty Quigley"
+    ],
+    [
+      "Christina Ricci",
+      "made her film debut in",
+      "Mermaids"
+    ],
+    [
+      "Time Stands Still",
+      "was released in",
+      "2010"
+    ],
+    [
+      "Christina Ricci",
+      "appeared as",
+      "Marilyn Thornhill"
+    ],
+    [
+      "Prozac Nation",
+      "was released in",
+      "2001"
+    ],
+    [
+      "Sleepy Hollow",
+      "was released in",
+      "1999"
+    ],
+    [
+      "Christina Ricci",
+      "produced and starred in",
+      "Z: The Beginning of Everything"
+    ],
+    [
+      "Christina Ricci",
+      "voiced",
+      "Catwoman / Selina Kyle"
+    ],
+    [
+      "Christina Ricci",
+      "made her Broadway debut in",
+      "Time Stands Still"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Pecker"
+    ],
+    [
+      "Pumpkin",
+      "was released in",
+      "2002"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "200 Cigarettes"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Prozac Nation"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "The Matrix Resurrections"
+    ],
+    [
+      "Liza Bump",
+      "was in",
+      "Ally McBeal"
+    ],
+    [
+      "Wednesday Addams",
+      "was in",
+      "The Addams Family"
+    ],
+    [
+      "Christina Ricci",
+      "is",
+      "American actress"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Speed Racer"
+    ],
+    [
+      "Christina Ricci",
+      "received nominations for",
+      "Primetime Emmy Award"
+    ],
+    [
+      "Christina Ricci",
+      "played",
+      "Wednesday Addams"
+    ],
+    [
+      "The Addams Family",
+      "had a sequel in",
+      "1993"
+    ],
+    [
+      "Ally McBeal",
+      "was released in",
+      "2002"
+    ],
+    [
+      "Christina Ricci",
+      "was born on",
+      "February 12, 1980"
+    ],
+    [
+      "Buffalo '66",
+      "was released in",
+      "1998"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Penelope"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Black Snake Moan"
+    ],
+    [
+      "Cursed",
+      "was released in",
+      "2005"
+    ],
+    [
+      "Marilyn Thornhill",
+      "was in",
+      "Wednesday"
+    ],
+    [
+      "Christina Ricci",
+      "received nominations for",
+      "Screen Actors Guild"
+    ],
+    [
+      "Mermaids",
+      "was released in",
+      "1990"
+    ],
+    [
+      "The Lizzie Borden Chronicles",
+      "was released in",
+      "2015"
+    ],
+    [
+      "Wednesday",
+      "is ongoing since",
+      "2022–present"
+    ],
+    [
+      "The Ice Storm",
+      "was released in",
+      "1997"
+    ],
+    [
+      "Speed Racer",
+      "was released in",
+      "2008"
+    ],
+    [
+      "Pan Am",
+      "was aired from",
+      "2011–2012"
+    ],
+    [
+      "The Addams Family",
+      "was released in",
+      "1991"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "The Opposite of Sex"
+    ],
+    [
+      "Batman: Caped Crusader",
+      "is set to release in",
+      "2024"
+    ],
+    [
+      "Pecker",
+      "was released in",
+      "1998"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Bel Ami"
+    ],
+    [
+      "Now and Then",
+      "was released in",
+      "1995"
+    ],
+    [
+      "Christina Ricci",
+      "played",
+      "Liza Bump"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Buffalo '66"
+    ],
+    [
+      "Z: The Beginning of Everything",
+      "was released in",
+      "2017"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Monster"
+    ],
+    [
+      "The Man Who Cried",
+      "was released in",
+      "2000"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "The Man Who Cried"
+    ],
+    [
+      "The Opposite of Sex",
+      "was released in",
+      "1998"
+    ],
+    [
+      "Christina Ricci",
+      "is the national spokesperson for",
+      "Rape, Abuse & Incest National Network"
+    ],
+    [
+      "Christina Ricci",
+      "moved into adult-oriented projects such as",
+      "The Ice Storm"
+    ],
+    [
+      "The Matrix Resurrections",
+      "was released in",
+      "2021"
+    ],
+    [
+      "200 Cigarettes",
+      "was released in",
+      "1999"
+    ],
+    [
+      "Penelope",
+      "was released in",
+      "2006"
+    ],
+    [
+      "Bel Ami",
+      "was released in",
+      "2012"
+    ],
+    [
+      "Misty Quigley",
+      "is in",
+      "Yellowjackets"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Sleepy Hollow"
+    ],
+    [
+      "Christina Ricci",
+      "starred on",
+      "Pan Am"
+    ],
+    [
+      "Rape, Abuse & Incest National Network",
+      "is also known as",
+      "RAINN"
+    ],
+    [
+      "Catwoman / Selina Kyle",
+      "was in",
+      "Batman: Caped Crusader"
+    ],
+    [
+      "Grey's Anatomy",
+      "was released in",
+      "2006"
+    ],
+    [
+      "Black Snake Moan",
+      "was released in",
+      "2006"
+    ],
+    [
+      "Christina Ricci",
+      "produced and starred in",
+      "The Lizzie Borden Chronicles"
+    ],
+    [
+      "Time Stands Still",
+      "was written by",
+      "Donald Margulies"
+    ],
+    [
+      "Yellowjackets",
+      "is ongoing since",
+      "2021"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Pumpkin"
+    ],
+    [
+      "Christina Ricci",
+      "established herself as a teen idol in",
+      "Casper"
+    ],
+    [
+      "Christina Ricci",
+      "established herself as a teen idol in",
+      "Now and Then"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Cursed"
+    ],
+    [
+      "Christina Ricci",
+      "had a guest role on",
+      "Grey's Anatomy"
+    ],
+    [
+      "Casper",
+      "was released in",
+      "1995"
+    ],
+    [
+      "Christina Ricci",
+      "starred in",
+      "Anything Else"
+    ],
+    [
+      "Christina Ricci",
+      "received nominations for",
+      "Golden Globe"
+    ]
+  ]
+}

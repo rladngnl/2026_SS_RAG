@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "Caruaru",
+    "Central",
+    "Porto-PE",
+    "Porto de Caruaru",
+    "July 23, 1983",
+    "Pernambuco",
+    "Clube Atlético do Porto",
+    "Porto"
+  ],
+  "edges": [
+    "is from",
+    "is usually known as",
+    "was founded on",
+    "is rival of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Clube Atlético do Porto",
+      "is located in",
+      "Pernambuco"
+    ],
+    [
+      "Clube Atlético do Porto",
+      "is from",
+      "Caruaru"
+    ],
+    [
+      "Clube Atlético do Porto",
+      "is usually known as",
+      "Porto"
+    ],
+    [
+      "Clube Atlético do Porto",
+      "was founded on",
+      "July 23, 1983"
+    ],
+    [
+      "Porto",
+      "is rival of",
+      "Central"
+    ]
+  ]
+}

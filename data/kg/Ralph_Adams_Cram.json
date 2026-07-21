@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "American Institute of Architects",
+    "September 22, 1942",
+    "Gothic Revival style",
+    "American architect",
+    "Cram & Ferguson",
+    "Ralph Adams Cram",
+    "Cram, Goodhue & Ferguson",
+    "collegiate buildings",
+    "ecclesiastical buildings",
+    "December 16, 1863"
+  ],
+  "edges": [
+    "was a fellow of",
+    "designed",
+    "worked in the style of",
+    "worked in",
+    "was"
+  ],
+  "relations": [
+    [
+      "Ralph Adams Cram",
+      "was",
+      "American architect"
+    ],
+    [
+      "Ralph Adams Cram",
+      "was a fellow of",
+      "American Institute of Architects"
+    ],
+    [
+      "Ralph Adams Cram",
+      "designed",
+      "collegiate buildings"
+    ],
+    [
+      "Ralph Adams Cram",
+      "worked in the style of",
+      "Gothic Revival style"
+    ],
+    [
+      "Ralph Adams Cram",
+      "designed",
+      "ecclesiastical buildings"
+    ],
+    [
+      "Ralph Adams Cram",
+      "worked in",
+      "Cram & Ferguson"
+    ],
+    [
+      "Ralph Adams Cram",
+      "worked in",
+      "Cram, Goodhue & Ferguson"
+    ]
+  ]
+}

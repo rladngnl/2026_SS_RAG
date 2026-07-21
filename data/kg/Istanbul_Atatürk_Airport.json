@@ -1,0 +1,73 @@
+{
+  "entities": [
+    "executive airport",
+    "Istanbul Airport",
+    "Turkey",
+    "6 April 2019",
+    "Yeşilköy",
+    "Istanbul Province",
+    "general aviation",
+    "Turkish Airlines",
+    "LTBA",
+    "ICAO",
+    "IATA",
+    "ISL",
+    "Istanbul_Atatürk_Airport"
+  ],
+  "edges": [
+    "is open to",
+    "transferred all commercial scheduled passenger flights to",
+    "functions as",
+    "was closed to commercial passenger flights on",
+    "was formerly the primary international airport of",
+    "is located in",
+    "was the hub of"
+  ],
+  "relations": [
+    [
+      "Istanbul_Atatürk_Airport",
+      "functions as",
+      "executive airport"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "is located in",
+      "Yeşilköy"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "is open to",
+      "general aviation"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "was the hub of",
+      "Turkish Airlines"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "is located in",
+      "Istanbul Province"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "was closed to commercial passenger flights on",
+      "6 April 2019"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "transferred all commercial scheduled passenger flights to",
+      "Istanbul Airport"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "was formerly the primary international airport of",
+      "Istanbul"
+    ],
+    [
+      "Istanbul_Atatürk_Airport",
+      "is located in",
+      "Turkey"
+    ]
+  ]
+}

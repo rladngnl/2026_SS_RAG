@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "footballer",
+    "May 22, 1980",
+    "winger",
+    "Musa Büyük",
+    "Turkish"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Musa Büyük",
+      "is born on",
+      "May 22, 1980"
+    ],
+    [
+      "Musa Büyük",
+      "played as a",
+      "winger"
+    ],
+    [
+      "Musa Büyük",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Musa Büyük",
+      "is a",
+      "Turkish"
+    ]
+  ]
+}

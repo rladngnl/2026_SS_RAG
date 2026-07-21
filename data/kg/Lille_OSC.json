@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "UEFA Intertoto Cup",
+    "UEFA Conference League",
+    "LOSC",
+    "Stade Pierre-Mauroy",
+    "CIES Football Observatory",
+    "Lille_OSC",
+    "Trophée des Champions",
+    "Olympique Lillois",
+    "LOSC Lille",
+    "Northern France",
+    "UEFA Champions League",
+    "Olivier Létang",
+    "Ligue 1",
+    "Lille Olympique Sporting Club",
+    "UEFA Europa League",
+    "French Division 1",
+    "La Machine de Guerre",
+    "Coupes de France",
+    "Les Dogues",
+    "SC Fives",
+    "Lens"
+  ],
+  "edges": [
+    "is the fifth-most followed French sports club on",
+    "were founding members of",
+    "has reached the knockout phase of",
+    "was known as",
+    "is the best club in the world regarding",
+    "competes in",
+    "has a long-standing rivalry with",
+    "has participated in",
+    "was founded as a result of a merger between",
+    "has won",
+    "has played home matches at",
+    "has competed in",
+    "is known for",
+    "is chaired by",
+    "is commonly referred to as",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Lille_OSC",
+      "is commonly referred to as",
+      "LOSC"
+    ],
+    [
+      "Lille_OSC",
+      "was founded as a result of a merger between",
+      "Olympique Lillois and SC Fives"
+    ],
+    [
+      "Lille_OSC",
+      "was known as",
+      "La Machine de Guerre"
+    ],
+    [
+      "Lille_OSC",
+      "is the best club in the world regarding",
+      "the financial balance of transfers concerning non-academy players signed since 2015"
+    ],
+    [
+      "Lille_OSC",
+      "has reached the knockout phase of",
+      "UEFA Champions League"
+    ],
+    [
+      "Olympique Lillois",
+      "were founding members of",
+      "French Division 1"
+    ],
+    [
+      "Lille_OSC",
+      "is based in",
+      "Northern France"
+    ],
+    [
+      "Lille_OSC",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "Lille_OSC",
+      "has played home matches at",
+      "Stade Pierre-Mauroy"
+    ],
+    [
+      "Lille_OSC",
+      "has participated in",
+      "UEFA Champions League"
+    ],
+    [
+      "Lille_OSC",
+      "has a long-standing rivalry with",
+      "Lens"
+    ],
+    [
+      "Lille_OSC",
+      "has won",
+      "one Trophée des Champions"
+    ],
+    [
+      "Lille_OSC",
+      "has won",
+      "six Coupes de France"
+    ],
+    [
+      "Lille_OSC",
+      "is commonly referred to as",
+      "LOSC Lille"
+    ],
+    [
+      "Lille_OSC",
+      "is known for",
+      "its academy"
+    ],
+    [
+      "Lille_OSC",
+      "has won",
+      "four league titles"
+    ],
+    [
+      "Lille_OSC",
+      "is the fifth-most followed French sports club on",
+      "social media"
+    ],
+    [
+      "Lille_OSC",
+      "is chaired by",
+      "Olivier Létang"
+    ],
+    [
+      "Lille_OSC",
+      "has won",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "Lille_OSC",
+      "is commonly referred to as",
+      "Lille Olympique Sporting Club"
+    ],
+    [
+      "Lille_OSC",
+      "has competed in",
+      "UEFA Europa League"
+    ]
+  ]
+}

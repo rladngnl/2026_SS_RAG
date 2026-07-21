@@ -1,0 +1,282 @@
+{
+  "entities": [
+    "literature",
+    "British Empire",
+    "nominal GDP",
+    "Second World War",
+    "Northern Ireland",
+    "British monarchy",
+    "parliamentary democracy",
+    "decolonisation",
+    "First World War",
+    "England",
+    "Celtic Sea",
+    "Crown Dependencies",
+    "Irish Free State",
+    "Great Britain",
+    "Kingdom of Scotland",
+    "Royal and Parliamentary Titles Act 1927",
+    "Scotland",
+    "jurisdictions",
+    "Anglosphere",
+    "Irish Sea",
+    "United Kingdom",
+    "international organisations",
+    "Kingdom of England",
+    "British Isles",
+    "soft power",
+    "cinema",
+    "Pax Britannica",
+    "art",
+    "great power",
+    "sport",
+    "Kingdom of Great Britain",
+    "London",
+    "Commonwealth",
+    "Roman Empire",
+    "Anglo-Saxon",
+    "Treaty of Union",
+    "music",
+    "Republic of Ireland",
+    "English Civil War",
+    "Edinburgh",
+    "Acts of Union 1800",
+    "English Channel",
+    "Normans",
+    "Belfast",
+    "devolved matters",
+    "Wales",
+    "defence budgets",
+    "theatre",
+    "language",
+    "British Overseas Territories",
+    "nuclear state",
+    "Cardiff",
+    "constitutional monarchy",
+    "Atlantic Ocean",
+    "North Sea",
+    "militaries"
+  ],
+  "edges": [
+    "is a",
+    "was the world's foremost power during",
+    "has distinct",
+    "incorporated",
+    "shares a land border with",
+    "is surrounded by",
+    "has a population of",
+    "is part of",
+    "is located in",
+    "conquered",
+    "maintains one of the strongest",
+    "created",
+    "comprises",
+    "became",
+    "is one of the largest economies by",
+    "seceded from",
+    "settled in",
+    "have been inhabited since",
+    "is globally influential in",
+    "includes",
+    "is the capital of",
+    "united with",
+    "was the leading economic power for"
+  ],
+  "relations": [
+    [
+      "United Kingdom",
+      "comprises",
+      "Wales"
+    ],
+    [
+      "United Kingdom",
+      "is surrounded by",
+      "Atlantic Ocean"
+    ],
+    [
+      "British Empire",
+      "was the leading economic power for",
+      "most of the 19th century"
+    ],
+    [
+      "Treaty of Union",
+      "created",
+      "Kingdom of Great Britain"
+    ],
+    [
+      "UK",
+      "maintains one of the strongest",
+      "militaries in Europe"
+    ],
+    [
+      "Royal and Parliamentary Titles Act 1927",
+      "created",
+      "present United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "is surrounded by",
+      "Irish Sea"
+    ],
+    [
+      "United Kingdom",
+      "is surrounded by",
+      "North Sea"
+    ],
+    [
+      "United Kingdom",
+      "is located in",
+      "northwestern Europe"
+    ],
+    [
+      "United Kingdom",
+      "is surrounded by",
+      "Celtic Sea"
+    ],
+    [
+      "UK",
+      "is a",
+      "constitutional monarchy"
+    ],
+    [
+      "London",
+      "is the capital of",
+      "United Kingdom"
+    ],
+    [
+      "UK",
+      "is a",
+      "nuclear state"
+    ],
+    [
+      "British culture",
+      "is globally influential in",
+      "Commonwealth"
+    ],
+    [
+      "United Kingdom",
+      "includes",
+      "the island of Great Britain"
+    ],
+    [
+      "Normans",
+      "conquered",
+      "England"
+    ],
+    [
+      "Cardiff",
+      "is the capital of",
+      "Wales"
+    ],
+    [
+      "Roman Empire",
+      "conquered",
+      "Britain"
+    ],
+    [
+      "United Kingdom",
+      "comprises",
+      "Scotland"
+    ],
+    [
+      "London",
+      "is the capital of",
+      "England"
+    ],
+    [
+      "United Kingdom",
+      "comprises",
+      "Northern Ireland"
+    ],
+    [
+      "Edinburgh",
+      "is the capital of",
+      "Scotland"
+    ],
+    [
+      "Kingdom of England",
+      "united with",
+      "Kingdom of Scotland"
+    ],
+    [
+      "UK",
+      "is one of the largest economies by",
+      "nominal GDP"
+    ],
+    [
+      "British Isles",
+      "have been inhabited since",
+      "the Neolithic"
+    ],
+    [
+      "Anglo-Saxon",
+      "settled in",
+      "Britain"
+    ],
+    [
+      "UK",
+      "was the world's foremost power during",
+      "Pax Britannica"
+    ],
+    [
+      "United Kingdom",
+      "comprises",
+      "England"
+    ],
+    [
+      "UK",
+      "has distinct",
+      "jurisdictions"
+    ],
+    [
+      "United Kingdom",
+      "shares a land border with",
+      "Republic of Ireland"
+    ],
+    [
+      "UK",
+      "is part of",
+      "numerous international organisations"
+    ],
+    [
+      "UK",
+      "became",
+      "the first industrialised country"
+    ],
+    [
+      "Belfast",
+      "is the capital of",
+      "Northern Ireland"
+    ],
+    [
+      "UK",
+      "is a",
+      "parliamentary democracy"
+    ],
+    [
+      "United Kingdom",
+      "has a population of",
+      "over 69 million"
+    ],
+    [
+      "British culture",
+      "is globally influential in",
+      "Anglosphere"
+    ],
+    [
+      "United Kingdom",
+      "is surrounded by",
+      "English Channel"
+    ],
+    [
+      "Irish Free State",
+      "seceded from",
+      "UK"
+    ],
+    [
+      "Acts of Union 1800",
+      "incorporated",
+      "Kingdom of Ireland"
+    ]
+  ]
+}

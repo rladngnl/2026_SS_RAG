@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "John Major",
+    "Member of Parliament",
+    "William Hague",
+    "Rishi Sunak",
+    "Secretary of State for Wales",
+    "House of Commons",
+    "Cameron government",
+    "Chancellor of the University of Oxford",
+    "9 October 2015",
+    "by-election",
+    "Shadow Cabinet",
+    "Conservative Party",
+    "Richmond (Yorks)",
+    "Labour Party",
+    "University of Oxford",
+    "David Cameron",
+    "1997 general election",
+    "coalition government",
+    "Baron Hague of Richmond",
+    "Austen Chamberlain",
+    "life peerage",
+    "North Yorkshire",
+    "British politician",
+    "Wath-upon-Dearne Comprehensive School",
+    "Leader of the House of Commons",
+    "Foreign Secretary",
+    "Shadow Foreign Secretary",
+    "First Secretary of State",
+    "2015 Dissolution Honours List",
+    "Leader of the Opposition",
+    "INSEAD"
+  ],
+  "edges": [
+    "was Leader of the House of Commons from",
+    "is a",
+    "was Foreign Secretary from",
+    "was in the",
+    "was Member of Parliament for",
+    "has been Chancellor of the",
+    "was appointed Secretary of State for",
+    "resigned as Conservative leader after the",
+    "was Leader of the",
+    "was succeeded as MP for Richmond by",
+    "was awarded a life peerage on",
+    "was First Secretary of State from",
+    "was elected Leader of the",
+    "was educated at",
+    "was awarded a life peerage in the",
+    "was awarded a"
+  ],
+  "relations": [
+    [
+      "William Hague",
+      "was awarded a life peerage in the",
+      "2015 Dissolution Honours List"
+    ],
+    [
+      "William Hague",
+      "was elected Leader of the",
+      "Conservative Party"
+    ],
+    [
+      "William Hague",
+      "was in the",
+      "Cameron government"
+    ],
+    [
+      "William Hague",
+      "was Leader of the House of Commons from",
+      "2014 to 2015"
+    ],
+    [
+      "William Hague",
+      "was educated at",
+      "INSEAD"
+    ],
+    [
+      "William Hague",
+      "was succeeded as MP for Richmond by",
+      "Rishi Sunak"
+    ],
+    [
+      "William Hague",
+      "was Leader of the",
+      "Opposition"
+    ],
+    [
+      "William Hague",
+      "was educated at",
+      "Wath-upon-Dearne Comprehensive School"
+    ],
+    [
+      "William Hague",
+      "has been Chancellor of the",
+      "University of Oxford"
+    ],
+    [
+      "William Hague",
+      "is a",
+      "British politician"
+    ],
+    [
+      "William Hague",
+      "was educated at",
+      "University of Oxford"
+    ],
+    [
+      "William Hague",
+      "was awarded a",
+      "life peerage"
+    ],
+    [
+      "William Hague",
+      "was Foreign Secretary from",
+      "2010 to 2014"
+    ],
+    [
+      "William Hague",
+      "was appointed Secretary of State for",
+      "Wales"
+    ],
+    [
+      "William Hague",
+      "was Leader of the",
+      "Conservative Party"
+    ],
+    [
+      "William Hague",
+      "was First Secretary of State from",
+      "2010 to 2015"
+    ],
+    [
+      "William Hague",
+      "was Member of Parliament for",
+      "Richmond (Yorks)"
+    ],
+    [
+      "William Hague",
+      "was awarded a life peerage on",
+      "9 October 2015"
+    ],
+    [
+      "William Hague",
+      "resigned as Conservative leader after the",
+      "2001 general election"
+    ]
+  ]
+}

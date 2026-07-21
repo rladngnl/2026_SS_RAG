@@ -1,0 +1,156 @@
+{
+  "entities": [
+    "Romanian league system",
+    "Unirea Tricolor",
+    "European Cup",
+    "Ciocanul",
+    "Rapid București",
+    "Universitatea Craiova",
+    "Arena Națională",
+    "Stadionul Dinamo",
+    "Liverpool",
+    "Liga I",
+    "Supercupa României",
+    "FC Dinamo București",
+    "FCSB",
+    "Cupa Ligii",
+    "Dinamo 1948",
+    "Bucharest",
+    "Cupa României",
+    "Ministry of Internal Affairs",
+    "Stadionul Arcul de Triumf",
+    "1983–84 season",
+    "Eternal Derby"
+  ],
+  "edges": [
+    "is being reconstructed",
+    "has notable rivalries against",
+    "is commonly known as",
+    "is based in",
+    "is temporarily playing at",
+    "has won",
+    "has played significant matches at",
+    "is referred to as",
+    "was eliminated by",
+    "became the first club in Romania to reach",
+    "has bitter rivals",
+    "has traditional colours of",
+    "was founded by",
+    "is part of",
+    "competes in",
+    "was formed from",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "FC Dinamo București",
+      "has won",
+      "13 Cupa României"
+    ],
+    [
+      "FC Dinamo București",
+      "competes in",
+      "Liga I"
+    ],
+    [
+      "FC Dinamo București",
+      "was eliminated by",
+      "Liverpool"
+    ],
+    [
+      "FC Dinamo București",
+      "was founded by",
+      "Ministry of Internal Affairs"
+    ],
+    [
+      "FC Dinamo București",
+      "has traditional colours of",
+      "white and red"
+    ],
+    [
+      "FC Dinamo București",
+      "has bitter rivals",
+      "FCSB"
+    ],
+    [
+      "Stadionul Dinamo",
+      "is being reconstructed",
+      ""
+    ],
+    [
+      "FC Dinamo București",
+      "has won",
+      "two Supercupa României"
+    ],
+    [
+      "FC Dinamo București",
+      "became the first club in Romania to reach",
+      "the semi-finals of the European Cup"
+    ],
+    [
+      "FC Dinamo București",
+      "has notable rivalries against",
+      "Universitatea Craiova"
+    ],
+    [
+      "FC Dinamo București",
+      "was formed from",
+      "Ciocanul"
+    ],
+    [
+      "FC Dinamo București",
+      "is based in",
+      "Bucharest"
+    ],
+    [
+      "FC Dinamo București",
+      "is commonly known as",
+      "Dinamo 1948"
+    ],
+    [
+      "FC Dinamo București",
+      "is temporarily playing at",
+      "Stadionul Arcul de Triumf"
+    ],
+    [
+      "FC Dinamo București",
+      "was formed from",
+      "Unirea Tricolor"
+    ],
+    [
+      "FCSB",
+      "is referred to as",
+      "Eternal Derby"
+    ],
+    [
+      "FC Dinamo București",
+      "has played significant matches at",
+      "Arena Națională"
+    ],
+    [
+      "FC Dinamo București",
+      "has won",
+      "18 Liga I titles"
+    ],
+    [
+      "FC Dinamo București",
+      "plays at",
+      "Stadionul Dinamo"
+    ],
+    [
+      "FC Dinamo București",
+      "has notable rivalries against",
+      "Rapid București"
+    ],
+    [
+      "FC Dinamo București",
+      "is part of",
+      "Romanian league system"
+    ],
+    [
+      "FC Dinamo București",
+      "has won",
+      "one Cupa Ligii"
+    ]
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "entities": [
+    "Scottish Football League First Division",
+    "Scottish League Cup",
+    "Scottish Championship",
+    "Scottish Challenge Cup",
+    "2014–15",
+    "Scotland",
+    "2014",
+    "Inverness CT",
+    "Inverness",
+    "Inverness Caledonian Thistle Football Club",
+    "2015",
+    "Caledonian Stadium",
+    "2023",
+    "Scottish Professional Football League",
+    "Caley Thistle",
+    "Scottish Cup"
+  ],
+  "edges": [
+    "is commonly known as",
+    "won the Scottish Challenge Cup",
+    "won",
+    "achieved this position in",
+    "were runners-up in",
+    "plays its home games at",
+    "won in",
+    "won the Scottish Football League First Division",
+    "has its highest Premiership position",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "won the Scottish Football League First Division",
+      "twice"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "has its highest Premiership position",
+      "third"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "were runners-up in",
+      "2023"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "is commonly known as",
+      "Inverness CT"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "competes in",
+      "Scottish Championship"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "is based in",
+      "Inverness"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "won the Scottish Challenge Cup",
+      "three times"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "achieved this position in",
+      "2014–15"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "plays its home games at",
+      "Caledonian Stadium"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "won in",
+      "2015"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "is commonly known as",
+      "Inverness"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "won",
+      "Scottish Cup"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "is commonly known as",
+      "Caley Thistle"
+    ],
+    [
+      "Inverness Caledonian Thistle Football Club",
+      "were runners-up in",
+      "Scottish League Cup"
+    ]
+  ]
+}

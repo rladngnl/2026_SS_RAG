@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "Focşani",
+    "footballer",
+    "23 September 1974",
+    "midfielder",
+    "Romanian",
+    "Narcis Claudiu Răducan"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "was born in",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Narcis Claudiu Răducan",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Narcis Claudiu Răducan",
+      "was born in",
+      "Focşani"
+    ],
+    [
+      "Narcis Claudiu Răducan",
+      "is a",
+      "Romanian footballer"
+    ],
+    [
+      "Narcis Claudiu Răducan",
+      "was born on",
+      "23 September 1974"
+    ]
+  ]
+}

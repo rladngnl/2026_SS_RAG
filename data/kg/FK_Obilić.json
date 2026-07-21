@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Crvena Zvezda",
+    "Vračar",
+    "FK Obilić",
+    "Partizan",
+    "Miloš Obilić",
+    "Belgrade",
+    "women's team",
+    "Fudbalski klub Obilić",
+    "2001–02 season",
+    "14th-century knight",
+    "European club competitions",
+    "1998",
+    "1997–98 season",
+    "Yugoslavia",
+    "Serbian warlord Arkan",
+    "Serbian football league system"
+  ],
+  "edges": [
+    "is a",
+    "was named after",
+    "is located in",
+    "won",
+    "competed in",
+    "has a",
+    "was bankrolled by",
+    "is part of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Fudbalski klub Obilić",
+      "competed in",
+      "European club competitions"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "is located in",
+      "Belgrade"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "was bankrolled by",
+      "Serbian warlord Arkan"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "won",
+      "1997–98 season"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "is part of",
+      "Serbian football league system"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "is based in",
+      "Vračar"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "has a",
+      "women's team"
+    ],
+    [
+      "Miloš Obilić",
+      "is a",
+      "14th-century knight"
+    ],
+    [
+      "Fudbalski klub Obilić",
+      "was named after",
+      "Miloš Obilić"
+    ]
+  ]
+}

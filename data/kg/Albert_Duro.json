@@ -1,0 +1,145 @@
+{
+  "entities": [
+    "2000",
+    "Centre back",
+    "2000–01 season",
+    "Albania",
+    "Național București",
+    "Albert Duro",
+    "Elbasani",
+    "Besa Kavajë",
+    "Steaua București",
+    "Klodian Duro",
+    "Supercups",
+    "Liga I",
+    "Norway",
+    "Tirana",
+    "Dinamo Tirana",
+    "Cupa României",
+    "1999",
+    "Teuta Durrës",
+    "Albanian Cup",
+    "Superliga",
+    "footballer",
+    "1998–99",
+    "Albania national team"
+  ],
+  "edges": [
+    "is a",
+    "is the younger brother of",
+    "spent the majority of his club career in",
+    "earned caps for",
+    "represented",
+    "made his debut against",
+    "was won in",
+    "won",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Albert Duro",
+      "is the younger brother of",
+      "Klodian Duro"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Elbasani"
+    ],
+    [
+      "Cupa României",
+      "was won in",
+      "1998–99"
+    ],
+    [
+      "Liga I",
+      "was won in",
+      "2000–01 season"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Cupa României"
+    ],
+    [
+      "Albert Duro",
+      "earned caps for",
+      "Albania national team"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Tirana"
+    ],
+    [
+      "Albert Duro",
+      "made his debut against",
+      "Norway"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Liga I"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Albanian Cup"
+    ],
+    [
+      "Albert Duro",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Albert Duro",
+      "spent the majority of his club career in",
+      "Albania"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Steaua București"
+    ],
+    [
+      "Albert Duro",
+      "spent the majority of his club career in",
+      "Romania"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Dinamo Tirana"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Besa Kavajë"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Național București"
+    ],
+    [
+      "Albert Duro",
+      "played as",
+      "Centre back"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Superliga"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Supercups"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Teuta Durrës"
+    ]
+  ]
+}

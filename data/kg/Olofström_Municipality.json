@@ -1,0 +1,113 @@
+{
+  "entities": [
+    "Kristianstad Municipality",
+    "Blekinge County",
+    "Tingsryd Municipality",
+    "1974",
+    "Jämshög",
+    "Olofström Municipality",
+    "Kyrkhult",
+    "Älmhult Municipality",
+    "Harry Martinson",
+    "Karlshamn Municipality",
+    "Sölvesborg Municipality",
+    "Olofström",
+    "Osby Municipality",
+    "South Sweden",
+    "Bromölla Municipality",
+    "Nobel Prize"
+  ],
+  "edges": [
+    "is located in",
+    "borders",
+    "was born in",
+    "was awarded in",
+    "has seat in",
+    "won",
+    "was detached from",
+    "is part of",
+    "was formed by merging"
+  ],
+  "relations": [
+    [
+      "Olofström Municipality",
+      "borders",
+      "Karlshamn Municipality"
+    ],
+    [
+      "Olofström Municipality",
+      "is part of",
+      "South Sweden"
+    ],
+    [
+      "Olofström Municipality",
+      "borders",
+      "Sölvesborg Municipality"
+    ],
+    [
+      "Olofström",
+      "was detached from",
+      "Jämshög"
+    ],
+    [
+      "Olofström Municipality",
+      "has seat in",
+      "Olofström"
+    ],
+    [
+      "Harry Martinson",
+      "won",
+      "Nobel Prize"
+    ],
+    [
+      "Olofström Municipality",
+      "borders",
+      "Osby Municipality"
+    ],
+    [
+      "Olofström Municipality",
+      "was formed by merging",
+      "Jämshög"
+    ],
+    [
+      "Olofström Municipality",
+      "is located in",
+      "Blekinge County"
+    ],
+    [
+      "Olofström Municipality",
+      "was formed by merging",
+      "Kyrkhult"
+    ],
+    [
+      "Harry Martinson",
+      "was born in",
+      "Jämshög"
+    ],
+    [
+      "Nobel Prize",
+      "was awarded in",
+      "1974"
+    ],
+    [
+      "Olofström Municipality",
+      "borders",
+      "Kristianstad Municipality"
+    ],
+    [
+      "Olofström Municipality",
+      "borders",
+      "Älmhult Municipality"
+    ],
+    [
+      "Olofström Municipality",
+      "borders",
+      "Bromölla Municipality"
+    ],
+    [
+      "Olofström Municipality",
+      "borders",
+      "Tingsryd Municipality"
+    ]
+  ]
+}

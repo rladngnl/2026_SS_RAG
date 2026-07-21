@@ -1,0 +1,259 @@
+{
+  "entities": [
+    "Pedro Almodóvar",
+    "Pain and Glory",
+    "Everybody Knows",
+    "Donatella Versace",
+    "L'Oréal",
+    "India",
+    "Woman on Top",
+    "Don Juan",
+    "Murder on the Orient Express",
+    "David di Donatello",
+    "Mother Teresa",
+    "Goya Awards",
+    "Open Your Eyes",
+    "Woody Allen",
+    "Ferrari",
+    "BAFTA Award",
+    "The Hi-Lo Country",
+    "The Counselor",
+    "Broken Embraces",
+    "L'immensità",
+    "Ralph Lauren",
+    "Spanish actress",
+    "Penélope Cruz",
+    "The Assassination of Gianni Versace: American Crime Story",
+    "Mango",
+    "Parallel Mothers",
+    "Academy Award",
+    "Vanilla Sky",
+    "Jamón Jamón",
+    "Nine",
+    "Primetime Emmy Award",
+    "All About My Mother",
+    "Belle Époque",
+    "Chanel",
+    "Vicky Cristina Barcelona",
+    "Blow",
+    "Hollywood Walk of Fame",
+    "I'm So Excited!",
+    "Pirates of the Caribbean: On Stranger Tides",
+    "Uganda",
+    "Official Competition",
+    "Mónica Cruz",
+    "The Girl of Your Dreams",
+    "Live Flesh",
+    "Volver"
+  ],
+  "edges": [
+    "made her acting debut in",
+    "received a nomination for",
+    "collaborated with",
+    "designed clothing for",
+    "was nominated for",
+    "worked with",
+    "won",
+    "volunteered in",
+    "appeared in",
+    "has been a house ambassador for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Broken Embraces"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Official Competition"
+    ],
+    [
+      "Penélope Cruz",
+      "won",
+      "Academy Award"
+    ],
+    [
+      "Penélope Cruz",
+      "won",
+      "Goya Awards"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Vicky Cristina Barcelona"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "The Hi-Lo Country"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Pain and Glory"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Pirates of the Caribbean: On Stranger Tides"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Parallel Mothers"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Nine"
+    ],
+    [
+      "Penélope Cruz",
+      "worked with",
+      "Mother Teresa"
+    ],
+    [
+      "Penélope Cruz",
+      "designed clothing for",
+      "Mango"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Belle Époque"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Vanilla Sky"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Blow"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "All About My Mother"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "The Counselor"
+    ],
+    [
+      "Penélope Cruz",
+      "volunteered in",
+      "India"
+    ],
+    [
+      "Penélope Cruz",
+      "made her acting debut in",
+      "Jamón Jamón"
+    ],
+    [
+      "Penélope Cruz",
+      "volunteered in",
+      "Uganda"
+    ],
+    [
+      "Penélope Cruz",
+      "is",
+      "Spanish actress"
+    ],
+    [
+      "Penélope Cruz",
+      "won",
+      "BAFTA Award"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Everybody Knows"
+    ],
+    [
+      "Penélope Cruz",
+      "received a nomination for",
+      "Primetime Emmy Award"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Volver"
+    ],
+    [
+      "Penélope Cruz",
+      "has been a house ambassador for",
+      "Chanel"
+    ],
+    [
+      "Penélope Cruz",
+      "was nominated for",
+      "Oscar"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Open Your Eyes"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Don Juan"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "The Girl of Your Dreams"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Live Flesh"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "I'm So Excited!"
+    ],
+    [
+      "Penélope Cruz",
+      "won",
+      "Academy Award for Best Supporting Actress"
+    ],
+    [
+      "Penélope Cruz",
+      "won",
+      "David di Donatello"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Murder on the Orient Express"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Ferrari"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "L'immensità"
+    ],
+    [
+      "Penélope Cruz",
+      "collaborated with",
+      "Pedro Almodóvar"
+    ],
+    [
+      "Penélope Cruz",
+      "appeared in",
+      "Woman on Top"
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "Holywell",
+    "Wales",
+    "footballer",
+    "Football League First Division",
+    "centre forward",
+    "Ron Davies",
+    "Flintshire",
+    "Division 1",
+    "Mike England",
+    "Arsenal",
+    "Southampton",
+    "Ronald Tudor Davies",
+    "Charlton Athletic",
+    "Paul Davies",
+    "Welsh national team"
+  ],
+  "edges": [
+    "was the top goal scorer in",
+    "went on to play for",
+    "was known as",
+    "played as",
+    "scored",
+    "spent most of his career with",
+    "was born in",
+    "went to the same school as",
+    "played for",
+    "was"
+  ],
+  "relations": [
+    [
+      "Ronald Tudor Davies",
+      "played for",
+      "the Welsh national team"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "was born in",
+      "Holywell"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "went to the same school as",
+      "Mike England"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "was the top goal scorer in",
+      "Division 1"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "was",
+      "a Welsh footballer"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "was known as",
+      "a header of the ball"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "spent most of his career with",
+      "Southampton"
+    ],
+    [
+      "Paul Davies",
+      "was",
+      "an Arsenal youth player"
+    ],
+    [
+      "Paul Davies",
+      "went on to play for",
+      "Charlton Athletic"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "scored",
+      "12 goals across 10 consecutive league games"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "was born in",
+      "Flintshire"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "was born in",
+      "Wales"
+    ],
+    [
+      "Ronald Tudor Davies",
+      "played as",
+      "centre forward"
+    ]
+  ]
+}

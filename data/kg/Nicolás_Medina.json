@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "Nicolás Rubén Medina",
+    "footballer",
+    "Argentina",
+    "gold medal",
+    "Fútbol Fútbol Fútbol",
+    "2004 Olympics",
+    "2001 FIFA U20 Youth Championship",
+    "Nicolás Medina",
+    "central midfielder",
+    "South American football website"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "was chronicled by",
+    "competed in",
+    "played as",
+    "won a",
+    "was a world champion at"
+  ],
+  "relations": [
+    [
+      "Nicolás Rubén Medina",
+      "won a",
+      "gold medal"
+    ],
+    [
+      "Nicolás Rubén Medina",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Nicolás Rubén Medina",
+      "was chronicled by",
+      "Fútbol Fútbol Fútbol"
+    ],
+    [
+      "Nicolás Rubén Medina",
+      "is from",
+      "Argentina"
+    ],
+    [
+      "Nicolás Rubén Medina",
+      "competed in",
+      "2004 Olympics"
+    ],
+    [
+      "Nicolás Rubén Medina",
+      "was a world champion at",
+      "2001 FIFA U20 Youth Championship"
+    ],
+    [
+      "Nicolás Rubén Medina",
+      "played as",
+      "central midfielder"
+    ],
+    [
+      "Fútbol Fútbol Fútbol",
+      "is a",
+      "South American football website"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "entities": [
+    "Paraná",
+    "Ponta Grossa",
+    "Operário Ferroviário",
+    "Brazilian professional association football club",
+    "Série B",
+    "Operário-PR",
+    "Série A",
+    "Operário de Ponta Grossa",
+    "Campeonato Paranaense",
+    "Operário Ferroviário Esporte Clube"
+  ],
+  "edges": [
+    "is a",
+    "plays in",
+    "competed in",
+    "is commonly referred to as",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Operário Ferroviário Esporte Clube",
+      "is commonly referred to as",
+      "Operário-PR"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "is commonly referred to as",
+      "Operário Ferroviário"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "is located in",
+      "Ponta Grossa"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "is commonly referred to as",
+      "Operário de Ponta Grossa"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "plays in",
+      "Campeonato Paranaense"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "competed in",
+      "Série A"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "is located in",
+      "Paraná"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "plays in",
+      "Série B"
+    ],
+    [
+      "Operário Ferroviário Esporte Clube",
+      "is a",
+      "Brazilian professional association football club"
+    ]
+  ]
+}

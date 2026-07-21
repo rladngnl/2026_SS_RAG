@@ -1,0 +1,80 @@
+{
+  "entities": [
+    "American",
+    "Waterworld",
+    "Risen",
+    "Hatfields & McCoys",
+    "screenwriter",
+    "Primetime Emmy Award",
+    "History miniseries",
+    "Kevin Hal Reynolds",
+    "Fandango",
+    "film director",
+    "The Count of Monte Cristo",
+    "Robin Hood: Prince of Thieves"
+  ],
+  "edges": [
+    "was nominated for",
+    "was for",
+    "directed",
+    "is",
+    "was about"
+  ],
+  "relations": [
+    [
+      "Kevin Hal Reynolds",
+      "directed",
+      "Robin Hood: Prince of Thieves"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "directed",
+      "Risen"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "directed",
+      "Fandango"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "is",
+      "screenwriter"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "is",
+      "film director"
+    ],
+    [
+      "History miniseries",
+      "was about",
+      "Hatfields & McCoys"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "was nominated for",
+      "Primetime Emmy Award"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "is",
+      "American"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "directed",
+      "The Count of Monte Cristo"
+    ],
+    [
+      "Primetime Emmy Award",
+      "was for",
+      "History miniseries"
+    ],
+    [
+      "Kevin Hal Reynolds",
+      "directed",
+      "Waterworld"
+    ]
+  ]
+}

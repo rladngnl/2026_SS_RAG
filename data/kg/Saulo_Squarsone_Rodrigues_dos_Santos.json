@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Botafogo-PB",
+    "professional footballer",
+    "goalkeeper",
+    "Saulo",
+    "10 August 1985",
+    "Saulo Squarsone Rodrigues dos Santos",
+    "Brazilian"
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "plays for",
+    "was born on",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Saulo Squarsone Rodrigues dos Santos",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Saulo Squarsone Rodrigues dos Santos",
+      "is known as",
+      "Saulo"
+    ],
+    [
+      "Saulo Squarsone Rodrigues dos Santos",
+      "was born on",
+      "10 August 1985"
+    ],
+    [
+      "Saulo Squarsone Rodrigues dos Santos",
+      "plays as a",
+      "goalkeeper"
+    ],
+    [
+      "Saulo Squarsone Rodrigues dos Santos",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Saulo Squarsone Rodrigues dos Santos",
+      "plays for",
+      "Botafogo-PB"
+    ]
+  ]
+}

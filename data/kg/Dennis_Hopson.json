@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "basketball overseas",
+    "American",
+    "1987 NBA draft",
+    "April 22, 1965",
+    "1990s",
+    "Ohio State University",
+    "1986–87 season",
+    "Ohio State's all-time men's basketball career points record",
+    "decade",
+    "professional player",
+    "All-American",
+    "basketball coach",
+    "1987 Big Ten Conference Player of the Year",
+    "NCAA Men's Basketball Division I",
+    "Dennis Hopson",
+    "five seasons",
+    "New Jersey Nets"
+  ],
+  "edges": [
+    "retired at the close of the",
+    "was selected as the third overall pick in",
+    "is a",
+    "was born on",
+    "is an",
+    "played at",
+    "was second for",
+    "placed first on",
+    "played a total of",
+    "played for",
+    "spent the majority of the 1990s playing"
+  ],
+  "relations": [
+    [
+      "Dennis Hopson",
+      "played at",
+      "Ohio State University"
+    ],
+    [
+      "Dennis Hopson",
+      "is an",
+      "American basketball coach"
+    ],
+    [
+      "Dennis Hopson",
+      "spent the majority of the 1990s playing",
+      "basketball overseas"
+    ],
+    [
+      "Dennis Hopson",
+      "retired at the close of the",
+      "decade"
+    ],
+    [
+      "Dennis Hopson",
+      "was second for",
+      "NCAA Men's Basketball Division I scoring title during the 1986–87 season"
+    ],
+    [
+      "Dennis Hopson",
+      "was selected as the third overall pick in",
+      "1987 NBA draft"
+    ],
+    [
+      "Dennis Hopson",
+      "played a total of",
+      "five seasons"
+    ],
+    [
+      "Dennis Hopson",
+      "is a",
+      "professional player"
+    ],
+    [
+      "Dennis Hopson",
+      "was born on",
+      "April 22, 1965"
+    ],
+    [
+      "Dennis Hopson",
+      "played for",
+      "New Jersey Nets"
+    ],
+    [
+      "Dennis Hopson",
+      "placed first on",
+      "Ohio State's all-time men's basketball career points record"
+    ]
+  ]
+}

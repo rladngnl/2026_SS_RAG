@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "Minas Gerais",
+    "PLU",
+    "Pampulha",
+    "Pampulha–Carlos Drummond de Andrade Airport",
+    "SBBH",
+    "Belo Horizonte",
+    "Motiva",
+    "Carlos Drummond de Andrade"
+  ],
+  "edges": [
+    "has IATA code",
+    "has ICAO code",
+    "is named after",
+    "is operated by",
+    "was born in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Pampulha–Carlos Drummond de Andrade Airport",
+      "is named after",
+      "Carlos Drummond de Andrade"
+    ],
+    [
+      "Carlos Drummond de Andrade",
+      "was born in",
+      "Minas Gerais"
+    ],
+    [
+      "Pampulha–Carlos Drummond de Andrade Airport",
+      "has IATA code",
+      "PLU"
+    ],
+    [
+      "Pampulha–Carlos Drummond de Andrade Airport",
+      "is operated by",
+      "Motiva"
+    ],
+    [
+      "Pampulha–Carlos Drummond de Andrade Airport",
+      "is located in",
+      "Belo Horizonte"
+    ],
+    [
+      "Pampulha–Carlos Drummond de Andrade Airport",
+      "has ICAO code",
+      "SBBH"
+    ]
+  ]
+}

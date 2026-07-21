@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "Sergei Gorlukovich",
+    "Sergei Vadimovich Gorlukovich",
+    "former player",
+    "football manager",
+    "defender",
+    "Soviet Union",
+    "Russia national teams"
+  ],
+  "edges": [
+    "is a",
+    "is",
+    "played as a",
+    "represented"
+  ],
+  "relations": [
+    [
+      "Sergei Gorlukovich",
+      "is",
+      "Sergei Vadimovich Gorlukovich"
+    ],
+    [
+      "Sergei Gorlukovich",
+      "represented",
+      "Soviet Union"
+    ],
+    [
+      "Sergei Gorlukovich",
+      "is a",
+      "former player"
+    ],
+    [
+      "Sergei Gorlukovich",
+      "represented",
+      "Russia national teams"
+    ],
+    [
+      "Sergei Gorlukovich",
+      "is a",
+      "football manager"
+    ],
+    [
+      "Sergei Gorlukovich",
+      "played as a",
+      "defender"
+    ]
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "entities": [
+    "Astra Giurgiu",
+    "Liga III",
+    "Asociația Fotbal Club Astra Giurgiu",
+    "Astra Stadium",
+    "1998–99 season",
+    "Prahova County",
+    "8,500",
+    "Cupa României finals",
+    "Supercupa României",
+    "2015–16 national title",
+    "2016–17 season",
+    "October 2022",
+    "The Black Devils",
+    "Ploiești",
+    "Cupa României",
+    "Marius Șumudică",
+    "UEFA Europa League",
+    "Clubul Sportiv Astra-Română",
+    "Petrolul Ploiești",
+    "Marin Anastasovici",
+    "Giurgiu County",
+    "2012",
+    "Ioan Niculae",
+    "Giurgiu",
+    "FC Astra Giurgiu",
+    "Dracii negri",
+    "2021",
+    "Astra",
+    "2017"
+  ],
+  "edges": [
+    "was subsequently",
+    "were played on the home ground of",
+    "reached the top flight for the first time in",
+    "won",
+    "had colours of",
+    "has a capacity of",
+    "had a last home stadium of",
+    "was last based in",
+    "was owned by",
+    "achieved success in",
+    "was nicknamed",
+    "moved its home ground to",
+    "is commonly known as",
+    "lost",
+    "held",
+    "was founded in",
+    "reached",
+    "spent most of its history at",
+    "withdrew from"
+  ],
+  "relations": [
+    [
+      "Astra Giurgiu",
+      "withdrew from",
+      "the Liga III championship"
+    ],
+    [
+      "Asociația Fotbal Club Astra Giurgiu",
+      "was founded in",
+      "1921"
+    ],
+    [
+      "Astra Giurgiu",
+      "moved its home ground to",
+      "Giurgiu"
+    ],
+    [
+      "Astra Giurgiu",
+      "held",
+      "one Cupa României"
+    ],
+    [
+      "Astra Giurgiu",
+      "lost",
+      "three Cupa României finals"
+    ],
+    [
+      "Astra Giurgiu",
+      "was nicknamed",
+      "Dracii negri"
+    ],
+    [
+      "Astra Giurgiu",
+      "spent most of its history at",
+      "Astra Stadium"
+    ],
+    [
+      "Astra Giurgiu",
+      "achieved success in",
+      "the late 1990s"
+    ],
+    [
+      "Asociația Fotbal Club Astra Giurgiu",
+      "was last based in",
+      "Giurgiu"
+    ],
+    [
+      "Astra Giurgiu",
+      "had colours of",
+      "white and black"
+    ],
+    [
+      "Astra Giurgiu",
+      "held",
+      "two Supercupa României trophies"
+    ],
+    [
+      "Marin Anastasovici",
+      "has a capacity of",
+      "8,500"
+    ],
+    [
+      "Astra Giurgiu",
+      "reached the top flight for the first time in",
+      "the 1998–99 season"
+    ],
+    [
+      "Astra Giurgiu",
+      "had a last home stadium of",
+      "Marin Anastasovici"
+    ],
+    [
+      "Asociația Fotbal Club Astra Giurgiu",
+      "is commonly known as",
+      "Astra Giurgiu"
+    ],
+    [
+      "Astra Giurgiu",
+      "was owned by",
+      "Ioan Niculae"
+    ],
+    [
+      "Astra Giurgiu",
+      "was subsequently",
+      "dissolved"
+    ],
+    [
+      "Marius Șumudică",
+      "won",
+      "the 2015–16 national title"
+    ],
+    [
+      "Cupa României finals",
+      "were played on the home ground of",
+      "Petrolul Ploiești"
+    ],
+    [
+      "Astra Giurgiu",
+      "reached",
+      "the UEFA Europa League round of 32"
+    ]
+  ]
+}

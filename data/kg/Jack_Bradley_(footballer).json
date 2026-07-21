@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "inside forward",
+    "England",
+    "Bolton Wanderers",
+    "footballer",
+    "John Bradley",
+    "Jack Bradley",
+    "Swindon Town",
+    "1930s",
+    "Southampton",
+    "1940s"
+  ],
+  "edges": [
+    "is a",
+    "played as",
+    "was active in",
+    "played for",
+    "was from"
+  ],
+  "relations": [
+    [
+      "John Bradley",
+      "played for",
+      "Swindon Town"
+    ],
+    [
+      "John Bradley",
+      "played for",
+      "Southampton"
+    ],
+    [
+      "John Bradley",
+      "was active in",
+      "1930s"
+    ],
+    [
+      "John Bradley",
+      "is a",
+      "footballer"
+    ],
+    [
+      "John Bradley",
+      "was from",
+      "England"
+    ],
+    [
+      "John Bradley",
+      "played as",
+      "inside forward"
+    ],
+    [
+      "John Bradley",
+      "played for",
+      "Bolton Wanderers"
+    ],
+    [
+      "John Bradley",
+      "was active in",
+      "1940s"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "Villa Nova Atlético Clube",
+    "Minas Gerais",
+    "Nova Lima",
+    "Brazilian football league system",
+    "Villa Nova",
+    "Brazil",
+    "Série D",
+    "Campeonato Mineiro",
+    "Minas Gerais state football league"
+  ],
+  "edges": [
+    "is commonly known as",
+    "is based in",
+    "plays in",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Villa Nova Atlético Clube",
+      "is located in",
+      "Minas Gerais"
+    ],
+    [
+      "Villa Nova Atlético Clube",
+      "is based in",
+      "Nova Lima"
+    ],
+    [
+      "Campeonato Mineiro",
+      "is part of",
+      "Minas Gerais state football league"
+    ],
+    [
+      "Villa Nova Atlético Clube",
+      "plays in",
+      "Série D"
+    ],
+    [
+      "Série D",
+      "is part of",
+      "Brazilian football league system"
+    ],
+    [
+      "Villa Nova Atlético Clube",
+      "plays in",
+      "Campeonato Mineiro"
+    ],
+    [
+      "Villa Nova Atlético Clube",
+      "is commonly known as",
+      "Villa Nova"
+    ]
+  ]
+}

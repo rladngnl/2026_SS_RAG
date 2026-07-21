@@ -1,0 +1,76 @@
+{
+  "entities": [
+    "1974",
+    "manager",
+    "German",
+    "Helmut Schön",
+    "West Germany national team",
+    "1976",
+    "1966",
+    "1970",
+    "European Championship",
+    "World Cup tournaments",
+    "1972",
+    "football player"
+  ],
+  "edges": [
+    "managed",
+    "lost in the final in",
+    "came in third in",
+    "won",
+    "was",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Helmut Schön",
+      "won",
+      "European Championship"
+    ],
+    [
+      "Helmut Schön",
+      "lost in the final in",
+      "1976"
+    ],
+    [
+      "Helmut Schön",
+      "was",
+      "German"
+    ],
+    [
+      "Helmut Schön",
+      "was",
+      "manager"
+    ],
+    [
+      "Helmut Schön",
+      "won",
+      "1974"
+    ],
+    [
+      "Helmut Schön",
+      "was",
+      "football player"
+    ],
+    [
+      "Helmut Schön",
+      "managed",
+      "West Germany national team"
+    ],
+    [
+      "Helmut Schön",
+      "lost in the final in",
+      "1966"
+    ],
+    [
+      "Helmut Schön",
+      "participated in",
+      "World Cup tournaments"
+    ],
+    [
+      "Helmut Schön",
+      "came in third in",
+      "1970"
+    ]
+  ]
+}

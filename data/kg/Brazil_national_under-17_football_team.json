@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "Phelipe Leal",
+    "FIFA youth tournament",
+    "Brazil Under-17s",
+    "2019 FIFA U-17 World Cup",
+    "FIFA U-17 World Cup",
+    "Seleção Sub-17",
+    "Brazilian Football Confederation",
+    "Brazil national under-17 football team"
+  ],
+  "edges": [
+    "has won",
+    "is controlled by",
+    "is also known as",
+    "was the first time that",
+    "has head coach",
+    "holds the joint record for most appearances in",
+    "won a FIFA World Cup competition at home",
+    "reached the semi-finals in",
+    "finished runner-up in",
+    "hosted",
+    "represents",
+    "lifted their 4th"
+  ],
+  "relations": [
+    [
+      "Brazil national under-17 football team",
+      "is also known as",
+      "Seleção Sub-17"
+    ],
+    [
+      "Brazil",
+      "reached the semi-finals in",
+      "FIFA U-17 World Cup"
+    ],
+    [
+      "Brazil",
+      "holds the joint record for most appearances in",
+      "FIFA U-17 World Cup"
+    ],
+    [
+      "2019 FIFA U-17 World Cup",
+      "was the first time that",
+      "Brazil ever hosted a FIFA youth tournament"
+    ],
+    [
+      "Brazil",
+      "finished runner-up in",
+      "FIFA U-17 World Cup"
+    ],
+    [
+      "Brazil",
+      "hosted",
+      "2019 FIFA U-17 World Cup"
+    ],
+    [
+      "Brazil national under-17 football team",
+      "is controlled by",
+      "Brazilian Football Confederation"
+    ],
+    [
+      "Brazil",
+      "won a FIFA World Cup competition at home",
+      "FIFA U-17 World Cup"
+    ],
+    [
+      "Brazil",
+      "lifted their 4th",
+      "FIFA U-17 World Cup"
+    ],
+    [
+      "Brazil national under-17 football team",
+      "represents",
+      "Brazil"
+    ],
+    [
+      "Brazil national under-17 football team",
+      "is also known as",
+      "Brazil Under-17s"
+    ],
+    [
+      "Brazil national under-17 football team",
+      "has head coach",
+      "Phelipe Leal"
+    ],
+    [
+      "Brazil",
+      "has won",
+      "FIFA U-17 World Cup"
+    ]
+  ]
+}

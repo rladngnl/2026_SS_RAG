@@ -1,0 +1,101 @@
+{
+  "entities": [
+    "mutilation",
+    "20,000 children",
+    "child soldiers",
+    "1.5 million civilians",
+    "Ten Commandments",
+    "human rights violations",
+    "rape",
+    "LRA",
+    "International Criminal Court",
+    "100,000 civilians",
+    "torture",
+    "President Yoweri Museveni",
+    "Christian state",
+    "Democratic Republic of the Congo",
+    "Ugandan government",
+    "massacres",
+    "Central African Republic",
+    "Ugandan Civil War",
+    "abduction of civilians",
+    "Joseph Kony",
+    "slavery",
+    "Lord's Resistance Army"
+  ],
+  "edges": [
+    "has abducted",
+    "has been accused by",
+    "proclaims himself as",
+    "is a",
+    "is in conflict with",
+    "launched an insurgency against",
+    "has caused the displacement of",
+    "formed",
+    "is active in",
+    "has killed",
+    "has committed"
+  ],
+  "relations": [
+    [
+      "Lord's Resistance Army",
+      "has committed",
+      "human rights violations"
+    ],
+    [
+      "Lord's Resistance Army",
+      "launched an insurgency against",
+      "President Yoweri Museveni"
+    ],
+    [
+      "Joseph Kony",
+      "formed",
+      "Lord's Resistance Army"
+    ],
+    [
+      "Lord's Resistance Army",
+      "is active in",
+      "Democratic Republic of the Congo"
+    ],
+    [
+      "Lord's Resistance Army",
+      "has been accused by",
+      "International Criminal Court"
+    ],
+    [
+      "Lord's Resistance Army",
+      "is in conflict with",
+      "Ugandan government"
+    ],
+    [
+      "Lord's Resistance Army",
+      "is active in",
+      "Central African Republic"
+    ],
+    [
+      "Lord's Resistance Army",
+      "has caused the displacement of",
+      "1.5 million civilians"
+    ],
+    [
+      "Joseph Kony",
+      "proclaims himself as",
+      "spokesperson of God"
+    ],
+    [
+      "Lord's Resistance Army",
+      "has abducted",
+      "20,000 children"
+    ],
+    [
+      "Lord's Resistance Army",
+      "has killed",
+      "100,000 civilians"
+    ],
+    [
+      "Joseph Kony",
+      "is a",
+      "spirit medium"
+    ]
+  ]
+}

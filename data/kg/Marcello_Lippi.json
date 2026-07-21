@@ -1,0 +1,128 @@
+{
+  "entities": [
+    "2006",
+    "AFC Champions League",
+    "The Times",
+    "2006 FIFA World Cup",
+    "Italian Supercups",
+    "World Cup",
+    "Juventus",
+    "UEFA Champions League",
+    "Marcello Lippi",
+    "Chinese Super League",
+    "Italy national team",
+    "Cesare Prandelli",
+    "IFFHS",
+    "1996",
+    "2008",
+    "Intercontinental Cup",
+    "Guangzhou Evergrande",
+    "2004",
+    "Chinese FA Cup",
+    "Serie A",
+    "UEFA Super Cup",
+    "1998",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "was appointed as",
+    "led",
+    "was succeeded by",
+    "was included in",
+    "is regarded as",
+    "won",
+    "was named"
+  ],
+  "relations": [
+    [
+      "Marcello Lippi",
+      "won",
+      "UEFA Champions League"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "UEFA Super Cup"
+    ],
+    [
+      "Marcello Lippi",
+      "was named",
+      "the world's best National coach"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "World Cup"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Marcello Lippi",
+      "led",
+      "Italy national team"
+    ],
+    [
+      "Marcello Lippi",
+      "was succeeded by",
+      "Cesare Prandelli"
+    ],
+    [
+      "Marcello Lippi",
+      "was appointed as",
+      "Italy head coach"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "Chinese FA Cup"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "Italian Supercups"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "AFC Champions League"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "Intercontinental Cup"
+    ],
+    [
+      "Marcello Lippi",
+      "is regarded as",
+      "one of the greatest and most successful managers in football history"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "Serie A"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "Chinese Super League"
+    ],
+    [
+      "Marcello Lippi",
+      "was included in",
+      "The Times list of the top 50 managers of all time"
+    ],
+    [
+      "Marcello Lippi",
+      "won",
+      "Coppa Italia"
+    ],
+    [
+      "Marcello Lippi",
+      "was named",
+      "the world's best football manager"
+    ]
+  ]
+}

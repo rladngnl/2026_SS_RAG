@@ -1,0 +1,295 @@
+{
+  "entities": [
+    "Brighton and Hove",
+    "South Downs",
+    "East Sussex",
+    "Portsmouth",
+    "Isle of Wight",
+    "Brighton Palace Pier",
+    "Eton Dorney",
+    "Southampton",
+    "Canterbury",
+    "Canterbury Cathedral",
+    "Wakehurst Place",
+    "Thorpe Park",
+    "The Derby",
+    "Hammerwood Park",
+    "New Forest",
+    "Brands Hatch",
+    "Berkshire",
+    "Wentworth Golf Club",
+    "Oxford",
+    "North Downs",
+    "Gatwick Airport",
+    "Cliveden",
+    "HMS Victory",
+    "Kent",
+    "South East England",
+    "Hertfordshire",
+    "RHS Wisley",
+    "Buckinghamshire",
+    "Surrey Hills",
+    "Bedfordshire",
+    "Winchester",
+    "Essex",
+    "Chichester",
+    "Oxfordshire",
+    "University of Oxford",
+    "Kingdom of Wessex",
+    "Cotswolds",
+    "English Channel",
+    "Surrey",
+    "Royal Ascot",
+    "Hampshire",
+    "Thames Valley",
+    "White Cliffs of Dover",
+    "Henley Royal Regatta",
+    "West Sussex",
+    "Blenheim Palace",
+    "River Thames",
+    "Windsor Castle",
+    "2012 Summer Olympics",
+    "Milton Keynes",
+    "Richard II",
+    "Chiltern Hills",
+    "London",
+    "Queen Mary I",
+    "Leeds Castle"
+  ],
+  "edges": [
+    "is the most populous region of",
+    "is home to",
+    "is the third-largest region of",
+    "is known for",
+    "is the location of",
+    "includes",
+    "includes part of",
+    "contains",
+    "is one of the regions of",
+    "consists of",
+    "includes events of",
+    "is host to"
+  ],
+  "relations": [
+    [
+      "South East England",
+      "is the location of",
+      "Brighton Palace Pier"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Canterbury"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "HMS Victory"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Hammerwood Park"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Portsmouth"
+    ],
+    [
+      "South East England",
+      "is known for",
+      "New Forest"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "White Cliffs of Dover"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Buckinghamshire"
+    ],
+    [
+      "South East England",
+      "is known for",
+      "Chiltern Hills"
+    ],
+    [
+      "South East England",
+      "is host to",
+      "Henley Royal Regatta"
+    ],
+    [
+      "South East England",
+      "is the most populous region of",
+      "England"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "West Sussex"
+    ],
+    [
+      "South East England",
+      "is one of the regions of",
+      "England"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Surrey"
+    ],
+    [
+      "South East England",
+      "includes part of",
+      "Surrey Hills"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Cliveden"
+    ],
+    [
+      "South East England",
+      "is host to",
+      "The Derby"
+    ],
+    [
+      "South East England",
+      "is known for",
+      "North Downs"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Kent"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Winchester"
+    ],
+    [
+      "South East England",
+      "is host to",
+      "Royal Ascot"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Leeds Castle"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Windsor Castle"
+    ],
+    [
+      "South East England",
+      "is known for",
+      "South Downs"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Brighton and Hove"
+    ],
+    [
+      "South East England",
+      "includes",
+      "Eton Dorney"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Canterbury Cathedral"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Wakehurst Place"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "East Sussex"
+    ],
+    [
+      "South East England",
+      "includes events of",
+      "2012 Summer Olympics"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Thorpe Park"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Chichester"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Southampton"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Milton Keynes"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Isle of Wight"
+    ],
+    [
+      "South East England",
+      "is known for",
+      "Cotswolds"
+    ],
+    [
+      "South East England",
+      "is the third-largest region of",
+      "England"
+    ],
+    [
+      "South East England",
+      "contains",
+      "Oxford"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Oxfordshire"
+    ],
+    [
+      "South East England",
+      "is home to",
+      "Gatwick Airport"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "RHS Wisley"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Hampshire"
+    ],
+    [
+      "South East England",
+      "consists of",
+      "Berkshire"
+    ],
+    [
+      "South East England",
+      "is the location of",
+      "Blenheim Palace"
+    ]
+  ]
+}

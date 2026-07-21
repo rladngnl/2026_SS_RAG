@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Alexander Vasiliev",
+    "FC Krymteplytsia Molodizhne",
+    "Molodizhne",
+    "FC Spartak-KT Molodyozhnoye",
+    "Simferopol"
+  ],
+  "edges": [
+    "was reorganized as",
+    "is north of",
+    "was founded by",
+    "is general director of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FC Krymteplytsia Molodizhne",
+      "is based in",
+      "Molodizhne"
+    ],
+    [
+      "Alexander Vasiliev",
+      "is general director of",
+      "FC Krymteplytsia Molodizhne"
+    ],
+    [
+      "FC Krymteplytsia Molodizhne",
+      "was reorganized as",
+      "FC Spartak-KT Molodyozhnoye"
+    ],
+    [
+      "FC Krymteplytsia Molodizhne",
+      "was founded by",
+      "Alexander Vasiliev"
+    ],
+    [
+      "Molodizhne",
+      "is north of",
+      "Simferopol"
+    ]
+  ]
+}

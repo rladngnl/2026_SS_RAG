@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Third Republic",
+    "Minister of War",
+    "Académie Française",
+    "Charles Louis de Saulces de Freycinet",
+    "Academy of Sciences",
+    "Moderate Republican faction",
+    "French",
+    "statesman",
+    "Prime Minister"
+  ],
+  "edges": [
+    "is a",
+    "served during",
+    "served as",
+    "belonged to",
+    "occupied a seat in",
+    "was elected a member of"
+  ],
+  "relations": [
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "served as",
+      "Prime Minister"
+    ],
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "served during",
+      "Third Republic"
+    ],
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "served as",
+      "Minister of War"
+    ],
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "is a",
+      "French statesman"
+    ],
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "belonged to",
+      "Moderate Republican faction"
+    ],
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "was elected a member of",
+      "Academy of Sciences"
+    ],
+    [
+      "Charles Louis de Saulces de Freycinet",
+      "occupied a seat in",
+      "Académie Française"
+    ]
+  ]
+}

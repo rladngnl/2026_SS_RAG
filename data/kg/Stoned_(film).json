@@ -1,0 +1,66 @@
+{
+  "entities": [
+    "Frank Thorogood",
+    "Paddy Considine",
+    "The Wild and Wycked World of Brian Jones",
+    "Rolling Stones",
+    "Stephen Woolley",
+    "Robert Wade",
+    "Stoned",
+    "Neal Purvis",
+    "Leo Gregory",
+    "biographical film",
+    "Brian Jones",
+    "2005"
+  ],
+  "edges": [
+    "was directed by",
+    "is a",
+    "was written by",
+    "is also known as",
+    "is one of the founding members of",
+    "played the role of"
+  ],
+  "relations": [
+    [
+      "Brian Jones",
+      "is one of the founding members of",
+      "Rolling Stones"
+    ],
+    [
+      "Stoned",
+      "is a",
+      "biographical film"
+    ],
+    [
+      "Stoned",
+      "is also known as",
+      "The Wild and Wycked World of Brian Jones"
+    ],
+    [
+      "Stoned",
+      "was written by",
+      "Neal Purvis"
+    ],
+    [
+      "Leo Gregory",
+      "played the role of",
+      "Brian Jones"
+    ],
+    [
+      "Stoned",
+      "was directed by",
+      "Stephen Woolley"
+    ],
+    [
+      "Stoned",
+      "was written by",
+      "Robert Wade"
+    ],
+    [
+      "Paddy Considine",
+      "played the role of",
+      "Frank Thorogood"
+    ]
+  ]
+}

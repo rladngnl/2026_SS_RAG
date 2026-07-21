@@ -1,0 +1,152 @@
+{
+  "entities": [
+    "One Wilshire",
+    "California",
+    "707 Wilshire Boulevard",
+    "Millionaire's Mile",
+    "Wilshire Corridor",
+    "Grand Avenue",
+    "Pacific Rim",
+    "Santa Monica",
+    "Santa Monica Boulevard",
+    "Koreatown",
+    "Wilton Place",
+    "Beverly Hills",
+    "MGM studios",
+    "Wilshire Boulevard",
+    "Westwood",
+    "Holmby Hills",
+    "Southern California",
+    "Fairfax Avenue",
+    "Park Mile",
+    "Condo Canyon",
+    "Sixth Street",
+    "Highland Avenue",
+    "Fox studios",
+    "Ocean Avenue",
+    "Mid-Wilshire",
+    "Figueroa Street",
+    "Wilshire Grand Center",
+    "Aon Center",
+    "Century City",
+    "Los Angeles",
+    "Financial District",
+    "Miracle Mile"
+  ],
+  "edges": [
+    "are located in",
+    "is densely developed throughout",
+    "is built at the junction of",
+    "extends to",
+    "is located at",
+    "is home to",
+    "is located next to",
+    "extends from",
+    "connects",
+    "is said to be",
+    "is the principal street of",
+    "runs parallel to",
+    "is one of the principal roads of",
+    "is located along",
+    "is located between",
+    "is among",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Aon Center",
+      "is located at",
+      "707 Wilshire Boulevard"
+    ],
+    [
+      "Miracle Mile",
+      "is home to",
+      "Los Angeles's largest museums and cultural institutions"
+    ],
+    [
+      "Wilshire Corridor",
+      "is located next to",
+      "Century City"
+    ],
+    [
+      "MGM studios",
+      "are located in",
+      "a series of skyscrapers"
+    ],
+    [
+      "Wilshire Boulevard",
+      "is densely developed throughout",
+      "Los Angeles"
+    ],
+    [
+      "Fox studios",
+      "are located in",
+      "a series of skyscrapers"
+    ],
+    [
+      "Koreatown",
+      "is among",
+      "Los Angeles's most densely populated districts"
+    ],
+    [
+      "Wilshire Boulevard",
+      "is one of the principal roads of",
+      "Los Angeles"
+    ],
+    [
+      "One Wilshire",
+      "is said to be",
+      "the main hub of the internet for the entire Pacific Rim"
+    ],
+    [
+      "Wilshire Boulevard",
+      "extends from",
+      "Ocean Avenue"
+    ],
+    [
+      "Park Mile",
+      "is located between",
+      "Highland Avenue and Wilton Place"
+    ],
+    [
+      "Wilshire Boulevard",
+      "is located in",
+      "Los Angeles"
+    ],
+    [
+      "Wilshire Boulevard",
+      "is the principal street of",
+      "Koreatown"
+    ],
+    [
+      "Wilshire Boulevard",
+      "connects",
+      "Beverly Hills"
+    ],
+    [
+      "Wilshire Boulevard",
+      "extends to",
+      "Grand Avenue"
+    ],
+    [
+      "Wilshire Grand Center",
+      "is located along",
+      "Wilshire Boulevard"
+    ],
+    [
+      "Mid-Wilshire",
+      "is among",
+      "Los Angeles's most densely populated districts"
+    ],
+    [
+      "Wilshire Boulevard",
+      "runs parallel to",
+      "Santa Monica Boulevard"
+    ],
+    [
+      "One Wilshire",
+      "is built at the junction of",
+      "Wilshire and Grand"
+    ]
+  ]
+}

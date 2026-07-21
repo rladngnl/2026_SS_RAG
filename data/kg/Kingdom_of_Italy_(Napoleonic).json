@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "French Empire",
+    "Napoleon",
+    "Napoleon I",
+    "84,000 square kilometers",
+    "Eugène de Beauharnais",
+    "Marche",
+    "Trentino",
+    "Piedmont",
+    "South Tyrol",
+    "Royaume d'Italie",
+    "vassal state",
+    "Nice",
+    "Aosta",
+    "Friuli-Venezia Giulia",
+    "Kingdom of Italy",
+    "Emilia-Romagna",
+    "Veneto",
+    "Umbria",
+    "Liguria",
+    "departments",
+    "Regno d'Italia",
+    "6.5 million",
+    "Tuscany",
+    "Lombardy",
+    "Lazio"
+  ],
+  "edges": [
+    "is a client state of",
+    "was influenced by",
+    "covered",
+    "had a population of",
+    "ended with",
+    "assumed government of",
+    "was viceroy of",
+    "was part of",
+    "ruled"
+  ],
+  "relations": [
+    [
+      "Kingdom of Italy",
+      "is a client state of",
+      "French Empire"
+    ],
+    [
+      "Kingdom of Italy",
+      "ended with",
+      "Napoleon's defeat"
+    ],
+    [
+      "Kingdom of Italy",
+      "had a population of",
+      "6.5 million"
+    ],
+    [
+      "Napoleon",
+      "assumed government of",
+      "Kingdom of Italy"
+    ],
+    [
+      "Eugène de Beauharnais",
+      "was viceroy of",
+      "Kingdom of Italy"
+    ],
+    [
+      "Kingdom of Italy",
+      "covered",
+      "84,000 square kilometers"
+    ],
+    [
+      "Kingdom of Italy",
+      "was influenced by",
+      "revolutionary France"
+    ],
+    [
+      "Napoleon I",
+      "ruled",
+      "northern and central Italy"
+    ],
+    [
+      "northern and central Italy",
+      "was part of",
+      "French Empire"
+    ]
+  ]
+}

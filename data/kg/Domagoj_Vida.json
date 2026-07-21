@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "professional footballer",
+    "Beşiktaş",
+    "Turkey",
+    "Super League Greece",
+    "Croatia",
+    "European football leagues",
+    "Dynamo Kyiv",
+    "Dinamo Zagreb",
+    "Ukraine",
+    "Croatian",
+    "AEK Athens",
+    "Domagoj Vida",
+    "centre-back"
+  ],
+  "edges": [
+    "is a",
+    "plays for",
+    "plays as",
+    "was the first Croatian footballer to win a league title in",
+    "won a league title with",
+    "is part of"
+  ],
+  "relations": [
+    [
+      "Domagoj Vida",
+      "plays for",
+      "AEK Athens"
+    ],
+    [
+      "Domagoj Vida",
+      "won a league title with",
+      "Dinamo Zagreb"
+    ],
+    [
+      "AEK Athens",
+      "is part of",
+      "Super League Greece"
+    ],
+    [
+      "Domagoj Vida",
+      "plays as",
+      "centre-back"
+    ],
+    [
+      "Domagoj Vida",
+      "won a league title with",
+      "Beşiktaş"
+    ],
+    [
+      "Domagoj Vida",
+      "won a league title with",
+      "Dynamo Kyiv"
+    ],
+    [
+      "Domagoj Vida",
+      "won a league title with",
+      "AEK Athens"
+    ],
+    [
+      "Domagoj Vida",
+      "is a",
+      "Croatian professional footballer"
+    ],
+    [
+      "Domagoj Vida",
+      "was the first Croatian footballer to win a league title in",
+      "four different European football leagues"
+    ]
+  ]
+}

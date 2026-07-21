@@ -1,0 +1,48 @@
+{
+  "entities": [
+    "Stanislav Vlček",
+    "footballer",
+    "Slavia Prague",
+    "Czech",
+    "striker",
+    "Anderlecht",
+    "Dynamo Moscow"
+  ],
+  "edges": [
+    "is best known for playing for",
+    "is a",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Stanislav Vlček",
+      "is best known for playing for",
+      "Dynamo Moscow"
+    ],
+    [
+      "Stanislav Vlček",
+      "is a",
+      "Czech"
+    ],
+    [
+      "Stanislav Vlček",
+      "is best known for playing for",
+      "Anderlecht"
+    ],
+    [
+      "Stanislav Vlček",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Stanislav Vlček",
+      "is best known for playing for",
+      "Slavia Prague"
+    ],
+    [
+      "Stanislav Vlček",
+      "played as a",
+      "striker"
+    ]
+  ]
+}

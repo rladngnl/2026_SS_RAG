@@ -1,0 +1,123 @@
+{
+  "entities": [
+    "abstract entities",
+    "art",
+    "rigor",
+    "mathematical truth",
+    "epistemology",
+    "metaphysics",
+    "mathematical objects",
+    "concrete entities",
+    "Reality",
+    "Philosophy of mathematics",
+    "game",
+    "science",
+    "Logic",
+    "human mind",
+    "applications",
+    "human activity",
+    "Nature",
+    "physical reality"
+  ],
+  "edges": [
+    "has a relationship with",
+    "is whether",
+    "includes themes of",
+    "deals with",
+    "are",
+    "is",
+    "have a relationship with"
+  ],
+  "relations": [
+    [
+      "Nature",
+      "is",
+      "human activity"
+    ],
+    [
+      "Reality",
+      "is whether",
+      "mathematics has some reality by itself"
+    ],
+    [
+      "Philosophy of mathematics",
+      "has a relationship with",
+      "metaphysics"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "relationship with applications"
+    ],
+    [
+      "mathematical objects",
+      "are",
+      "concrete entities"
+    ],
+    [
+      "Reality",
+      "is whether",
+      "mathematics is a pure product of human mind"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "mathematical truth"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "Nature"
+    ],
+    [
+      "Nature",
+      "is",
+      "art"
+    ],
+    [
+      "mathematical objects",
+      "are",
+      "abstract entities"
+    ],
+    [
+      "mathematical objects",
+      "have a relationship with",
+      "physical reality"
+    ],
+    [
+      "Nature",
+      "is",
+      "game"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "relationship with physical reality"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "rigor"
+    ],
+    [
+      "Philosophy of mathematics",
+      "has a relationship with",
+      "epistemology"
+    ],
+    [
+      "Philosophy of mathematics",
+      "deals with",
+      "the nature of mathematics"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "relationship with science"
+    ],
+    [
+      "Philosophy of mathematics",
+      "includes themes of",
+      "Logic"
+    ]
+  ]
+}

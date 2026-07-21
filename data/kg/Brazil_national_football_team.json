@@ -1,0 +1,139 @@
+{
+  "entities": [
+    "35 consecutive matches",
+    "FIFA World Cup",
+    "2002",
+    "Italy",
+    "Argentina",
+    "CONMEBOL",
+    "Uruguay",
+    "1997",
+    "Team of the Year",
+    "PFC",
+    "FIFA",
+    "2013",
+    "1994",
+    "FIFA Confederations Cup",
+    "Elo football rating",
+    "Seleção Brasileira de Futebol",
+    "1962",
+    "1996",
+    "Brazil national football team",
+    "1970",
+    "2009",
+    "Canarinho",
+    "Brazilian Football Confederation",
+    "2005",
+    "1958"
+  ],
+  "edges": [
+    "is the only national team to have played in all",
+    "was a founding member of",
+    "is the most successful national team in",
+    "is administered by",
+    "is considered to be",
+    "has won",
+    "has the highest average",
+    "is highly esteemed and regularly appears listed among",
+    "has the best overall performance in",
+    "holds the record for most",
+    "has been a member of",
+    "is nicknamed",
+    "represents",
+    "has developed many rivalries with",
+    "went undefeated for",
+    "was the most successful team in"
+  ],
+  "relations": [
+    [
+      "Brazil national football team",
+      "is administered by",
+      "Brazilian Football Confederation"
+    ],
+    [
+      "Brazil national football team",
+      "is nicknamed",
+      "Canarinho"
+    ],
+    [
+      "Brazil national football team",
+      "is the most successful national team in",
+      "FIFA World Cup"
+    ],
+    [
+      "Brazil national football team",
+      "has won",
+      "5 times"
+    ],
+    [
+      "Brazil national football team",
+      "has the best overall performance in",
+      "World Cup competition"
+    ],
+    [
+      "Brazil national football team",
+      "has the highest average",
+      "Elo football rating"
+    ],
+    [
+      "Brazil national football team",
+      "has developed many rivalries with",
+      "Argentina"
+    ],
+    [
+      "Brazil national football team",
+      "is considered to be",
+      "the greatest national squad of all time"
+    ],
+    [
+      "Brazil national football team",
+      "was the most successful team in",
+      "FIFA Confederations Cup"
+    ],
+    [
+      "Brazil national football team",
+      "has developed many rivalries with",
+      "Italy"
+    ],
+    [
+      "Brazil national football team",
+      "has developed many rivalries with",
+      "Uruguay"
+    ],
+    [
+      "Brazil national football team",
+      "holds the record for most",
+      "Team of the Year first ranking wins"
+    ],
+    [
+      "Brazil national football team",
+      "was a founding member of",
+      "CONMEBOL"
+    ],
+    [
+      "Brazil national football team",
+      "represents",
+      "Brazil"
+    ],
+    [
+      "Brazil national football team",
+      "went undefeated for",
+      "35 consecutive matches"
+    ],
+    [
+      "Brazil national football team",
+      "is the only national team to have played in all",
+      "World Cup editions"
+    ],
+    [
+      "Brazil national football team",
+      "is highly esteemed and regularly appears listed among",
+      "the best teams of all time"
+    ],
+    [
+      "Brazil national football team",
+      "has been a member of",
+      "FIFA"
+    ]
+  ]
+}

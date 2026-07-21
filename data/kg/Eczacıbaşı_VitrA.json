@@ -1,0 +1,76 @@
+{
+  "entities": [
+    "CEV Champions League",
+    "Istanbul",
+    "Turkey",
+    "Eczacıbaşı Spor Salonu",
+    "Turkish League",
+    "Turkish Cups",
+    "Manila",
+    "Eczacıbaşı VitrA",
+    "national championship titles",
+    "Eczacıbaşı S.K.",
+    "national league",
+    "Philippines",
+    "FIVB World Club Championship",
+    "Eczacıbaşı Peron",
+    "Zürich"
+  ],
+  "edges": [
+    "has won",
+    "has been active since",
+    "captured",
+    "has",
+    "won",
+    "is part of",
+    "is the most successful",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Eczacıbaşı VitrA",
+      "is part of",
+      "Eczacıbaşı S.K."
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "has won",
+      "Turkish Cups"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "has",
+      "national championship titles"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "won",
+      "CEV Champions League"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "plays home matches at",
+      "Eczacıbaşı Spor Salonu"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "captured",
+      "FIVB World Club Championship"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "has won",
+      "Turkish League titles"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "is the most successful",
+      "Turkish volleyball club"
+    ],
+    [
+      "Eczacıbaşı VitrA",
+      "has been active since",
+      "national league"
+    ]
+  ]
+}

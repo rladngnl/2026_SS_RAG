@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "3,000",
+    "Metković",
+    "Blue White Killers",
+    "Dubrovnik-Neretva County",
+    "BWK",
+    "2017",
+    "NK Narona",
+    "Igralište iza Vage",
+    "NK Neretva",
+    "9 November 1945",
+    "Neretva Football Club"
+  ],
+  "edges": [
+    "was dissolved in",
+    "has supporters known as",
+    "has a capacity of",
+    "are also referred to as",
+    "was re-formed in",
+    "is located in",
+    "changed name on",
+    "was formerly known as",
+    "is also known as",
+    "plays home matches at",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "NK Neretva",
+      "is located in",
+      "Dubrovnik-Neretva County"
+    ],
+    [
+      "NK Neretva",
+      "plays home matches at",
+      "Igralište iza Vage"
+    ],
+    [
+      "NK Neretva",
+      "was formerly known as",
+      "NK Narona"
+    ],
+    [
+      "NK Neretva",
+      "changed name on",
+      "9 November 1945"
+    ],
+    [
+      "NK Neretva",
+      "was dissolved in",
+      "2017"
+    ],
+    [
+      "Igralište iza Vage",
+      "has a capacity of",
+      "3,000"
+    ],
+    [
+      "NK Neretva",
+      "is also known as",
+      "Neretva Football Club"
+    ],
+    [
+      "Blue White Killers",
+      "are also referred to as",
+      "BWK"
+    ],
+    [
+      "NK Neretva",
+      "was re-formed in",
+      "July 2017"
+    ],
+    [
+      "NK Neretva",
+      "is based in",
+      "Metković"
+    ],
+    [
+      "NK Neretva",
+      "has supporters known as",
+      "Blue White Killers"
+    ]
+  ]
+}

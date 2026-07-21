@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "1991",
+    "Sportsplex at Matthews",
+    "United States",
+    "blue",
+    "orange",
+    "Charlotte",
+    "North Carolina",
+    "fourth tier of the American Soccer Pyramid",
+    "American amateur soccer team",
+    "USL League Two",
+    "white",
+    "Charlotte Eagles"
+  ],
+  "edges": [
+    "is located in",
+    "plays in",
+    "has colors",
+    "plays its home games at",
+    "is",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Charlotte Eagles",
+      "plays in",
+      "USL League Two"
+    ],
+    [
+      "Charlotte Eagles",
+      "has colors",
+      "orange"
+    ],
+    [
+      "Charlotte Eagles",
+      "has colors",
+      "white"
+    ],
+    [
+      "Charlotte Eagles",
+      "is based in",
+      "Charlotte"
+    ],
+    [
+      "Charlotte Eagles",
+      "is located in",
+      "North Carolina"
+    ],
+    [
+      "Charlotte Eagles",
+      "has colors",
+      "blue"
+    ],
+    [
+      "Charlotte Eagles",
+      "is located in",
+      "United States"
+    ],
+    [
+      "USL League Two",
+      "is",
+      "fourth tier of the American Soccer Pyramid"
+    ],
+    [
+      "Charlotte Eagles",
+      "was founded in",
+      "1991"
+    ],
+    [
+      "Charlotte Eagles",
+      "plays its home games at",
+      "Sportsplex at Matthews"
+    ],
+    [
+      "Charlotte Eagles",
+      "is",
+      "American amateur soccer team"
+    ]
+  ]
+}

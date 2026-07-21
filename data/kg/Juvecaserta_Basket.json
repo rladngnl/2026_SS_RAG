@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Caserta",
+    "Italian professional basketball team",
+    "third tier of Italian basketball",
+    "Decò Caserta",
+    "Campania",
+    "Sporting Club JuveCaserta",
+    "Serie B1",
+    "Juvecaserta_Basket"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is known as",
+    "is the",
+    "is also known as",
+    "plays in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Juvecaserta_Basket",
+      "is also known as",
+      "Sporting Club JuveCaserta"
+    ],
+    [
+      "Juvecaserta_Basket",
+      "is known as",
+      "Decò Caserta"
+    ],
+    [
+      "Serie B1",
+      "is the",
+      "third tier of Italian basketball"
+    ],
+    [
+      "Juvecaserta_Basket",
+      "is based in",
+      "Caserta"
+    ],
+    [
+      "Caserta",
+      "is in",
+      "Campania"
+    ],
+    [
+      "Juvecaserta_Basket",
+      "is a",
+      "Italian professional basketball team"
+    ],
+    [
+      "Juvecaserta_Basket",
+      "plays in",
+      "Serie B1"
+    ]
+  ]
+}

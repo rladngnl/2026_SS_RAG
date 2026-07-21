@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "assistant coach",
+    "former player",
+    "FC Sakhalin Yuzhno-Sakhalinsk",
+    "Russian-Kazakhstani",
+    "football coach",
+    "Aleksei Viktorovich Kosolapov"
+  ],
+  "edges": [
+    "works with",
+    "is",
+    "works as"
+  ],
+  "relations": [
+    [
+      "Aleksei Viktorovich Kosolapov",
+      "is",
+      "Russian-Kazakhstani"
+    ],
+    [
+      "Aleksei Viktorovich Kosolapov",
+      "works with",
+      "FC Sakhalin Yuzhno-Sakhalinsk"
+    ],
+    [
+      "Aleksei Viktorovich Kosolapov",
+      "is",
+      "former player"
+    ],
+    [
+      "Aleksei Viktorovich Kosolapov",
+      "works as",
+      "assistant coach"
+    ],
+    [
+      "Aleksei Viktorovich Kosolapov",
+      "is",
+      "football coach"
+    ]
+  ]
+}

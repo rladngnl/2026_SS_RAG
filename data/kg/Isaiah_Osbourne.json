@@ -1,0 +1,92 @@
+{
+  "entities": [
+    "English footballer",
+    "2011",
+    "Barwell",
+    "2011–12 Scottish Premier League",
+    "Sheffield Wednesday",
+    "Hibernian",
+    "England under-16",
+    "5 November 1987",
+    "Aston Villa",
+    "Nottingham Forest",
+    "midfielder",
+    "30 appearances",
+    "Middlesbrough",
+    "Isaiah George Osbourne"
+  ],
+  "edges": [
+    "played in",
+    "started his career with",
+    "plays for",
+    "was released by",
+    "made",
+    "plays as",
+    "had loan spells with",
+    "is a former",
+    "signed on a free transfer for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Isaiah George Osbourne",
+      "had loan spells with",
+      "Nottingham Forest"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "is",
+      "English footballer"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "was released by",
+      "Aston Villa"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "plays for",
+      "Barwell"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "signed on a free transfer for",
+      "Hibernian"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "played in",
+      "2011–12 Scottish Premier League"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "is a former",
+      "England under-16"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "plays as",
+      "midfielder"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "started his career with",
+      "Aston Villa"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "had loan spells with",
+      "Middlesbrough"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "had loan spells with",
+      "Sheffield Wednesday"
+    ],
+    [
+      "Isaiah George Osbourne",
+      "made",
+      "30 appearances"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "Vålerenga Fotball",
+    "five-time league champions",
+    "Valle-Hovin",
+    "largest football club in Oslo",
+    "Intility Arena",
+    "2008",
+    "four-time Norwegian Football Cup champions",
+    "loyal supporters",
+    "Vålerenga",
+    "1913",
+    "Oslo",
+    "Vålerengens IF",
+    "2005",
+    "Eliteserien",
+    "Norwegian First Division"
+  ],
+  "edges": [
+    "last won the league in",
+    "is considered to be",
+    "is a part of",
+    "is known for",
+    "last won the cup in",
+    "is named after",
+    "has home ground",
+    "was founded in",
+    "is",
+    "competes in",
+    "is located in",
+    "was promoted from"
+  ],
+  "relations": [
+    [
+      "Vålerenga Fotball",
+      "is known for",
+      "loyal supporters"
+    ],
+    [
+      "Vålerenga Fotball",
+      "was promoted from",
+      "Norwegian First Division"
+    ],
+    [
+      "Vålerenga Fotball",
+      "is",
+      "four-time Norwegian Football Cup champions"
+    ],
+    [
+      "Vålerenga Fotball",
+      "has home ground",
+      "Intility Arena"
+    ],
+    [
+      "Vålerenga Fotball",
+      "last won the league in",
+      "2005"
+    ],
+    [
+      "Vålerenga Fotball",
+      "last won the cup in",
+      "2008"
+    ],
+    [
+      "Vålerenga Fotball",
+      "is",
+      "five-time league champions"
+    ],
+    [
+      "Vålerenga Fotball",
+      "is named after",
+      "Vålerenga"
+    ],
+    [
+      "Vålerenga Fotball",
+      "is a part of",
+      "Vålerengens IF"
+    ],
+    [
+      "Vålerenga Fotball",
+      "is considered to be",
+      "largest football club in Oslo"
+    ],
+    [
+      "Vålerenga Fotball",
+      "was founded in",
+      "1913"
+    ],
+    [
+      "Intility Arena",
+      "is located in",
+      "Valle-Hovin"
+    ],
+    [
+      "Vålerenga Fotball",
+      "competes in",
+      "Eliteserien"
+    ]
+  ]
+}

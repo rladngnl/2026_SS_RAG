@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Şanlıurfaspor",
+    "manager",
+    "Ali Tandoğan",
+    "coach",
+    "25 December 1977",
+    "football player",
+    "Turkish"
+  ],
+  "edges": [
+    "is born on",
+    "was the manager of",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Ali Tandoğan",
+      "was the manager of",
+      "Şanlıurfaspor"
+    ],
+    [
+      "Ali Tandoğan",
+      "is a",
+      "coach"
+    ],
+    [
+      "Ali Tandoğan",
+      "is a",
+      "Turkish"
+    ],
+    [
+      "Ali Tandoğan",
+      "is a",
+      "football player"
+    ],
+    [
+      "Ali Tandoğan",
+      "is born on",
+      "25 December 1977"
+    ]
+  ]
+}

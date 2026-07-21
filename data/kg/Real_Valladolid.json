@@ -1,0 +1,131 @@
+{
+  "entities": [
+    "UEFA Cup",
+    "Copa de la Liga 1983–84",
+    "Real Valladolid Promesas",
+    "Segunda División",
+    "Copa del Rey",
+    "Castile and León",
+    "Ronaldo Nazario",
+    "La Liga",
+    "Jorge da Silva",
+    "Spain national football team",
+    "Estadio José Zorrilla",
+    "UEFA Cup Winners' Cup",
+    "Manuel Badenes",
+    "Real Valladolid",
+    "Real Valladolid Club de Fútbol",
+    "Grupo Ignite",
+    "Valladolid"
+  ],
+  "edges": [
+    "has had players who were internationals with",
+    "seats",
+    "has colours",
+    "purchased a controlling stake in",
+    "has been runner-up in",
+    "has participated in",
+    "has won",
+    "purchased the controlling stake from",
+    "became the majority shareholder of",
+    "currently plays in",
+    "plays its home games at",
+    "has honours including",
+    "is the most successful football club in",
+    "has total of seasons in",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Real Valladolid",
+      "has had players who were internationals with",
+      "Spain national football team"
+    ],
+    [
+      "Real Valladolid",
+      "plays its home games at",
+      "Estadio José Zorrilla"
+    ],
+    [
+      "Real Valladolid",
+      "has participated in",
+      "UEFA Cup"
+    ],
+    [
+      "Ronaldo Nazario",
+      "became the majority shareholder of",
+      "Real Valladolid"
+    ],
+    [
+      "Real Valladolid",
+      "is the most successful football club in",
+      "Castile and León"
+    ],
+    [
+      "Real Valladolid",
+      "is based in",
+      "Valladolid"
+    ],
+    [
+      "Jorge da Silva",
+      "has won",
+      "Pichichi Trophy"
+    ],
+    [
+      "Ronaldo Nazario",
+      "purchased a controlling stake in",
+      "Real Valladolid"
+    ],
+    [
+      "Real Valladolid",
+      "has colours",
+      "violet and white"
+    ],
+    [
+      "Valladolid",
+      "has honours including",
+      "Copa de la Liga 1983–84"
+    ],
+    [
+      "Real Valladolid",
+      "has participated in",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "Manuel Badenes",
+      "has won",
+      "Pichichi Trophy"
+    ],
+    [
+      "Real Valladolid",
+      "competes in",
+      "Segunda División"
+    ],
+    [
+      "Estadio José Zorrilla",
+      "seats",
+      "27,846 spectators"
+    ],
+    [
+      "Valladolid",
+      "has been runner-up in",
+      "Copa del Rey"
+    ],
+    [
+      "Real Valladolid",
+      "has total of seasons in",
+      "First Division"
+    ],
+    [
+      "Real Valladolid Promesas",
+      "currently plays in",
+      "Segunda Federación"
+    ],
+    [
+      "Grupo Ignite",
+      "purchased the controlling stake from",
+      "Ronaldo Nazario"
+    ]
+  ]
+}

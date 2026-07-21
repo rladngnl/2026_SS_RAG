@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "First Division",
+    "Wimbledon",
+    "football League",
+    "Selhurst Park",
+    "FA Amateur Cup",
+    "Crystal Palace",
+    "Liverpool",
+    "Wimbledon Old Centrals",
+    "Southern League",
+    "Plough Lane",
+    "Football League",
+    "AFC Wimbledon",
+    "Crazy Gang",
+    "Buckinghamshire",
+    "the Dons",
+    "FA Premier League",
+    "Milton Keynes Dons",
+    "Wimbledon Football Club",
+    "Isthmian League",
+    "FA Cup",
+    "Milton Keynes",
+    "the Wombles",
+    "Fourth Division",
+    "London",
+    "Taylor Report"
+  ],
+  "edges": [
+    "left",
+    "was based at",
+    "was founded as",
+    "was formed by",
+    "played home games in",
+    "groundshared with",
+    "competed in",
+    "beat",
+    "were promoted to",
+    "won",
+    "were elected to",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "Wimbledon Football Club",
+      "left",
+      "Plough Lane"
+    ],
+    [
+      "Wimbledon Football Club",
+      "was founded as",
+      "Wimbledon Old Centrals"
+    ],
+    [
+      "Wimbledon Football Club",
+      "won",
+      "the FA Amateur Cup"
+    ],
+    [
+      "Wimbledon Football Club",
+      "were promoted to",
+      "the First Division"
+    ],
+    [
+      "Milton Keynes Dons",
+      "competed in",
+      "the football League"
+    ],
+    [
+      "Wimbledon Football Club",
+      "was based at",
+      "Plough Lane"
+    ],
+    [
+      "Wimbledon Football Club",
+      "groundshared with",
+      "Crystal Palace"
+    ],
+    [
+      "Wimbledon",
+      "won",
+      "the FA Cup"
+    ],
+    [
+      "Wimbledon Football Club",
+      "played home games in",
+      "Milton Keynes"
+    ],
+    [
+      "AFC Wimbledon",
+      "was formed by",
+      "a group of supporters"
+    ],
+    [
+      "Wimbledon Football Club",
+      "was formed in",
+      "Wimbledon"
+    ],
+    [
+      "Wimbledon Football Club",
+      "were elected to",
+      "the Football League"
+    ],
+    [
+      "Wimbledon",
+      "beat",
+      "Liverpool"
+    ],
+    [
+      "Wimbledon Football Club",
+      "won",
+      "eight Isthmian League titles"
+    ],
+    [
+      "Wimbledon Football Club",
+      "won",
+      "three successive Southern League championships"
+    ]
+  ]
+}

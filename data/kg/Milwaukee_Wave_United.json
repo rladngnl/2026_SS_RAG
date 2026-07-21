@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "exhibition schedule",
+    "A-League",
+    "Milwaukee Rampage",
+    "November 9, 2004",
+    "Milwaukee Wave United",
+    "American professional soccer team",
+    "2005",
+    "indoor team",
+    "Milwaukee Wave"
+  ],
+  "edges": [
+    "is an",
+    "were affiliated with",
+    "withdrew from",
+    "started playing an",
+    "last played in",
+    "was formed after",
+    "is",
+    "started in",
+    "announced withdrawal on"
+  ],
+  "relations": [
+    [
+      "Milwaukee Wave",
+      "is an",
+      "indoor team"
+    ],
+    [
+      "Milwaukee Wave United",
+      "started in",
+      "2005"
+    ],
+    [
+      "Milwaukee Wave United",
+      "started playing an",
+      "exhibition schedule"
+    ],
+    [
+      "Milwaukee Wave United",
+      "were affiliated with",
+      "Milwaukee Wave"
+    ],
+    [
+      "Milwaukee Wave United",
+      "withdrew from",
+      "A-League"
+    ],
+    [
+      "Milwaukee Wave United",
+      "was formed after",
+      "Milwaukee Rampage"
+    ],
+    [
+      "Milwaukee Wave United",
+      "announced withdrawal on",
+      "November 9, 2004"
+    ],
+    [
+      "Milwaukee Wave United",
+      "is",
+      "American professional soccer team"
+    ],
+    [
+      "Milwaukee Wave United",
+      "last played in",
+      "A-League"
+    ]
+  ]
+}

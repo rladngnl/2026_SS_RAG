@@ -1,0 +1,207 @@
+{
+  "entities": [
+    "director",
+    "The Trouble with Angels",
+    "situation comedies",
+    "Outrage",
+    "The Sea Wolf",
+    "1953",
+    "The Adventures of Sherlock Holmes",
+    "Richard Widmark",
+    "murder mysteries",
+    "Dane Clark",
+    "The Hard Way",
+    "While the City Sleeps",
+    "Not Wanted",
+    "1949",
+    "1947",
+    "The Twilight Zone",
+    "1940",
+    "Jean Gabin",
+    "Hollywood studio system",
+    "producer",
+    "Never Fear",
+    "George Raft",
+    "Basil Rathbone",
+    "High Sierra",
+    "gangster stories",
+    "writer",
+    "1950",
+    "Dana Andrews",
+    "They Drive by Night",
+    "United States",
+    "proto-feminist filmmaking",
+    "independent production company",
+    "Ida Lupino",
+    "Steve McQueen",
+    "1942",
+    "supernatural tales",
+    "1972",
+    "The Hitch-Hiker",
+    "Vincent Price",
+    "television shows",
+    "Deep Valley",
+    "The Masks",
+    "The Bigamist",
+    "British-American",
+    "actress",
+    "Edward G. Robinson",
+    "1948",
+    "Road House",
+    "1941",
+    "1966",
+    "Louis Hayward",
+    "Junior Bonner",
+    "1939",
+    "westerns",
+    "1943",
+    "Moontide",
+    "Humphrey Bogart",
+    "John Garfield",
+    "1956",
+    "Ladies in Retirement",
+    "Cornel Wilde",
+    "The Sixteen-Millimeter Shrine"
+  ],
+  "edges": [
+    "was the only woman to direct an episode of",
+    "became a citizen of",
+    "directed",
+    "appeared in",
+    "was the only director to star in an episode of",
+    "was",
+    "directed episodes of"
+  ],
+  "relations": [
+    [
+      "Ida Lupino",
+      "directed",
+      "Outrage"
+    ],
+    [
+      "Ida Lupino",
+      "directed",
+      "The Bigamist"
+    ],
+    [
+      "Ida Lupino",
+      "was",
+      "actress"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "Junior Bonner"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "Ladies in Retirement"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "Moontide"
+    ],
+    [
+      "Ida Lupino",
+      "directed",
+      "Never Fear"
+    ],
+    [
+      "Ida Lupino",
+      "directed episodes of",
+      "television shows"
+    ],
+    [
+      "Ida Lupino",
+      "was the only director to star in an episode of",
+      "The Twilight Zone"
+    ],
+    [
+      "Ida Lupino",
+      "directed",
+      "The Trouble with Angels"
+    ],
+    [
+      "Ida Lupino",
+      "became a citizen of",
+      "United States"
+    ],
+    [
+      "Ida Lupino",
+      "was",
+      "British-American"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "While the City Sleeps"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "The Adventures of Sherlock Holmes"
+    ],
+    [
+      "Ida Lupino",
+      "was",
+      "producer"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "Road House"
+    ],
+    [
+      "Ida Lupino",
+      "was",
+      "director"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "High Sierra"
+    ],
+    [
+      "Ida Lupino",
+      "directed",
+      "Not Wanted"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "They Drive by Night"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "Deep Valley"
+    ],
+    [
+      "Ida Lupino",
+      "was the only woman to direct an episode of",
+      "The Twilight Zone"
+    ],
+    [
+      "Ida Lupino",
+      "was",
+      "writer"
+    ],
+    [
+      "Ida Lupino",
+      "directed",
+      "The Hitch-Hiker"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "The Sea Wolf"
+    ],
+    [
+      "Ida Lupino",
+      "appeared in",
+      "The Hard Way"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "26 October 1981",
+    "Adam Brian Lockwood",
+    "Adam Lockwood",
+    "defender",
+    "former professional footballer",
+    "English"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Adam Lockwood",
+      "was born on",
+      "26 October 1981"
+    ],
+    [
+      "Adam Lockwood",
+      "is",
+      "Adam Brian Lockwood"
+    ],
+    [
+      "Adam Lockwood",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Adam Lockwood",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Adam Lockwood",
+      "is",
+      "English"
+    ]
+  ]
+}

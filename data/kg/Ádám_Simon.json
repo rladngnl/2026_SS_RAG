@@ -1,0 +1,33 @@
+{
+  "entities": [
+    "30 March 1990",
+    "footballer",
+    "Hungarian",
+    "ex-Liverpool player",
+    "Ádám Simon",
+    "twin brother",
+    "András Simon"
+  ],
+  "edges": [
+    "is ex-Liverpool player",
+    "is twin brother of",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Ádám Simon",
+      "is a",
+      "Hungarian footballer"
+    ],
+    [
+      "Ádám Simon",
+      "is twin brother of",
+      "András Simon"
+    ],
+    [
+      "András Simon",
+      "is ex-Liverpool player",
+      ""
+    ]
+  ]
+}

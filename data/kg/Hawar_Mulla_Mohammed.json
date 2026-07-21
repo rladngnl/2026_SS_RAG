@@ -1,0 +1,80 @@
+{
+  "entities": [
+    "Persepolis",
+    "footballer",
+    "Apollon Limassol",
+    "Esteghlal",
+    "Kurdish",
+    "Zob Ahan",
+    "Hawar Mulla Mohammed Taher Zebari",
+    "Al-Ansar",
+    "Erbil",
+    "Al Khor",
+    "11 June 2015",
+    "Anorthosis",
+    "Al-Quwa Al-Jawiya",
+    "Iraqi"
+  ],
+  "edges": [
+    "played for",
+    "is a",
+    "retired on"
+  ],
+  "relations": [
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Al Khor"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Erbil"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Al-Quwa Al-Jawiya"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Esteghlal"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Anorthosis"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Apollon Limassol"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Zob Ahan"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "is a",
+      "Kurdish Iraqi former professional footballer"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "retired on",
+      "11 June 2015"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Persepolis"
+    ],
+    [
+      "Hawar Mulla Mohammed Taher Zebari",
+      "played for",
+      "Al-Ansar"
+    ]
+  ]
+}

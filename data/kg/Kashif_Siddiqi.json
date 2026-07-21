@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "college soccer",
+    "England",
+    "footballer",
+    "British Asians",
+    "Kashif Siddiqi",
+    "Pakistan national team",
+    "defender",
+    "United States",
+    "anti-racism organisation",
+    "Kashif Mumtaz Siddiqi",
+    "Middle East",
+    "USL PDL",
+    "Kick It Out",
+    "youth football",
+    "Kashif Siddiqi Foundation"
+  ],
+  "edges": [
+    "is a",
+    "moved to",
+    "aims to encourage",
+    "played as",
+    "is an",
+    "was born in",
+    "is an ambassador for",
+    "played college soccer in",
+    "played for",
+    "founded"
+  ],
+  "relations": [
+    [
+      "Kashif Siddiqi",
+      "played for",
+      "Pakistan national team"
+    ],
+    [
+      "Kashif Siddiqi",
+      "played as",
+      "defender"
+    ],
+    [
+      "Kashif Siddiqi",
+      "played college soccer in",
+      "United States"
+    ],
+    [
+      "Kashif Siddiqi Foundation",
+      "aims to encourage",
+      "British Asians"
+    ],
+    [
+      "Kashif Siddiqi",
+      "moved to",
+      "United States"
+    ],
+    [
+      "Kashif Siddiqi",
+      "was born in",
+      "England"
+    ],
+    [
+      "Kashif Siddiqi",
+      "founded",
+      "Kashif Siddiqi Foundation"
+    ],
+    [
+      "Kick It Out",
+      "is an",
+      "anti-racism organisation"
+    ],
+    [
+      "Kashif Siddiqi",
+      "is an ambassador for",
+      "Kick It Out"
+    ],
+    [
+      "Kashif Siddiqi",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

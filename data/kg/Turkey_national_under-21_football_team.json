@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Turkey",
+    "Turkey U-21s",
+    "Under-21s",
+    "Turkey national football team",
+    "Turkey national Under-21 football team"
+  ],
+  "edges": [
+    "is the Under-21 years of age team of",
+    "is also known as"
+  ],
+  "relations": [
+    [
+      "Turkey national Under-21 football team",
+      "is the Under-21 years of age team of",
+      "Turkey national football team"
+    ],
+    [
+      "Turkey national Under-21 football team",
+      "is also known as",
+      "Turkey Under-21s"
+    ],
+    [
+      "Turkey national Under-21 football team",
+      "is also known as",
+      "Turkey U-21s"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "Jerry Paris",
+    "1969",
+    "comedy film",
+    "John Astin",
+    "Peter Ustinov",
+    "1966",
+    "novel",
+    "James Lehrer",
+    "Jonathan Winters",
+    "Viva Max!",
+    "Elliott Baker"
+  ],
+  "edges": [
+    "was directed by",
+    "is a",
+    "was written by",
+    "stars",
+    "is based on",
+    "was released in"
+  ],
+  "relations": [
+    [
+      "Viva Max!",
+      "is based on",
+      "the 1966 novel of the same name"
+    ],
+    [
+      "Viva Max!",
+      "stars",
+      "Jonathan Winters"
+    ],
+    [
+      "the 1966 novel of the same name",
+      "was written by",
+      "James Lehrer"
+    ],
+    [
+      "Viva Max!",
+      "was written by",
+      "Elliott Baker"
+    ],
+    [
+      "Viva Max!",
+      "was released in",
+      "1969"
+    ],
+    [
+      "Viva Max!",
+      "was directed by",
+      "Jerry Paris"
+    ],
+    [
+      "Viva Max!",
+      "stars",
+      "Peter Ustinov"
+    ],
+    [
+      "Viva Max!",
+      "stars",
+      "John Astin"
+    ],
+    [
+      "Viva Max!",
+      "is a",
+      "comedy film"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "entities": [
+    "MA Tétouan",
+    "football striker",
+    "2013",
+    "final",
+    "FIFA Club World Cup",
+    "top scorer",
+    "Moroccan",
+    "Bayern Munich",
+    "Congolese",
+    "Dioko Kaluyituka",
+    "Botola",
+    "Silver Ball",
+    "2010",
+    "Bronze Ball",
+    "Mouhcine Iajour",
+    "Raja Casablanca",
+    "African footballer"
+  ],
+  "edges": [
+    "is a",
+    "became the first",
+    "advanced with",
+    "played against",
+    "won",
+    "currently plays for"
+  ],
+  "relations": [
+    [
+      "Mouhcine Iajour",
+      "advanced with",
+      "Raja Casablanca"
+    ],
+    [
+      "Mouhcine Iajour",
+      "became the first",
+      "African footballer to be FIFA Club World Cup's top scorer"
+    ],
+    [
+      "Raja Casablanca",
+      "played against",
+      "Bayern Munich"
+    ],
+    [
+      "Dioko Kaluyituka",
+      "won",
+      "Silver Ball"
+    ],
+    [
+      "Mouhcine Iajour",
+      "won",
+      "Bronze Ball"
+    ],
+    [
+      "Mouhcine Iajour",
+      "currently plays for",
+      "MA Tétouan"
+    ],
+    [
+      "Mouhcine Iajour",
+      "is a",
+      "Moroccan football striker"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Ethiopia",
+    "Lucy",
+    "Afar Triangle",
+    "Hadar",
+    "Donald Carl Johanson",
+    "paleoanthropologist"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is located in",
+    "discovered"
+  ],
+  "relations": [
+    [
+      "Hadar",
+      "is in",
+      "Ethiopia"
+    ],
+    [
+      "Afar Triangle",
+      "is in",
+      "Hadar"
+    ],
+    [
+      "Donald Carl Johanson",
+      "discovered",
+      "Lucy"
+    ],
+    [
+      "Lucy",
+      "is located in",
+      "Afar Triangle"
+    ],
+    [
+      "Donald Carl Johanson",
+      "is a",
+      "paleoanthropologist"
+    ]
+  ]
+}

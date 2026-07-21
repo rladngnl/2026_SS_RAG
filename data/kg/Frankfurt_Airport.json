@@ -1,0 +1,172 @@
+{
+  "entities": [
+    "2022",
+    "2015",
+    "Terminal 3",
+    "Discover Airlines",
+    "2,300 hectares",
+    "330 destinations",
+    "four runways",
+    "five continents",
+    "Ramstein Air Base",
+    "22nd busiest worldwide",
+    "United States",
+    "Condor",
+    "AeroLogic",
+    "Lufthansa",
+    "Fraport",
+    "Lufthansa Cargo",
+    "2.076 million tonnes",
+    "65 million passengers",
+    "Frankfurt",
+    "Rhein-Main Air Base",
+    "5,683 acres",
+    "Frankfurt Airport",
+    "61,564,957 passengers",
+    "Germany",
+    "Lufthansa City Airlines",
+    "most direct routes in the world",
+    "6th busiest in Europe",
+    "Lufthansa CityLine"
+  ],
+  "edges": [
+    "serves as the main hub for",
+    "has capacity for approximately",
+    "serves",
+    "is the busiest airport by passenger traffic in",
+    "served as a major air base for",
+    "has",
+    "is operated by",
+    "is the 6th busiest in",
+    "was acquired by",
+    "moved to",
+    "had a freight throughput of",
+    "is the 22nd busiest worldwide by total number of passengers in",
+    "was home to",
+    "is now occupied by",
+    "is located in",
+    "covers an area of"
+  ],
+  "relations": [
+    [
+      "Frankfurt Airport",
+      "has capacity for approximately",
+      "65 million passengers"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "Condor"
+    ],
+    [
+      "property",
+      "was acquired by",
+      "Fraport"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "AeroLogic"
+    ],
+    [
+      "Frankfurt Airport",
+      "has",
+      "four runways"
+    ],
+    [
+      "Frankfurt Airport",
+      "covers an area of",
+      "2,300 hectares"
+    ],
+    [
+      "Frankfurt Airport",
+      "had a freight throughput of",
+      "2.076 million tonnes"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves",
+      "five continents"
+    ],
+    [
+      "site",
+      "is now occupied by",
+      "Terminal 3"
+    ],
+    [
+      "Frankfurt Airport",
+      "is the busiest airport by passenger traffic in",
+      "Germany"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "Lufthansa City Airlines"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "Discover Airlines"
+    ],
+    [
+      "Frankfurt Airport",
+      "is operated by",
+      "Fraport"
+    ],
+    [
+      "Frankfurt Airport",
+      "is the 22nd busiest worldwide by total number of passengers in",
+      "2024"
+    ],
+    [
+      "Rhein-Main Air Base",
+      "was home to",
+      "Frankfurt Airport"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "Lufthansa Cargo"
+    ],
+    [
+      "Rhein-Main Air Base",
+      "served as a major air base for",
+      "United States"
+    ],
+    [
+      "Frankfurt Airport",
+      "is located in",
+      "Frankfurt"
+    ],
+    [
+      "Frankfurt Airport",
+      "is the 6th busiest in",
+      "Europe"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves",
+      "330 destinations"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "Lufthansa CityLine"
+    ],
+    [
+      "Frankfurt Airport",
+      "covers an area of",
+      "5,683 acres"
+    ],
+    [
+      "US personnel",
+      "moved to",
+      "Ramstein Air Base"
+    ],
+    [
+      "Frankfurt Airport",
+      "serves as the main hub for",
+      "Lufthansa"
+    ]
+  ]
+}

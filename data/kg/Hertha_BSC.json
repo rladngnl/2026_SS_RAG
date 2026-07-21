@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "German Football Association",
+    "2. Bundesliga",
+    "1931",
+    "Hertha BSC GmbH & Co. KGaA",
+    "Die Alte Dame",
+    "1892",
+    "Leipzig",
+    "Hertha BSC",
+    "Berlin",
+    "Olympiastadion",
+    "Bundesliga",
+    "Hertha, Berliner Sport-Club e. V.",
+    "1930"
+  ],
+  "edges": [
+    "is known as",
+    "was a founding member of",
+    "was relegated from",
+    "plays in",
+    "has stadium",
+    "won the German championship in",
+    "was founded in",
+    "was separated into"
+  ],
+  "relations": [
+    [
+      "Hertha BSC",
+      "was a founding member of",
+      "German Football Association"
+    ],
+    [
+      "Hertha BSC",
+      "was relegated from",
+      "Bundesliga"
+    ],
+    [
+      "Hertha BSC",
+      "has stadium",
+      "Olympiastadion"
+    ],
+    [
+      "Hertha BSC",
+      "was separated into",
+      "Hertha BSC GmbH & Co. KGaA"
+    ],
+    [
+      "Hertha BSC",
+      "won the German championship in",
+      "1930"
+    ],
+    [
+      "German Football Association",
+      "was founded in",
+      "Leipzig"
+    ],
+    [
+      "Hertha BSC",
+      "won the German championship in",
+      "1931"
+    ],
+    [
+      "Hertha BSC",
+      "is known as",
+      "Die Alte Dame"
+    ],
+    [
+      "Hertha BSC",
+      "was founded in",
+      "1892"
+    ],
+    [
+      "Hertha BSC",
+      "plays in",
+      "2. Bundesliga"
+    ]
+  ]
+}

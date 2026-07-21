@@ -1,0 +1,29 @@
+{
+  "entities": [
+    "French",
+    "footballer",
+    "30 December 1977",
+    "Alexandre 'Alex' Jeannin"
+  ],
+  "edges": [
+    "was born on",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Alexandre 'Alex' Jeannin",
+      "is a",
+      "French"
+    ],
+    [
+      "Alexandre 'Alex' Jeannin",
+      "was born on",
+      "30 December 1977"
+    ],
+    [
+      "Alexandre 'Alex' Jeannin",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

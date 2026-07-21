@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "April 2008",
+    "Portugal",
+    "2005 FIFA Confederations Cup",
+    "UEFA Euro 2012",
+    "UEFA European Champions",
+    "June 2008",
+    "France",
+    "UEFA Euro 1980",
+    "1994 FIFA World Cup",
+    "2014 FIFA World Cup",
+    "FIFA World Ranking",
+    "October 2011",
+    "Hellenic Football Federation",
+    "Greece national football team",
+    "UEFA Euro 2004"
+  ],
+  "edges": [
+    "reached the round of 16 at",
+    "earned a place in",
+    "has not made an appearance in any major tournament since",
+    "has been crowned",
+    "reached an all-time high of eighth in the world from",
+    "is controlled by",
+    "marked the highest point in football history when they won",
+    "defeated",
+    "first appearance in a major tournament was at",
+    "qualified for the finals tournament of all but one major competition entered",
+    "represents",
+    "did not qualify for another major tournament until",
+    "occupied a place in the top 20 of"
+  ],
+  "relations": [
+    [
+      "Greece national football team",
+      "did not qualify for another major tournament until",
+      "1994 FIFA World Cup"
+    ],
+    [
+      "Greece national football team",
+      "reached an all-time high of eighth in the world from",
+      "October 2011"
+    ],
+    [
+      "Greece national football team",
+      "defeated",
+      "Portugal"
+    ],
+    [
+      "Greece national football team",
+      "occupied a place in the top 20 of",
+      "FIFA World Ranking"
+    ],
+    [
+      "Greece national football team",
+      "reached an all-time high of eighth in the world from",
+      "April 2008"
+    ],
+    [
+      "Greece national football team",
+      "represents",
+      "Greece"
+    ],
+    [
+      "Greece national football team",
+      "has not made an appearance in any major tournament since",
+      "2014"
+    ],
+    [
+      "Greece national football team",
+      "qualified for the finals tournament of all but one major competition entered",
+      "UEFA Euro 2012"
+    ],
+    [
+      "Greece national football team",
+      "reached the round of 16 at",
+      "2014 FIFA World Cup"
+    ],
+    [
+      "Greece national football team",
+      "earned a place in",
+      "2005 FIFA Confederations Cup"
+    ],
+    [
+      "Greece national football team",
+      "reached an all-time high of eighth in the world from",
+      "June 2008"
+    ],
+    [
+      "Greece national football team",
+      "marked the highest point in football history when they won",
+      "UEFA Euro 2004"
+    ],
+    [
+      "Greece national football team",
+      "defeated",
+      "France"
+    ],
+    [
+      "Greece national football team",
+      "is controlled by",
+      "Hellenic Football Federation"
+    ],
+    [
+      "Greece national football team",
+      "has been crowned",
+      "UEFA European Champions"
+    ],
+    [
+      "Greece national football team",
+      "first appearance in a major tournament was at",
+      "UEFA Euro 1980"
+    ]
+  ]
+}

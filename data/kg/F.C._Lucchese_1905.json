@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "F.C. Lucchese 1905",
+    "1952",
+    "Lucchese 1905 s.r.l.",
+    "Serie A",
+    "Italian football club",
+    "Tuscany",
+    "Lucca"
+  ],
+  "edges": [
+    "was first founded in",
+    "last been in the year",
+    "is based in",
+    "is an",
+    "is",
+    "last been in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "F.C. Lucchese 1905",
+      "last been in the year",
+      "1952"
+    ],
+    [
+      "F.C. Lucchese 1905",
+      "last been in",
+      "Serie A"
+    ],
+    [
+      "F.C. Lucchese 1905",
+      "is located in",
+      "Tuscany"
+    ],
+    [
+      "F.C. Lucchese 1905",
+      "is",
+      "Lucchese 1905 s.r.l."
+    ],
+    [
+      "F.C. Lucchese 1905",
+      "was first founded in",
+      "1905"
+    ],
+    [
+      "F.C. Lucchese 1905",
+      "is based in",
+      "Lucca"
+    ],
+    [
+      "F.C. Lucchese 1905",
+      "is an",
+      "Italian football club"
+    ]
+  ]
+}

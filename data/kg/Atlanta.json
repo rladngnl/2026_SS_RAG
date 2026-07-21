@@ -1,0 +1,202 @@
+{
+  "entities": [
+    "population",
+    "news and media operations",
+    "March to the Sea",
+    "DeKalb County",
+    "Western and Atlantic Railroad",
+    "Atlanta metropolitan area",
+    "American Civil War",
+    "biomedical research",
+    "Atlanta",
+    "Ralph Abernathy",
+    "American civil rights movement",
+    "gross domestic product",
+    "Atlanta Beltline rail trail",
+    "Confederacy",
+    "Georgia",
+    "Fulton County",
+    "public policy",
+    "transportation",
+    "Union General William T. Sherman",
+    "healthcare",
+    "finance",
+    "Southeast",
+    "GDP",
+    "Martin Luther King Jr.",
+    "logistics",
+    "New South",
+    "film and television production",
+    "United States",
+    "Appalachian Mountains",
+    "1996 Summer Olympics",
+    "aerospace",
+    "Beta+ global city",
+    "World War II",
+    "Hartsfield-Jackson International Airport",
+    "information technology"
+  ],
+  "edges": [
+    "is the county seat of",
+    "was captured in",
+    "has a population of",
+    "emerged as a manufacturing and technology hub after",
+    "extends into",
+    "became a national industrial center and the unofficial capital of the",
+    "became the world's busiest airport by passenger traffic in",
+    "has an estimated population of over",
+    "has maintained its position as the world's busiest airport every year since, except in",
+    "is the eighth-most populous city in",
+    "became a major organizing center of the",
+    "is classified as",
+    "had a lasting impact on",
+    "is the 36th-most populous city in the",
+    "was originally founded as the terminus of",
+    "has experienced gentrification of some of its neighborhoods in the 21st century with the growth of the",
+    "served a strategically important role for the",
+    "established itself on the world stage when it won the bid to host the",
+    "is the capital of",
+    "served as a prominent leader in the",
+    "features a unique topography that includes",
+    "has the 11th-largest economy among U.S. cities and the 22nd-largest in the",
+    "has a nominal gross domestic product (GDP) of",
+    "was burned to the ground during the"
+  ],
+  "relations": [
+    [
+      "Atlanta",
+      "emerged as a manufacturing and technology hub after",
+      "World War II"
+    ],
+    [
+      "Atlanta",
+      "was captured in",
+      "1864"
+    ],
+    [
+      "Atlanta",
+      "was originally founded as the terminus of",
+      "Western and Atlantic Railroad"
+    ],
+    [
+      "Atlanta",
+      "extends into",
+      "DeKalb County"
+    ],
+    [
+      "Atlanta",
+      "established itself on the world stage when it won the bid to host the",
+      "1996 Summer Olympics"
+    ],
+    [
+      "Atlanta",
+      "features a unique topography that includes",
+      "rolling hills"
+    ],
+    [
+      "Atlanta",
+      "has maintained its position as the world's busiest airport every year since, except in",
+      "2020"
+    ],
+    [
+      "Ralph Abernathy",
+      "served as a prominent leader in the",
+      "American civil rights movement"
+    ],
+    [
+      "Atlanta metropolitan area",
+      "has an estimated population of over",
+      "6.4 million"
+    ],
+    [
+      "Atlanta",
+      "has experienced gentrification of some of its neighborhoods in the 21st century with the growth of the",
+      "Atlanta Beltline rail trail"
+    ],
+    [
+      "Atlanta",
+      "is the capital of",
+      "Georgia"
+    ],
+    [
+      "Atlanta",
+      "was burned to the ground during the",
+      "March to the Sea"
+    ],
+    [
+      "Atlanta",
+      "served a strategically important role for the",
+      "Confederacy"
+    ],
+    [
+      "Atlanta",
+      "is the 36th-most populous city in the",
+      "United States"
+    ],
+    [
+      "Atlanta",
+      "became a national industrial center and the unofficial capital of the",
+      "New South"
+    ],
+    [
+      "Atlanta",
+      "has a nominal gross domestic product (GDP) of",
+      "$473 billion in 2021"
+    ],
+    [
+      "Atlanta",
+      "is classified as",
+      "Beta+ global city"
+    ],
+    [
+      "Atlanta",
+      "became a major organizing center of the",
+      "American civil rights movement"
+    ],
+    [
+      "Atlanta",
+      "has the 11th-largest economy among U.S. cities and the 22nd-largest in the",
+      "world"
+    ],
+    [
+      "Martin Luther King Jr.",
+      "served as a prominent leader in the",
+      "American civil rights movement"
+    ],
+    [
+      "Atlanta",
+      "is the county seat of",
+      "Fulton County"
+    ],
+    [
+      "Atlanta",
+      "is the eighth-most populous city in",
+      "Southeast"
+    ],
+    [
+      "Atlanta",
+      "has a population of",
+      "498,715"
+    ],
+    [
+      "Atlanta",
+      "features a unique topography that includes",
+      "lush greenery"
+    ],
+    [
+      "1996 Summer Olympics",
+      "had a lasting impact on",
+      "Atlanta's development into the 21st century"
+    ],
+    [
+      "Hartsfield-Jackson International Airport",
+      "became the world's busiest airport by passenger traffic in",
+      "1998"
+    ],
+    [
+      "Atlanta",
+      "features a unique topography that includes",
+      "the densest urban tree coverage of any major city in the United States"
+    ]
+  ]
+}

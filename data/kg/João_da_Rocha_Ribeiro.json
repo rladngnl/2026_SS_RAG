@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "João da Rocha Ribeiro",
+    "footballer",
+    "Portugal",
+    "left winger",
+    "13 August 1987"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "João da Rocha Ribeiro",
+      "was born on",
+      "13 August 1987"
+    ],
+    [
+      "João da Rocha Ribeiro",
+      "is from",
+      "Portugal"
+    ],
+    [
+      "João da Rocha Ribeiro",
+      "played as",
+      "left winger"
+    ],
+    [
+      "João da Rocha Ribeiro",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

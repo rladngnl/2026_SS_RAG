@@ -1,0 +1,188 @@
+{
+  "entities": [
+    "2000",
+    "Campeonato Paulista Série A1",
+    "Corinthian Football Club",
+    "Derby Paulista",
+    "Sport Club Corinthians Paulista",
+    "two Supercopa do Brasil titles",
+    "Flamengo",
+    "$576.9 million",
+    "FIFA Club World Championship",
+    "Recopa Sudamericana",
+    "Francisco Rebolo",
+    "Palmeiras",
+    "1910",
+    "Neo Química Arena",
+    "Forbes",
+    "Clássico Alvinegro",
+    "São Paulo state flag",
+    "2014 FIFA World Cup",
+    "31 São Paulo State championships",
+    "seven national titles",
+    "white and black home kit",
+    "Tatuapé",
+    "São Paulo",
+    "four Copa do Brasil trophies",
+    "Campeonato Brasileiro Série A",
+    "2012",
+    "Clássico Majestoso",
+    "Copa Libertadores de América",
+    "30 million fans",
+    "Santos"
+  ],
+  "edges": [
+    "repeated the feat in",
+    "has over",
+    "was listed by",
+    "has played home matches at",
+    "was won in",
+    "was crowned",
+    "is just behind",
+    "competes in",
+    "is located in",
+    "has rivalries with",
+    "traditionally plays in",
+    "won the inaugural",
+    "is based in",
+    "won a title in",
+    "was founded in",
+    "served as a venue for",
+    "has won",
+    "was valued at",
+    "introduced the crest of",
+    "was inspired by"
+  ],
+  "relations": [
+    [
+      "Sport Club Corinthians Paulista",
+      "was listed by",
+      "Forbes"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has rivalries with",
+      "Palmeiras"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "four Copa do Brasil trophies"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "is just behind",
+      "Flamengo"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has played home matches at",
+      "Neo Química Arena"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "won a title in",
+      "Recopa Sudamericana"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has over",
+      "30 million fans"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "is located in",
+      "Tatuapé"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "31 São Paulo State championships"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "two Supercopa do Brasil titles"
+    ],
+    [
+      "Francisco Rebolo",
+      "introduced the crest of",
+      "Sport Club Corinthians Paulista"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was founded in",
+      "1910"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was inspired by",
+      "Corinthian Football Club"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has rivalries with",
+      "Santos"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was crowned",
+      "Copa Libertadores de América champions"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "traditionally plays in",
+      "white and black home kit"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "competes in",
+      "Campeonato Paulista Série A1"
+    ],
+    [
+      "Neo Química Arena",
+      "served as a venue for",
+      "2014 FIFA World Cup"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "repeated the feat in",
+      "2012"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "seven national titles"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "is based in",
+      "São Paulo"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "won the inaugural",
+      "FIFA Club World Championship"
+    ],
+    [
+      "FIFA Club World Championship",
+      "was won in",
+      "2000"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has rivalries with",
+      "São Paulo"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "competes in",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was valued at",
+      "$576.9 million"
+    ]
+  ]
+}

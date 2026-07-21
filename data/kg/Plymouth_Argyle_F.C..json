@@ -1,0 +1,209 @@
+{
+  "entities": [
+    "1929–30",
+    "2011",
+    "Football League First Division",
+    "1951–52",
+    "2022–23 season",
+    "Plymouth",
+    "fifth time",
+    "Bob Jack",
+    "1995–96",
+    "EFL League One",
+    "1620",
+    "1974–75",
+    "Mayflower",
+    "New World",
+    "Championship",
+    "1985–86",
+    "Third Division South",
+    "2003–04",
+    "England",
+    "Third Division",
+    "1992",
+    "Devon",
+    "1977",
+    "Premier League",
+    "Paul Sturrock",
+    "2019–20",
+    "Massachusetts",
+    "2016–17",
+    "1950",
+    "1958–59",
+    "2001–02 season",
+    "Home Park",
+    "2001–02",
+    "Second Division",
+    "1995",
+    "Argyle green",
+    "Plymouth Argyle Football Club",
+    "Pilgrim Fathers",
+    "1968",
+    "The Pilgrims",
+    "1998",
+    "1956"
+  ],
+  "edges": [
+    "returned to",
+    "takes its nickname from",
+    "won",
+    "competes in",
+    "is located in",
+    "left",
+    "won election into",
+    "adopted",
+    "had a stay in",
+    "won promotion as",
+    "secured a record",
+    "is based in",
+    "are derived from",
+    "has predominantly played in",
+    "was relegated from",
+    "has played at",
+    "turned professional in",
+    "returned as",
+    "features",
+    "was founded as",
+    "won promotion out of",
+    "was promoted as",
+    "carried",
+    "went to"
+  ],
+  "relations": [
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion as",
+      "Third Division South champions"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "had a stay in",
+      "Second Division"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won",
+      "third-tier league title"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "returned as",
+      "Third Division South champions"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was founded as",
+      "Argyle"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is located in",
+      "Devon"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "has predominantly played in",
+      "green and white"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "takes its nickname from",
+      "The Pilgrims"
+    ],
+    [
+      "Pilgrim Fathers",
+      "left",
+      "Plymouth"
+    ],
+    [
+      "The Pilgrims",
+      "are derived from",
+      "Pilgrim Fathers"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won",
+      "Southern League title"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "adopted",
+      "Argyle green"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "secured a record",
+      "fourth third-tier league title"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "returned to",
+      "Championship"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won election into",
+      "Football League Third Division"
+    ],
+    [
+      "Pilgrim Fathers",
+      "went to",
+      "New World"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "features",
+      "Mayflower"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was promoted as",
+      "champions"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "has played at",
+      "Home Park"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won",
+      "Western League title"
+    ],
+    [
+      "Mayflower",
+      "carried",
+      "Pilgrim Fathers"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was relegated from",
+      "Second Division"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion out of",
+      "Third Division"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "turned professional in",
+      "1903"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is based in",
+      "Plymouth"
+    ]
+  ]
+}

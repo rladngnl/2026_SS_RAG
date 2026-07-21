@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "Northern Premier League Premier Division",
+    "England",
+    "Bamber Bridge",
+    "Irongate",
+    "community organisation",
+    "supporters",
+    "Preston",
+    "Lancashire",
+    "Bamber Bridge Football Club"
+  ],
+  "edges": [
+    "represents",
+    "is owned by",
+    "is located in",
+    "is near",
+    "is a member of",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Bamber Bridge Football Club",
+      "is based in",
+      "Bamber Bridge"
+    ],
+    [
+      "Bamber Bridge Football Club",
+      "is near",
+      "Preston"
+    ],
+    [
+      "Bamber Bridge Football Club",
+      "is owned by",
+      "community organisation"
+    ],
+    [
+      "community organisation",
+      "represents",
+      "supporters"
+    ],
+    [
+      "Bamber Bridge Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Bamber Bridge Football Club",
+      "is located in",
+      "Lancashire"
+    ],
+    [
+      "Bamber Bridge Football Club",
+      "plays at",
+      "Irongate"
+    ],
+    [
+      "Bamber Bridge Football Club",
+      "is a member of",
+      "Northern Premier League Premier Division"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "Roma",
+    "2011",
+    "World Cup",
+    "Simone Pepe",
+    "Udinese",
+    "2008",
+    "2009",
+    "Juventus",
+    "Serie A",
+    "Italy",
+    "Confederations Cup",
+    "2010"
+  ],
+  "edges": [
+    "spent most of his time at",
+    "played in",
+    "is former footballer of",
+    "earned caps in",
+    "competed in",
+    "appeared for",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Simone Pepe",
+      "spent most of his time at",
+      "Juventus"
+    ],
+    [
+      "Simone Pepe",
+      "spent most of his time at",
+      "Udinese"
+    ],
+    [
+      "Simone Pepe",
+      "earned caps in",
+      "2010"
+    ],
+    [
+      "Simone Pepe",
+      "is former footballer of",
+      "Italy"
+    ],
+    [
+      "Simone Pepe",
+      "competed in",
+      "Serie A"
+    ],
+    [
+      "Simone Pepe",
+      "played in",
+      "World Cup"
+    ],
+    [
+      "Simone Pepe",
+      "appeared for",
+      "Italy"
+    ],
+    [
+      "Simone Pepe",
+      "played in",
+      "Confederations Cup"
+    ],
+    [
+      "Simone Pepe",
+      "earned caps in",
+      "2008"
+    ],
+    [
+      "Simone Pepe",
+      "earned caps in",
+      "2011"
+    ],
+    [
+      "Simone Pepe",
+      "earned caps in",
+      "2009"
+    ],
+    [
+      "Simone Pepe",
+      "played for",
+      "Roma"
+    ]
+  ]
+}

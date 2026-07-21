@@ -1,0 +1,200 @@
+{
+  "entities": [
+    "Cold War",
+    "Vietnam War",
+    "People's Army of Vietnam",
+    "Khmer Rouge",
+    "Tet Offensive",
+    "North Vietnam",
+    "China",
+    "Ho Chi Minh",
+    "Indochina wars",
+    "ARVN",
+    "Indochina refugee crisis",
+    "Viet Cong",
+    "Vietnam syndrome",
+    "Saigon",
+    "Watergate scandal",
+    "Viet Minh",
+    "Democratic Republic of Vietnam",
+    "Paris Peace Accords",
+    "United States",
+    "Thiệu regime",
+    "Cambodian–Vietnamese War",
+    "PAVN",
+    "South Vietnam",
+    "Lyndon B. Johnson",
+    "Gulf of Tonkin incident",
+    "Cambodian genocide",
+    "Republic of Vietnam",
+    "Richard Nixon",
+    "Cambodian coup d'état",
+    "Army of the Republic of Vietnam",
+    "Linebacker Operations",
+    "John F. Kennedy",
+    "Ngo Dinh Diem",
+    "Vietnamization",
+    "Soviet Union"
+  ],
+  "edges": [
+    "supplied and directed",
+    "increased US involvement in",
+    "was supported by",
+    "passed a resolution that gave",
+    "were violated by",
+    "was covertly sending soldiers of",
+    "invaded",
+    "was an armed conflict in",
+    "was a proxy war of",
+    "exacted an enormous cost on",
+    "had mostly withdrawn from",
+    "provided crucial air support to",
+    "gave rise to",
+    "carried out",
+    "began",
+    "took control of",
+    "was killed in a",
+    "launched a bombing campaign of",
+    "began in",
+    "was fought between",
+    "fell to",
+    "was led by"
+  ],
+  "relations": [
+    [
+      "Vietnam War",
+      "was an armed conflict in",
+      "Vietnam"
+    ],
+    [
+      "Cambodian–Vietnamese War",
+      "began in",
+      "1978"
+    ],
+    [
+      "American forces",
+      "provided crucial air support to",
+      "ARVN"
+    ],
+    [
+      "South Vietnam",
+      "was led by",
+      "Ngo Dinh Diem"
+    ],
+    [
+      "Diem",
+      "was killed in a",
+      "US-backed ARVN military coup"
+    ],
+    [
+      "North Vietnam",
+      "supplied and directed",
+      "Viet Cong"
+    ],
+    [
+      "John F. Kennedy",
+      "increased US involvement in",
+      "Vietnam War"
+    ],
+    [
+      "North Vietnam",
+      "was supported by",
+      "Soviet Union"
+    ],
+    [
+      "China",
+      "invaded",
+      "Vietnam"
+    ],
+    [
+      "Khmer Rouge",
+      "carried out",
+      "Cambodian genocide"
+    ],
+    [
+      "Vietnam War",
+      "was fought between",
+      "South Vietnam"
+    ],
+    [
+      "US troops",
+      "had mostly withdrawn from",
+      "Vietnam"
+    ],
+    [
+      "Paris Peace Accords",
+      "were violated by",
+      "North Vietnam"
+    ],
+    [
+      "Lyndon B. Johnson",
+      "launched a bombing campaign of",
+      "North Vietnam"
+    ],
+    [
+      "North Vietnam",
+      "invaded",
+      "Laos"
+    ],
+    [
+      "North Vietnam",
+      "was covertly sending soldiers of",
+      "People's Army of Vietnam"
+    ],
+    [
+      "Vietnam War",
+      "exacted an enormous cost on",
+      "Vietnamese soldiers and civilians"
+    ],
+    [
+      "Johnson's successor",
+      "began",
+      "Vietnamization"
+    ],
+    [
+      "Vietnam War",
+      "was a proxy war of",
+      "Cold War"
+    ],
+    [
+      "Vietnam War",
+      "was fought between",
+      "North Vietnam"
+    ],
+    [
+      "Vietnam War",
+      "gave rise to",
+      "Vietnam syndrome"
+    ],
+    [
+      "Saigon",
+      "fell to",
+      "PAVN"
+    ],
+    [
+      "North Vietnam",
+      "took control of",
+      "North Vietnam"
+    ],
+    [
+      "US Congress",
+      "passed a resolution that gave",
+      "Lyndon B. Johnson authority"
+    ],
+    [
+      "Viet Minh",
+      "was led by",
+      "Ho Chi Minh"
+    ],
+    [
+      "South Vietnam",
+      "was supported by",
+      "United States"
+    ],
+    [
+      "North Vietnam",
+      "was supported by",
+      "China"
+    ]
+  ]
+}

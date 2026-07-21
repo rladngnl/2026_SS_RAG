@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "footballer",
+    "2 March 1960",
+    "defender",
+    "Argentine",
+    "Juan Simón",
+    "Juan Ernesto Simón"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Juan Simón",
+      "was born on",
+      "2 March 1960"
+    ],
+    [
+      "Juan Simón",
+      "is",
+      "Argentine"
+    ],
+    [
+      "Juan Simón",
+      "played as",
+      "defender"
+    ],
+    [
+      "Juan Simón",
+      "is",
+      "footballer"
+    ]
+  ]
+}

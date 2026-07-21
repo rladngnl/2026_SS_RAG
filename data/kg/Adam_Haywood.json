@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "23 March 1875",
+    "May 1932",
+    "footballer",
+    "Heywood",
+    "Hayward",
+    "inside-forward",
+    "Adam Haywood",
+    "English",
+    "Adam Seymour Haywood"
+  ],
+  "edges": [
+    "played as",
+    "died in",
+    "surname is spelled as",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Adam Seymour Haywood",
+      "died in",
+      "May 1932"
+    ],
+    [
+      "Adam Seymour Haywood",
+      "was born on",
+      "23 March 1875"
+    ],
+    [
+      "Adam Seymour Haywood",
+      "surname is spelled as",
+      "Heywood"
+    ],
+    [
+      "Adam Seymour Haywood",
+      "surname is spelled as",
+      "Hayward"
+    ],
+    [
+      "Adam Seymour Haywood",
+      "was",
+      "English footballer"
+    ],
+    [
+      "Adam Seymour Haywood",
+      "played as",
+      "inside-forward"
+    ]
+  ]
+}

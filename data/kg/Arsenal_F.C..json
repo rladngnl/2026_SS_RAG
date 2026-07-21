@@ -1,0 +1,165 @@
+{
+  "entities": [
+    "2006",
+    "2026",
+    "First Division",
+    "League Cups",
+    "League Championships",
+    "Dial Square",
+    "Tottenham Hotspur",
+    "FA Community Shields",
+    "£616.6m",
+    "Arsenal Stadium",
+    "floodlights",
+    "Football League Centenary Trophy",
+    "The Invincibles",
+    "Herbert Chapman",
+    "England",
+    "shirt numbers",
+    "Highbury",
+    "Royal Arsenal",
+    "1930s",
+    "US$3.4 billion",
+    "Premier League",
+    "UEFA Champions League",
+    "Football League",
+    "North London derby",
+    "Forbes",
+    "Emirates Stadium",
+    "Inter-Cities Fairs Cup",
+    "Victoria Concordia Crescit",
+    "Arsène Wenger",
+    "North London",
+    "European Cup Winners' Cup",
+    "WM formation",
+    "Arsenal_F.C.",
+    "1970–71",
+    "Islington",
+    "FA Cups",
+    "2023–24 season",
+    "Woolwich"
+  ],
+  "edges": [
+    "is in",
+    "is estimated to be worth",
+    "has won",
+    "was founded as",
+    "is a neighbour of",
+    "is ranked as",
+    "has a motto of",
+    "is located in",
+    "has an annual revenue of",
+    "moved to",
+    "won",
+    "competes in",
+    "is based in",
+    "was the longest-serving manager of"
+  ],
+  "relations": [
+    [
+      "Herbert Chapman",
+      "won",
+      "Arsenal_F.C."
+    ],
+    [
+      "Arsenal_F.C.",
+      "has an annual revenue of",
+      "£616.6m"
+    ],
+    [
+      "Arsenal_F.C.",
+      "is ranked as",
+      "the world's eighth-most valuable football club"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has a motto of",
+      "Victoria Concordia Crescit"
+    ],
+    [
+      "Arsenal_F.C.",
+      "is estimated to be worth",
+      "US$3.4 billion"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has won",
+      "FA Cups"
+    ],
+    [
+      "Arsène Wenger",
+      "was the longest-serving manager of",
+      "Arsenal_F.C."
+    ],
+    [
+      "Arsenal_F.C.",
+      "is located in",
+      "North London"
+    ],
+    [
+      "Arsenal_F.C.",
+      "is a neighbour of",
+      "Tottenham Hotspur"
+    ],
+    [
+      "Arsenal_F.C.",
+      "moved to",
+      "Arsenal Stadium"
+    ],
+    [
+      "Arsène Wenger",
+      "won",
+      "FA Cups"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has won",
+      "Football League Centenary Trophy"
+    ],
+    [
+      "Arsenal_F.C.",
+      "was founded as",
+      "Dial Square"
+    ],
+    [
+      "Arsenal_F.C.",
+      "is in",
+      "England"
+    ],
+    [
+      "Arsenal_F.C.",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Arsenal_F.C.",
+      "moved to",
+      "Emirates Stadium"
+    ],
+    [
+      "Arsenal_F.C.",
+      "is based in",
+      "Islington"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has won",
+      "European Cup Winners' Cup"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has won",
+      "Inter-Cities Fairs Cup"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has won",
+      "League Cups"
+    ],
+    [
+      "Arsenal_F.C.",
+      "has won",
+      "FA Community Shields"
+    ]
+  ]
+}

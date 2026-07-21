@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Mexican",
+    "assistant coach",
+    "Diego Alberto Cervantes Chávez",
+    "U-20 team",
+    "football player",
+    "Querétaro Fútbol Club",
+    "Diego_Cervantes"
+  ],
+  "edges": [
+    "is a",
+    "is currently an",
+    "coaches",
+    "works for"
+  ],
+  "relations": [
+    [
+      "Diego_Cervantes",
+      "is a",
+      "football player"
+    ],
+    [
+      "Diego_Cervantes",
+      "works for",
+      "Querétaro Fútbol Club"
+    ],
+    [
+      "Diego_Cervantes",
+      "is currently an",
+      "assistant coach"
+    ],
+    [
+      "Diego_Cervantes",
+      "coaches",
+      "U-20 team"
+    ],
+    [
+      "Diego_Cervantes",
+      "is a",
+      "Mexican"
+    ]
+  ]
+}

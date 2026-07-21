@@ -1,0 +1,104 @@
+{
+  "entities": [
+    "Inland Empire",
+    "Canada",
+    "Greater Los Angeles Area",
+    "William Chaffey",
+    "United States",
+    "Ontario",
+    "San Bernardino",
+    "California",
+    "Ontario Model Colony",
+    "Ontario International Airport",
+    "2020 census",
+    "San Bernardino County",
+    "Los Angeles",
+    "George Chaffey",
+    "Charles Chaffey"
+  ],
+  "edges": [
+    "is a city in",
+    "is located west of",
+    "is home to",
+    "is the 8th-busiest airport in",
+    "is part of",
+    "is part of the metropolitan area of",
+    "is named after",
+    "is located east of",
+    "was established by",
+    "reported a population of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Ontario",
+      "is located in",
+      "San Bernardino County"
+    ],
+    [
+      "Ontario",
+      "is named after",
+      "Ontario Model Colony"
+    ],
+    [
+      "Ontario Model Colony",
+      "was established by",
+      "George Chaffey"
+    ],
+    [
+      "Ontario",
+      "is located west of",
+      "San Bernardino"
+    ],
+    [
+      "Ontario",
+      "is part of the metropolitan area of",
+      "Inland Empire"
+    ],
+    [
+      "Ontario",
+      "is a city in",
+      "California"
+    ],
+    [
+      "Ontario Model Colony",
+      "is named after",
+      "Ontario"
+    ],
+    [
+      "2020 census",
+      "reported a population of",
+      "175,265"
+    ],
+    [
+      "Ontario International Airport",
+      "is the 8th-busiest airport in",
+      "United States"
+    ],
+    [
+      "Ontario Model Colony",
+      "was established by",
+      "Charles Chaffey"
+    ],
+    [
+      "Ontario",
+      "is part of",
+      "Greater Los Angeles Area"
+    ],
+    [
+      "Ontario",
+      "is located east of",
+      "Los Angeles"
+    ],
+    [
+      "Ontario Model Colony",
+      "was established by",
+      "William Chaffey"
+    ],
+    [
+      "Ontario",
+      "is home to",
+      "Ontario International Airport"
+    ]
+  ]
+}

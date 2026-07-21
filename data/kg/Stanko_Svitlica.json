@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "Polish Ekstraklasa",
+    "footballer",
+    "2002–03 season",
+    "Stanko Svitlica",
+    "Serbian Cyrillic",
+    "Legia Warsaw",
+    "24 goals",
+    "forward"
+  ],
+  "edges": [
+    "is a",
+    "scored",
+    "is best remembered for his time at",
+    "became the top scorer in",
+    "played as",
+    "was top scorer in the"
+  ],
+  "relations": [
+    [
+      "Stanko Svitlica",
+      "is best remembered for his time at",
+      "Legia Warsaw"
+    ],
+    [
+      "Stanko Svitlica",
+      "played as",
+      "forward"
+    ],
+    [
+      "Stanko Svitlica",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Stanko Svitlica",
+      "became the top scorer in",
+      "Polish Ekstraklasa"
+    ],
+    [
+      "Stanko Svitlica",
+      "scored",
+      "24 goals"
+    ],
+    [
+      "Stanko Svitlica",
+      "was top scorer in the",
+      "2002–03 season"
+    ]
+  ]
+}

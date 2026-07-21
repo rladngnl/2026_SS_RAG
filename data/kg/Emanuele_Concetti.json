@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Italian",
+    "Roma",
+    "Emanuele Concetti",
+    "goalkeeper",
+    "goalkeeping coach",
+    "Under-18 squad",
+    "football coach"
+  ],
+  "edges": [
+    "is goalkeeping coach for",
+    "is part of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Emanuele Concetti",
+      "is goalkeeping coach for",
+      "Under-18 squad"
+    ],
+    [
+      "Emanuele Concetti",
+      "is",
+      "Italian"
+    ],
+    [
+      "Emanuele Concetti",
+      "is",
+      "football coach"
+    ],
+    [
+      "Under-18 squad",
+      "is part of",
+      "Roma"
+    ],
+    [
+      "Emanuele Concetti",
+      "is",
+      "goalkeeper"
+    ]
+  ]
+}

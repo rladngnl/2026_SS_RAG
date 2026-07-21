@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Carlos Ríchard Díaz",
+    "Boston River",
+    "Uruguay",
+    "Segunda División Uruguay",
+    "FIFA U-20 World Cup",
+    "Montevideo"
+  ],
+  "edges": [
+    "played in",
+    "is from",
+    "last played for",
+    "was a player in",
+    "was born in"
+  ],
+  "relations": [
+    [
+      "Carlos Ríchard Díaz",
+      "played in",
+      "Segunda División Uruguay"
+    ],
+    [
+      "Carlos Ríchard Díaz",
+      "last played for",
+      "Boston River"
+    ],
+    [
+      "Carlos Ríchard Díaz",
+      "was a player in",
+      "FIFA U-20 World Cup"
+    ],
+    [
+      "Carlos Ríchard Díaz",
+      "is from",
+      "Uruguay"
+    ],
+    [
+      "Carlos Ríchard Díaz",
+      "was born in",
+      "Montevideo"
+    ]
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "entities": [
+    "American Cinema Editors",
+    "Mike Hill",
+    "ACE",
+    "Dan Hanley",
+    "Michael J. Hill",
+    "Night Shift",
+    "Ron Howard",
+    "In the Heart of the Sea",
+    "Rush",
+    "Apollo 13",
+    "BAFTA Award",
+    "Academy Award"
+  ],
+  "edges": [
+    "edited all of",
+    "collaborated with",
+    "was a member of",
+    "directed",
+    "won",
+    "had a longstanding collaboration with",
+    "was"
+  ],
+  "relations": [
+    [
+      "Dan Hanley",
+      "had a longstanding collaboration with",
+      "Ron Howard"
+    ],
+    [
+      "Dan Hanley",
+      "edited all of",
+      "Ron Howard's films"
+    ],
+    [
+      "Michael J. Hill",
+      "was a member of",
+      "the American Cinema Editors"
+    ],
+    [
+      "Michael J. Hill",
+      "collaborated with",
+      "Dan Hanley"
+    ],
+    [
+      "Michael J. Hill",
+      "won",
+      "the BAFTA Award"
+    ],
+    [
+      "Ron Howard",
+      "directed",
+      "Night Shift"
+    ],
+    [
+      "Ron Howard",
+      "directed",
+      "Rush"
+    ],
+    [
+      "Ron Howard",
+      "directed",
+      "In the Heart of the Sea"
+    ],
+    [
+      "Ron Howard",
+      "directed",
+      "Apollo 13"
+    ],
+    [
+      "Michael J. Hill",
+      "had a longstanding collaboration with",
+      "Ron Howard"
+    ],
+    [
+      "Michael J. Hill",
+      "was",
+      "an American film editor"
+    ],
+    [
+      "Michael J. Hill",
+      "won",
+      "an Academy Award"
+    ],
+    [
+      "Michael J. Hill",
+      "edited all of",
+      "Ron Howard's films"
+    ]
+  ]
+}

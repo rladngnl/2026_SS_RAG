@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "Marta Stobba",
+    "footballer",
+    "BV Cloppenburg",
+    "Poland",
+    "Unia Racibórz",
+    "Polish Ekstraliga",
+    "Poland national team",
+    "midfielder",
+    "Czarni Sosnowiec",
+    "Gol Częstochowa"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "is from",
+    "played as",
+    "was a member of",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Marta Stobba",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Marta Stobba",
+      "is from",
+      "Poland"
+    ],
+    [
+      "Marta Stobba",
+      "played for",
+      "Unia Racibórz"
+    ],
+    [
+      "Marta Stobba",
+      "was a member of",
+      "Poland national team"
+    ],
+    [
+      "Marta Stobba",
+      "played in",
+      "Polish Ekstraliga"
+    ],
+    [
+      "Marta Stobba",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Marta Stobba",
+      "played for",
+      "Czarni Sosnowiec"
+    ],
+    [
+      "Marta Stobba",
+      "played for",
+      "Gol Częstochowa"
+    ],
+    [
+      "Marta Stobba",
+      "played for",
+      "BV Cloppenburg"
+    ]
+  ]
+}

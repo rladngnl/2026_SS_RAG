@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "footballer",
+    "midfielder",
+    "JS Kabylie",
+    "France",
+    "Algeria national team",
+    "67 caps",
+    "Yazid Mansouri",
+    "sporting director"
+  ],
+  "edges": [
+    "is a",
+    "gained",
+    "played as",
+    "is the current",
+    "was born in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Yazid Mansouri",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Yazid Mansouri",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Yazid Mansouri",
+      "gained",
+      "67 caps"
+    ],
+    [
+      "Yazid Mansouri",
+      "was born in",
+      "France"
+    ],
+    [
+      "Yazid Mansouri",
+      "is the current",
+      "sporting director of JS Kabylie"
+    ],
+    [
+      "Yazid Mansouri",
+      "played for",
+      "Algeria national team"
+    ]
+  ]
+}

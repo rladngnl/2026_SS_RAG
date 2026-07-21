@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "FIFA World Cup",
+    "NAFC Championship",
+    "USA",
+    "2002",
+    "CONCACAF",
+    "1930",
+    "Canada",
+    "2016",
+    "Uruguay",
+    "2026 FIFA World Cup",
+    "1946",
+    "Spain",
+    "PFC",
+    "FIFA",
+    "Copa América",
+    "1950",
+    "Mexico",
+    "CONCACAF Gold Cup",
+    "1994",
+    "United States Soccer Federation",
+    "NAFC",
+    "CONCACAF teams",
+    "USMNT",
+    "NAFU",
+    "1995",
+    "United States men's national soccer team",
+    "North American Zone",
+    "Brazil",
+    "North American Nations Cup",
+    "CONCACAF Nations League",
+    "2009",
+    "1990"
+  ],
+  "edges": [
+    "has been an affiliate member of",
+    "is one of",
+    "has qualified for",
+    "has participated in",
+    "defeated",
+    "finished fourth place in",
+    "reached the round of 16 in",
+    "finished as runners-up in",
+    "is recognized as",
+    "is governed by",
+    "finished in",
+    "lost to",
+    "reached the quarterfinals in",
+    "hosted",
+    "represents"
+  ],
+  "relations": [
+    [
+      "United States men's national soccer team",
+      "defeated",
+      "Spain"
+    ],
+    [
+      "United States men's national soccer team",
+      "hosted",
+      "2026 FIFA World Cup"
+    ],
+    [
+      "United States men's national soccer team",
+      "represents",
+      "United States"
+    ],
+    [
+      "United States men's national soccer team",
+      "is recognized as",
+      "USA"
+    ],
+    [
+      "United States men's national soccer team",
+      "finished in",
+      "third place in 1930"
+    ],
+    [
+      "United States men's national soccer team",
+      "lost to",
+      "Brazil"
+    ],
+    [
+      "United States men's national soccer team",
+      "is one of",
+      "CONCACAF teams"
+    ],
+    [
+      "United States men's national soccer team",
+      "has qualified for",
+      "FIFA World Cup"
+    ],
+    [
+      "United States men's national soccer team",
+      "finished fourth place in",
+      "1995"
+    ],
+    [
+      "United States men's national soccer team",
+      "finished fourth place in",
+      "2016"
+    ],
+    [
+      "United States men's national soccer team",
+      "reached the round of 16 in",
+      "7 editions"
+    ],
+    [
+      "United States men's national soccer team",
+      "reached the quarterfinals in",
+      "2002"
+    ],
+    [
+      "United States men's national soccer team",
+      "finished as runners-up in",
+      "North American Nations Cup"
+    ],
+    [
+      "United States men's national soccer team",
+      "has been an affiliate member of",
+      "FIFA"
+    ],
+    [
+      "United States men's national soccer team",
+      "finished as runners-up in",
+      "NAFC Championship"
+    ],
+    [
+      "United States men's national soccer team",
+      "is governed by",
+      "United States Soccer Federation"
+    ],
+    [
+      "United States men's national soccer team",
+      "has qualified for",
+      "FIFA Confederations Cup"
+    ],
+    [
+      "United States men's national soccer team",
+      "has participated in",
+      "Copa América"
+    ],
+    [
+      "United States men's national soccer team",
+      "finished as runners-up in",
+      "2009"
+    ]
+  ]
+}

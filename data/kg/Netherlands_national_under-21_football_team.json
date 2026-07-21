@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "Foppe de Haan",
+    "Royal Dutch Football Association",
+    "Roy Makaay",
+    "Netherlands national under-21 football team",
+    "2006 European Under-21 Championship",
+    "2008 Summer Olympics",
+    "2009 European Under-21 Championship",
+    "European Under-21 Championship",
+    "Maceo Rigters",
+    "Switzerland",
+    "Klaas-Jan Huntelaar",
+    "UEFA",
+    "Arnold Jan Bruggink",
+    "2007 European Under-21 Championship",
+    "Serbia",
+    "Royston Drenthe"
+  ],
+  "edges": [
+    "successfully defended their title by winning",
+    "was the Player of the Tournament in",
+    "is controlled by",
+    "was the top scorer of the competition in",
+    "did not enter for",
+    "qualified for",
+    "won",
+    "lost to",
+    "broke the all-time goalscoring record of",
+    "failed to qualify for",
+    "became top scorer and player of the tournament in",
+    "was formed following the realignment of",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Netherlands national under-21 football team",
+      "is controlled by",
+      "Royal Dutch Football Association"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "broke the all-time goalscoring record of",
+      "Arnold Jan Bruggink"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "competes in",
+      "European Under-21 Championship"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "won",
+      "2006 European Under-21 Championship"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "successfully defended their title by winning",
+      "2007 European Under-21 Championship"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "failed to qualify for",
+      "2009 European Under-21 Championship"
+    ],
+    [
+      "Maceo Rigters",
+      "was the top scorer of the competition in",
+      "2007 European Under-21 Championship"
+    ],
+    [
+      "Royston Drenthe",
+      "was the Player of the Tournament in",
+      "2007 European Under-21 Championship"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "did not enter for",
+      "1978 competition"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "lost to",
+      "Switzerland"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "broke the all-time goalscoring record of",
+      "Roy Makaay"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "was formed following the realignment of",
+      "UEFA"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "became top scorer and player of the tournament in",
+      "2006 European Under-21 Championship"
+    ],
+    [
+      "Netherlands national under-21 football team",
+      "qualified for",
+      "2008 Summer Olympics"
+    ]
+  ]
+}

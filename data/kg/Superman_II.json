@@ -1,0 +1,141 @@
+{
+  "entities": [
+    "Lex Luthor",
+    "Ned Beatty",
+    "Jack O'Halloran",
+    "Superman III",
+    "Superman II",
+    "Kal-El",
+    "The Richard Donner Cut",
+    "Phantom Zone",
+    "Margot Kidder",
+    "Richard Lester",
+    "November 28, 2006",
+    "Christopher Reeve",
+    "Superman",
+    "Alexander Salkind",
+    "Marc McClure",
+    "Gene Hackman",
+    "Krypton",
+    "Terence Stamp",
+    "Lois Lane",
+    "General Zod",
+    "Leslie Newman",
+    "Sarah Douglas",
+    "Australia",
+    "Mario Puzo",
+    "Richard Donner",
+    "David Newman",
+    "Jackie Cooper",
+    "DC Comics",
+    "Ilya Salkind",
+    "Europe"
+  ],
+  "edges": [
+    "was directed by",
+    "was written by",
+    "seeks revenge for imprisonment by pursuing",
+    "was released as",
+    "is based on",
+    "was produced by",
+    "features",
+    "is also known as",
+    "was released on",
+    "was released from",
+    "is portrayed by",
+    "was released in",
+    "allies with"
+  ],
+  "relations": [
+    [
+      "Superman II",
+      "was written by",
+      "Mario Puzo"
+    ],
+    [
+      "Superman II",
+      "is based on",
+      "DC Comics"
+    ],
+    [
+      "General Zod",
+      "seeks revenge for imprisonment by pursuing",
+      "Kal-El"
+    ],
+    [
+      "General Zod",
+      "was released from",
+      "Phantom Zone"
+    ],
+    [
+      "Kal-El",
+      "is also known as",
+      "Superman"
+    ],
+    [
+      "Superman II",
+      "was written by",
+      "Leslie Newman"
+    ],
+    [
+      "Superman II",
+      "allies with",
+      "Lex Luthor"
+    ],
+    [
+      "Superman II",
+      "was produced by",
+      "Ilya Salkind"
+    ],
+    [
+      "Superman II",
+      "was written by",
+      "David Newman"
+    ],
+    [
+      "Superman II",
+      "was directed by",
+      "Richard Lester"
+    ],
+    [
+      "Superman II",
+      "was produced by",
+      "Alexander Salkind"
+    ],
+    [
+      "Superman II",
+      "was released in",
+      "Australia"
+    ],
+    [
+      "The Richard Donner Cut",
+      "was released on",
+      "November 28, 2006"
+    ],
+    [
+      "Superman II",
+      "was directed by",
+      "Richard Donner"
+    ],
+    [
+      "Superman II",
+      "features",
+      "General Zod"
+    ],
+    [
+      "Superman II",
+      "is portrayed by",
+      "Christopher Reeve"
+    ],
+    [
+      "Superman II",
+      "was released as",
+      "The Richard Donner Cut"
+    ],
+    [
+      "Superman II",
+      "was released in",
+      "Europe"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Brazil",
+    "striker",
+    "former professional footballer",
+    "19 January 1987",
+    "Rafael Porcellis de Oliveira"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Rafael Porcellis de Oliveira",
+      "was born on",
+      "19 January 1987"
+    ],
+    [
+      "Rafael Porcellis de Oliveira",
+      "played as",
+      "striker"
+    ],
+    [
+      "Rafael Porcellis de Oliveira",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Rafael Porcellis de Oliveira",
+      "is from",
+      "Brazil"
+    ]
+  ]
+}

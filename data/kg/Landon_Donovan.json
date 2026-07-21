@@ -1,0 +1,174 @@
+{
+  "entities": [
+    "National Women's Soccer League",
+    "San Jose Earthquakes",
+    "IMG Academy",
+    "Los Angeles Galaxy",
+    "FIFA Best Young Player Award",
+    "San Diego Sockers",
+    "FIFA World Cup All-Star Team",
+    "Bayern Munich",
+    "Clint Dempsey",
+    "Bayer Leverkusen",
+    "CONCACAF Gold Cup",
+    "Christian Pulisic",
+    "San Diego Wave FC",
+    "FIFA U-17 World Cup",
+    "Fútbol de Primera Player of the Year",
+    "Landon Donovan",
+    "2009 FIFA Confederations Cup",
+    "United States national team",
+    "U.S. Soccer Player of the Year",
+    "Mexican club León",
+    "Major League Soccer",
+    "MLS Cups",
+    "2002 FIFA World Cup",
+    "National Soccer Hall of Fame",
+    "Everton"
+  ],
+  "edges": [
+    "signed for",
+    "was the interim head coach of",
+    "is the all-time leader in assists for",
+    "won",
+    "played one season with",
+    "was inducted into",
+    "is part of",
+    "is tied with",
+    "won the CONCACAF Gold Cup in",
+    "is the highest-scoring American player in",
+    "went on short loans to",
+    "is the all-time assists leader in",
+    "played for",
+    "is the only seven-time winner of",
+    "moved back to the United States to sign with",
+    "is tied for the record of",
+    "returned to Germany for a loan with",
+    "won the Golden Ball of",
+    "spent time on loan with",
+    "is a player for",
+    "won the MLS Cup with"
+  ],
+  "relations": [
+    [
+      "Landon Donovan",
+      "was inducted into",
+      "National Soccer Hall of Fame"
+    ],
+    [
+      "Landon Donovan",
+      "won the CONCACAF Gold Cup in",
+      "2013"
+    ],
+    [
+      "San Diego Wave FC",
+      "is part of",
+      "National Women's Soccer League"
+    ],
+    [
+      "Landon Donovan",
+      "signed for",
+      "Bayer Leverkusen"
+    ],
+    [
+      "Landon Donovan",
+      "is the all-time leader in assists for",
+      "United States national team"
+    ],
+    [
+      "Landon Donovan",
+      "played for",
+      "Mexican club León"
+    ],
+    [
+      "Landon Donovan",
+      "is tied with",
+      "Clint Dempsey"
+    ],
+    [
+      "Landon Donovan",
+      "won the CONCACAF Gold Cup in",
+      "2002"
+    ],
+    [
+      "Landon Donovan",
+      "won the MLS Cup with",
+      "Los Angeles Galaxy"
+    ],
+    [
+      "Landon Donovan",
+      "is the highest-scoring American player in",
+      "World Cup history"
+    ],
+    [
+      "Landon Donovan",
+      "was the interim head coach of",
+      "San Diego Wave FC"
+    ],
+    [
+      "Landon Donovan",
+      "spent time on loan with",
+      "San Jose Earthquakes"
+    ],
+    [
+      "Landon Donovan",
+      "is the all-time assists leader in",
+      "Major League Soccer"
+    ],
+    [
+      "Landon Donovan",
+      "won",
+      "MLS Cups"
+    ],
+    [
+      "Landon Donovan",
+      "returned to Germany for a loan with",
+      "Bayern Munich"
+    ],
+    [
+      "Landon Donovan",
+      "won the CONCACAF Gold Cup in",
+      "2007"
+    ],
+    [
+      "Landon Donovan",
+      "played one season with",
+      "San Diego Sockers"
+    ],
+    [
+      "Landon Donovan",
+      "is the only seven-time winner of",
+      "Fútbol de Primera Player of the Year"
+    ],
+    [
+      "Landon Donovan",
+      "is tied for the record of",
+      "U.S. Soccer Player of the Year"
+    ],
+    [
+      "Landon Donovan",
+      "went on short loans to",
+      "Everton"
+    ],
+    [
+      "Landon Donovan",
+      "moved back to the United States to sign with",
+      "Los Angeles Galaxy"
+    ],
+    [
+      "Landon Donovan",
+      "is a player for",
+      "United States national team"
+    ],
+    [
+      "Landon Donovan",
+      "won the CONCACAF Gold Cup in",
+      "2005"
+    ],
+    [
+      "Landon Donovan",
+      "won the Golden Ball of",
+      "FIFA U-17 World Cup"
+    ]
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "entities": [
+    "Orlando Pirates",
+    "Steve Komphela",
+    "Siyabonga Nomvete",
+    "Phefeni Glamour Boys",
+    "Doctor Khumalo",
+    "AmaKhosi",
+    "Shaun Bartlett",
+    "Kaizer Motaung",
+    "Dayson Balzani",
+    "January 2026",
+    "56th anniversary",
+    "Siphiwe Tshabalala",
+    "Johannesburg South",
+    "John Moshoeu",
+    "South Africa",
+    "Lucas Radebe",
+    "Kaizer Chiefs Football Club",
+    "Premiership",
+    "FNB Stadium",
+    "2019–20 season",
+    "Naturena",
+    "Chiefs",
+    "Gary Bailey",
+    "Soweto derby",
+    "Patrick Ntsoelengoe",
+    "Neil Tovey",
+    "16 million"
+  ],
+  "edges": [
+    "is the most successful team in",
+    "has a strong local rivalry with",
+    "had a support base of over",
+    "is located in",
+    "plays many of its home matches at",
+    "plays in",
+    "celebrated their",
+    "celebrated in",
+    "is nicknamed",
+    "drew an average home attendance of",
+    "played for",
+    "holds the most trophies amongst all clubs in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Kaizer Chiefs Football Club",
+      "drew an average home attendance of",
+      "16,144"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "is nicknamed",
+      "AmaKhosi"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "is the most successful team in",
+      "South African football history"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "plays many of its home matches at",
+      "FNB Stadium"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "is based in",
+      "Naturena"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "holds the most trophies amongst all clubs in",
+      "South Africa"
+    ],
+    [
+      "Kaizer Motaung",
+      "played for",
+      "Orlando Pirates"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "celebrated their",
+      "56th anniversary"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "is nicknamed",
+      "Phefeni Glamour Boys"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "is located in",
+      "Johannesburg South"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "plays in",
+      "Premiership"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "celebrated in",
+      "January 2026"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "has a strong local rivalry with",
+      "Orlando Pirates"
+    ],
+    [
+      "Kaizer Chiefs Football Club",
+      "had a support base of over",
+      "16 million"
+    ]
+  ]
+}

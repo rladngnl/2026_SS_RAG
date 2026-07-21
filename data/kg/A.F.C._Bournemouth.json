@@ -1,0 +1,203 @@
+{
+  "entities": [
+    "Scott Parker",
+    "Third Division South Cup",
+    "Championship",
+    "AFC Bournemouth",
+    "Third Division South",
+    "England",
+    "League One",
+    "Premier League",
+    "Football League",
+    "Andoni Iraola",
+    "Bournemouth",
+    "Eddie Howe",
+    "Dorset",
+    "UEFA Europa League",
+    "2025–26 season",
+    "Boscombe",
+    "Fourth Division",
+    "Associate Members' Cup",
+    "Kings Park",
+    "League Two"
+  ],
+  "edges": [
+    "won three promotions in",
+    "entered administration for a second time in",
+    "entered administration in",
+    "qualified for",
+    "suffered relegation in",
+    "returned in",
+    "earned their highest ever league finish by finishing",
+    "is nicknamed",
+    "won",
+    "competes in",
+    "is located in",
+    "gained promotion by winning the play-offs in",
+    "won promotion in",
+    "adopted their current name in",
+    "won a Championship title in",
+    "remained in",
+    "was promoted again in",
+    "is based in",
+    "was formed in",
+    "lifted",
+    "achieved a second-place finish in",
+    "appointed",
+    "achieved this under the management of",
+    "was elected into",
+    "has played their home games at"
+  ],
+  "relations": [
+    [
+      "AFC Bournemouth",
+      "adopted their current name in",
+      "1971"
+    ],
+    [
+      "AFC Bournemouth",
+      "achieved a second-place finish in",
+      "League Two"
+    ],
+    [
+      "AFC Bournemouth",
+      "won",
+      "Third Division South Cup"
+    ],
+    [
+      "AFC Bournemouth",
+      "lifted",
+      "Associate Members' Cup"
+    ],
+    [
+      "AFC Bournemouth",
+      "won three promotions in",
+      "six years"
+    ],
+    [
+      "AFC Bournemouth",
+      "is located in",
+      "England"
+    ],
+    [
+      "AFC Bournemouth",
+      "is located in",
+      "Boscombe"
+    ],
+    [
+      "AFC Bournemouth",
+      "suffered relegation in",
+      "1970"
+    ],
+    [
+      "AFC Bournemouth",
+      "appointed",
+      "Eddie Howe"
+    ],
+    [
+      "AFC Bournemouth",
+      "returned in",
+      "2022"
+    ],
+    [
+      "AFC Bournemouth",
+      "is based in",
+      "Kings Park"
+    ],
+    [
+      "AFC Bournemouth",
+      "was elected into",
+      "Football League"
+    ],
+    [
+      "AFC Bournemouth",
+      "gained promotion by winning the play-offs in",
+      "2003"
+    ],
+    [
+      "AFC Bournemouth",
+      "was formed in",
+      "1899"
+    ],
+    [
+      "AFC Bournemouth",
+      "achieved a second-place finish in",
+      "League One"
+    ],
+    [
+      "AFC Bournemouth",
+      "won a Championship title in",
+      "2014–15"
+    ],
+    [
+      "AFC Bournemouth",
+      "won",
+      "Third Division title"
+    ],
+    [
+      "AFC Bournemouth",
+      "has played their home games at",
+      "Dean Court"
+    ],
+    [
+      "AFC Bournemouth",
+      "achieved this under the management of",
+      "Andoni Iraola"
+    ],
+    [
+      "AFC Bournemouth",
+      "remained in",
+      "Premier League"
+    ],
+    [
+      "AFC Bournemouth",
+      "was promoted again in",
+      "1981–82"
+    ],
+    [
+      "AFC Bournemouth",
+      "entered administration for a second time in",
+      "2008"
+    ],
+    [
+      "AFC Bournemouth",
+      "qualified for",
+      "UEFA Europa League"
+    ],
+    [
+      "AFC Bournemouth",
+      "is nicknamed",
+      "The Cherries"
+    ],
+    [
+      "AFC Bournemouth",
+      "is located in",
+      "Dorset"
+    ],
+    [
+      "AFC Bournemouth",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "AFC Bournemouth",
+      "won promotion in",
+      "1970–71"
+    ],
+    [
+      "AFC Bournemouth",
+      "suffered relegation in",
+      "2020"
+    ],
+    [
+      "AFC Bournemouth",
+      "earned their highest ever league finish by finishing",
+      "6th in the 2025–26 season"
+    ],
+    [
+      "AFC Bournemouth",
+      "entered administration in",
+      "1997"
+    ]
+  ]
+}

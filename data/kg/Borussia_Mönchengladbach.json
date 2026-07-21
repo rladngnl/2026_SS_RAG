@@ -1,0 +1,180 @@
+{
+  "entities": [
+    "DFB-Pokal",
+    "North Rhine-Westphalia",
+    "UEFA Cup",
+    "Borussia Dortmund",
+    "Bökelbergstadion",
+    "Die Fohlen",
+    "Hennes Weisweiler",
+    "Borussia Verein für Leibesübungen 1900 e.V.",
+    "Borussia Mönchengladbach",
+    "Rhine derby",
+    "Fortuna Düsseldorf",
+    "Borussia-Park",
+    "Germany",
+    "Bundesliga",
+    "Bayer Leverkusen",
+    "Mönchengladbach",
+    "Udo Lattek",
+    "1. FC Köln"
+  ],
+  "edges": [
+    "has over",
+    "is nicknamed",
+    "won",
+    "is the fifth-largest club in",
+    "saw success in",
+    "is located in",
+    "previously played at",
+    "was guided by",
+    "has secondary rivals",
+    "is in",
+    "is known as",
+    "has played at",
+    "contests",
+    "was founded in",
+    "joined",
+    "has won",
+    "reached",
+    "has main rivals",
+    "plays in"
+  ],
+  "relations": [
+    [
+      "Borussia Mönchengladbach",
+      "has over",
+      "75,000 members in 2016"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has main rivals",
+      "1. FC Köln"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "won",
+      "the Bundesliga five times"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has played at",
+      "Borussia-Park"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "was guided by",
+      "Udo Lattek"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "was guided by",
+      "Hennes Weisweiler"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has secondary rivals",
+      "Bayer Leverkusen"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "previously played at",
+      "Bökelbergstadion"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "is nicknamed",
+      "Die Fohlen"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "is located in",
+      "Mönchengladbach"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has won",
+      "two UEFA Cup titles"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "was founded in",
+      "1900"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has secondary rivals",
+      "Fortuna Düsseldorf"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "reached",
+      "a European Cup final in 1977"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "plays in",
+      "Bundesliga"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "saw success in",
+      "the 1970s"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has won",
+      "five league titles"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has over",
+      "93,000 members as of 2021"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "contests",
+      "the Rhine derby"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "is the fifth-largest club in",
+      "Germany"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "won",
+      "the UEFA Cup twice"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "is in",
+      "North Rhine-Westphalia"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has won",
+      "three DFB-Pokals"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "has secondary rivals",
+      "Borussia Dortmund"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "is known as",
+      "Borussia Verein für Leibesübungen 1900 e.V."
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "joined",
+      "Bundesliga"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "is in",
+      "Germany"
+    ]
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "entities": [
+    "Teen Wolf Too",
+    "Best Live Action Short Film",
+    "director",
+    "Gomez Addams",
+    "American actor",
+    "Patty Duke",
+    "The Addams Family",
+    "Prelude",
+    "John Allen Astin",
+    "The Frighteners",
+    "National Lampoon's European Vacation",
+    "West Side Story",
+    "The Addams Family animated series",
+    "Move Over, Darling",
+    "Freaky Friday",
+    "Evil Roy Slade",
+    "Academy Award",
+    "Halloween with the New Addams Family",
+    "Sean Astin",
+    "That Touch of Mink",
+    "March 30, 1930"
+  ],
+  "edges": [
+    "is in",
+    "was nominated for",
+    "starred in",
+    "was married to",
+    "is known for",
+    "directed",
+    "is for",
+    "appeared in",
+    "is",
+    "is the adoptive father of"
+  ],
+  "relations": [
+    [
+      "John Allen Astin",
+      "appeared in",
+      "National Lampoon's European Vacation"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "West Side Story"
+    ],
+    [
+      "Academy Award",
+      "is for",
+      "Best Live Action Short Film"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "Teen Wolf Too"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "Move Over, Darling"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "Halloween with the New Addams Family"
+    ],
+    [
+      "Gomez Addams",
+      "is in",
+      "The Addams Family"
+    ],
+    [
+      "John Allen Astin",
+      "starred in",
+      "Evil Roy Slade"
+    ],
+    [
+      "John Allen Astin",
+      "is",
+      "American actor"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "The Frighteners"
+    ],
+    [
+      "John Allen Astin",
+      "directed",
+      "Prelude"
+    ],
+    [
+      "John Allen Astin",
+      "is known for",
+      "Gomez Addams"
+    ],
+    [
+      "John Allen Astin",
+      "is",
+      "director"
+    ],
+    [
+      "John Allen Astin",
+      "was married to",
+      "Patty Duke"
+    ],
+    [
+      "John Allen Astin",
+      "was nominated for",
+      "Academy Award"
+    ],
+    [
+      "John Allen Astin",
+      "is the adoptive father of",
+      "Sean Astin"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "The Addams Family animated series"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "Freaky Friday"
+    ],
+    [
+      "John Allen Astin",
+      "appeared in",
+      "That Touch of Mink"
+    ]
+  ]
+}

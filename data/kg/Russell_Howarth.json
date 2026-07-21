@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "Tranmere Rovers",
+    "England",
+    "Bobby Mimms",
+    "Rhys Evans",
+    "Alan Fettis",
+    "York City",
+    "2001 UEFA European Under-18 Championship",
+    "Boaz Myhill",
+    "Stephen Bywater",
+    "Donovan Ricketts",
+    "John Achterberg",
+    "Bradford City",
+    "2002 UEFA European Under-21 Championship",
+    "Russell Michael Howarth"
+  ],
+  "edges": [
+    "signed for",
+    "competed with",
+    "played in",
+    "was unable to play regularly for",
+    "is former professional footballer for",
+    "was first-choice goalkeeper for",
+    "was called up to under-21 squad for",
+    "was capped for under-20 team",
+    "was capped at under-16 level for",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Bobby Mimms",
+      "was first-choice goalkeeper for",
+      "York City"
+    ],
+    [
+      "John Achterberg",
+      "was first-choice goalkeeper for",
+      "Tranmere Rovers"
+    ],
+    [
+      "Russell Michael Howarth",
+      "was unable to play regularly for",
+      "York City"
+    ],
+    [
+      "Russell Michael Howarth",
+      "signed for",
+      "Tranmere Rovers"
+    ],
+    [
+      "Russell Michael Howarth",
+      "played for",
+      "England"
+    ],
+    [
+      "Russell Michael Howarth",
+      "competed with",
+      "Rhys Evans"
+    ],
+    [
+      "Russell Michael Howarth",
+      "is former professional footballer for",
+      "Bradford City"
+    ],
+    [
+      "Alan Fettis",
+      "was first-choice goalkeeper for",
+      "York City"
+    ],
+    [
+      "Donovan Ricketts",
+      "was first-choice goalkeeper for",
+      "Bradford City"
+    ],
+    [
+      "Russell Michael Howarth",
+      "signed for",
+      "Bradford City"
+    ],
+    [
+      "Russell Michael Howarth",
+      "played in",
+      "2001 UEFA European Under-18 Championship"
+    ],
+    [
+      "Russell Michael Howarth",
+      "was called up to under-21 squad for",
+      "2002 UEFA European Under-21 Championship"
+    ],
+    [
+      "Russell Michael Howarth",
+      "is former professional footballer for",
+      "Tranmere Rovers"
+    ],
+    [
+      "Russell Michael Howarth",
+      "is former professional footballer for",
+      "York City"
+    ],
+    [
+      "Russell Michael Howarth",
+      "was capped at under-16 level for",
+      "England"
+    ],
+    [
+      "Russell Michael Howarth",
+      "was capped for under-20 team",
+      "England"
+    ]
+  ]
+}

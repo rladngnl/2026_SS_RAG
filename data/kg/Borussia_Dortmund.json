@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "BVB",
+    "FC Bayern Munich",
+    "football players",
+    "Schalke 04",
+    "Michael Zorc",
+    "Deloitte's Football Money League",
+    "Der Klassiker",
+    "association football club",
+    "Bundesliga",
+    "DFL-Supercups",
+    "revenue",
+    "Westfalenstadion",
+    "Revierderby",
+    "youth system",
+    "DFB-Pokals",
+    "UEFA Champions League",
+    "Dortmund",
+    "women's handball team",
+    "North Rhine-Westphalia",
+    "football club",
+    "European Cup Winners' Cup",
+    "Borussia Dortmund",
+    "Die Schwarzgelben",
+    "Yellow Wall",
+    "Intercontinental Cup",
+    "Germany"
+  ],
+  "edges": [
+    "has the highest average attendance of any",
+    "is the largest stadium in",
+    "is the runners-up in",
+    "has a rivalry with",
+    "is the second most decorated German football team",
+    "was founded by",
+    "cultivated a reputation for",
+    "is known for",
+    "plays in",
+    "is nicknamed",
+    "contests",
+    "won",
+    "is the largest sports club by membership in",
+    "had the 12th most revenue across all football teams in",
+    "had the second most revenue across football clubs in",
+    "has played home games at"
+  ],
+  "relations": [
+    [
+      "Borussia Dortmund",
+      "has the highest average attendance of any",
+      "association football club"
+    ],
+    [
+      "Borussia Dortmund",
+      "is the runners-up in",
+      "UEFA Europa League"
+    ],
+    [
+      "Borussia Dortmund",
+      "has a rivalry with",
+      "Schalke 04"
+    ],
+    [
+      "Borussia Dortmund",
+      "is the runners-up in",
+      "Champions League"
+    ],
+    [
+      "Borussia Dortmund",
+      "contests",
+      "Revierderby"
+    ],
+    [
+      "Borussia Dortmund",
+      "won",
+      "European Cup Winners' Cup"
+    ],
+    [
+      "Borussia Dortmund",
+      "is the second most decorated German football team",
+      "eight league championships"
+    ],
+    [
+      "Borussia Dortmund",
+      "has played home games at",
+      "Westfalenstadion"
+    ],
+    [
+      "Borussia Dortmund",
+      "was founded by",
+      "football players"
+    ],
+    [
+      "Borussia Dortmund",
+      "won",
+      "Intercontinental Cup"
+    ],
+    [
+      "Borussia Dortmund",
+      "is known for",
+      "men's professional football team"
+    ],
+    [
+      "Borussia Dortmund",
+      "won",
+      "UEFA Champions League"
+    ],
+    [
+      "Borussia Dortmund",
+      "had the second most revenue across football clubs in",
+      "Germany"
+    ],
+    [
+      "Borussia Dortmund",
+      "plays in",
+      "Bundesliga"
+    ],
+    [
+      "Westfalenstadion",
+      "is the largest stadium in",
+      "Germany"
+    ],
+    [
+      "Borussia Dortmund",
+      "is the largest sports club by membership in",
+      "Germany"
+    ],
+    [
+      "Borussia Dortmund",
+      "is nicknamed",
+      "Die Schwarzgelben"
+    ],
+    [
+      "Borussia Dortmund",
+      "had the 12th most revenue across all football teams in",
+      "the world"
+    ],
+    [
+      "Borussia Dortmund",
+      "cultivated a reputation for",
+      "spotting and developing young talent"
+    ],
+    [
+      "Borussia Dortmund",
+      "contests",
+      "Der Klassiker"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "Poland",
+    "Pomerania",
+    "Kuyavia",
+    "Toruń",
+    "Bydgoszcz",
+    "Kuyavian-Pomeranian Voivodeship",
+    "voivodeships"
+  ],
+  "edges": [
+    "takes its name from",
+    "is situated in",
+    "is one of",
+    "has chief cities"
+  ],
+  "relations": [
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      "is one of",
+      "voivodeships"
+    ],
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      "has chief cities",
+      "Toruń"
+    ],
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      "takes its name from",
+      "Pomerania"
+    ],
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      "takes its name from",
+      "Kuyavia"
+    ],
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      "is situated in",
+      "Poland"
+    ],
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      "has chief cities",
+      "Bydgoszcz"
+    ]
+  ]
+}

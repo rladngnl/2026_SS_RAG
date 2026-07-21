@@ -1,0 +1,223 @@
+{
+  "entities": [
+    "Amhara people",
+    "Human Rights Watch",
+    "Second Italo-Ethiopian War",
+    "Organisation of African Unity",
+    "Derg",
+    "Kwame Nkrumah",
+    "Mesafint",
+    "Ras Gugsa Welle Bitul",
+    "Addis Ababa",
+    "Oromo language",
+    "Battle of Anchem",
+    "1931 constitution",
+    "African Union",
+    "Lij Tafari",
+    "United Kingdom",
+    "United Nations",
+    "Jubilee Palace",
+    "Emperor of Ethiopia",
+    "Ras Tafari Makonnen",
+    "East African campaign",
+    "Federation of Ethiopia and Eritrea",
+    "Marxist–Leninist state",
+    "Eritrea",
+    "Anglo-Egyptian Sudan",
+    "Emperor Yekuno Amlak",
+    "southern Ethiopia",
+    "abolition of slavery",
+    "Holy Trinity Cathedral",
+    "Fascist Italy",
+    "Haile Selassie I",
+    "Empress Zewditu",
+    "Empress Taytu Betul",
+    "United Nations General Assembly",
+    "Soviet Union",
+    "Ethiopian Orthodox Church",
+    "Solomonic dynasty"
+  ],
+  "edges": [
+    "dissolved",
+    "were relocated into",
+    "led",
+    "annexed",
+    "relocated many",
+    "was exiled to",
+    "was established by",
+    "began governing",
+    "was the precursor of",
+    "was born as",
+    "defeated",
+    "was criticised for his suppression of",
+    "was overthrown by",
+    "was founded by",
+    "abolished",
+    "was",
+    "was criticised by",
+    "returned home after",
+    "introduced",
+    "rose to power as",
+    "was banned from",
+    "belonged to",
+    "traveled to",
+    "was buried at",
+    "presided over the formation of",
+    "was also known as",
+    "assassinated",
+    "was an adherent of",
+    "was nephew of"
+  ],
+  "relations": [
+    [
+      "Haile Selassie I",
+      "traveled to",
+      "Anglo-Egyptian Sudan"
+    ],
+    [
+      "Ras Gugsa Welle Bitul",
+      "was nephew of",
+      "Empress Taytu Betul"
+    ],
+    [
+      "Haile Selassie I",
+      "relocated many",
+      "Amhara people"
+    ],
+    [
+      "Haile Selassie I",
+      "rose to power as",
+      "Regent Plenipotentiary of Ethiopia"
+    ],
+    [
+      "Haile Selassie I",
+      "introduced",
+      "1931 constitution"
+    ],
+    [
+      "Oromo language",
+      "was banned from",
+      "education, public speaking and use in administration"
+    ],
+    [
+      "Haile Selassie I",
+      "abolished",
+      "slavery"
+    ],
+    [
+      "Haile Selassie I",
+      "was",
+      "Emperor of Ethiopia"
+    ],
+    [
+      "Selassie",
+      "was buried at",
+      "Holy Trinity Cathedral"
+    ],
+    [
+      "Haile Selassie I",
+      "annexed",
+      "Eritrea"
+    ],
+    [
+      "Haile Selassie I",
+      "led",
+      "Ethiopia's accession to the United Nations"
+    ],
+    [
+      "Haile Selassie I",
+      "dissolved",
+      "Federation of Ethiopia and Eritrea"
+    ],
+    [
+      "Haile Selassie I",
+      "led",
+      "Second Italo-Ethiopian War"
+    ],
+    [
+      "Haile Selassie I",
+      "returned home after",
+      "East African campaign"
+    ],
+    [
+      "Selassie",
+      "was criticised by",
+      "Human Rights Watch"
+    ],
+    [
+      "Haile Selassie I",
+      "was also known as",
+      "Lij Tafari"
+    ],
+    [
+      "Solomonic dynasty",
+      "was founded by",
+      "Emperor Yekuno Amlak"
+    ],
+    [
+      "Haile Selassie I",
+      "presided over the formation of",
+      "Organisation of African Unity"
+    ],
+    [
+      "Organisation of African Unity",
+      "was the precursor of",
+      "African Union"
+    ],
+    [
+      "Selassie",
+      "was an adherent of",
+      "Ethiopian Orthodox Church"
+    ],
+    [
+      "Haile Selassie I",
+      "defeated",
+      "Ras Gugsa Welle Bitul"
+    ],
+    [
+      "Selassie",
+      "was criticised for his suppression of",
+      "rebellions among the landed aristocracy"
+    ],
+    [
+      "Haile Selassie I",
+      "was born as",
+      "Ras Tafari Makonnen"
+    ],
+    [
+      "Federation of Ethiopia and Eritrea",
+      "was established by",
+      "United Nations General Assembly"
+    ],
+    [
+      "Derg",
+      "began governing",
+      "Ethiopia as a Marxist–Leninist state"
+    ],
+    [
+      "Haile Selassie I",
+      "belonged to",
+      "Solomonic dynasty"
+    ],
+    [
+      "Haile Selassie I",
+      "was overthrown by",
+      "Derg"
+    ],
+    [
+      "Amhara people",
+      "were relocated into",
+      "southern Ethiopia"
+    ],
+    [
+      "Haile Selassie I",
+      "was exiled to",
+      "United Kingdom"
+    ],
+    [
+      "Derg",
+      "assassinated",
+      "Selassie"
+    ]
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "entities": [
+    "2026",
+    "Southeast Division",
+    "Pelicans",
+    "Charlotte Hornets",
+    "Rick Schnall",
+    "New Orleans",
+    "Spectrum Center",
+    "Naismith Basketball Hall of Fame",
+    "North Carolina",
+    "New Orleans Hornets",
+    "2004–05 NBA season",
+    "New Orleans Pelicans",
+    "Gabe Plotkin",
+    "Eastern Conference",
+    "Charlotte Bobcats",
+    "February 17, 2010",
+    "National Basketball Association",
+    "George Shinn",
+    "Michael Jordan"
+  ],
+  "edges": [
+    "compete in",
+    "became managing member of basketball operations for",
+    "led a group of investors that purchased",
+    "are based in",
+    "play home games at",
+    "later rebranded as",
+    "received the records of the original franchise",
+    "purchased a majority share of",
+    "sold his majority stake in",
+    "returned as an expansion team in",
+    "have never advanced to the conference finals",
+    "was established in",
+    "was owned by",
+    "announced they would begin playing under the name",
+    "moved the franchise to",
+    "are the only NBA franchise to have never won a division title",
+    "are one of two franchises alongside",
+    "acquired a minority stake in",
+    "are a member of"
+  ],
+  "relations": [
+    [
+      "Hornets",
+      "are the only NBA franchise to have never won a division title",
+      "2026"
+    ],
+    [
+      "Charlotte Hornets",
+      "compete in",
+      "National Basketball Association"
+    ],
+    [
+      "Michael Jordan",
+      "became managing member of basketball operations for",
+      "Charlotte Hornets"
+    ],
+    [
+      "Charlotte Hornets",
+      "are a member of",
+      "Eastern Conference"
+    ],
+    [
+      "ownership group led by Michael Jordan",
+      "purchased a majority share of",
+      "Charlotte Hornets"
+    ],
+    [
+      "Charlotte Hornets",
+      "play home games at",
+      "Spectrum Center"
+    ],
+    [
+      "Hornets",
+      "are one of two franchises alongside",
+      "New Orleans Pelicans"
+    ],
+    [
+      "Bobcats",
+      "announced they would begin playing under the name",
+      "Charlotte Hornets"
+    ],
+    [
+      "Charlotte Hornets",
+      "are based in",
+      "North Carolina"
+    ],
+    [
+      "New Orleans Hornets",
+      "later rebranded as",
+      "Pelicans"
+    ],
+    [
+      "Hornets",
+      "have never advanced to the conference finals",
+      "2026"
+    ],
+    [
+      "Charlotte Hornets",
+      "was established in",
+      "1988"
+    ],
+    [
+      "Jordan",
+      "sold his majority stake in",
+      "Hornets"
+    ],
+    [
+      "Charlotte Hornets",
+      "received the records of the original franchise",
+      "Charlotte Hornets"
+    ],
+    [
+      "George Shinn",
+      "moved the franchise to",
+      "New Orleans"
+    ],
+    [
+      "Gabe Plotkin and Rick Schnall",
+      "led a group of investors that purchased",
+      "Hornets"
+    ],
+    [
+      "Charlotte Hornets",
+      "was owned by",
+      "George Shinn"
+    ],
+    [
+      "Charlotte Bobcats",
+      "returned as an expansion team in",
+      "2004–05 NBA season"
+    ],
+    [
+      "Michael Jordan",
+      "acquired a minority stake in",
+      "Charlotte Hornets"
+    ],
+    [
+      "Charlotte Hornets",
+      "are a member of",
+      "Southeast Division"
+    ]
+  ]
+}

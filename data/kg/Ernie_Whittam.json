@@ -1,0 +1,48 @@
+{
+  "entities": [
+    "Bournemouth & Boscombe Athletic",
+    "Mansfield Town",
+    "Wolverhampton Wanderers",
+    "Ernie Whittam",
+    "Wealdstone",
+    "Ernest Alfred Whittam",
+    "Huddersfield Town",
+    "Chester"
+  ],
+  "edges": [
+    "played for",
+    "was born in"
+  ],
+  "relations": [
+    [
+      "Ernie Whittam",
+      "played for",
+      "Huddersfield Town"
+    ],
+    [
+      "Ernie Whittam",
+      "played for",
+      "Mansfield Town"
+    ],
+    [
+      "Ernie Whittam",
+      "played for",
+      "Wolverhampton Wanderers"
+    ],
+    [
+      "Ernie Whittam",
+      "played for",
+      "Chester"
+    ],
+    [
+      "Ernie Whittam",
+      "played for",
+      "Bournemouth & Boscombe Athletic"
+    ],
+    [
+      "Ernie Whittam",
+      "was born in",
+      "Wealdstone"
+    ]
+  ]
+}

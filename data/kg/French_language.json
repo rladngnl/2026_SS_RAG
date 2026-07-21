@@ -1,0 +1,312 @@
+{
+  "entities": [
+    "North Africa",
+    "literature",
+    "diplomacy",
+    "Indian Ocean",
+    "speakers",
+    "official language",
+    "International Committee of the Red Cross",
+    "Belgium",
+    "western Switzerland",
+    "Americas",
+    "international organizations",
+    "colonialism",
+    "Oceania",
+    "Frankish_invaders",
+    "Brussels-Capital Region",
+    "Asia",
+    "regional Romance varieties",
+    "Germanic Frankish_language",
+    "International Olympic Committee",
+    "Court of Justice of the European Union",
+    "Canada",
+    "OIF",
+    "World Trade Organization",
+    "world",
+    "langues d'oïl",
+    "Switzerland",
+    "North African countries",
+    "Haitian Creole",
+    "United Nations",
+    "Morocco",
+    "Francophone",
+    "Indo-European_family",
+    "Romandy_region",
+    "Monaco",
+    "European Union",
+    "Quebec",
+    "General Conference on Weights and Measures",
+    "sub-Saharan Africa",
+    "Wallonia",
+    "Roman Empire",
+    "Celtic_languages",
+    "French-based creole languages",
+    "Organisation internationale de la Francophonie",
+    "Vulgar Latin",
+    "Romance_language",
+    "North Atlantic Treaty Organization",
+    "Africa",
+    "Luxembourg",
+    "Algeria",
+    "international language",
+    "science",
+    "Francophone Africa",
+    "Northern Roman Gaul",
+    "Europe",
+    "French_language"
+  ],
+  "edges": [
+    "is a",
+    "descended from",
+    "is referred to as",
+    "was introduced to",
+    "is spoken in",
+    "is a member of",
+    "is an official language in",
+    "was spoken in",
+    "are able to speak",
+    "is a type of",
+    "is the primary language for",
+    "has a long history as an",
+    "was influenced by",
+    "includes",
+    "has",
+    "is the second most widely spoken mother tongue in",
+    "is a primary or second language of",
+    "is a working language in",
+    "lived in"
+  ],
+  "relations": [
+    [
+      "international organizations",
+      "includes",
+      "General Conference on Weights and Measures"
+    ],
+    [
+      "French_language",
+      "is the primary language for",
+      "North African countries"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "sub-Saharan Africa"
+    ],
+    [
+      "international organizations",
+      "includes",
+      "International Olympic Committee"
+    ],
+    [
+      "Organisation internationale de la Francophonie",
+      "has",
+      "54 member states"
+    ],
+    [
+      "French_language",
+      "was introduced to",
+      "Americas"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "Oceania"
+    ],
+    [
+      "French_language",
+      "is the second most widely spoken mother tongue in",
+      "European Union"
+    ],
+    [
+      "French_language",
+      "is an official language in",
+      "26 countries"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "western Switzerland"
+    ],
+    [
+      "French_language",
+      "is a member of",
+      "Organisation internationale de la Francophonie"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "Europe"
+    ],
+    [
+      "French_language",
+      "was introduced to",
+      "Africa"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Luxembourg"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Quebec"
+    ],
+    [
+      "French_language",
+      "was influenced by",
+      "Germanic Frankish_language"
+    ],
+    [
+      "French_language",
+      "has a long history as an",
+      "international language"
+    ],
+    [
+      "French_language",
+      "is a primary or second language of",
+      "international organizations"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Switzerland"
+    ],
+    [
+      "international organizations",
+      "includes",
+      "United Nations"
+    ],
+    [
+      "Vulgar Latin",
+      "was spoken in",
+      "Roman Empire"
+    ],
+    [
+      "Europeans",
+      "are able to speak",
+      "French as a second language"
+    ],
+    [
+      "French_language",
+      "was influenced by",
+      "Celtic_languages"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "North Africa"
+    ],
+    [
+      "North African countries",
+      "includes",
+      "Algeria"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Francophone Africa"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Brussels-Capital Region"
+    ],
+    [
+      "French_language",
+      "is a",
+      "Romance_language"
+    ],
+    [
+      "international organizations",
+      "includes",
+      "International Committee of the Red Cross"
+    ],
+    [
+      "French_language",
+      "is a member of",
+      "Indo-European_family"
+    ],
+    [
+      "French_language",
+      "is referred to as",
+      "Francophone"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "Asia"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "Indian Ocean"
+    ],
+    [
+      "French_language",
+      "is a working language in",
+      "Court of Justice of the European Union"
+    ],
+    [
+      "international organizations",
+      "includes",
+      "North Atlantic Treaty Organization"
+    ],
+    [
+      "French_language",
+      "is a type of",
+      "French-based creole languages"
+    ],
+    [
+      "international organizations",
+      "includes",
+      "World Trade Organization"
+    ],
+    [
+      "North African countries",
+      "includes",
+      "Morocco"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Canada"
+    ],
+    [
+      "French_language",
+      "was introduced to",
+      "Asia"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Belgium"
+    ],
+    [
+      "French_language",
+      "descended from",
+      "Vulgar Latin"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Wallonia"
+    ],
+    [
+      "Francophone population",
+      "lived in",
+      "Americas"
+    ],
+    [
+      "French_language",
+      "is spoken in",
+      "Monaco"
+    ],
+    [
+      "French-based creole languages",
+      "includes",
+      "Haitian Creole"
+    ]
+  ]
+}

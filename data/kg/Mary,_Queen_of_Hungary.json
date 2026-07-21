@@ -1,0 +1,124 @@
+{
+  "entities": [
+    "hunting trip",
+    "Dalmatia",
+    "Poland",
+    "Queen Elizabeth",
+    "Elizabeth of Bosnia",
+    "King of Hungary",
+    "Croatia",
+    "Charles III of Naples",
+    "King of Poland",
+    "Buda",
+    "Maria of Anjou",
+    "Jadwiga",
+    "Mary, Queen of Hungary",
+    "February 1386",
+    "Luxembourg dynasty",
+    "Hungary",
+    "January 1387",
+    "Sigismund of Luxembourg",
+    "Louis the Great",
+    "Upper Hungary",
+    "4 June 1387",
+    "Sigismund"
+  ],
+  "edges": [
+    "is the wife of",
+    "was restored",
+    "was married to",
+    "is the daughter of",
+    "is King of",
+    "is also known as",
+    "was released on",
+    "died after falling from a horse during a",
+    "is a member of",
+    "invaded",
+    "reigned as",
+    "has a younger sister",
+    "landed in",
+    "was murdered in"
+  ],
+  "relations": [
+    [
+      "Mary, Queen of Hungary",
+      "reigned as",
+      "Queen of Croatia"
+    ],
+    [
+      "Charles III of Naples",
+      "landed in",
+      "Dalmatia"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "is the daughter of",
+      "Louis the Great"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "was married to",
+      "Sigismund of Luxembourg"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "was restored",
+      "to the throne"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "was released on",
+      "4 June 1387"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "died after falling from a horse during a",
+      "hunting trip"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "reigned as",
+      "Queen of Hungary"
+    ],
+    [
+      "Louis the Great",
+      "is King of",
+      "Hungary"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "is the wife of",
+      "Sigismund of Luxembourg"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "is also known as",
+      "Maria of Anjou"
+    ],
+    [
+      "Louis the Great",
+      "is King of",
+      "Poland"
+    ],
+    [
+      "Mary, Queen of Hungary",
+      "has a younger sister",
+      "Jadwiga"
+    ],
+    [
+      "Queen Elizabeth",
+      "was murdered in",
+      "January 1387"
+    ],
+    [
+      "Sigismund of Luxembourg",
+      "invaded",
+      "Upper Hungary"
+    ],
+    [
+      "Sigismund of Luxembourg",
+      "is a member of",
+      "Luxembourg dynasty"
+    ]
+  ]
+}

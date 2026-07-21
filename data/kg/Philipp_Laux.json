@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "German",
+    "footballer",
+    "Borussia Dortmund",
+    "sports psychologist",
+    "Philipp Laux",
+    "1973"
+  ],
+  "edges": [
+    "was born on",
+    "works for",
+    "is"
+  ],
+  "relations": [
+    [
+      "Philipp Laux",
+      "is",
+      "German"
+    ],
+    [
+      "Philipp Laux",
+      "works for",
+      "Borussia Dortmund"
+    ],
+    [
+      "Philipp Laux",
+      "is",
+      "sports psychologist"
+    ],
+    [
+      "Philipp Laux",
+      "is",
+      "footballer"
+    ],
+    [
+      "Philipp Laux",
+      "was born on",
+      "1973"
+    ]
+  ]
+}

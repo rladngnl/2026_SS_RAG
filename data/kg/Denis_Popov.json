@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "Denis Popov",
+    "former player",
+    "4 February 1979",
+    "Russian",
+    "football coach",
+    "Denis Aleksandrovich Popov"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Denis Popov",
+      "was born on",
+      "4 February 1979"
+    ],
+    [
+      "Denis Popov",
+      "is",
+      "Russian"
+    ],
+    [
+      "Denis Popov",
+      "is a",
+      "football coach"
+    ],
+    [
+      "Denis Popov",
+      "is a",
+      "former player"
+    ],
+    [
+      "Denis Popov",
+      "is",
+      "Denis Aleksandrovich Popov"
+    ]
+  ]
+}

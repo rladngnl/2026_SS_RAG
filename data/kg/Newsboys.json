@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "Newsboys",
+    "Peter Furler",
+    "DC Talk",
+    "God's Not Dead",
+    "Jeff Frankenstein",
+    "God's Not Dead: A Light in Darkness",
+    "George Perdikis",
+    "Duncan Phillips",
+    "Jody Davis",
+    "Mooloolaba",
+    "Queensland",
+    "Nashville",
+    "Tennessee",
+    "Adam Agee",
+    "God's Not Dead 2",
+    "CCM Magazine",
+    "Michael Tait",
+    "Australia"
+  ],
+  "edges": [
+    "has been certified",
+    "was cited by",
+    "is a band from",
+    "was the lead singer of",
+    "was removed from rotation with",
+    "appeared in",
+    "was founded by",
+    "consists of",
+    "has released",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Newsboys",
+      "appeared in",
+      "God's Not Dead"
+    ],
+    [
+      "Newsboys",
+      "was cited by",
+      "CCM Magazine"
+    ],
+    [
+      "Newsboys",
+      "consists of",
+      "Jody Davis"
+    ],
+    [
+      "Michael Tait",
+      "was the lead singer of",
+      "Newsboys"
+    ],
+    [
+      "Newsboys",
+      "appeared in",
+      "God's Not Dead 2"
+    ],
+    [
+      "Newsboys",
+      "is located in",
+      "Nashville"
+    ],
+    [
+      "Newsboys",
+      "is a band from",
+      "Mooloolaba"
+    ],
+    [
+      "Newsboys",
+      "consists of",
+      "Adam Agee"
+    ],
+    [
+      "Newsboys",
+      "appeared in",
+      "God's Not Dead: A Light in Darkness"
+    ],
+    [
+      "Newsboys",
+      "was founded by",
+      "George Perdikis"
+    ],
+    [
+      "Newsboys",
+      "has released",
+      "seventeen albums"
+    ],
+    [
+      "Newsboys",
+      "was founded by",
+      "Peter Furler"
+    ],
+    [
+      "Newsboys",
+      "was removed from rotation with",
+      "DC Talk"
+    ],
+    [
+      "Newsboys",
+      "consists of",
+      "Duncan Phillips"
+    ],
+    [
+      "Newsboys",
+      "has been certified",
+      "Gold"
+    ],
+    [
+      "Newsboys",
+      "consists of",
+      "Jeff Frankenstein"
+    ]
+  ]
+}

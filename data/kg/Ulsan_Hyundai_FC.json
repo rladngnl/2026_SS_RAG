@@ -1,0 +1,104 @@
+{
+  "entities": [
+    "Hyundai Horang-i",
+    "Korean FA Cup",
+    "Ulsan",
+    "2024",
+    "2020",
+    "2012",
+    "K League 1",
+    "AFC Champions League",
+    "South Korea",
+    "HD Hyundai Heavy Industries",
+    "2017",
+    "Ulsan_Hyundai_FC",
+    "Ulsan Munsu Football Stadium"
+  ],
+  "edges": [
+    "most recently won the league title in",
+    "joined",
+    "is owned by",
+    "was founded as",
+    "won the Korean FA Cup in",
+    "has home ground",
+    "has won the Korean FA Cup",
+    "has won the AFC Champions League",
+    "has won the league title",
+    "won the AFC Champions League in",
+    "is the only club to have won the tournament",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Ulsan_Hyundai_FC",
+      "joined",
+      "K League 1"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "has home ground",
+      "Ulsan Munsu Football Stadium"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "most recently won the league title in",
+      "2024"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "won the AFC Champions League in",
+      "2012"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "is based in",
+      "Ulsan"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "has won the league title",
+      "5 times"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "won the AFC Champions League in",
+      "2020"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "was founded as",
+      "Hyundai Horang-i"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "is owned by",
+      "HD Hyundai Heavy Industries"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "competes in",
+      "K League 1"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "has won the AFC Champions League",
+      "twice"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "is the only club to have won the tournament",
+      "twice without defeat"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "won the Korean FA Cup in",
+      "2017"
+    ],
+    [
+      "Ulsan_Hyundai_FC",
+      "has won the Korean FA Cup",
+      "once"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "1979",
+    "Edmonton Drillers",
+    "Edmonton Black Gold",
+    "Oakland Stompers",
+    "North American Soccer League",
+    "Hartford Bicentennials",
+    "Peter Pocklington",
+    "Brian Rice",
+    "1982",
+    "Connecticut Bicentennials"
+  ],
+  "edges": [
+    "played from",
+    "were a",
+    "brought",
+    "was owner of",
+    "played",
+    "witnessed support for",
+    "were known as"
+  ],
+  "relations": [
+    [
+      "Peter Pocklington",
+      "was owner of",
+      "Edmonton Oilers"
+    ],
+    [
+      "Edmonton Drillers",
+      "were known as",
+      "Connecticut Bicentennials"
+    ],
+    [
+      "Peter Pocklington",
+      "brought",
+      "Edmonton Drillers"
+    ],
+    [
+      "Peter Pocklington",
+      "witnessed support for",
+      "Brian Rice's Edmonton Black Gold team"
+    ],
+    [
+      "Edmonton Drillers",
+      "played from",
+      "1979 to 1982"
+    ],
+    [
+      "Edmonton Drillers",
+      "were a",
+      "North American Soccer League team"
+    ],
+    [
+      "Edmonton Drillers",
+      "were known as",
+      "Oakland Stompers"
+    ],
+    [
+      "Edmonton Drillers",
+      "were known as",
+      "Hartford Bicentennials"
+    ],
+    [
+      "Edmonton Drillers",
+      "played",
+      "outdoors and indoors"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "AG København",
+    "Skive fH",
+    "AG Håndbold",
+    "Bjerringbro-Silkeborg",
+    "Århus Håndbold",
+    "Danish league",
+    "Danish Championship",
+    "Danish Men's Handball Cup",
+    "FCK Håndbold",
+    "Jester 'Kasi' Nielsen"
+  ],
+  "edges": [
+    "beat the spectator record in",
+    "were offered to take over",
+    "repeated the double in",
+    "filed for bankruptcy when",
+    "won its first title in",
+    "beat",
+    "won",
+    "was created as fusion of"
+  ],
+  "relations": [
+    [
+      "AG København",
+      "won its first title in",
+      "Danish Men's Handball Cup"
+    ],
+    [
+      "Skive fH",
+      "were offered to take over",
+      "AG's place in the league"
+    ],
+    [
+      "AG København",
+      "was created as fusion of",
+      "FCK Håndbold"
+    ],
+    [
+      "AG København",
+      "filed for bankruptcy when",
+      "Jester 'Kasi' Nielsen"
+    ],
+    [
+      "AG København",
+      "repeated the double in",
+      "2011/2012 season"
+    ],
+    [
+      "AG København",
+      "beat the spectator record in",
+      "Danish league"
+    ],
+    [
+      "AG København",
+      "beat",
+      "Århus Håndbold"
+    ],
+    [
+      "AG København",
+      "was created as fusion of",
+      "AG Håndbold"
+    ],
+    [
+      "AG København",
+      "won",
+      "Danish Championship"
+    ]
+  ]
+}

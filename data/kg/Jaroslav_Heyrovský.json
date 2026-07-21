@@ -1,0 +1,40 @@
+{
+  "entities": [
+    "1959",
+    "Jaroslav Heyrovský",
+    "Czech",
+    "chemist",
+    "inventor",
+    "Chemistry",
+    "polarography",
+    "Nobel Prize"
+  ],
+  "edges": [
+    "invented",
+    "received",
+    "was",
+    "was awarded in"
+  ],
+  "relations": [
+    [
+      "Jaroslav Heyrovský",
+      "was",
+      "Czech chemist and inventor"
+    ],
+    [
+      "Jaroslav Heyrovský",
+      "invented",
+      "polarography"
+    ],
+    [
+      "Nobel Prize",
+      "was awarded in",
+      "1959"
+    ],
+    [
+      "Jaroslav Heyrovský",
+      "received",
+      "Nobel Prize in Chemistry"
+    ]
+  ]
+}

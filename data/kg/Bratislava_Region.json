@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "1996",
+    "eight regions",
+    "Bratislava",
+    "Bratislava Region",
+    "Pressburger Landschaftsverband",
+    "GDP per capita",
+    "Pozsonyi kerület",
+    "Slovakia",
+    "1923"
+  ],
+  "edges": [
+    "was first established in",
+    "has present borders since",
+    "is the smallest of",
+    "has capital",
+    "is the most developed",
+    "is the most urbanized",
+    "is one of the administrative regions of",
+    "is the most productive by"
+  ],
+  "relations": [
+    [
+      "Bratislava Region",
+      "is one of the administrative regions of",
+      "Slovakia"
+    ],
+    [
+      "Bratislava Region",
+      "has present borders since",
+      "1996"
+    ],
+    [
+      "Bratislava Region",
+      "is the most urbanized",
+      "Bratislava Region"
+    ],
+    [
+      "Bratislava Region",
+      "is the most productive by",
+      "GDP per capita"
+    ],
+    [
+      "Bratislava Region",
+      "has capital",
+      "Bratislava"
+    ],
+    [
+      "Bratislava Region",
+      "is the most developed",
+      "Bratislava Region"
+    ],
+    [
+      "Bratislava Region",
+      "is the smallest of",
+      "eight regions"
+    ],
+    [
+      "Bratislava Region",
+      "was first established in",
+      "1923"
+    ]
+  ]
+}

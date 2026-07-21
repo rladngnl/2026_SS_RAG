@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Kabyle",
+    "former player",
+    "football manager",
+    "6 March 1969",
+    "Algerian",
+    "Moussa Saïb",
+    "Musa Sayb"
+  ],
+  "edges": [
+    "is born on",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Moussa Saïb",
+      "is",
+      "Algerian"
+    ],
+    [
+      "Moussa Saïb",
+      "is",
+      "former player"
+    ],
+    [
+      "Moussa Saïb",
+      "is",
+      "football manager"
+    ],
+    [
+      "Moussa Saïb",
+      "is born on",
+      "6 March 1969"
+    ],
+    [
+      "Moussa Saïb",
+      "is from",
+      "Kabyle"
+    ]
+  ]
+}

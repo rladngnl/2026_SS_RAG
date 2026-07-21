@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "Regionalliga Bayern",
+    "3. Liga",
+    "1994",
+    "2008",
+    "Regionalliga Süd",
+    "Bayern Munich",
+    "2018–19",
+    "2004",
+    "2010–11",
+    "2005",
+    "FC Bayern Munich II",
+    "2019–20"
+  ],
+  "edges": [
+    "played in",
+    "was usurped by",
+    "is reserve team of",
+    "plays in",
+    "qualified for",
+    "finished last in",
+    "were relegated from",
+    "regained promotion by winning",
+    "won"
+  ],
+  "relations": [
+    [
+      "FC Bayern Munich II",
+      "won",
+      "3. Liga"
+    ],
+    [
+      "FC Bayern Munich II",
+      "is reserve team of",
+      "Bayern Munich"
+    ],
+    [
+      "FC Bayern Munich II",
+      "were relegated from",
+      "3. Liga"
+    ],
+    [
+      "FC Bayern Munich II",
+      "won",
+      "Regionalliga Süd"
+    ],
+    [
+      "FC Bayern Munich II",
+      "finished last in",
+      "3. Liga"
+    ],
+    [
+      "FC Bayern Munich II",
+      "played in",
+      "Regionalliga Süd"
+    ],
+    [
+      "FC Bayern Munich II",
+      "regained promotion by winning",
+      "2018–19 Regionalliga"
+    ],
+    [
+      "FC Bayern Munich II",
+      "played in",
+      "3. Liga"
+    ],
+    [
+      "FC Bayern Munich II",
+      "plays in",
+      "Regionalliga Bayern"
+    ],
+    [
+      "Regionalliga Süd",
+      "was usurped by",
+      "3. Liga"
+    ],
+    [
+      "FC Bayern Munich II",
+      "qualified for",
+      "3. Liga"
+    ]
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "entities": [
+    "NBC Sports Washington",
+    "1994",
+    "Alan Randy May",
+    "Washington Capitals",
+    "January 14, 1965",
+    "2009",
+    "home games",
+    "NHL",
+    "1989",
+    "Monumental Sports Network",
+    "Canadian-American",
+    "rinkside analyst"
+  ],
+  "edges": [
+    "is born on",
+    "played from",
+    "performs duties as",
+    "is a",
+    "is most known for his time playing for",
+    "played until",
+    "was formerly known as",
+    "has been a",
+    "is a former",
+    "started in",
+    "played for",
+    "performs duties for"
+  ],
+  "relations": [
+    [
+      "Alan Randy May",
+      "started in",
+      "2009"
+    ],
+    [
+      "Alan Randy May",
+      "is a",
+      "Canadian-American"
+    ],
+    [
+      "Monumental Sports Network",
+      "was formerly known as",
+      "NBC Sports Washington"
+    ],
+    [
+      "Alan Randy May",
+      "is born on",
+      "January 14, 1965"
+    ],
+    [
+      "Alan Randy May",
+      "played until",
+      "1994"
+    ],
+    [
+      "Alan Randy May",
+      "has been a",
+      "studio host and analyst at Monumental Sports Network"
+    ],
+    [
+      "Alan Randy May",
+      "played for",
+      "Washington Capitals"
+    ],
+    [
+      "Alan Randy May",
+      "performs duties as",
+      "rinkside analyst"
+    ],
+    [
+      "Alan Randy May",
+      "performs duties for",
+      "all home games"
+    ],
+    [
+      "Alan Randy May",
+      "is a former",
+      "NHL player"
+    ],
+    [
+      "Alan Randy May",
+      "is most known for his time playing for",
+      "Washington Capitals"
+    ],
+    [
+      "Alan Randy May",
+      "played from",
+      "1989"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Libourne Saint-Seurin-sur-L'Isle",
+    "Championnat National 1",
+    "Libourne",
+    "French football",
+    "Football Club Libourne",
+    "Nouvelle-Aquitaine",
+    "AS Libourne"
+  ],
+  "edges": [
+    "is the fourth tier of",
+    "is formerly known as",
+    "plays in",
+    "is a football team from",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Championnat National 1",
+      "is the fourth tier of",
+      "French football"
+    ],
+    [
+      "Football Club Libourne",
+      "plays in",
+      "Championnat National 1"
+    ],
+    [
+      "Football Club Libourne",
+      "is located in",
+      "Nouvelle-Aquitaine"
+    ],
+    [
+      "Football Club Libourne",
+      "is formerly known as",
+      "AS Libourne"
+    ],
+    [
+      "Football Club Libourne",
+      "is formerly known as",
+      "Libourne Saint-Seurin-sur-L'Isle"
+    ],
+    [
+      "Football Club Libourne",
+      "is a football team from",
+      "Libourne"
+    ]
+  ]
+}

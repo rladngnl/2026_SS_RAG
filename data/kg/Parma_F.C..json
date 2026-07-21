@@ -1,0 +1,128 @@
+{
+  "entities": [
+    "UEFA Cups",
+    "UEFA Cup Winners' Cup",
+    "Parmalat",
+    "Emilia-Romagna",
+    "European Super Cup",
+    "Calisto Tanzi",
+    "Supercoppa Italiana",
+    "Parma",
+    "Stadio Ennio Tardini",
+    "2018",
+    "Serie A",
+    "Parma Calcio 1913",
+    "Parma Football Club",
+    "Serie D",
+    "Il Tardini",
+    "Coppa Italia"
+  ],
+  "edges": [
+    "was refounded in",
+    "competes in",
+    "achieved its best ever league finish as",
+    "has won",
+    "was financed by",
+    "has home matches at",
+    "were brought about by",
+    "was declared bankrupt in",
+    "secured a record three straight promotions to return to",
+    "won",
+    "was founded in",
+    "is often referred to as",
+    "dates back to",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Parma Football Club",
+      "has won",
+      "two UEFA Cups"
+    ],
+    [
+      "Parma Football Club",
+      "was declared bankrupt in",
+      "2015"
+    ],
+    [
+      "Parma Football Club",
+      "secured a record three straight promotions to return to",
+      "the top flight in 2018"
+    ],
+    [
+      "Parma Football Club",
+      "won",
+      "eight trophies"
+    ],
+    [
+      "Parma Football Club",
+      "has won",
+      "one Supercoppa Italiana"
+    ],
+    [
+      "Parma Football Club",
+      "achieved its best ever league finish as",
+      "runners-up in the 1996–97 season"
+    ],
+    [
+      "Parma Football Club",
+      "has home matches at",
+      "Stadio Ennio Tardini"
+    ],
+    [
+      "Parma Football Club",
+      "dates back to",
+      "2015"
+    ],
+    [
+      "Stadio Ennio Tardini",
+      "is often referred to as",
+      "Il Tardini"
+    ],
+    [
+      "Parma Football Club",
+      "has won",
+      "one UEFA Cup Winners' Cup"
+    ],
+    [
+      "Parma Football Club",
+      "was financed by",
+      "Calisto Tanzi"
+    ],
+    [
+      "Parma Football Club",
+      "was founded in",
+      "December 1913"
+    ],
+    [
+      "Financial troubles",
+      "were brought about by",
+      "Parmalat scandal"
+    ],
+    [
+      "Parma Football Club",
+      "was refounded in",
+      "Serie D"
+    ],
+    [
+      "Parma Calcio 1913",
+      "is based in",
+      "Parma"
+    ],
+    [
+      "Parma Football Club",
+      "has won",
+      "three Coppa Italia"
+    ],
+    [
+      "Parma Football Club",
+      "has won",
+      "one European Super Cup"
+    ],
+    [
+      "Parma Calcio 1913",
+      "competes in",
+      "Serie A"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "entities": [
+    "Qatar",
+    "Al-Khor Sports Club",
+    "Arabic",
+    "football team",
+    "نادي الخور الرياضي",
+    "Al Khor",
+    "Qatar Stars League",
+    "2024-25 season",
+    "Al-Khor Stadium",
+    "Qatari Second Division"
+  ],
+  "edges": [
+    "returns to",
+    "had a short absence from",
+    "plays its home games at",
+    "is best known for",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Al-Khor Sports Club",
+      "plays its home games at",
+      "Al-Khor Stadium"
+    ],
+    [
+      "football team",
+      "returns to",
+      "2024-25 season"
+    ],
+    [
+      "Al-Khor Sports Club",
+      "is best known for",
+      "football team"
+    ],
+    [
+      "football team",
+      "competes in",
+      "Qatar Stars League"
+    ],
+    [
+      "Al-Khor Sports Club",
+      "is based in",
+      "Al Khor"
+    ],
+    [
+      "football team",
+      "had a short absence from",
+      "Qatari Second Division"
+    ]
+  ]
+}

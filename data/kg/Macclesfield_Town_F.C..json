@@ -1,0 +1,130 @@
+{
+  "entities": [
+    "Combination league",
+    "Conference",
+    "North West Counties Football League",
+    "Third Division",
+    "National League",
+    "Robert Smethurst",
+    "Northern Premier League",
+    "Moss Rose",
+    "FA Trophy",
+    "Macclesfield F.C.",
+    "Macclesfield Town Football Club",
+    "Football League",
+    "Cheshire County League",
+    "Second Division",
+    "Manchester League"
+  ],
+  "edges": [
+    "won the",
+    "stayed in the fourth tier of",
+    "was wound-up after a High Court ruling on",
+    "was promoted to",
+    "was established as",
+    "was initially known as",
+    "led",
+    "won promotion in",
+    "was a founder member of",
+    "was an association football club based in",
+    "was relegated from",
+    "won the title of",
+    "was a member of",
+    "competed in",
+    "entered into",
+    "played home games at",
+    "purchased the assets of"
+  ],
+  "relations": [
+    [
+      "Macclesfield F.C.",
+      "entered into",
+      "North West Counties Football League"
+    ],
+    [
+      "Macclesfield F.C.",
+      "was initially known as",
+      "Macclesfield Town Football Club"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was promoted to",
+      "Conference"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "competed in",
+      "Combination league"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was relegated from",
+      "Second Division"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was a member of",
+      "Manchester League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was an association football club based in",
+      "Macclesfield"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was a founder member of",
+      "Northern Premier League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was a member of",
+      "Cheshire County League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was wound-up after a High Court ruling on",
+      "16 September 2020"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "won the title of",
+      "Manchester League"
+    ],
+    [
+      "John Askey",
+      "led",
+      "Macclesfield Town Football Club"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "won promotion in",
+      "Football League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "played home games at",
+      "Moss Rose"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "won the",
+      "FA Trophy"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "stayed in the fourth tier of",
+      "Football League"
+    ],
+    [
+      "Macclesfield Town",
+      "was established as",
+      "Macclesfield F.C."
+    ],
+    [
+      "Robert Smethurst",
+      "purchased the assets of",
+      "Macclesfield Town"
+    ]
+  ]
+}

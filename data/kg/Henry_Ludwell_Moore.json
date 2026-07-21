@@ -1,0 +1,73 @@
+{
+  "entities": [
+    "econometrics",
+    "American saints in economics",
+    "Harry Gunnison Brown",
+    "Paul Samuelson",
+    "Allyn Abbott Young",
+    "Frank Knight",
+    "American economist",
+    "Henry Schultz",
+    "Wesley Clair Mitchell",
+    "Jacob Viner",
+    "Henry Ludwell Moore"
+  ],
+  "edges": [
+    "named",
+    "is known for",
+    "is one of the",
+    "is"
+  ],
+  "relations": [
+    [
+      "Paul Samuelson",
+      "named",
+      "Frank Knight"
+    ],
+    [
+      "Henry Ludwell Moore",
+      "is one of the",
+      "American saints in economics"
+    ],
+    [
+      "Paul Samuelson",
+      "named",
+      "Wesley Clair Mitchell"
+    ],
+    [
+      "Paul Samuelson",
+      "named",
+      "Jacob Viner"
+    ],
+    [
+      "Paul Samuelson",
+      "named",
+      "Allyn Abbott Young"
+    ],
+    [
+      "Henry Ludwell Moore",
+      "is known for",
+      "econometrics"
+    ],
+    [
+      "Paul Samuelson",
+      "named",
+      "Harry Gunnison Brown"
+    ],
+    [
+      "Paul Samuelson",
+      "named",
+      "Henry Ludwell Moore"
+    ],
+    [
+      "Paul Samuelson",
+      "named",
+      "Henry Schultz"
+    ],
+    [
+      "Henry Ludwell Moore",
+      "is",
+      "American economist"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "Petrobras",
+    "2013 FIFA Confederations Cup",
+    "Portuguese Empire",
+    "Maracanã Stadium",
+    "prince regent John of Braganza",
+    "G20 summit",
+    "2024",
+    "FIFA Women's World Cup",
+    "Ipanema",
+    "Rio de Janeiro",
+    "Christ the Redeemer",
+    "2016 Summer Olympics",
+    "2016 Paralympics",
+    "Captaincy of Rio de Janeiro",
+    "Sambódromo",
+    "Sugarloaf Mountain",
+    "Brazilian War of Independence",
+    "Southern Hemisphere",
+    "2014 FIFA World Cup",
+    "Queen Maria I of Portugal",
+    "Vale",
+    "United Kingdom of Portugal, Brazil, and Algarves",
+    "São Paulo",
+    "Brasília",
+    "Empire of Brazil",
+    "Barra da Tijuca",
+    "Grupo Globo",
+    "1950 FIFA World Cup",
+    "2027",
+    "State of Brazil",
+    "Brazil",
+    "Corcovado mountain",
+    "XV Pan American Games",
+    "Copacabana",
+    "Leblon"
+  ],
+  "edges": [
+    "is the capital of",
+    "served as the capital of",
+    "is the second-most-populous city in",
+    "was initially the seat of",
+    "became the seat of the court of",
+    "was the host of",
+    "became the capital of",
+    "hosted",
+    "held the finals of",
+    "will host",
+    "was the leader of"
+  ],
+  "relations": [
+    [
+      "Rio de Janeiro",
+      "was initially the seat of",
+      "Captaincy of Rio de Janeiro"
+    ],
+    [
+      "Rio de Janeiro",
+      "will host",
+      "G20 summit"
+    ],
+    [
+      "Rio de Janeiro",
+      "is the second-most-populous city in",
+      "Brazil"
+    ],
+    [
+      "Rio de Janeiro",
+      "became the capital of",
+      "State of Brazil"
+    ],
+    [
+      "Rio de Janeiro",
+      "hosted",
+      "XV Pan American Games"
+    ],
+    [
+      "Maracanã Stadium",
+      "held the finals of",
+      "1950 FIFA World Cup"
+    ],
+    [
+      "Maracanã Stadium",
+      "held the finals of",
+      "2013 FIFA Confederations Cup"
+    ],
+    [
+      "Rio de Janeiro",
+      "will host",
+      "FIFA Women's World Cup"
+    ],
+    [
+      "Rio de Janeiro",
+      "became the seat of the court of",
+      "Queen Maria I of Portugal"
+    ],
+    [
+      "Maracanã Stadium",
+      "held the finals of",
+      "2014 FIFA World Cup"
+    ],
+    [
+      "Rio de Janeiro",
+      "is the capital of",
+      "State of Brazil"
+    ],
+    [
+      "Rio de Janeiro",
+      "was the host of",
+      "2016 Summer Olympics"
+    ],
+    [
+      "Rio de Janeiro",
+      "was the host of",
+      "2016 Paralympics"
+    ],
+    [
+      "Queen Maria I of Portugal",
+      "was the leader of",
+      "Rio de Janeiro"
+    ],
+    [
+      "Rio de Janeiro",
+      "served as the capital of",
+      "Empire of Brazil"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "quarter final",
+    "professional footballer",
+    "FA Cup",
+    "Leicester City",
+    "Northern Ireland",
+    "Roy Kabina Essandoh",
+    "Ceefax advert",
+    "Wycombe Wanderers"
+  ],
+  "edges": [
+    "turned up because of a",
+    "is a",
+    "was with",
+    "played against",
+    "is best remembered for his last gasp"
+  ],
+  "relations": [
+    [
+      "Roy Kabina Essandoh",
+      "is best remembered for his last gasp",
+      "FA Cup quarter final winner"
+    ],
+    [
+      "Roy Kabina Essandoh",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Roy Kabina Essandoh",
+      "played against",
+      "Leicester City"
+    ],
+    [
+      "Roy Kabina Essandoh",
+      "was with",
+      "Wycombe Wanderers"
+    ],
+    [
+      "Roy Kabina Essandoh",
+      "turned up because of a",
+      "Ceefax advert"
+    ]
+  ]
+}

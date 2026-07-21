@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "Skeid",
+    "Oslo",
+    "forward",
+    "Kosovar-Albanian",
+    "Erzgebirge Aue",
+    "under-21",
+    "professional footballer",
+    "Kosovo",
+    "Odd",
+    "Norway",
+    "under-15",
+    "Kosovar",
+    "FC Twente",
+    "Strømsgodset",
+    "MSV Duisburg",
+    "Flamur Kastrati",
+    "VfL Osnabrück",
+    "Norway national youth team",
+    "Eliteserien"
+  ],
+  "edges": [
+    "is a",
+    "is of",
+    "represented",
+    "joined",
+    "wants to represent",
+    "played as a",
+    "spent time on loan with",
+    "moved to",
+    "started his senior career in",
+    "played for",
+    "grew up in"
+  ],
+  "relations": [
+    [
+      "Flamur Kastrati",
+      "started his senior career in",
+      "Skeid"
+    ],
+    [
+      "Flamur Kastrati",
+      "joined",
+      "Strømsgodset"
+    ],
+    [
+      "Flamur Kastrati",
+      "is a",
+      "Kosovar retired professional footballer"
+    ],
+    [
+      "Flamur Kastrati",
+      "moved to",
+      "Dutch side FC Twente"
+    ],
+    [
+      "Flamur Kastrati",
+      "grew up in",
+      "Norway"
+    ],
+    [
+      "Flamur Kastrati",
+      "represented",
+      "Norway national youth team"
+    ],
+    [
+      "Flamur Kastrati",
+      "wants to represent",
+      "Kosovo"
+    ],
+    [
+      "Flamur Kastrati",
+      "is of",
+      "Kosovar-Albanian descent"
+    ],
+    [
+      "Flamur Kastrati",
+      "joined",
+      "MSV Duisburg"
+    ],
+    [
+      "Flamur Kastrati",
+      "spent time on loan with",
+      "German side VfL Osnabrück"
+    ],
+    [
+      "Flamur Kastrati",
+      "played for",
+      "Eliteserien club Odd"
+    ],
+    [
+      "Flamur Kastrati",
+      "played as a",
+      "forward"
+    ]
+  ]
+}

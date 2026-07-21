@@ -1,0 +1,139 @@
+{
+  "entities": [
+    "Kazimierz Górski National Stadium",
+    "Ukraine",
+    "Poland national football team",
+    "1982",
+    "2022 FIFA World Cup",
+    "The White-Reds",
+    "UEFA European Championship",
+    "1972 Munich Olympics",
+    "The Eagles",
+    "1974",
+    "Portugal",
+    "Polish Football Association",
+    "PZPN",
+    "2016",
+    "Grzegorz Lato",
+    "1976 Montreal Olympics",
+    "FIFA World Cups",
+    "Warsaw",
+    "1974 FIFA World Cup",
+    "Brazil",
+    "2008",
+    "2012",
+    "Golden Shoe"
+  ],
+  "edges": [
+    "was co-hosts of",
+    "is known by the nicknames",
+    "reached",
+    "scored",
+    "has competed in",
+    "was eliminated by",
+    "has home ground",
+    "is governed by",
+    "achieved best result",
+    "won",
+    "represents",
+    "was co-hosted with",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Poland national football team",
+      "represents",
+      "Poland"
+    ],
+    [
+      "Poland national football team",
+      "won",
+      "Golden Shoe"
+    ],
+    [
+      "Poland national football team",
+      "was eliminated by",
+      "Brazil"
+    ],
+    [
+      "Poland national football team",
+      "achieved best result",
+      "quarter-final appearance"
+    ],
+    [
+      "Grzegorz Lato",
+      "won",
+      "Golden Shoe"
+    ],
+    [
+      "Poland national football team",
+      "won",
+      "gold"
+    ],
+    [
+      "Poland national football team",
+      "won",
+      "silver medal"
+    ],
+    [
+      "Grzegorz Lato",
+      "scored",
+      "seven goals"
+    ],
+    [
+      "Poland national football team",
+      "has home ground",
+      "Kazimierz Górski National Stadium"
+    ],
+    [
+      "Poland national football team",
+      "is known by the nicknames",
+      "The White-Reds"
+    ],
+    [
+      "Poland national football team",
+      "was co-hosts of",
+      "2012 edition"
+    ],
+    [
+      "2012 edition",
+      "was co-hosted with",
+      "Ukraine"
+    ],
+    [
+      "Poland national football team",
+      "reached",
+      "round of 16"
+    ],
+    [
+      "Poland national football team",
+      "achieved best result",
+      "third place"
+    ],
+    [
+      "Poland national football team",
+      "is known by the nicknames",
+      "The Eagles"
+    ],
+    [
+      "Kazimierz Górski National Stadium",
+      "is located in",
+      "Warsaw"
+    ],
+    [
+      "Poland national football team",
+      "has competed in",
+      "UEFA European Championship"
+    ],
+    [
+      "Poland national football team",
+      "has competed in",
+      "FIFA World Cups"
+    ],
+    [
+      "Poland national football team",
+      "is governed by",
+      "Polish Football Association"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "England",
+    "Borehamwood",
+    "National League",
+    "1948",
+    "Meadow Park",
+    "Boreham Wood Football Club",
+    "Hertfordshire",
+    "the Wood"
+  ],
+  "edges": [
+    "is known as",
+    "is based in",
+    "is located in",
+    "is a member of",
+    "was established in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Boreham Wood Football Club",
+      "is known as",
+      "the Wood"
+    ],
+    [
+      "Boreham Wood Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Boreham Wood Football Club",
+      "plays at",
+      "Meadow Park"
+    ],
+    [
+      "Boreham Wood Football Club",
+      "is located in",
+      "Hertfordshire"
+    ],
+    [
+      "Boreham Wood Football Club",
+      "is a member of",
+      "National League"
+    ],
+    [
+      "Boreham Wood Football Club",
+      "was established in",
+      "1948"
+    ],
+    [
+      "Boreham Wood Football Club",
+      "is based in",
+      "Borehamwood"
+    ]
+  ]
+}

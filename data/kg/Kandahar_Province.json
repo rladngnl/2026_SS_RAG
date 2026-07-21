@@ -1,0 +1,144 @@
+{
+  "entities": [
+    "Ahmad Shah Durrani",
+    "Arachosia",
+    "Helmand",
+    "Taliban",
+    "wheat",
+    "Arghandab River",
+    "Afghanistan",
+    "Kushan",
+    "Zabul",
+    "South Asia",
+    "pomegranates",
+    "Iranian Plateau",
+    "Achaemenid",
+    "Central Asia",
+    "Islamic rule",
+    "Balochistan",
+    "Hellenistic",
+    "Kandahar",
+    "grapes",
+    "18th century",
+    "Loy Kandahar",
+    "Uruzgan",
+    "Kandahar Province"
+  ],
+  "edges": [
+    "is known as",
+    "produces",
+    "is strategically important for",
+    "is the capital of",
+    "borders",
+    "plays a role in",
+    "has capital",
+    "founded",
+    "is characterized by",
+    "has presence of",
+    "is part of",
+    "was birthplace of",
+    "serves as"
+  ],
+  "relations": [
+    [
+      "Kandahar Province",
+      "borders",
+      "Zabul"
+    ],
+    [
+      "Kandahar Province",
+      "has capital",
+      "Kandahar"
+    ],
+    [
+      "Kandahar Province",
+      "plays a role in",
+      "Afghanistan's agricultural economy"
+    ],
+    [
+      "Kandahar Province",
+      "borders",
+      "Balochistan"
+    ],
+    [
+      "Kandahar Province",
+      "was birthplace of",
+      "Ahmad Shah Durrani"
+    ],
+    [
+      "Kandahar Province",
+      "produces",
+      "grapes"
+    ],
+    [
+      "Kandahar Province",
+      "produces",
+      "wheat"
+    ],
+    [
+      "Kandahar",
+      "has presence of",
+      "Taliban"
+    ],
+    [
+      "Kandahar Province",
+      "produces",
+      "pomegranates"
+    ],
+    [
+      "Kandahar Province",
+      "is characterized by",
+      "fertile agricultural zones"
+    ],
+    [
+      "Kandahar",
+      "is the capital of",
+      "Kandahar Province"
+    ],
+    [
+      "Kandahar Province",
+      "is known as",
+      "the symbolic heartland of Afghan statehood"
+    ],
+    [
+      "Kandahar Province",
+      "is characterized by",
+      "arid climate"
+    ],
+    [
+      "Kandahar",
+      "serves as",
+      "the seat of national power"
+    ],
+    [
+      "Kandahar Province",
+      "is characterized by",
+      "desert landscapes"
+    ],
+    [
+      "Kandahar Province",
+      "borders",
+      "Helmand"
+    ],
+    [
+      "Kandahar Province",
+      "is part of",
+      "Afghanistan"
+    ],
+    [
+      "Ahmad Shah Durrani",
+      "founded",
+      "the modern Afghan state"
+    ],
+    [
+      "Kandahar Province",
+      "borders",
+      "Uruzgan"
+    ],
+    [
+      "Kandahar Province",
+      "is strategically important for",
+      "Afghanistan"
+    ]
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "entities": [
+    "1914",
+    "SpVgg Greuther Fürth",
+    "SpVgg Fürth",
+    "Greuther Fürth",
+    "Bundesliga",
+    "Bundesliga table",
+    "1929",
+    "German football club",
+    "Bavaria",
+    "Fürth",
+    "1920",
+    "2012–13 season",
+    "2. Bundesliga",
+    "German championships",
+    "1926",
+    "1903",
+    "2021–22 season",
+    "promotion",
+    "18th"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "placed",
+    "plays in",
+    "was relegated back to",
+    "finished as runners-up in",
+    "includes",
+    "won",
+    "was promoted back to",
+    "was founded in",
+    "was promoted from"
+  ],
+  "relations": [
+    [
+      "German championships",
+      "includes",
+      "1929"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "played in",
+      "Bundesliga"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "was promoted back to",
+      "Bundesliga"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "placed",
+      "18th in Bundesliga table"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "won",
+      "German championships"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "plays in",
+      "2. Bundesliga"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "is a",
+      "German football club"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "was promoted from",
+      "2. Bundesliga"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "was relegated back to",
+      "2. Bundesliga"
+    ],
+    [
+      "German championships",
+      "includes",
+      "1914"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "was founded in",
+      "1903"
+    ],
+    [
+      "German championships",
+      "includes",
+      "1926"
+    ],
+    [
+      "SpVgg Greuther Fürth",
+      "finished as runners-up in",
+      "1920"
+    ]
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "entities": [
+    "industrial capitalism",
+    "Alexandria",
+    "Second World War",
+    "Berlin",
+    "The Age of Capital: 1848–1875",
+    "Order of the Companions of Honour",
+    "Marxist",
+    "nationalism",
+    "The Age of Extremes",
+    "Egypt",
+    "Birkbeck, University of London",
+    "The Age of Empire: 1875–1914",
+    "The Age of Revolution: Europe 1789–1848",
+    "British historian",
+    "Balzan Prize",
+    "Eric Hobsbawm",
+    "long 19th century",
+    "socialism",
+    "PhD",
+    "Adolf Hitler",
+    "European History since 1900",
+    "20th century Europe",
+    "short 20th century",
+    "University of Cambridge",
+    "London",
+    "Vienna",
+    "invented traditions"
+  ],
+  "edges": [
+    "was president of",
+    "was a",
+    "influenced the character of his work with",
+    "served in",
+    "moved to",
+    "wrote about",
+    "introduced the idea of",
+    "was appointed to the",
+    "was born in",
+    "was awarded for",
+    "was a life-long",
+    "received the",
+    "obtained his",
+    "is known for his works including",
+    "spent his childhood mainly in"
+  ],
+  "relations": [
+    [
+      "Eric Hobsbawm",
+      "is known for his works including",
+      "The Age of Capital: 1848–1875"
+    ],
+    [
+      "Eric Hobsbawm",
+      "introduced the idea of",
+      "invented traditions"
+    ],
+    [
+      "Eric Hobsbawm",
+      "was a life-long",
+      "Marxist"
+    ],
+    [
+      "Eric Hobsbawm",
+      "was born in",
+      "Alexandria"
+    ],
+    [
+      "Eric Hobsbawm",
+      "is known for his works including",
+      "The Age of Revolution: Europe 1789–1848"
+    ],
+    [
+      "Eric Hobsbawm",
+      "wrote about",
+      "socialism"
+    ],
+    [
+      "Eric Hobsbawm",
+      "is known for his works including",
+      "short 20th century"
+    ],
+    [
+      "Eric Hobsbawm",
+      "is known for his works including",
+      "The Age of Empire: 1875–1914"
+    ],
+    [
+      "Eric Hobsbawm",
+      "was a",
+      "British historian"
+    ],
+    [
+      "Eric Hobsbawm",
+      "received the",
+      "Balzan Prize"
+    ],
+    [
+      "Eric Hobsbawm",
+      "was president of",
+      "Birkbeck, University of London"
+    ],
+    [
+      "Eric Hobsbawm",
+      "spent his childhood mainly in",
+      "Vienna"
+    ],
+    [
+      "Eric Hobsbawm",
+      "spent his childhood mainly in",
+      "Berlin"
+    ],
+    [
+      "Eric Hobsbawm",
+      "is known for his works including",
+      "long 19th century"
+    ],
+    [
+      "Eric Hobsbawm",
+      "is known for his works including",
+      "The Age of Extremes"
+    ],
+    [
+      "Eric Hobsbawm",
+      "influenced the character of his work with",
+      "socio-political convictions"
+    ],
+    [
+      "Eric Hobsbawm",
+      "was appointed to the",
+      "Order of the Companions of Honour"
+    ],
+    [
+      "Eric Hobsbawm",
+      "wrote about",
+      "nationalism"
+    ],
+    [
+      "Eric Hobsbawm",
+      "wrote about",
+      "industrial capitalism"
+    ],
+    [
+      "Balzan Prize",
+      "was awarded for",
+      "European History since 1900"
+    ],
+    [
+      "Eric Hobsbawm",
+      "served in",
+      "Second World War"
+    ],
+    [
+      "Eric Hobsbawm",
+      "obtained his",
+      "PhD"
+    ],
+    [
+      "Eric Hobsbawm",
+      "moved to",
+      "London"
+    ]
+  ]
+}

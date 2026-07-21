@@ -1,0 +1,111 @@
+{
+  "entities": [
+    "Rififi",
+    "Auguste Le Breton",
+    "2000",
+    "National Board of Review",
+    "Du rififi chez les hommes",
+    "Jean Servais",
+    "Tony le Stéphanois",
+    "French film noir",
+    "Cannes Film Festival",
+    "Jules Dassin",
+    "Jo le Suédois",
+    "2015",
+    "César le Milanais",
+    "Carl Möhner",
+    "Rue de la Paix",
+    "Robert Manuel",
+    "Mario Farrati"
+  ],
+  "edges": [
+    "received positive reactions from",
+    "earned award for",
+    "was nominated by",
+    "is blacklisted from",
+    "stars",
+    "is directed by",
+    "was re-released in",
+    "is acclaimed as",
+    "is adaptation of",
+    "is set in",
+    "won"
+  ],
+  "relations": [
+    [
+      "Rififi",
+      "earned award for",
+      "Best Director"
+    ],
+    [
+      "Rififi",
+      "stars",
+      "Jean Servais"
+    ],
+    [
+      "Rififi",
+      "stars",
+      "Carl Möhner"
+    ],
+    [
+      "Jules Dassin",
+      "won",
+      "Best Director"
+    ],
+    [
+      "Rififi",
+      "is acclaimed as",
+      "one of the greatest works in French film noir"
+    ],
+    [
+      "Jules Dassin",
+      "is blacklisted from",
+      "Hollywood"
+    ],
+    [
+      "Rififi",
+      "stars",
+      "Jules Dassin"
+    ],
+    [
+      "Rififi",
+      "is set in",
+      "Rue de la Paix"
+    ],
+    [
+      "Rififi",
+      "was nominated by",
+      "National Board of Review"
+    ],
+    [
+      "Rififi",
+      "is directed by",
+      "Jules Dassin"
+    ],
+    [
+      "Rififi",
+      "was re-released in",
+      "2000"
+    ],
+    [
+      "Rififi",
+      "is adaptation of",
+      "Auguste Le Breton"
+    ],
+    [
+      "Rififi",
+      "received positive reactions from",
+      "audiences and critics"
+    ],
+    [
+      "Rififi",
+      "was re-released in",
+      "2015"
+    ],
+    [
+      "Rififi",
+      "stars",
+      "Robert Manuel"
+    ]
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    "master's degrees",
+    "Mission Santa Clara de Asís",
+    "School of Engineering",
+    "Leavey School of Business",
+    "California",
+    "Fall 2024",
+    "12 NBA players",
+    "School of Law",
+    "NCAA championships",
+    "58 MLB players",
+    "Spanish Colonial Revival",
+    "Broncos",
+    "19 sports",
+    "13 Olympic gold medalists",
+    "1851",
+    "School of Education and Counseling Psychology",
+    "United States",
+    "red",
+    "Doctoral/Professional university",
+    "doctoral degrees",
+    "men's soccer",
+    "40 NFL players",
+    "6,484 undergraduate students",
+    "College of Arts and Sciences",
+    "bachelor's degrees",
+    "Mission Revival architecture",
+    "1777",
+    "3,151 postgraduate students",
+    "West Coast Conference",
+    "NCAA Division I",
+    "Jesuit School of Theology",
+    "women's soccer",
+    "Santa Clara University",
+    "white"
+  ],
+  "edges": [
+    "is classified as a",
+    "compete in",
+    "enrolls",
+    "are members of",
+    "has sports teams called",
+    "traces its founding to",
+    "offers",
+    "include",
+    "was established in",
+    "have won",
+    "is located in",
+    "compete at"
+  ],
+  "relations": [
+    [
+      "Santa Clara University",
+      "offers",
+      "master's degrees"
+    ],
+    [
+      "Broncos",
+      "include",
+      "12 NBA players"
+    ],
+    [
+      "Broncos",
+      "have won",
+      "NCAA championships"
+    ],
+    [
+      "Broncos",
+      "compete in",
+      "19 sports"
+    ],
+    [
+      "Santa Clara University",
+      "has sports teams called",
+      "Broncos"
+    ],
+    [
+      "Broncos",
+      "include",
+      "58 MLB players"
+    ],
+    [
+      "Santa Clara University",
+      "offers",
+      "doctoral degrees"
+    ],
+    [
+      "Santa Clara University",
+      "is located in",
+      "United States"
+    ],
+    [
+      "Broncos",
+      "are members of",
+      "West Coast Conference"
+    ],
+    [
+      "Broncos",
+      "include",
+      "40 NFL players"
+    ],
+    [
+      "Broncos",
+      "compete at",
+      "NCAA Division I"
+    ],
+    [
+      "Santa Clara University",
+      "was established in",
+      "1851"
+    ],
+    [
+      "Santa Clara University",
+      "is classified as a",
+      "Doctoral/Professional university"
+    ],
+    [
+      "Santa Clara University",
+      "offers",
+      "bachelor's degrees"
+    ],
+    [
+      "Santa Clara University",
+      "is located in",
+      "California"
+    ],
+    [
+      "Santa Clara University",
+      "enrolls",
+      "6,484 undergraduate students"
+    ],
+    [
+      "Mission Santa Clara de Asís",
+      "traces its founding to",
+      "1777"
+    ],
+    [
+      "Broncos",
+      "include",
+      "13 Olympic gold medalists"
+    ],
+    [
+      "Santa Clara University",
+      "enrolls",
+      "3,151 postgraduate students"
+    ]
+  ]
+}

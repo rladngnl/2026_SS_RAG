@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "inhabitants",
+    "Pinarello",
+    "Stefanel",
+    "Benetton",
+    "Geox",
+    "Veneto",
+    "Treviso",
+    "Lotto Sport Italia",
+    "De'Longhi",
+    "Sisley",
+    "province of Treviso",
+    "Diadora",
+    "Italy",
+    "Prosecco wine",
+    "radicchio",
+    "tiramisù"
+  ],
+  "edges": [
+    "is a city in",
+    "is a municipality in",
+    "is known for being the original production area of",
+    "is the capital of",
+    "is thought to have been the origin of",
+    "is home to the headquarters of"
+  ],
+  "relations": [
+    [
+      "Treviso",
+      "is known for being the original production area of",
+      "Prosecco wine"
+    ],
+    [
+      "Treviso",
+      "is the capital of",
+      "province of Treviso"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Stefanel"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "De'Longhi"
+    ],
+    [
+      "Treviso",
+      "is thought to have been the origin of",
+      "tiramisù"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Pinarello"
+    ],
+    [
+      "Treviso",
+      "is known for being the original production area of",
+      "radicchio"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Diadora"
+    ],
+    [
+      "Treviso",
+      "is a city in",
+      "Veneto"
+    ],
+    [
+      "Treviso",
+      "is a municipality in",
+      "Italy"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Lotto Sport Italia"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Sisley"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Benetton"
+    ],
+    [
+      "province of Treviso",
+      "is home to the headquarters of",
+      "Geox"
+    ]
+  ]
+}

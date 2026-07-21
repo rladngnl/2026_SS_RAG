@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "suborbital space flights",
+    "Joe Walker",
+    "Georgy Timofeyevich Beregovoy",
+    "Soviet cosmonaut",
+    "space mission",
+    "John Glenn",
+    "Yuri Gagarin Cosmonaut Training Center",
+    "orbit",
+    "Soyuz 3",
+    "space flight"
+  ],
+  "edges": [
+    "was born earlier than",
+    "headed",
+    "made",
+    "commanded",
+    "was born later than",
+    "went to",
+    "was"
+  ],
+  "relations": [
+    [
+      "Georgy Timofeyevich Beregovoy",
+      "went to",
+      "orbit"
+    ],
+    [
+      "Georgy Timofeyevich Beregovoy",
+      "was",
+      "Soviet cosmonaut"
+    ],
+    [
+      "Georgy Timofeyevich Beregovoy",
+      "was born earlier than",
+      "John Glenn"
+    ],
+    [
+      "Joe Walker",
+      "made",
+      "suborbital space flights"
+    ],
+    [
+      "John Glenn",
+      "was born later than",
+      "Georgy Timofeyevich Beregovoy"
+    ],
+    [
+      "Georgy Timofeyevich Beregovoy",
+      "headed",
+      "Yuri Gagarin Cosmonaut Training Center"
+    ],
+    [
+      "Georgy Timofeyevich Beregovoy",
+      "commanded",
+      "Soyuz 3"
+    ],
+    [
+      "Georgy Timofeyevich Beregovoy",
+      "was",
+      "space flight"
+    ]
+  ]
+}

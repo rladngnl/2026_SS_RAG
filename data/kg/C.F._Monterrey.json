@@ -1,0 +1,105 @@
+{
+  "entities": [
+    "Nuevo León",
+    "FIFA Club World Cup",
+    "Rayados de Monterrey",
+    "FEMSA",
+    "Copa MX",
+    "CONCACAF Champions League",
+    "Autonomous University of Nuevo León",
+    "C.F. Monterrey",
+    "Monterrey",
+    "Club de Fútbol Monterrey Rayados, A.C.",
+    "CONCACAF Cup Winners Cup",
+    "Tigres UANL",
+    "Rayados",
+    "Clásico Regiomontano",
+    "Estadio BBVA",
+    "Liga MX"
+  ],
+  "edges": [
+    "is part of the derby known as",
+    "is known as",
+    "has won",
+    "finished in third place in",
+    "is located in",
+    "plays its home matches at",
+    "is associated with",
+    "has been owned by",
+    "is the oldest and biggest rival of",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "C.F. Monterrey",
+      "has won",
+      "three Copa MX titles"
+    ],
+    [
+      "C.F. Monterrey",
+      "has won",
+      "one CONCACAF Cup Winners Cup"
+    ],
+    [
+      "C.F. Monterrey",
+      "has won",
+      "five CONCACAF Champions League titles"
+    ],
+    [
+      "C.F. Monterrey",
+      "plays its home matches at",
+      "Estadio BBVA"
+    ],
+    [
+      "C.F. Monterrey",
+      "has won",
+      "five Liga MX titles"
+    ],
+    [
+      "C.F. Monterrey",
+      "competes in",
+      "Liga MX"
+    ],
+    [
+      "C.F. Monterrey",
+      "has been owned by",
+      "FEMSA"
+    ],
+    [
+      "Tigres UANL",
+      "is associated with",
+      "Autonomous University of Nuevo León"
+    ],
+    [
+      "C.F. Monterrey",
+      "finished in third place in",
+      "FIFA Club World Cup"
+    ],
+    [
+      "C.F. Monterrey",
+      "is part of the derby known as",
+      "Clásico Regiomontano"
+    ],
+    [
+      "C.F. Monterrey",
+      "is located in",
+      "Nuevo León"
+    ],
+    [
+      "C.F. Monterrey",
+      "is the oldest and biggest rival of",
+      "Tigres UANL"
+    ],
+    [
+      "C.F. Monterrey",
+      "is known as",
+      "Rayados de Monterrey"
+    ],
+    [
+      "C.F. Monterrey",
+      "is based in",
+      "Monterrey"
+    ]
+  ]
+}

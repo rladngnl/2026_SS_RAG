@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "UEFA Cup Winners' Cup",
+    "Vienna",
+    "Austrian Bundesliga",
+    "Austria Wien",
+    "Austrian Supercup",
+    "European Cup",
+    "Franz Horr Stadium",
+    "Italian insurance company",
+    "FK_Austria_Wien",
+    "Generali Arena",
+    "Austrian Cup"
+  ],
+  "edges": [
+    "reached the semi-finals of",
+    "is known as",
+    "is from",
+    "reached the final in",
+    "has won",
+    "is associated with",
+    "is the most successful club in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "FK_Austria_Wien",
+      "is known as",
+      "Austria Wien"
+    ],
+    [
+      "FK_Austria_Wien",
+      "reached the semi-finals of",
+      "European Cup"
+    ],
+    [
+      "FK_Austria_Wien",
+      "is the most successful club in",
+      "Austrian Supercup"
+    ],
+    [
+      "Generali Arena",
+      "is associated with",
+      "Italian insurance company"
+    ],
+    [
+      "FK_Austria_Wien",
+      "has won",
+      "24 Austrian Bundesliga titles"
+    ],
+    [
+      "FK_Austria_Wien",
+      "is the most successful club in",
+      "Austrian Cup"
+    ],
+    [
+      "FK_Austria_Wien",
+      "has won",
+      "27 Austrian Cup titles"
+    ],
+    [
+      "FK_Austria_Wien",
+      "reached the final in",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "Franz Horr Stadium",
+      "is known as",
+      "Generali Arena"
+    ],
+    [
+      "FK_Austria_Wien",
+      "plays at",
+      "Franz Horr Stadium"
+    ],
+    [
+      "FK_Austria_Wien",
+      "is from",
+      "Vienna"
+    ]
+  ]
+}

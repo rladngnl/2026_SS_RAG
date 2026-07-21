@@ -1,0 +1,53 @@
+{
+  "entities": [
+    "1928",
+    "manager",
+    "half-back",
+    "Scotland",
+    "James McMullan",
+    "Jimmy McMullan",
+    "16 caps",
+    "Wembley Wizards",
+    "Scottish",
+    "football player"
+  ],
+  "edges": [
+    "was active in",
+    "was part of",
+    "won",
+    "played as",
+    "was"
+  ],
+  "relations": [
+    [
+      "James McMullan",
+      "played as",
+      "half-back"
+    ],
+    [
+      "James McMullan",
+      "won",
+      "16 caps"
+    ],
+    [
+      "James McMullan",
+      "was",
+      "manager"
+    ],
+    [
+      "Wembley Wizards",
+      "was active in",
+      "1928"
+    ],
+    [
+      "James McMullan",
+      "was",
+      "Scottish football player"
+    ],
+    [
+      "James McMullan",
+      "was part of",
+      "Wembley Wizards"
+    ]
+  ]
+}

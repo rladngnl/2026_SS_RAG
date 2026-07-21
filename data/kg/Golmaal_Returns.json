@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "comedy",
+    "second installment",
+    "Rohit Shetty",
+    "Hindi",
+    "suspense",
+    "Ajay Devgn",
+    "Kareena Kapoor",
+    "Pheka Pheki",
+    "Arshad Warsi",
+    "2008",
+    "Golmaal Returns",
+    "commercial success",
+    "Tusshar Kapoor",
+    "film",
+    "Shreyas Talpade",
+    "sixth highest-grossing Hindi films of 2008",
+    "Aaj Ki Taaza Khabar",
+    "Golmaal film series"
+  ],
+  "edges": [
+    "stars",
+    "is the second installment in",
+    "is directed by",
+    "became",
+    "is a remake of",
+    "is the sixth highest-grossing",
+    "was inspired by"
+  ],
+  "relations": [
+    [
+      "Golmaal Returns",
+      "is a remake of",
+      "Pheka Pheki"
+    ],
+    [
+      "Golmaal Returns",
+      "stars",
+      "Ajay Devgn"
+    ],
+    [
+      "Golmaal Returns",
+      "is the second installment in",
+      "Golmaal film series"
+    ],
+    [
+      "Golmaal Returns",
+      "is directed by",
+      "Rohit Shetty"
+    ],
+    [
+      "Golmaal Returns",
+      "stars",
+      "Kareena Kapoor"
+    ],
+    [
+      "Pheka Pheki",
+      "was inspired by",
+      "Aaj Ki Taaza Khabar"
+    ],
+    [
+      "Golmaal Returns",
+      "stars",
+      "Arshad Warsi"
+    ],
+    [
+      "Golmaal Returns",
+      "stars",
+      "Shreyas Talpade"
+    ],
+    [
+      "Golmaal Returns",
+      "stars",
+      "Tusshar Kapoor"
+    ],
+    [
+      "Golmaal Returns",
+      "became",
+      "commercial success"
+    ],
+    [
+      "Golmaal Returns",
+      "is the sixth highest-grossing",
+      "Hindi films of 2008"
+    ]
+  ]
+}

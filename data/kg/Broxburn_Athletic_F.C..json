@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "West Lothian",
+    "Broxburn Athletic Football Club",
+    "Albyn Park",
+    "Scottish football",
+    "Lowland League East",
+    "2018",
+    "Broxburn",
+    "junior leagues"
+  ],
+  "edges": [
+    "moved from",
+    "moved in",
+    "is based in",
+    "competes in",
+    "is located in",
+    "plays home games at"
+  ],
+  "relations": [
+    [
+      "Broxburn Athletic Football Club",
+      "moved in",
+      "2018"
+    ],
+    [
+      "Broxburn Athletic Football Club",
+      "plays home games at",
+      "Albyn Park"
+    ],
+    [
+      "Broxburn Athletic Football Club",
+      "moved from",
+      "junior leagues"
+    ],
+    [
+      "Broxburn Athletic Football Club",
+      "is based in",
+      "Broxburn"
+    ],
+    [
+      "Broxburn Athletic Football Club",
+      "competes in",
+      "Lowland League East"
+    ],
+    [
+      "Broxburn Athletic Football Club",
+      "is located in",
+      "West Lothian"
+    ]
+  ]
+}

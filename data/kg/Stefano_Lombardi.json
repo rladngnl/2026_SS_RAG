@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Italian",
+    "footballer",
+    "Stefano Lombardi",
+    "Modena F.C.",
+    "defender",
+    "Pordenone"
+  ],
+  "edges": [
+    "is a",
+    "last played for",
+    "played as a",
+    "was born in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Stefano Lombardi",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Stefano Lombardi",
+      "is",
+      "Italian"
+    ],
+    [
+      "Stefano Lombardi",
+      "last played for",
+      "Modena F.C."
+    ],
+    [
+      "Stefano Lombardi",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Stefano Lombardi",
+      "was born in",
+      "Pordenone"
+    ]
+  ]
+}

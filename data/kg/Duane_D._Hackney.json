@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "more than 70 awards and decorations",
+    "United States Air Force",
+    "Duane D. Hackney",
+    "1965",
+    "USAF history",
+    "1991",
+    "first living enlisted man",
+    "Air Force",
+    "youngest recipient",
+    "28 decorations for valor",
+    "chief master sergeant",
+    "Air Force Cross",
+    "most decorated enlisted man",
+    "pararescueman"
+  ],
+  "edges": [
+    "was",
+    "served in",
+    "was the youngest recipient of",
+    "was a recipient of",
+    "served from",
+    "was the most decorated enlisted man in",
+    "received",
+    "retired as",
+    "was the first living enlisted man to receive",
+    "served until"
+  ],
+  "relations": [
+    [
+      "Duane D. Hackney",
+      "served in",
+      "United States Air Force"
+    ],
+    [
+      "Duane D. Hackney",
+      "was a recipient of",
+      "Air Force Cross"
+    ],
+    [
+      "Duane D. Hackney",
+      "received",
+      "more than 70 awards and decorations"
+    ],
+    [
+      "Duane D. Hackney",
+      "received",
+      "28 decorations for valor"
+    ],
+    [
+      "Duane D. Hackney",
+      "was the most decorated enlisted man in",
+      "USAF history"
+    ],
+    [
+      "Duane D. Hackney",
+      "was",
+      "pararescueman"
+    ],
+    [
+      "Duane D. Hackney",
+      "was the youngest recipient of",
+      "Air Force Cross"
+    ],
+    [
+      "Duane D. Hackney",
+      "served until",
+      "1991"
+    ],
+    [
+      "Duane D. Hackney",
+      "was the first living enlisted man to receive",
+      "Air Force Cross"
+    ],
+    [
+      "Duane D. Hackney",
+      "retired as",
+      "chief master sergeant"
+    ],
+    [
+      "Duane D. Hackney",
+      "served from",
+      "1965"
+    ]
+  ]
+}

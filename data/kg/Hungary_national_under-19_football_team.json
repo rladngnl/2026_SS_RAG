@@ -1,0 +1,23 @@
+{
+  "entities": [
+    "Hungary national under-19 football team",
+    "Hungary U-19 national football team",
+    "Hungary U-20 national football team"
+  ],
+  "edges": [
+    "is part of",
+    "is related to"
+  ],
+  "relations": [
+    [
+      "Hungary national under-19 football team",
+      "is part of",
+      "Hungary U-20 national football team"
+    ],
+    [
+      "Hungary national under-19 football team",
+      "is related to",
+      "Hungary U-19 national football team"
+    ]
+  ]
+}

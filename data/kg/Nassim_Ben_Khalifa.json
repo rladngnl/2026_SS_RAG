@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "professional footballer",
+    "Nassim Ben Khalifa",
+    "Swiss",
+    "Avispa Fukuoka",
+    "forward",
+    "J1 League"
+  ],
+  "edges": [
+    "plays for",
+    "plays as",
+    "is in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Nassim Ben Khalifa",
+      "plays for",
+      "Avispa Fukuoka"
+    ],
+    [
+      "Avispa Fukuoka",
+      "is in",
+      "J1 League"
+    ],
+    [
+      "Nassim Ben Khalifa",
+      "plays as",
+      "forward"
+    ],
+    [
+      "Nassim Ben Khalifa",
+      "is",
+      "Swiss"
+    ],
+    [
+      "Nassim Ben Khalifa",
+      "is",
+      "professional footballer"
+    ]
+  ]
+}

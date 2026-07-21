@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Luciano Germán Vella",
+    "footballer",
+    "April 13, 1981",
+    "Luciano Vella",
+    "Argentina",
+    "right-back"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "played as a",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Luciano Vella",
+      "played as a",
+      "right-back"
+    ],
+    [
+      "Luciano Vella",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Luciano Vella",
+      "was born on",
+      "April 13, 1981"
+    ],
+    [
+      "Luciano Vella",
+      "is from",
+      "Argentina"
+    ],
+    [
+      "Luciano Vella",
+      "is",
+      "Luciano Germán Vella"
+    ]
+  ]
+}

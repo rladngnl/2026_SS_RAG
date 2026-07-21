@@ -1,0 +1,157 @@
+{
+  "entities": [
+    "British Academy Film Awards",
+    "Lightstorm Entertainment",
+    "California",
+    "Digital Domain",
+    "Golden Globe Awards",
+    "Ghosts of the Abyss",
+    "Mariana Trench",
+    "Primetime Emmy Awards",
+    "Canada",
+    "Deepsea Challenger",
+    "National Geographic",
+    "The Abyss",
+    "Aliens of the Deep",
+    "James Francis Cameron",
+    "Academy Awards",
+    "The Terminator",
+    "True Lies",
+    "Aliens",
+    "Xenogenesis",
+    "sustainability businesses",
+    "Earthship Productions",
+    "Avatar",
+    "Fullerton Community College",
+    "Terminator 2: Judgment Day",
+    "Ontario",
+    "Titanic",
+    "James Cameron",
+    "environmentalist"
+  ],
+  "edges": [
+    "completed a solo descent to",
+    "runs",
+    "enrolled at",
+    "is from",
+    "had further success with",
+    "co-founded",
+    "produced",
+    "moved to",
+    "is an",
+    "wrote and directed",
+    "directed",
+    "has received",
+    "was born in",
+    "is",
+    "won",
+    "used"
+  ],
+  "relations": [
+    [
+      "James Cameron",
+      "produced",
+      "Ghosts of the Abyss"
+    ],
+    [
+      "James Cameron",
+      "has received",
+      "Golden Globe Awards"
+    ],
+    [
+      "James Cameron",
+      "is",
+      "James Francis Cameron"
+    ],
+    [
+      "James Cameron",
+      "has received",
+      "British Academy Film Awards"
+    ],
+    [
+      "James Cameron",
+      "had further success with",
+      "Aliens"
+    ],
+    [
+      "James Cameron",
+      "used",
+      "Deepsea Challenger"
+    ],
+    [
+      "James Cameron",
+      "co-founded",
+      "Earthship Productions"
+    ],
+    [
+      "James Cameron",
+      "co-founded",
+      "Digital Domain"
+    ],
+    [
+      "James Cameron",
+      "co-founded",
+      "Lightstorm Entertainment"
+    ],
+    [
+      "James Cameron",
+      "moved to",
+      "California"
+    ],
+    [
+      "James Cameron",
+      "is an",
+      "environmentalist"
+    ],
+    [
+      "James Cameron",
+      "was born in",
+      "Ontario"
+    ],
+    [
+      "James Cameron",
+      "has received",
+      "Primetime Emmy Awards"
+    ],
+    [
+      "James Cameron",
+      "completed a solo descent to",
+      "Mariana Trench"
+    ],
+    [
+      "James Cameron",
+      "is from",
+      "Canada"
+    ],
+    [
+      "James Cameron",
+      "enrolled at",
+      "Fullerton Community College"
+    ],
+    [
+      "James Cameron",
+      "runs",
+      "sustainability businesses"
+    ],
+    [
+      "James Cameron",
+      "won",
+      "Academy Awards"
+    ],
+    [
+      "James Cameron",
+      "directed",
+      "Titanic"
+    ],
+    [
+      "James Cameron",
+      "wrote and directed",
+      "The Terminator"
+    ],
+    [
+      "James Cameron",
+      "produced",
+      "Aliens of the Deep"
+    ]
+  ]
+}

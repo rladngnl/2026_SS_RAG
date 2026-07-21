@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "Canada",
+    "Chuck Russell",
+    "Bless the Child",
+    "Holliston Coleman",
+    "Cathy Cash Spellman",
+    "Rufus Sewell",
+    "Christina Ricci",
+    "United States",
+    "Kim Basinger",
+    "Jimmy Smits",
+    "Germany",
+    "Angela Bettis",
+    "Toronto",
+    "August 11, 2000",
+    "Satanic cult"
+  ],
+  "edges": [
+    "is sought by",
+    "is filmed in",
+    "stars",
+    "is based on",
+    "is a co-production between",
+    "is directed by",
+    "was released on"
+  ],
+  "relations": [
+    [
+      "Bless the Child",
+      "is a co-production between",
+      "Germany"
+    ],
+    [
+      "Bless the Child",
+      "is sought by",
+      "Satanic cult"
+    ],
+    [
+      "Bless the Child",
+      "is based on",
+      "Cathy Cash Spellman"
+    ],
+    [
+      "Bless the Child",
+      "is a co-production between",
+      "United States"
+    ],
+    [
+      "Bless the Child",
+      "stars",
+      "Holliston Coleman"
+    ],
+    [
+      "Bless the Child",
+      "stars",
+      "Jimmy Smits"
+    ],
+    [
+      "Bless the Child",
+      "stars",
+      "Christina Ricci"
+    ],
+    [
+      "Bless the Child",
+      "stars",
+      "Kim Basinger"
+    ],
+    [
+      "Bless the Child",
+      "was released on",
+      "August 11, 2000"
+    ],
+    [
+      "Bless the Child",
+      "is a co-production between",
+      "Canada"
+    ],
+    [
+      "Bless the Child",
+      "stars",
+      "Angela Bettis"
+    ],
+    [
+      "Bless the Child",
+      "stars",
+      "Rufus Sewell"
+    ],
+    [
+      "Bless the Child",
+      "is filmed in",
+      "Toronto"
+    ],
+    [
+      "Bless the Child",
+      "is directed by",
+      "Chuck Russell"
+    ]
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    "Brahmanandam",
+    "Chandra Mohan",
+    "conspiracy",
+    "action comedy",
+    "assassination attempt",
+    "wealthy heir",
+    "Sreenu Vaitla",
+    "Srihari",
+    "Geetha",
+    "Telugu-language",
+    "Sayaji Shinde",
+    "family",
+    "meme pages",
+    "Master Bharath",
+    "Indian",
+    "Sunil",
+    "Deepak",
+    "Trisha",
+    "Mamta Mohandas",
+    "Devi Sri Prasad",
+    "Telugu internet culture",
+    "mistaken identities",
+    "2008",
+    "Nagarjuna",
+    "King",
+    "Srinivasa Reddy",
+    "Krishna Bhagawan"
+  ],
+  "edges": [
+    "has gained cult status in",
+    "is referenced in",
+    "is a",
+    "stars",
+    "has music composed by",
+    "is presumed dead after",
+    "features",
+    "is directed by",
+    "involves",
+    "is within"
+  ],
+  "relations": [
+    [
+      "King",
+      "is a",
+      "wealthy heir"
+    ],
+    [
+      "King",
+      "is referenced in",
+      "meme pages"
+    ],
+    [
+      "King",
+      "has gained cult status in",
+      "Telugu internet culture"
+    ],
+    [
+      "King",
+      "involves",
+      "conspiracy"
+    ],
+    [
+      "King",
+      "has music composed by",
+      "Devi Sri Prasad"
+    ],
+    [
+      "King",
+      "features",
+      "Sayaji Shinde"
+    ],
+    [
+      "King",
+      "is within",
+      "family"
+    ],
+    [
+      "King",
+      "features",
+      "Mamta Mohandas"
+    ],
+    [
+      "King",
+      "is directed by",
+      "Sreenu Vaitla"
+    ],
+    [
+      "King",
+      "features",
+      "Chandra Mohan"
+    ],
+    [
+      "King",
+      "features",
+      "Trisha"
+    ],
+    [
+      "King",
+      "features",
+      "Sunil"
+    ],
+    [
+      "King",
+      "features",
+      "Deepak"
+    ],
+    [
+      "King",
+      "stars",
+      "Nagarjuna"
+    ],
+    [
+      "King",
+      "features",
+      "Brahmanandam"
+    ],
+    [
+      "King",
+      "is presumed dead after",
+      "assassination attempt"
+    ],
+    [
+      "King",
+      "features",
+      "Srinivasa Reddy"
+    ],
+    [
+      "King",
+      "features",
+      "Geetha"
+    ],
+    [
+      "King",
+      "features",
+      "Krishna Bhagawan"
+    ],
+    [
+      "King",
+      "involves",
+      "mistaken identities"
+    ],
+    [
+      "King",
+      "features",
+      "Srihari"
+    ],
+    [
+      "King",
+      "features",
+      "Master Bharath"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "Barcelona",
+    "professional footballer",
+    "Brighton & Hove Albion",
+    "Betis",
+    "Spanish",
+    "Valencia",
+    "La Liga",
+    "Martín Montoya Torralbo",
+    "right-back",
+    "European Under-21 Championships",
+    "Spain"
+  ],
+  "edges": [
+    "is a",
+    "started his career with",
+    "represented",
+    "won",
+    "played as",
+    "spent two years in"
+  ],
+  "relations": [
+    [
+      "Martín Montoya Torralbo",
+      "represented",
+      "Betis"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "is a",
+      "Spanish professional footballer"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "won",
+      "seven major titles"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "played as",
+      "right-back"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "started his career with",
+      "Barcelona"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "won",
+      "two European Under-21 Championships"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "spent two years in",
+      "Brighton & Hove Albion"
+    ],
+    [
+      "Martín Montoya Torralbo",
+      "represented",
+      "Valencia"
+    ]
+  ]
+}

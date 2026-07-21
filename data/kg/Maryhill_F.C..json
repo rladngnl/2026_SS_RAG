@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "Glasgow",
+    "Maryhill F.C.",
+    "West of Scotland Football League",
+    "Maryhill",
+    "Scotland",
+    "2025–26 season",
+    "Scottish Junior Football Association",
+    "Second Division"
+  ],
+  "edges": [
+    "is in",
+    "is located in",
+    "is competing in",
+    "is playing in",
+    "is a member of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Maryhill F.C.",
+      "is in",
+      "Scotland"
+    ],
+    [
+      "Maryhill F.C.",
+      "is in",
+      "Second Division"
+    ],
+    [
+      "Maryhill F.C.",
+      "is based in",
+      "Maryhill"
+    ],
+    [
+      "Maryhill F.C.",
+      "is playing in",
+      "West of Scotland Football League"
+    ],
+    [
+      "Maryhill F.C.",
+      "is a member of",
+      "Scottish Junior Football Association"
+    ],
+    [
+      "Maryhill F.C.",
+      "is competing in",
+      "2025–26 season"
+    ],
+    [
+      "Maryhill F.C.",
+      "is located in",
+      "Glasgow"
+    ]
+  ]
+}

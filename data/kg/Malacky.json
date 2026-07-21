@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "Malacky",
+    "hiking",
+    "Little Carpathians",
+    "Bratislava",
+    "Kostolište",
+    "mountain biking",
+    "Kingdom of Hungary",
+    "Veľké Leváre",
+    "Prague–Brno–Bratislava highway",
+    "Slovakia",
+    "Záhorie",
+    "Jakubov",
+    "Morava River",
+    "Gajary"
+  ],
+  "edges": [
+    "is located on the",
+    "is one of the key cities of the region",
+    "is located between",
+    "was part of",
+    "is located around",
+    "is a town and municipality in",
+    "is a cultural and economic hub for nearby villages such as",
+    "provides excellent opportunities for"
+  ],
+  "relations": [
+    [
+      "Malacky",
+      "is located on the",
+      "Prague–Brno–Bratislava highway"
+    ],
+    [
+      "Little Carpathians",
+      "provides excellent opportunities for",
+      "hiking and mountain biking"
+    ],
+    [
+      "Malacky",
+      "is located between",
+      "Little Carpathians and Morava River"
+    ],
+    [
+      "Malacky",
+      "is a town and municipality in",
+      "Slovakia"
+    ],
+    [
+      "Malacky",
+      "was part of",
+      "Kingdom of Hungary"
+    ],
+    [
+      "Malacky",
+      "is a cultural and economic hub for nearby villages such as",
+      "Gajary, Kostolište, Veľké Leváre, and Jakubov"
+    ],
+    [
+      "Malacky",
+      "is one of the key cities of the region",
+      "Záhorie"
+    ],
+    [
+      "Malacky",
+      "is located around",
+      "35 kilometres north of Bratislava"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Sergei Sergeyevich Serdyukov",
+    "Sergei_Serdyukov",
+    "professional football player",
+    "Russian",
+    "10 April 1981"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Sergei_Serdyukov",
+      "was born on",
+      "10 April 1981"
+    ],
+    [
+      "Sergei_Serdyukov",
+      "is",
+      "Sergei Sergeyevich Serdyukov"
+    ],
+    [
+      "Sergei_Serdyukov",
+      "is a",
+      "professional football player"
+    ],
+    [
+      "Sergei_Serdyukov",
+      "is from",
+      "Russian"
+    ]
+  ]
+}

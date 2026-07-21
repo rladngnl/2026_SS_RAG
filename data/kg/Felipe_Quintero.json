@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Mexican",
+    "footballer",
+    "July 29, 1979",
+    "Felipe de Jesús Quintero Monsivais",
+    "North American Soccer League",
+    "Atlanta Silverbacks",
+    "Felipe Quintero"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is known as",
+    "was born on",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Felipe Quintero",
+      "played for",
+      "Atlanta Silverbacks"
+    ],
+    [
+      "Felipe Quintero",
+      "is known as",
+      "Felipe de Jesús Quintero Monsivais"
+    ],
+    [
+      "Felipe Quintero",
+      "is a",
+      "Mexican footballer"
+    ],
+    [
+      "Felipe Quintero",
+      "was born on",
+      "July 29, 1979"
+    ],
+    [
+      "Atlanta Silverbacks",
+      "is in",
+      "North American Soccer League"
+    ]
+  ]
+}

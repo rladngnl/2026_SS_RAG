@@ -1,0 +1,141 @@
+{
+  "entities": [
+    "McDonnell Douglas CF-18 Hornet",
+    "Canada Border Services Agency",
+    "RCMP",
+    "Nav Canada",
+    "freight services",
+    "Yellowknife Airport",
+    "Canada",
+    "passenger service",
+    "Canadian NORAD Region Forward Operating Location Yellowknife",
+    "45,737 aircraft movements",
+    "CYZF",
+    "Royal Canadian Air Force",
+    "8 Wing",
+    "CC-138 Twin Otter",
+    "hangar",
+    "utility aircraft",
+    "passenger terminal",
+    "2025",
+    "ICAO",
+    "air section",
+    "IATA",
+    "Royal Canadian Mounted Police",
+    "RCAF",
+    "Government of the Northwest Territories",
+    "departure/check-in section",
+    "Northwest Territories",
+    "2008",
+    "440 Transport Squadron",
+    "618,177 passengers",
+    "CBSA",
+    "YZF",
+    "National Airports System"
+  ],
+  "edges": [
+    "is classified as",
+    "maintains a hangar for",
+    "is a subsidiary of",
+    "is staffed by",
+    "is part of",
+    "is located south-west of",
+    "is located in",
+    "houses",
+    "has regular scheduled",
+    "is operated by",
+    "handled",
+    "is adjacent to",
+    "underwent an expansion to",
+    "has a number of",
+    "can handle",
+    "was built for"
+  ],
+  "relations": [
+    [
+      "Yellowknife Airport",
+      "is part of",
+      "National Airports System"
+    ],
+    [
+      "Yellowknife Airport",
+      "handled",
+      "618,177 passengers"
+    ],
+    [
+      "Yellowknife Airport",
+      "is operated by",
+      "Government of the Northwest Territories"
+    ],
+    [
+      "440 Transport Squadron",
+      "is a subsidiary of",
+      "8 Wing"
+    ],
+    [
+      "Yellowknife Airport",
+      "is located in",
+      "Yellowknife"
+    ],
+    [
+      "Canadian NORAD Region Forward Operating Location Yellowknife",
+      "is located south-west of",
+      "airstrip"
+    ],
+    [
+      "passenger terminal",
+      "underwent an expansion to",
+      "departure/check-in section"
+    ],
+    [
+      "Royal Canadian Mounted Police",
+      "maintains a hangar for",
+      "air section"
+    ],
+    [
+      "Royal Canadian Mounted Police",
+      "is adjacent to",
+      "hangar used by Royal Canadian Air Force"
+    ],
+    [
+      "Yellowknife Airport",
+      "handled",
+      "45,737 aircraft movements"
+    ],
+    [
+      "Yellowknife Airport",
+      "is staffed by",
+      "Canada Border Services Agency"
+    ],
+    [
+      "Yellowknife Airport",
+      "has a number of",
+      "freight services"
+    ],
+    [
+      "CBSA",
+      "can handle",
+      "general aviation aircraft"
+    ],
+    [
+      "Canadian NORAD Region Forward Operating Location Yellowknife",
+      "was built for",
+      "forwarding deployment of McDonnell Douglas CF-18 Hornet"
+    ],
+    [
+      "Royal Canadian Air Force",
+      "houses",
+      "CC-138 Twin Otter"
+    ],
+    [
+      "Yellowknife Airport",
+      "is classified as",
+      "an airport of entry"
+    ],
+    [
+      "Yellowknife Airport",
+      "has regular scheduled",
+      "passenger service"
+    ]
+  ]
+}

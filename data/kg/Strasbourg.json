@@ -1,0 +1,184 @@
+{
+  "entities": [
+    "Eurodistrict Strasbourg-Ortenau",
+    "European Directorate for the Quality of Medicines",
+    "European Audiovisual Observatory",
+    "University of Strasbourg",
+    "manufacturing",
+    "Council of Europe",
+    "Grand Est",
+    "European Court of Human Rights",
+    "river transportation",
+    "Bas-Rhin",
+    "Alsace",
+    "Paris",
+    "Central Commission for Navigation on the Rhine",
+    "Grande Île",
+    "Rhine",
+    "Geneva",
+    "road transportation",
+    "Greater Strasbourg",
+    "European Union",
+    "Strasbourg",
+    "UNESCO",
+    "port of Strasbourg",
+    "Neustadt",
+    "Strasbourg Grand Mosque",
+    "New York City",
+    "Brussels",
+    "rail transportation",
+    "Duisburg",
+    "metropolitan area",
+    "European Parliament",
+    "engineering",
+    "Luxembourg",
+    "Eurocorps",
+    "International Institute of Human Rights",
+    "European Ombudsman",
+    "arrondissement of Strasbourg",
+    "Franco-German culture"
+  ],
+  "edges": [
+    "is a hub of",
+    "had a population of",
+    "has a population of",
+    "is the second-largest river port in",
+    "is one of the three main capitals of",
+    "is located in",
+    "is the second-largest on the Rhine after",
+    "is a prefecture and commune of",
+    "is the prefecture of",
+    "is among the few cities that host",
+    "was classified a World Heritage Site by",
+    "is the second city in France in terms of",
+    "is immersed in",
+    "is an important centre of",
+    "is home to",
+    "is the seat of",
+    "is the official seat of",
+    "is currently the second-largest in",
+    "is the largest city of"
+  ],
+  "relations": [
+    [
+      "Strasbourg",
+      "is immersed in",
+      "Franco-German culture"
+    ],
+    [
+      "Strasbourg",
+      "is the prefecture of",
+      "Bas-Rhin"
+    ],
+    [
+      "Strasbourg",
+      "is a prefecture and commune of",
+      "Grand Est"
+    ],
+    [
+      "Strasbourg",
+      "is the second city in France in terms of",
+      "international congresses and symposia"
+    ],
+    [
+      "Strasbourg",
+      "has a population of",
+      "about three hundred thousand inhabitants"
+    ],
+    [
+      "Strasbourg",
+      "is an important centre of",
+      "manufacturing and engineering"
+    ],
+    [
+      "Strasbourg",
+      "is among the few cities that host",
+      "international organisations of the first order"
+    ],
+    [
+      "Grande Île",
+      "was classified a World Heritage Site by",
+      "UNESCO"
+    ],
+    [
+      "University of Strasbourg",
+      "is currently the second-largest in",
+      "France"
+    ],
+    [
+      "Greater Strasbourg",
+      "has a population of",
+      "over five hundred thousand"
+    ],
+    [
+      "Strasbourg",
+      "is the seat of",
+      "Central Commission for Navigation on the Rhine"
+    ],
+    [
+      "Strasbourg",
+      "is the seat of",
+      "European Ombudsman"
+    ],
+    [
+      "Strasbourg",
+      "is the largest city of",
+      "Grand Est"
+    ],
+    [
+      "Strasbourg",
+      "is the seat of",
+      "Eurocorps"
+    ],
+    [
+      "Strasbourg",
+      "is the seat of",
+      "International Institute of Human Rights"
+    ],
+    [
+      "Strasbourg",
+      "is the official seat of",
+      "European Parliament"
+    ],
+    [
+      "Strasbourg",
+      "is the seat of",
+      "European Parliament"
+    ],
+    [
+      "Strasbourg",
+      "is one of the three main capitals of",
+      "European Union"
+    ],
+    [
+      "Council of Europe",
+      "is located in",
+      "Strasbourg"
+    ],
+    [
+      "port of Strasbourg",
+      "is the second-largest river port in",
+      "France"
+    ],
+    [
+      "Strasbourg",
+      "is a hub of",
+      "road, rail, and river transportation"
+    ],
+    [
+      "Strasbourg's metropolitan area",
+      "had a population of",
+      "1,020,744 in 2023"
+    ],
+    [
+      "Strasbourg",
+      "is home to",
+      "Strasbourg Grand Mosque"
+    ],
+    [
+      "port of Strasbourg",
+      "is the second-largest on the Rhine after",
+      "Duisburg"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "Spase Dilevski",
+    "defensive midfielder",
+    "soccer player",
+    "Macedonian",
+    "1985-05-13",
+    "right-back",
+    "Australia",
+    "centre-back"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "is from",
+    "is Macedonian",
+    "plays as"
+  ],
+  "relations": [
+    [
+      "Spase Dilevski",
+      "is Macedonian",
+      "Macedonian"
+    ],
+    [
+      "Spase Dilevski",
+      "is from",
+      "Australia"
+    ],
+    [
+      "Spase Dilevski",
+      "plays as",
+      "right-back"
+    ],
+    [
+      "Spase Dilevski",
+      "is a",
+      "soccer player"
+    ],
+    [
+      "Spase Dilevski",
+      "plays as",
+      "centre-back"
+    ],
+    [
+      "Spase Dilevski",
+      "plays as",
+      "defensive midfielder"
+    ],
+    [
+      "Spase Dilevski",
+      "is born on",
+      "1985-05-13"
+    ]
+  ]
+}

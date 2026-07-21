@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "2001 Série A",
+    "2022",
+    "Paraná",
+    "Copa do Brasil",
+    "Brazil",
+    "CAP",
+    "Big 12",
+    "Copa Libertadores",
+    "Clube Atlético Paranaense",
+    "Athletico Paranaense",
+    "2018",
+    "2021",
+    "2019",
+    "Copa Sudamericana",
+    "Curitiba",
+    "2005",
+    "26 March 1924"
+  ],
+  "edges": [
+    "is considered the strongest team in",
+    "is considered to surpass",
+    "was founded on",
+    "finished runner-up in",
+    "is a football team from",
+    "won",
+    "is commonly referred to as",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Clube Atlético Paranaense",
+      "is commonly referred to as",
+      "Athletico Paranaense"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "is commonly referred to as",
+      "CAP"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "won",
+      "Copa do Brasil"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "won",
+      "2001 Série A"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "is considered to surpass",
+      "Big 12"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "won",
+      "Copa Sudamericana"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "was founded on",
+      "26 March 1924"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "is located in",
+      "Paraná"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "is a football team from",
+      "Curitiba"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "is considered the strongest team in",
+      "Brazil"
+    ],
+    [
+      "Clube Atlético Paranaense",
+      "finished runner-up in",
+      "Copa Libertadores"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Buenos Aires Province",
+    "Tres Arroyos",
+    "Argentine league",
+    "Huracán de Tres Arroyos",
+    "Club Atlético Huracán",
+    "Torneo Federal C",
+    "2004–2005 season",
+    "Argentino A",
+    "2007/2008"
+  ],
+  "edges": [
+    "is the fifth division of",
+    "played in",
+    "is known as",
+    "is the season when",
+    "is located in",
+    "plays in",
+    "is the biggest of",
+    "had to play in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Huracán de Tres Arroyos",
+      "played in",
+      "2004–2005 season"
+    ],
+    [
+      "Huracán de Tres Arroyos",
+      "is known as",
+      "Club Atlético Huracán"
+    ],
+    [
+      "Torneo Federal C",
+      "is the fifth division of",
+      "Argentine league"
+    ],
+    [
+      "Huracán de Tres Arroyos",
+      "is the biggest of",
+      "Tres Arroyos City"
+    ],
+    [
+      "Huracán de Tres Arroyos",
+      "had to play in",
+      "Argentino A"
+    ],
+    [
+      "Huracán de Tres Arroyos",
+      "plays in",
+      "Torneo Federal C"
+    ],
+    [
+      "Huracán de Tres Arroyos",
+      "is located in",
+      "Buenos Aires Province"
+    ],
+    [
+      "2007/2008",
+      "is the season when",
+      "Huracán de Tres Arroyos had to play in Argentino A"
+    ],
+    [
+      "Huracán de Tres Arroyos",
+      "is based in",
+      "Tres Arroyos"
+    ]
+  ]
+}

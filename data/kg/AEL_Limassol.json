@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "women's basketball team",
+    "Futsal team",
+    "AEL Limassol",
+    "Limassol",
+    "football team",
+    "women's handball team",
+    "Cyprus",
+    "men's basketball team",
+    "cricket team",
+    "women's volleyball team",
+    "Athlitiki Enosi Lemesou",
+    "Meridian Sport"
+  ],
+  "edges": [
+    "is located in",
+    "is also known as",
+    "maintains",
+    "is sponsored by",
+    "is best known for its",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "AEL Limassol",
+      "maintains",
+      "cricket team"
+    ],
+    [
+      "AEL Limassol",
+      "is based in",
+      "Limassol"
+    ],
+    [
+      "AEL Limassol",
+      "maintains",
+      "men's basketball team"
+    ],
+    [
+      "AEL Limassol",
+      "is also known as",
+      "Athlitiki Enosi Lemesou"
+    ],
+    [
+      "AEL Limassol",
+      "is best known for its",
+      "football team"
+    ],
+    [
+      "AEL Limassol",
+      "maintains",
+      "women's volleyball team"
+    ],
+    [
+      "AEL Limassol",
+      "maintains",
+      "Futsal team"
+    ],
+    [
+      "AEL Limassol",
+      "is sponsored by",
+      "Meridian Sport"
+    ],
+    [
+      "AEL Limassol",
+      "maintains",
+      "women's handball team"
+    ],
+    [
+      "AEL Limassol",
+      "is located in",
+      "Cyprus"
+    ],
+    [
+      "AEL Limassol",
+      "maintains",
+      "women's basketball team"
+    ]
+  ]
+}

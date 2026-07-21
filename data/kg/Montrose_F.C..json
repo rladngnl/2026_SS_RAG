@@ -1,0 +1,60 @@
+{
+  "entities": [
+    "Montrose F.C.",
+    "Montrose",
+    "Scottish League One",
+    "Montrose Football Club",
+    "semi-professional football team",
+    "1879",
+    "Angus",
+    "Scottish Professional Football League",
+    "Scottish",
+    "third tier of football in Scotland"
+  ],
+  "edges": [
+    "is a",
+    "is based in",
+    "is the",
+    "is located in",
+    "currently plays in",
+    "is a member of",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Montrose F.C.",
+      "currently plays in",
+      "Scottish League One"
+    ],
+    [
+      "Montrose F.C.",
+      "is based in",
+      "Montrose"
+    ],
+    [
+      "Montrose F.C.",
+      "was founded in",
+      "1879"
+    ],
+    [
+      "Montrose F.C.",
+      "is a member of",
+      "Scottish Professional Football League"
+    ],
+    [
+      "Scottish League One",
+      "is the",
+      "third tier of football in Scotland"
+    ],
+    [
+      "Montrose F.C.",
+      "is a",
+      "semi-professional football team"
+    ],
+    [
+      "Montrose F.C.",
+      "is located in",
+      "Angus"
+    ]
+  ]
+}

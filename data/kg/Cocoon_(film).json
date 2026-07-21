@@ -1,0 +1,154 @@
+{
+  "entities": [
+    "Best Supporting Actor",
+    "Tom Benedek",
+    "St. Petersburg",
+    "Suncoast Manor Retirement Community",
+    "Cocoon: The Return",
+    "Tahnee Welch",
+    "St. Petersburg Shuffleboard Club",
+    "Coliseum",
+    "Brian Dennehy",
+    "Academy Awards",
+    "David Saperstein",
+    "Don Ameche",
+    "Gwen Verdon",
+    "Herta Ware",
+    "Maureen Stapleton",
+    "Linda Harrison",
+    "Cocoon",
+    "Steve Guttenberg",
+    "Ron Howard",
+    "Wilford Brimley",
+    "Jessica Tandy",
+    "Snell Arcade",
+    "Jack Gilford",
+    "1988",
+    "Florida",
+    "Hume Cronyn",
+    "Best Visual Effects"
+  ],
+  "edges": [
+    "stars",
+    "earned",
+    "is based on a story by",
+    "is directed by",
+    "was shot in",
+    "was followed by",
+    "included",
+    "was released in",
+    "is written by"
+  ],
+  "relations": [
+    [
+      "Cocoon",
+      "was followed by",
+      "Cocoon: The Return"
+    ],
+    [
+      "Academy Awards",
+      "included",
+      "Best Visual Effects"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Gwen Verdon"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Brian Dennehy"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Linda Harrison"
+    ],
+    [
+      "Cocoon",
+      "earned",
+      "Academy Awards"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Tahnee Welch"
+    ],
+    [
+      "Cocoon",
+      "is written by",
+      "Tom Benedek"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Steve Guttenberg"
+    ],
+    [
+      "Cocoon",
+      "was shot in",
+      "St. Petersburg"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Don Ameche"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Wilford Brimley"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Hume Cronyn"
+    ],
+    [
+      "Cocoon",
+      "was shot in",
+      "Florida"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Jack Gilford"
+    ],
+    [
+      "Cocoon",
+      "is based on a story by",
+      "David Saperstein"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Maureen Stapleton"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Jessica Tandy"
+    ],
+    [
+      "Cocoon",
+      "stars",
+      "Herta Ware"
+    ],
+    [
+      "Cocoon",
+      "is directed by",
+      "Ron Howard"
+    ],
+    [
+      "Cocoon: The Return",
+      "was released in",
+      "1988"
+    ],
+    [
+      "Academy Awards",
+      "included",
+      "Best Supporting Actor"
+    ]
+  ]
+}

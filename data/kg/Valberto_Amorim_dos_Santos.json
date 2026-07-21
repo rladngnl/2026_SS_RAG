@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Brazilian Série A",
+    "defensive midfielder",
+    "Paraná",
+    "Valberto Amorim dos Santos",
+    "Brazil",
+    "Beto"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "plays for",
+    "is also known as",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Paraná",
+      "is in",
+      "Brazil"
+    ],
+    [
+      "Valberto Amorim dos Santos",
+      "is also known as",
+      "Beto"
+    ],
+    [
+      "Paraná",
+      "competes in",
+      "Brazilian Série A"
+    ],
+    [
+      "Valberto Amorim dos Santos",
+      "plays for",
+      "Paraná"
+    ],
+    [
+      "Valberto Amorim dos Santos",
+      "is a",
+      "defensive midfielder"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "defenceman",
+    "Canadian",
+    "professional ice hockey",
+    "QMJHL Hall of Fame",
+    "June 23, 1981",
+    "Riverains du collège Charles-Lemoyne",
+    "2018",
+    "Liiga",
+    "American Hockey League",
+    "Midget AAA team",
+    "head coach",
+    "Danny Groulx"
+  ],
+  "edges": [
+    "was inducted in",
+    "is a",
+    "coached",
+    "played in",
+    "was named the",
+    "was born on",
+    "was inducted into"
+  ],
+  "relations": [
+    [
+      "Danny Groulx",
+      "played in",
+      "Liiga"
+    ],
+    [
+      "Danny Groulx",
+      "coached",
+      "Midget AAA team"
+    ],
+    [
+      "Danny Groulx",
+      "was inducted in",
+      "2018"
+    ],
+    [
+      "Danny Groulx",
+      "coached",
+      "Riverains du collège Charles-Lemoyne"
+    ],
+    [
+      "Danny Groulx",
+      "was named the",
+      "head coach"
+    ],
+    [
+      "Danny Groulx",
+      "was born on",
+      "June 23, 1981"
+    ],
+    [
+      "Danny Groulx",
+      "is a",
+      "defenceman"
+    ],
+    [
+      "Danny Groulx",
+      "was inducted into",
+      "QMJHL Hall of Fame"
+    ],
+    [
+      "Danny Groulx",
+      "is a",
+      "professional ice hockey"
+    ],
+    [
+      "Danny Groulx",
+      "is a",
+      "Canadian"
+    ],
+    [
+      "Danny Groulx",
+      "played in",
+      "American Hockey League"
+    ]
+  ]
+}

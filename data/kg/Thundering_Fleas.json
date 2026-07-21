@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Mickey Daniels",
+    "Our Gang",
+    "Robert F. McGowan",
+    "Thundering Fleas",
+    "1926"
+  ],
+  "edges": [
+    "appeared as a guest star in some",
+    "final Our Gang film as a regular cast member in",
+    "is a",
+    "directed by"
+  ],
+  "relations": [
+    [
+      "Thundering Fleas",
+      "directed by",
+      "Robert F. McGowan"
+    ],
+    [
+      "Thundering Fleas",
+      "is a",
+      "1926 Our Gang film"
+    ],
+    [
+      "Mickey Daniels",
+      "appeared as a guest star in some",
+      "Our Gang films"
+    ],
+    [
+      "Mickey Daniels",
+      "final Our Gang film as a regular cast member in",
+      "Thundering Fleas"
+    ]
+  ]
+}

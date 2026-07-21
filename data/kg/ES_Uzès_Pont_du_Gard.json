@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Stade Pautex",
+    "Entente Sportive Uzès Pont du Gard",
+    "Championnat National",
+    "August 2015",
+    "Gallia Club d'Uzès",
+    "2013–14 season",
+    "ES Pont du Gard",
+    "Uzès"
+  ],
+  "edges": [
+    "was formed as a result of a merger between",
+    "played in",
+    "was dissolved in",
+    "played during",
+    "was based in",
+    "was founded in",
+    "had home stadium"
+  ],
+  "relations": [
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "had home stadium",
+      "Stade Pautex"
+    ],
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "was based in",
+      "Uzès"
+    ],
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "played in",
+      "Championnat National"
+    ],
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "was founded in",
+      "2005"
+    ],
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "played during",
+      "2013–14 season"
+    ],
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "was dissolved in",
+      "August 2015"
+    ],
+    [
+      "Entente Sportive Uzès Pont du Gard",
+      "was formed as a result of a merger between",
+      "ES Pont du Gard and Gallia Club d'Uzès"
+    ]
+  ]
+}

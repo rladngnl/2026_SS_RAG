@@ -1,0 +1,92 @@
+{
+  "entities": [
+    "Helmond",
+    "North Brabant",
+    "1982",
+    "Eerste Divisie",
+    "1967",
+    "RKSV Helmondia '55",
+    "Helmond Sport",
+    "1984–85 KNVB Cup",
+    "FC Utrecht",
+    "2025",
+    "Eredivisie",
+    "GS Staalwerken Stadion"
+  ],
+  "edges": [
+    "was lost to",
+    "achieved promotion to",
+    "is located in",
+    "has been used since",
+    "was relegated from",
+    "has remained a consistent presence in",
+    "finished as runners-up in",
+    "was founded following the acquisition of the professional license of",
+    "achieved promotion in",
+    "has played its home matches at",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "GS Staalwerken Stadion",
+      "has been used since",
+      "2025"
+    ],
+    [
+      "Helmond Sport",
+      "was relegated from",
+      "Eredivisie"
+    ],
+    [
+      "Helmond Sport",
+      "was founded following the acquisition of the professional license of",
+      "RKSV Helmondia '55"
+    ],
+    [
+      "1984–85 KNVB Cup",
+      "was lost to",
+      "FC Utrecht"
+    ],
+    [
+      "Helmond Sport",
+      "achieved promotion in",
+      "1982"
+    ],
+    [
+      "Helmond Sport",
+      "has played its home matches at",
+      "GS Staalwerken Stadion"
+    ],
+    [
+      "Helmond Sport",
+      "achieved promotion to",
+      "Eredivisie"
+    ],
+    [
+      "Helmond Sport",
+      "finished as runners-up in",
+      "1984–85 KNVB Cup"
+    ],
+    [
+      "Helmond Sport",
+      "has remained a consistent presence in",
+      "Eerste Divisie"
+    ],
+    [
+      "Helmond Sport",
+      "is located in",
+      "North Brabant"
+    ],
+    [
+      "Helmond Sport",
+      "is based in",
+      "Helmond"
+    ],
+    [
+      "Helmond Sport",
+      "was founded in",
+      "1967"
+    ]
+  ]
+}

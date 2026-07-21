@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "German",
+    "midfielder",
+    "football manager",
+    "4 October 2022",
+    "25 January 1940",
+    "Hans-Jürgen Sundermann",
+    "Jürgen Sundermann",
+    "player"
+  ],
+  "edges": [
+    "was a",
+    "played as",
+    "died on",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Hans-Jürgen Sundermann",
+      "was a",
+      "player"
+    ],
+    [
+      "Hans-Jürgen Sundermann",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Hans-Jürgen Sundermann",
+      "was born on",
+      "25 January 1940"
+    ],
+    [
+      "Hans-Jürgen Sundermann",
+      "died on",
+      "4 October 2022"
+    ],
+    [
+      "Hans-Jürgen Sundermann",
+      "was a",
+      "football manager"
+    ],
+    [
+      "Hans-Jürgen Sundermann",
+      "was a",
+      "German"
+    ],
+    [
+      "Hans-Jürgen Sundermann",
+      "is",
+      "Jürgen Sundermann"
+    ]
+  ]
+}

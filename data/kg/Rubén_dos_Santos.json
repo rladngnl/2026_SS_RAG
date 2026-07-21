@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "Rubén dos Santos",
+    "16 November 1969",
+    "footballer",
+    "Uruguayan",
+    "Rubén Fernando dos Santos Madruga",
+    "Montevideo"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "was born in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Rubén dos Santos",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Rubén dos Santos",
+      "was born in",
+      "Montevideo"
+    ],
+    [
+      "Rubén dos Santos",
+      "was born on",
+      "16 November 1969"
+    ],
+    [
+      "Rubén dos Santos",
+      "is",
+      "Uruguayan"
+    ]
+  ]
+}

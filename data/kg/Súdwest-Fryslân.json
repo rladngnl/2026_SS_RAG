@@ -1,0 +1,53 @@
+{
+  "entities": [
+    "population",
+    "area",
+    "Sneek",
+    "Súdwest-Fryslân",
+    "Friesland",
+    "municipal seat",
+    "841.56 km2",
+    "West Frisian",
+    "Netherlands"
+  ],
+  "edges": [
+    "is a municipality in",
+    "is the municipal seat of",
+    "had a population of",
+    "has a total area of",
+    "is located in the province of",
+    "is the largest municipality by area in"
+  ],
+  "relations": [
+    [
+      "Súdwest-Fryslân",
+      "is a municipality in",
+      "Netherlands"
+    ],
+    [
+      "Súdwest-Fryslân",
+      "had a population of",
+      "population"
+    ],
+    [
+      "Súdwest-Fryslân",
+      "is located in the province of",
+      "Friesland"
+    ],
+    [
+      "Súdwest-Fryslân",
+      "is the largest municipality by area in",
+      "Netherlands"
+    ],
+    [
+      "Súdwest-Fryslân",
+      "has a total area of",
+      "841.56 km2"
+    ],
+    [
+      "Súdwest-Fryslân",
+      "is the municipal seat of",
+      "Sneek"
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entities": [
+    "King Cobra",
+    "world's longest venomous snake",
+    "film"
+  ],
+  "edges": [
+    "is"
+  ],
+  "relations": [
+    [
+      "King Cobra",
+      "is",
+      "world's longest venomous snake"
+    ]
+  ]
+}

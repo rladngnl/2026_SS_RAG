@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Milan Perić",
+    "footballer",
+    "Serbian",
+    "striker",
+    "16 April 1986"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Milan Perić",
+      "was born on",
+      "16 April 1986"
+    ],
+    [
+      "Milan Perić",
+      "is from",
+      "Serbian"
+    ],
+    [
+      "Milan Perić",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Milan Perić",
+      "played as a",
+      "striker"
+    ]
+  ]
+}

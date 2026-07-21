@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "International Hockey League",
+    "National Hockey League",
+    "IHL",
+    "USHL",
+    "2001",
+    "1970",
+    "Milwaukee",
+    "University of Wisconsin–Milwaukee Panther Arena",
+    "Milwaukee Wings",
+    "NHL",
+    "Milwaukee Admirals",
+    "United States Hockey League",
+    "American Hockey League",
+    "Nashville Predators",
+    "1973",
+    "AHL"
+  ],
+  "edges": [
+    "are a",
+    "played in",
+    "play their home games at",
+    "have been playing since",
+    "ceased operations in",
+    "joined the",
+    "transitioned to",
+    "were renamed after their first season to",
+    "are the affiliate of",
+    "played an independent schedule until joining",
+    "were originally called"
+  ],
+  "relations": [
+    [
+      "Milwaukee Admirals",
+      "play their home games at",
+      "University of Wisconsin–Milwaukee Panther Arena"
+    ],
+    [
+      "United States Hockey League",
+      "transitioned to",
+      "junior league"
+    ],
+    [
+      "Milwaukee Admirals",
+      "have been playing since",
+      "1970"
+    ],
+    [
+      "Milwaukee Admirals",
+      "played in",
+      "United States Hockey League"
+    ],
+    [
+      "International Hockey League",
+      "ceased operations in",
+      "2001"
+    ],
+    [
+      "Milwaukee Admirals",
+      "were originally called",
+      "Milwaukee Wings"
+    ],
+    [
+      "Milwaukee Admirals",
+      "are a",
+      "professional ice hockey team"
+    ],
+    [
+      "Milwaukee Admirals",
+      "played an independent schedule until joining",
+      "USHL"
+    ],
+    [
+      "Milwaukee Admirals",
+      "joined the",
+      "American Hockey League"
+    ],
+    [
+      "Milwaukee Admirals",
+      "were renamed after their first season to",
+      "Admirals"
+    ],
+    [
+      "Milwaukee Admirals",
+      "joined the",
+      "International Hockey League"
+    ],
+    [
+      "Milwaukee Admirals",
+      "joined the",
+      "AHL"
+    ],
+    [
+      "Milwaukee Admirals",
+      "are the affiliate of",
+      "Nashville Predators"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "Ukrainian Amateur League",
+    "FC Zirka Kropyvnytskyi",
+    "Bolshevik Revolution",
+    "Soviet factory",
+    "Kropyvnytskyi",
+    "1911",
+    "football team",
+    "1922",
+    "Kirovohrad Oblast",
+    "Chervona Zirka",
+    "Elvorti",
+    "1958",
+    "Class B competitions"
+  ],
+  "edges": [
+    "is a",
+    "formed the team",
+    "led to the nationalization of",
+    "plays in",
+    "traces its history to",
+    "was converted into",
+    "had a football team since",
+    "existed at",
+    "started professional football history in",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "football team",
+      "existed at",
+      "Elvorti"
+    ],
+    [
+      "Bolshevik Revolution",
+      "led to the nationalization of",
+      "Elvorti"
+    ],
+    [
+      "Soviet factory",
+      "formed the team",
+      "Chervona Zirka"
+    ],
+    [
+      "FC Zirka Kropyvnytskyi",
+      "started professional football history in",
+      "1958"
+    ],
+    [
+      "Elvorti",
+      "had a football team since",
+      "1911"
+    ],
+    [
+      "FC Zirka Kropyvnytskyi",
+      "is a",
+      "Ukrainian amateur football club"
+    ],
+    [
+      "FC Zirka Kropyvnytskyi",
+      "plays in",
+      "Ukrainian Amateur League"
+    ],
+    [
+      "Elvorti",
+      "was converted into",
+      "Soviet factory"
+    ],
+    [
+      "FC Zirka Kropyvnytskyi",
+      "traces its history to",
+      "football team"
+    ],
+    [
+      "Chervona Zirka",
+      "was formed in",
+      "1922"
+    ]
+  ]
+}

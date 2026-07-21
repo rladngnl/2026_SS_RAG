@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Richard Fiske",
+    "80 films",
+    "American film actor",
+    "Thomas Ralph Potts",
+    "Columbia Pictures",
+    "1938",
+    "1942"
+  ],
+  "edges": [
+    "is best known by his stage name",
+    "worked for",
+    "was an",
+    "appeared in",
+    "worked between"
+  ],
+  "relations": [
+    [
+      "Richard Fiske",
+      "worked for",
+      "Columbia Pictures"
+    ],
+    [
+      "Richard Fiske",
+      "was an",
+      "American film actor"
+    ],
+    [
+      "Thomas Ralph Potts",
+      "is best known by his stage name",
+      "Richard Fiske"
+    ],
+    [
+      "Richard Fiske",
+      "appeared in",
+      "80 films"
+    ],
+    [
+      "Richard Fiske",
+      "worked between",
+      "1938 and 1942"
+    ]
+  ]
+}

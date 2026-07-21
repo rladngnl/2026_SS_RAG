@@ -1,0 +1,55 @@
+{
+  "entities": [
+    "Chongqing Lifan",
+    "Jiangsu Sainty",
+    "Ma Lin",
+    "China national team",
+    "1989–90 Asian Club Championship",
+    "Chinese FA Cups",
+    "Liaoning FC"
+  ],
+  "edges": [
+    "managed",
+    "returned to manage",
+    "won",
+    "is a former player of",
+    "scored goals for"
+  ],
+  "relations": [
+    [
+      "Ma Lin",
+      "returned to manage",
+      "Liaoning FC"
+    ],
+    [
+      "Ma Lin",
+      "scored goals for",
+      "China national team"
+    ],
+    [
+      "Ma Lin",
+      "won",
+      "1989–90 Asian Club Championship"
+    ],
+    [
+      "Ma Lin",
+      "is a former player of",
+      "Liaoning FC"
+    ],
+    [
+      "Ma Lin",
+      "managed",
+      "Jiangsu Sainty"
+    ],
+    [
+      "Ma Lin",
+      "managed",
+      "Chongqing Lifan"
+    ],
+    [
+      "Ma Lin",
+      "won",
+      "Chinese FA Cups"
+    ]
+  ]
+}

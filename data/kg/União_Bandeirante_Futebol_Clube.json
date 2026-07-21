@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Paraná",
+    "Brazil",
+    "União Bandeirante",
+    "União Bandeirante Futebol Clube",
+    "Bandeirantes"
+  ],
+  "edges": [
+    "is in the state of",
+    "is usually known as",
+    "is in",
+    "is a football team from"
+  ],
+  "relations": [
+    [
+      "Bandeirantes",
+      "is in the state of",
+      "Paraná"
+    ],
+    [
+      "União Bandeirante Futebol Clube",
+      "is a football team from",
+      "Bandeirantes"
+    ],
+    [
+      "Paraná",
+      "is in",
+      "Brazil"
+    ],
+    [
+      "União Bandeirante Futebol Clube",
+      "is usually known as",
+      "União Bandeirante"
+    ]
+  ]
+}

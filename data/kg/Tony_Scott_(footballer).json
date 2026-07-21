@@ -1,0 +1,130 @@
+{
+  "entities": [
+    "Chelsea",
+    "Exeter City",
+    "England Youth",
+    "Tony Scott",
+    "Leicester City",
+    "Kuwait",
+    "September 2021",
+    "Torquay United",
+    "Frank O'Farrell",
+    "John Bond",
+    "Phil Woosnam",
+    "West Ham United",
+    "Huntingdon Boys",
+    "Bournemouth & Boscombe Athletic",
+    "Sheila",
+    "Anthony Scott",
+    "left winger",
+    "Aston Villa",
+    "Australia",
+    "footballer",
+    "St Neots Town",
+    "Manchester City",
+    "Ken Brown"
+  ],
+  "edges": [
+    "partnered with",
+    "became manager of",
+    "linked up with",
+    "played his last game for",
+    "played as",
+    "joined",
+    "lived until his death in",
+    "played under",
+    "moved to",
+    "played for",
+    "made his senior debut against",
+    "became a coach working with",
+    "was",
+    "emigrated to"
+  ],
+  "relations": [
+    [
+      "Anthony Scott",
+      "played for",
+      "Huntingdon Boys"
+    ],
+    [
+      "Anthony Scott",
+      "played his last game for",
+      "West Ham United"
+    ],
+    [
+      "John Bond",
+      "became manager of",
+      "Bournemouth & Boscombe Athletic"
+    ],
+    [
+      "Anthony Scott",
+      "played as",
+      "left winger"
+    ],
+    [
+      "Anthony Scott",
+      "partnered with",
+      "Phil Woosnam"
+    ],
+    [
+      "Anthony Scott",
+      "linked up with",
+      "John Bond"
+    ],
+    [
+      "Anthony Scott",
+      "lived until his death in",
+      "September 2021"
+    ],
+    [
+      "Anthony Scott",
+      "played for",
+      "St Neots Town"
+    ],
+    [
+      "Anthony Scott",
+      "was",
+      "footballer"
+    ],
+    [
+      "Anthony Scott",
+      "became a coach working with",
+      "John Bond"
+    ],
+    [
+      "Anthony Scott",
+      "played for",
+      "Aston Villa"
+    ],
+    [
+      "Anthony Scott",
+      "joined",
+      "Torquay United"
+    ],
+    [
+      "Anthony Scott",
+      "played under",
+      "Frank O'Farrell"
+    ],
+    [
+      "Anthony Scott",
+      "joined",
+      "West Ham United"
+    ],
+    [
+      "Anthony Scott",
+      "made his senior debut against",
+      "Chelsea"
+    ],
+    [
+      "Anthony Scott",
+      "emigrated to",
+      "Australia"
+    ],
+    [
+      "Anthony Scott",
+      "moved to",
+      "Exeter City"
+    ]
+  ]
+}

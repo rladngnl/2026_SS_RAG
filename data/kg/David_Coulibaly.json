@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Mali",
+    "France",
+    "retired footballer",
+    "Entente Sportive de Wasquehal",
+    "David Coulibaly",
+    "21 January 1978"
+  ],
+  "edges": [
+    "is a",
+    "represented",
+    "last played for",
+    "was born in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "David Coulibaly",
+      "last played for",
+      "Entente Sportive de Wasquehal"
+    ],
+    [
+      "David Coulibaly",
+      "was born on",
+      "21 January 1978"
+    ],
+    [
+      "David Coulibaly",
+      "was born in",
+      "France"
+    ],
+    [
+      "David Coulibaly",
+      "is a",
+      "retired footballer"
+    ],
+    [
+      "David Coulibaly",
+      "represented",
+      "Mali"
+    ]
+  ]
+}

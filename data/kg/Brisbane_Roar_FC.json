@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "A-League Men",
+    "COVID-19 pandemic",
+    "Brisbane",
+    "orange",
+    "Queensland Lions FC",
+    "Queensland Roar",
+    "FFA",
+    "Dutch heritage",
+    "inaugural A-League season",
+    "unbeaten streak",
+    "Championships",
+    "Milton",
+    "36 matches",
+    "2024–25 season",
+    "Frank Lowy",
+    "Crawford Report",
+    "Brisbane Roar Football Club",
+    "domestic title",
+    "Queensland Lions F.C.",
+    "Lang Park",
+    "2009",
+    "Premierships",
+    "Queensland"
+  ],
+  "edges": [
+    "entered into",
+    "has won",
+    "announced a return to",
+    "was initially competing under the name",
+    "withdrew their men's team from",
+    "holds the record for",
+    "has a shared history with",
+    "plays its home games at",
+    "is",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Brisbane Roar Football Club",
+      "competes in",
+      "A-League Men"
+    ],
+    [
+      "Brisbane Roar",
+      "has won",
+      "three Championships"
+    ],
+    [
+      "the longest unbeaten streak",
+      "is",
+      "36 matches"
+    ],
+    [
+      "Brisbane Roar",
+      "has won",
+      "two Premierships"
+    ],
+    [
+      "Queensland Lions F.C.",
+      "withdrew their men's team from",
+      "State Competition"
+    ],
+    [
+      "Brisbane Roar",
+      "announced a return to",
+      "original orange and blue colours"
+    ],
+    [
+      "Brisbane Roar",
+      "holds the record for",
+      "the longest unbeaten streak"
+    ],
+    [
+      "Queensland Roar",
+      "was initially competing under the name",
+      "Brisbane Roar"
+    ],
+    [
+      "Brisbane Roar",
+      "has a shared history with",
+      "Queensland Lions FC"
+    ],
+    [
+      "Brisbane Roar Football Club",
+      "is based in",
+      "Brisbane"
+    ],
+    [
+      "Brisbane Roar",
+      "plays its home games at",
+      "Lang Park"
+    ],
+    [
+      "Brisbane Roar",
+      "has won",
+      "the domestic title"
+    ],
+    [
+      "Queensland Lions F.C.",
+      "entered into",
+      "A-League"
+    ]
+  ]
+}

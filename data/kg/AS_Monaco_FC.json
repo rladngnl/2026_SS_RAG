@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "European Club Association",
+    "Ligue 1",
+    "AS Monaco FC",
+    "FFF",
+    "Stade Louis II",
+    "Association Sportive de Monaco Football Club",
+    "Fontvieille",
+    "Les Rouge et Blanc",
+    "UEFA Champions League",
+    "red and white",
+    "la Turbie",
+    "UEFA Cup Winners' Cup",
+    "Dmitry Rybolovlev",
+    "Monaco",
+    "French Football Federation"
+  ],
+  "edges": [
+    "was runners-up in",
+    "has training center in",
+    "is known as",
+    "competes in",
+    "has won",
+    "is a member of",
+    "plays home matches at",
+    "is majority-owned by"
+  ],
+  "relations": [
+    [
+      "AS Monaco FC",
+      "has won",
+      "eight league titles"
+    ],
+    [
+      "AS Monaco FC",
+      "was runners-up in",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "AS Monaco FC",
+      "has won",
+      "one Coupe de la Ligue"
+    ],
+    [
+      "AS Monaco FC",
+      "plays home matches at",
+      "Stade Louis II"
+    ],
+    [
+      "AS Monaco FC",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "AS Monaco FC",
+      "is known as",
+      "Les Rouge et Blanc"
+    ],
+    [
+      "AS Monaco FC",
+      "has training center in",
+      "la Turbie"
+    ],
+    [
+      "AS Monaco FC",
+      "was runners-up in",
+      "UEFA Champions League"
+    ],
+    [
+      "AS Monaco FC",
+      "is a member of",
+      "French Football Federation"
+    ],
+    [
+      "AS Monaco FC",
+      "is majority-owned by",
+      "Dmitry Rybolovlev"
+    ],
+    [
+      "AS Monaco FC",
+      "has won",
+      "five Coupe de France trophies"
+    ]
+  ]
+}

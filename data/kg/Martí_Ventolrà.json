@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "FC Barcelona",
+    "Escolà",
+    "Martí Ventolrà Fort",
+    "Munlloch",
+    "Raich",
+    "5 June 1977",
+    "1934 FIFA World Cup",
+    "Fernandez",
+    "Spanish footballer",
+    "Spain",
+    "16 December 1906"
+  ],
+  "edges": [
+    "formed part of",
+    "represented",
+    "was",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Martí Ventolrà Fort",
+      "formed part of",
+      "FC Barcelona"
+    ],
+    [
+      "Martí Ventolrà Fort",
+      "represented",
+      "Spain"
+    ],
+    [
+      "Martí Ventolrà Fort",
+      "was",
+      "Spanish footballer"
+    ],
+    [
+      "Martí Ventolrà Fort",
+      "participated in",
+      "1934 FIFA World Cup"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "European Club Association",
+    "Ligue 1",
+    "Stade Louis II",
+    "FFF",
+    "Association Sportive de Monaco Football Club",
+    "1992",
+    "Fontvieille",
+    "Les Rouge et Blanc",
+    "UEFA Champions League",
+    "2004",
+    "red and white",
+    "la Turbie",
+    "A.S. Monaco F.C.",
+    "UEFA Cup Winners' Cup",
+    "Dmitry Rybolovlev",
+    "Monaco",
+    "French Football Federation"
+  ],
+  "edges": [
+    "is majority-owned by",
+    "is known as",
+    "competes in",
+    "has a training center situated in",
+    "has won",
+    "is a member of",
+    "were runners-up in",
+    "plays their home matches at",
+    "is commonly referred to as",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "A.S. Monaco F.C.",
+      "has won",
+      "one Coupe de la Ligue"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "has a training center situated in",
+      "la Turbie"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "is known as",
+      "Les Rouge et Blanc"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "is based in",
+      "Fontvieille"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "is a member of",
+      "French Football Federation"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "is majority-owned by",
+      "Dmitry Rybolovlev"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "were runners-up in",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "were runners-up in",
+      "UEFA Champions League"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "has won",
+      "five Coupe de France trophies"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "plays their home matches at",
+      "Stade Louis II"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "is commonly referred to as",
+      "Association Sportive de Monaco Football Club"
+    ],
+    [
+      "A.S. Monaco F.C.",
+      "has won",
+      "eight league titles"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "England",
+    "Wiltshire League Premier Division",
+    "town",
+    "Trowbridge Town Football Club",
+    "Wiltshire",
+    "Trowbridge",
+    "Woodmarsh",
+    "Step 7"
+  ],
+  "edges": [
+    "is located on the southern edge of",
+    "is based in",
+    "competes at",
+    "competes in",
+    "is located in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Trowbridge Town Football Club",
+      "is based in",
+      "Trowbridge"
+    ],
+    [
+      "Trowbridge Town Football Club",
+      "competes in",
+      "Wiltshire League Premier Division"
+    ],
+    [
+      "Trowbridge Town Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Trowbridge Town Football Club",
+      "is located in",
+      "Wiltshire"
+    ],
+    [
+      "Trowbridge Town Football Club",
+      "plays at",
+      "Woodmarsh"
+    ],
+    [
+      "Woodmarsh",
+      "is located on the southern edge of",
+      "town"
+    ],
+    [
+      "Trowbridge Town Football Club",
+      "competes at",
+      "Step 7"
+    ]
+  ]
+}

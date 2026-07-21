@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "footballer",
+    "goalkeeper",
+    "Éric Rapo",
+    "6 March 1972",
+    "Swiss"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Éric Rapo",
+      "is from",
+      "Swiss"
+    ],
+    [
+      "Éric Rapo",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Éric Rapo",
+      "is a",
+      "goalkeeper"
+    ],
+    [
+      "Éric Rapo",
+      "was born on",
+      "6 March 1972"
+    ]
+  ]
+}

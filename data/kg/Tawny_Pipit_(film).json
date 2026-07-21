@@ -1,0 +1,97 @@
+{
+  "entities": [
+    "rare bird eggs",
+    "Miles",
+    "English village",
+    "Tawny Pipit",
+    "Bernard Miles",
+    "Niall MacGinnis",
+    "nature conservation",
+    "Prestige Productions",
+    "Covenanter tanks",
+    "Rosamund John",
+    "film",
+    "tawny pipits",
+    "military training",
+    "Charles Saunders"
+  ],
+  "edges": [
+    "is discovered in",
+    "is a",
+    "stars",
+    "is produced by",
+    "features",
+    "is directed by",
+    "is prevented from disturbing",
+    "are featured in",
+    "tells of",
+    "are collected in"
+  ],
+  "relations": [
+    [
+      "Tawny Pipit",
+      "is directed by",
+      "Charles Saunders"
+    ],
+    [
+      "Covenanter tanks",
+      "are featured in",
+      "Tawny Pipit"
+    ],
+    [
+      "rare bird eggs",
+      "are collected in",
+      "Tawny Pipit"
+    ],
+    [
+      "Tawny Pipit",
+      "stars",
+      "Niall MacGinnis"
+    ],
+    [
+      "Tawny Pipit",
+      "tells of",
+      "how the residents of a small English village collaborate"
+    ],
+    [
+      "Tawny Pipit",
+      "is directed by",
+      "Bernard Miles"
+    ],
+    [
+      "military training",
+      "is prevented from disturbing",
+      "tawny pipits"
+    ],
+    [
+      "Tawny Pipit",
+      "is produced by",
+      "Prestige Productions"
+    ],
+    [
+      "tawny pipits",
+      "is discovered in",
+      "English village"
+    ],
+    [
+      "Tawny Pipit",
+      "features",
+      "nature conservation"
+    ],
+    [
+      "Tawny Pipit",
+      "stars",
+      "Miles"
+    ],
+    [
+      "Tawny Pipit",
+      "is a",
+      "film"
+    ],
+    [
+      "Tawny Pipit",
+      "stars",
+      "Rosamund John"
+    ]
+  ]
+}

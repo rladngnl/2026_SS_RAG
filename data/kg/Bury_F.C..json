@@ -1,0 +1,160 @@
+{
+  "entities": [
+    "Bolton Wanderers",
+    "First Division",
+    "Stan Ternent",
+    "Bury Football Club",
+    "Shakers Community Society",
+    "Football Association",
+    "Greater Manchester",
+    "EFL League Two",
+    "Southampton",
+    "Third Division",
+    "NPL Division One West",
+    "League One",
+    "Derby County",
+    "Est.1885",
+    "NPL Premier Division",
+    "Football League",
+    "Gigg Lane",
+    "Northern Premier League",
+    "Martin Dobson",
+    "Second Division",
+    "Bury",
+    "North West Counties Football League",
+    "FA Cup",
+    "Fourth Division",
+    "Lancashire League",
+    "Bury AFC",
+    "League Two",
+    "English Football League"
+  ],
+  "edges": [
+    "completed the purchase of",
+    "returned to",
+    "won",
+    "are known as",
+    "secured promotion out of",
+    "played in",
+    "became",
+    "has home ground",
+    "was relegated to",
+    "won promotion as champions of",
+    "is based in",
+    "was established in",
+    "adopted the playing name",
+    "will play in",
+    "was managed by",
+    "has a rivalry with",
+    "was a founder member of",
+    "won promotion to",
+    "competed in"
+  ],
+  "relations": [
+    [
+      "Bury Football Club",
+      "are known as",
+      "The Shakers"
+    ],
+    [
+      "Bury Football Club",
+      "won promotion as champions of",
+      "Third Division"
+    ],
+    [
+      "Bury Football Club",
+      "played in",
+      "EFL League Two"
+    ],
+    [
+      "Bury Football Club",
+      "has a rivalry with",
+      "Bolton Wanderers"
+    ],
+    [
+      "Bury Football Club",
+      "won",
+      "FA Cup"
+    ],
+    [
+      "Bury Football Club",
+      "competed in",
+      "Northern Premier League"
+    ],
+    [
+      "Est.1885",
+      "became",
+      "Bury Football Club Supporters' Society"
+    ],
+    [
+      "Bury Football Club",
+      "secured promotion out of",
+      "League Two"
+    ],
+    [
+      "Bury Football Club",
+      "has home ground",
+      "Gigg Lane"
+    ],
+    [
+      "Bury Football Club",
+      "was a founder member of",
+      "Lancashire League"
+    ],
+    [
+      "Bury AFC",
+      "returned to",
+      "Gigg Lane"
+    ],
+    [
+      "Bury AFC",
+      "competed in",
+      "North West Counties Football League"
+    ],
+    [
+      "Bury Football Club",
+      "was established in",
+      "1885"
+    ],
+    [
+      "Bury Football Club",
+      "was relegated to",
+      "Second Division"
+    ],
+    [
+      "Est.1885",
+      "completed the purchase of",
+      "Gigg Lane"
+    ],
+    [
+      "Bury Football Club",
+      "is based in",
+      "Greater Manchester"
+    ],
+    [
+      "Bury AFC",
+      "adopted the playing name",
+      "Bury FC"
+    ],
+    [
+      "Bury Football Club",
+      "won promotion to",
+      "First Division"
+    ],
+    [
+      "Bury Football Club",
+      "was managed by",
+      "Martin Dobson"
+    ],
+    [
+      "Bury Football Club",
+      "was managed by",
+      "Stan Ternent"
+    ],
+    [
+      "Bury Football Club",
+      "will play in",
+      "NPL Premier Division"
+    ]
+  ]
+}

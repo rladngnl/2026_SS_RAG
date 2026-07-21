@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "footballer",
+    "Serbian",
+    "defensive midfielder",
+    "FC Basel",
+    "2010 FIFA World Cup",
+    "Zdravko Kuzmanović",
+    "Serbia",
+    "central midfielder"
+  ],
+  "edges": [
+    "last played for",
+    "is a",
+    "represented",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Zdravko Kuzmanović",
+      "participated in",
+      "2010 FIFA World Cup"
+    ],
+    [
+      "Zdravko Kuzmanović",
+      "is a",
+      "central midfielder"
+    ],
+    [
+      "Zdravko Kuzmanović",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Zdravko Kuzmanović",
+      "last played for",
+      "FC Basel"
+    ],
+    [
+      "Zdravko Kuzmanović",
+      "is a",
+      "defensive midfielder"
+    ],
+    [
+      "Zdravko Kuzmanović",
+      "represented",
+      "Serbia"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "11 November 2020",
+    "Les Massie",
+    "Scottish footballer",
+    "1960s",
+    "Huddersfield Town",
+    "Leslie Massie",
+    "1950s",
+    "20 July 1935"
+  ],
+  "edges": [
+    "played for",
+    "died on",
+    "played during",
+    "was born on",
+    "was"
+  ],
+  "relations": [
+    [
+      "Les Massie",
+      "played during",
+      "1960s"
+    ],
+    [
+      "Les Massie",
+      "was",
+      "Scottish footballer"
+    ],
+    [
+      "Les Massie",
+      "played during",
+      "1950s"
+    ],
+    [
+      "Les Massie",
+      "played for",
+      "Huddersfield Town"
+    ],
+    [
+      "Les Massie",
+      "was born on",
+      "20 July 1935"
+    ],
+    [
+      "Les Massie",
+      "died on",
+      "11 November 2020"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "Jan-Paul Frederik Daniel Saeijs",
+    "20 June 1978",
+    "defender",
+    "Jan-Paul Saeijs",
+    "former professional footballer",
+    "Dutch"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jan-Paul Saeijs",
+      "was born on",
+      "20 June 1978"
+    ],
+    [
+      "Jan-Paul Saeijs",
+      "is",
+      "Jan-Paul Frederik Daniel Saeijs"
+    ],
+    [
+      "Jan-Paul Saeijs",
+      "is",
+      "Dutch"
+    ],
+    [
+      "Jan-Paul Saeijs",
+      "played as",
+      "defender"
+    ],
+    [
+      "Jan-Paul Saeijs",
+      "is",
+      "former professional footballer"
+    ]
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "entities": [
+    "Gheorghe Hagi",
+    "FIFA World Cup",
+    "Belgium",
+    "Italy",
+    "Arena Națională",
+    "Romanian Football Federation",
+    "UEFA European Championship",
+    "1930",
+    "2024",
+    "England",
+    "Portugal",
+    "Argentina",
+    "Sweden",
+    "Euro 2000",
+    "Yugoslavia",
+    "Romania national football team",
+    "Bucharest",
+    "FRF",
+    "1990s",
+    "1984",
+    "Tricolorii",
+    "Balkan Cup",
+    "1970",
+    "France",
+    "World War II",
+    "Germany"
+  ],
+  "edges": [
+    "led",
+    "qualified for",
+    "returned in",
+    "is nicknamed",
+    "narrowly lost to",
+    "won",
+    "represents",
+    "is located in",
+    "competed at",
+    "has appeared at",
+    "is controlled by",
+    "produced a golden generation during the",
+    "defeated",
+    "was eliminated by",
+    "best result came at",
+    "competing in",
+    "qualified for all pre-World War II editions of",
+    "advanced from a group of death containing",
+    "made its debut in",
+    "best World Cup campaign came in",
+    "was the most successful side at",
+    "reached",
+    "plays its home matches at"
+  ],
+  "relations": [
+    [
+      "Romania national football team",
+      "produced a golden generation during the",
+      "1990s"
+    ],
+    [
+      "Romania national football team",
+      "has appeared at",
+      "FIFA World Cup"
+    ],
+    [
+      "Romania national football team",
+      "plays its home matches at",
+      "Arena Națională"
+    ],
+    [
+      "Romania national football team",
+      "qualified for all pre-World War II editions of",
+      "FIFA World Cup"
+    ],
+    [
+      "Romania national football team",
+      "advanced from a group of death containing",
+      "Portugal"
+    ],
+    [
+      "Romania national football team",
+      "reached",
+      "three consecutive World Cups"
+    ],
+    [
+      "Romania national football team",
+      "was the most successful side at",
+      "Balkan Cup"
+    ],
+    [
+      "Romania national football team",
+      "qualified for",
+      "UEFA European Championship"
+    ],
+    [
+      "Romania national football team",
+      "best World Cup campaign came in",
+      "1994"
+    ],
+    [
+      "Romania national football team",
+      "advanced from a group of death containing",
+      "Germany"
+    ],
+    [
+      "Romania national football team",
+      "defeated",
+      "Argentina"
+    ],
+    [
+      "Romania national football team",
+      "won",
+      "Balkan Cup"
+    ],
+    [
+      "Romania national football team",
+      "was eliminated by",
+      "Italy"
+    ],
+    [
+      "Romania national football team",
+      "competing in",
+      "2024"
+    ],
+    [
+      "Romania national football team",
+      "narrowly lost to",
+      "Sweden"
+    ],
+    [
+      "Romania national football team",
+      "is nicknamed",
+      "Tricolorii"
+    ],
+    [
+      "Romania national football team",
+      "made its debut in",
+      "1984"
+    ],
+    [
+      "Arena Națională",
+      "is located in",
+      "Bucharest"
+    ],
+    [
+      "Romania national football team",
+      "is controlled by",
+      "Romanian Football Federation"
+    ],
+    [
+      "Romania national football team",
+      "returned in",
+      "1970"
+    ],
+    [
+      "Romania national football team",
+      "best result came at",
+      "Euro 2000"
+    ],
+    [
+      "Gheorghe Hagi",
+      "led",
+      "Romania national football team"
+    ],
+    [
+      "Romania national football team",
+      "represents",
+      "Romania"
+    ],
+    [
+      "Romania national football team",
+      "advanced from a group of death containing",
+      "England"
+    ],
+    [
+      "Romania national football team",
+      "competed at",
+      "1930"
+    ]
+  ]
+}

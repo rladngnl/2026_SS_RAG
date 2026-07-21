@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "Giuliano Oliviero",
+    "Canada",
+    "Rally Madison FC",
+    "USL W League",
+    "soccer",
+    "midfielder",
+    "head coach",
+    "February 26, 1974"
+  ],
+  "edges": [
+    "is a",
+    "is from",
+    "is the head coach of",
+    "plays in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Giuliano Oliviero",
+      "was born on",
+      "February 26, 1974"
+    ],
+    [
+      "Giuliano Oliviero",
+      "is from",
+      "Canada"
+    ],
+    [
+      "Rally Madison FC",
+      "plays in",
+      "USL W League"
+    ],
+    [
+      "Giuliano Oliviero",
+      "is the head coach of",
+      "Rally Madison FC"
+    ],
+    [
+      "Giuliano Oliviero",
+      "is a",
+      "soccer midfielder"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "former player",
+    "football manager",
+    "Primož Gliha",
+    "Kosovo national team",
+    "forward",
+    "Slovenia"
+  ],
+  "edges": [
+    "played as",
+    "was most recently the manager of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Primož Gliha",
+      "played as",
+      "forward"
+    ],
+    [
+      "Primož Gliha",
+      "is",
+      "Slovenian professional football manager"
+    ],
+    [
+      "Primož Gliha",
+      "is",
+      "former player"
+    ],
+    [
+      "Primož Gliha",
+      "was most recently the manager of",
+      "Kosovo national team"
+    ]
+  ]
+}

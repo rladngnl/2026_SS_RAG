@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "England",
+    "U.S. national team",
+    "North American Soccer League",
+    "soccer player",
+    "soccer equipment salesman",
+    "April 22, 1958",
+    "Gary Etherington",
+    "Major Indoor Soccer League",
+    "youth soccer"
+  ],
+  "edges": [
+    "earned caps with",
+    "is a",
+    "coached",
+    "moved to",
+    "was born in",
+    "began his professional career in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Gary Etherington",
+      "is a",
+      "soccer equipment salesman"
+    ],
+    [
+      "Gary Etherington",
+      "coached",
+      "youth soccer"
+    ],
+    [
+      "Gary Etherington",
+      "was born in",
+      "England"
+    ],
+    [
+      "Gary Etherington",
+      "moved to",
+      "Major Indoor Soccer League"
+    ],
+    [
+      "Gary Etherington",
+      "earned caps with",
+      "U.S. national team"
+    ],
+    [
+      "Gary Etherington",
+      "is a",
+      "soccer player"
+    ],
+    [
+      "Gary Etherington",
+      "began his professional career in",
+      "North American Soccer League"
+    ],
+    [
+      "Gary Etherington",
+      "was born on",
+      "April 22, 1958"
+    ]
+  ]
+}

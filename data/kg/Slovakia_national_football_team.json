@@ -1,0 +1,97 @@
+{
+  "entities": [
+    "Tehelné pole",
+    "Slovakia national football team",
+    "Slovak",
+    "Bratislava",
+    "Second World War",
+    "SFZ",
+    "2010 FIFA World Cup",
+    "Italy",
+    "Slovak Football Association",
+    "UEFA Euro 2020",
+    "UEFA Euro 2016",
+    "UEFA Euro 2024",
+    "Czechoslovakia",
+    "Netherlands"
+  ],
+  "edges": [
+    "competed during",
+    "won against",
+    "participated as",
+    "has home stadium",
+    "qualified for",
+    "is governed by",
+    "represents",
+    "governs",
+    "was defeated by",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Slovakia national football team",
+      "represents",
+      "Slovakia"
+    ],
+    [
+      "Slovakia national football team",
+      "participated as",
+      "Czechoslovakia"
+    ],
+    [
+      "Slovakia national football team",
+      "competed during",
+      "Second World War"
+    ],
+    [
+      "Slovakia national football team",
+      "won against",
+      "Italy"
+    ],
+    [
+      "Slovak Football Association",
+      "governs",
+      "football in Slovakia"
+    ],
+    [
+      "Slovakia national football team",
+      "qualified for",
+      "UEFA Euro 2016"
+    ],
+    [
+      "Slovakia national football team",
+      "qualified for",
+      "UEFA Euro 2020"
+    ],
+    [
+      "Tehelné pole",
+      "is located in",
+      "Bratislava"
+    ],
+    [
+      "Slovakia national football team",
+      "qualified for",
+      "2010 FIFA World Cup"
+    ],
+    [
+      "Slovakia national football team",
+      "has home stadium",
+      "Tehelné pole"
+    ],
+    [
+      "Slovakia national football team",
+      "is governed by",
+      "Slovak Football Association"
+    ],
+    [
+      "Slovakia national football team",
+      "was defeated by",
+      "Netherlands"
+    ],
+    [
+      "Slovakia national football team",
+      "qualified for",
+      "UEFA Euro 2024"
+    ]
+  ]
+}

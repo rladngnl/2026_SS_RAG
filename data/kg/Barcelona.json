@@ -1,0 +1,179 @@
+{
+  "entities": [
+    "Union for the Mediterranean",
+    "Napoleon",
+    "Phoenicians",
+    "biotech hub",
+    "Barcelona–El Prat Airport",
+    "southwestern Europe",
+    "County of Barcelona",
+    "democracy",
+    "Pompeu Fabra University",
+    "1992 Summer Olympics",
+    "fascists",
+    "Madrid",
+    "Spain",
+    "Spanish Revolution",
+    "Lluís Domènech i Montaner",
+    "global city status",
+    "Besòs",
+    "UNESCO World Heritage Sites",
+    "Kingdom of Aragon",
+    "Port of Barcelona",
+    "University of Barcelona",
+    "Barcelona",
+    "Reapers' War",
+    "Crown of Aragon",
+    "Catalonia",
+    "Carthaginians",
+    "Valencia",
+    "Crown of Castile",
+    "France",
+    "Antoni Gaudí",
+    "Serra de Collserola",
+    "Europe",
+    "Llobregat",
+    "Catalan separatism",
+    "Principality of Catalonia"
+  ],
+  "edges": [
+    "became the centre of",
+    "is a major",
+    "is a city on the coast of",
+    "has a population of",
+    "has a rich cultural heritage and is an important cultural centre in",
+    "was part of",
+    "was founded by",
+    "was captured by the",
+    "joined with the",
+    "was overtaken by",
+    "is known for hosting the",
+    "is a transport hub with the",
+    "is home to around",
+    "has an international airport called",
+    "is the second-most populous municipality of",
+    "is the capital of",
+    "is one of the largest metropolises on",
+    "became the capital of the",
+    "became the most important city in the",
+    "is the largest city of",
+    "became the capital of"
+  ],
+  "relations": [
+    [
+      "Barcelona",
+      "is one of the largest metropolises on",
+      "the Mediterranean Sea"
+    ],
+    [
+      "Barcelona",
+      "was captured by the",
+      "fascists"
+    ],
+    [
+      "Barcelona",
+      "is a transport hub with the",
+      "Port of Barcelona"
+    ],
+    [
+      "Barcelona",
+      "is the largest city of",
+      "Catalonia"
+    ],
+    [
+      "Barcelona",
+      "is home to around",
+      "5.7 million people"
+    ],
+    [
+      "Barcelona",
+      "became the capital of the",
+      "County of Barcelona"
+    ],
+    [
+      "Barcelona",
+      "was part of",
+      "France"
+    ],
+    [
+      "Barcelona",
+      "is a major",
+      "biotech hub"
+    ],
+    [
+      "Barcelona",
+      "was overtaken by",
+      "Valencia"
+    ],
+    [
+      "Barcelona",
+      "became the centre of",
+      "Catalan separatism"
+    ],
+    [
+      "Barcelona",
+      "has a population of",
+      "1.7 million"
+    ],
+    [
+      "Barcelona",
+      "has a rich cultural heritage and is an important cultural centre in",
+      "southwestern Europe"
+    ],
+    [
+      "Barcelona",
+      "is a city on the coast of",
+      "Spain"
+    ],
+    [
+      "Barcelona",
+      "joined with the",
+      "Kingdom of Aragon"
+    ],
+    [
+      "Barcelona",
+      "has an international airport called",
+      "Barcelona–El Prat Airport"
+    ],
+    [
+      "Barcelona",
+      "became the capital of",
+      "autonomous Catalonia"
+    ],
+    [
+      "Barcelona",
+      "is known for hosting the",
+      "1992 Summer Olympics"
+    ],
+    [
+      "Barcelona",
+      "was founded by",
+      "Phoenicians"
+    ],
+    [
+      "Barcelona",
+      "became the capital of the",
+      "Principality of Catalonia"
+    ],
+    [
+      "Barcelona",
+      "became the most important city in the",
+      "Crown of Aragon"
+    ],
+    [
+      "Barcelona",
+      "was founded by",
+      "Carthaginians"
+    ],
+    [
+      "Barcelona",
+      "is the second-most populous municipality of",
+      "Spain"
+    ],
+    [
+      "Barcelona",
+      "is the capital of",
+      "Catalonia"
+    ]
+  ]
+}

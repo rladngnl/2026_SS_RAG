@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "2008 Summer Olympics",
+    "international Under-23 football events",
+    "Beijing",
+    "New Zealand Football",
+    "OlyWhites",
+    "Fiji",
+    "Summer Olympics",
+    "New Zealand men's football team",
+    "OFC Preliminary Competition",
+    "New Zealand national under-23 football team"
+  ],
+  "edges": [
+    "participates in",
+    "had first Olympic appearance for",
+    "is informally known as",
+    "qualified for",
+    "took place in",
+    "won",
+    "represents"
+  ],
+  "relations": [
+    [
+      "New Zealand national under-23 football team",
+      "is informally known as",
+      "OlyWhites"
+    ],
+    [
+      "New Zealand national under-23 football team",
+      "qualified for",
+      "2008 Summer Olympics"
+    ],
+    [
+      "New Zealand national under-23 football team",
+      "won",
+      "OFC Preliminary Competition"
+    ],
+    [
+      "New Zealand national under-23 football team",
+      "participates in",
+      "international Under-23 football events"
+    ],
+    [
+      "OFC Preliminary Competition",
+      "took place in",
+      "Fiji"
+    ],
+    [
+      "New Zealand national under-23 football team",
+      "represents",
+      "New Zealand Football"
+    ],
+    [
+      "New Zealand national under-23 football team",
+      "had first Olympic appearance for",
+      "New Zealand men's football team"
+    ],
+    [
+      "2008 Summer Olympics",
+      "took place in",
+      "Beijing"
+    ]
+  ]
+}

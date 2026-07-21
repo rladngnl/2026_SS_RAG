@@ -1,0 +1,60 @@
+{
+  "entities": [
+    "24 September 1979",
+    "Pat Jennings Jr.",
+    "League of Ireland",
+    "St Patrick's Athletic",
+    "Northern Ireland",
+    "former professional football goalkeeper",
+    "English",
+    "Patrick Jennings",
+    "goalkeeping coach",
+    "Pat Jennings"
+  ],
+  "edges": [
+    "is goalkeeping coach of",
+    "is a",
+    "is the son of",
+    "is known as",
+    "is a club in",
+    "is an international of",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Pat Jennings Jr.",
+      "is the son of",
+      "Pat Jennings"
+    ],
+    [
+      "Pat Jennings Jr.",
+      "was born on",
+      "24 September 1979"
+    ],
+    [
+      "Pat Jennings Jr.",
+      "is goalkeeping coach of",
+      "St Patrick's Athletic"
+    ],
+    [
+      "Pat Jennings Jr.",
+      "is a",
+      "former professional football goalkeeper"
+    ],
+    [
+      "Pat Jennings",
+      "is an international of",
+      "Northern Ireland"
+    ],
+    [
+      "St Patrick's Athletic",
+      "is a club in",
+      "League of Ireland"
+    ],
+    [
+      "Pat Jennings Jr.",
+      "is known as",
+      "Patrick Jennings"
+    ]
+  ]
+}

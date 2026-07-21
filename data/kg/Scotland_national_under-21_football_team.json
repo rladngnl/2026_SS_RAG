@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Scotland national under-21 football team",
+    "UEFA European Under-21 Championship",
+    "Scotland national football team",
+    "Scottish Football Association",
+    "Summer Olympics"
+  ],
+  "edges": [
+    "is considered to be a feeder team for",
+    "determines qualification for",
+    "is controlled by",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Performance in the European Championship",
+      "determines qualification for",
+      "Summer Olympics"
+    ],
+    [
+      "Scotland national under-21 football team",
+      "competes in",
+      "UEFA European Under-21 Championship"
+    ],
+    [
+      "Scotland national under-21 football team",
+      "is considered to be a feeder team for",
+      "Scotland national football team"
+    ],
+    [
+      "Scotland national under-21 football team",
+      "is controlled by",
+      "Scottish Football Association"
+    ]
+  ]
+}

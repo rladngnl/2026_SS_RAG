@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "FFC 08 Niederkirchen",
+    "TuS Niederkirchen",
+    "German 2. Bundesliga",
+    "Rhineland-Palatinate",
+    "Niederkirchen",
+    "German women's football club"
+  ],
+  "edges": [
+    "is a",
+    "is formerly known as",
+    "is based in",
+    "plays in the",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Niederkirchen",
+      "is located in",
+      "Rhineland-Palatinate"
+    ],
+    [
+      "FFC 08 Niederkirchen",
+      "is a",
+      "German women's football club"
+    ],
+    [
+      "FFC 08 Niederkirchen",
+      "is based in",
+      "Niederkirchen"
+    ],
+    [
+      "FFC 08 Niederkirchen",
+      "is formerly known as",
+      "TuS Niederkirchen"
+    ],
+    [
+      "FFC 08 Niederkirchen",
+      "plays in the",
+      "German 2. Bundesliga"
+    ]
+  ]
+}

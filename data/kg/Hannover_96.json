@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "2. Bundesliga",
+    "Hannover 96",
+    "DFB-Pokal",
+    "2011–12 UEFA Europa League",
+    "Niedersachsenstadion",
+    "UEFA Euro 1988",
+    "1974 FIFA World Cup",
+    "2006 FIFA World Cup",
+    "European competition",
+    "German football",
+    "Eintracht Braunschweig",
+    "Lower Saxony",
+    "Bundesliga",
+    "Hannoverscher Sportverein von 1896",
+    "Hanover"
+  ],
+  "edges": [
+    "competes in",
+    "has won",
+    "has reached",
+    "is contested with",
+    "was a venue for",
+    "lifted",
+    "played at",
+    "contests",
+    "is commonly referred to as",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Hannover 96",
+      "has reached",
+      "quarter-finals of European competition"
+    ],
+    [
+      "Niedersachsenstadion",
+      "was a venue for",
+      "1974 FIFA World Cup"
+    ],
+    [
+      "Niedersachsenstadion",
+      "was a venue for",
+      "UEFA Euro 1988"
+    ],
+    [
+      "Lower Saxony derby",
+      "is contested with",
+      "Eintracht Braunschweig"
+    ],
+    [
+      "Hannover 96",
+      "has won",
+      "German football championship"
+    ],
+    [
+      "Hannover 96",
+      "contests",
+      "Lower Saxony derby"
+    ],
+    [
+      "Hannover 96",
+      "lifted",
+      "DFB-Pokal"
+    ],
+    [
+      "Niedersachsenstadion",
+      "was a venue for",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Hannover 96",
+      "played at",
+      "Niedersachsenstadion"
+    ],
+    [
+      "Hannover 96",
+      "competes in",
+      "2. Bundesliga"
+    ],
+    [
+      "Hannover 96",
+      "is commonly referred to as",
+      "Hannoverscher Sportverein von 1896"
+    ],
+    [
+      "Hannover 96",
+      "is based in",
+      "Hanover"
+    ]
+  ]
+}

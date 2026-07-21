@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "David McEachran",
+    "Canada",
+    "England",
+    "wing forward",
+    "Scotland",
+    "United States",
+    "Dave McEachran",
+    "Northern Ireland",
+    "21 January 1983",
+    "Scottish",
+    "football",
+    "5 December 1903"
+  ],
+  "edges": [
+    "was born on",
+    "played professionally in",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "David McEachran",
+      "played professionally in",
+      "United States"
+    ],
+    [
+      "David McEachran",
+      "played professionally in",
+      "Scotland"
+    ],
+    [
+      "David McEachran",
+      "played professionally in",
+      "England"
+    ],
+    [
+      "David McEachran",
+      "was",
+      "wing forward"
+    ],
+    [
+      "David McEachran",
+      "played professionally in",
+      "Northern Ireland"
+    ],
+    [
+      "David McEachran",
+      "died on",
+      "21 January 1983"
+    ],
+    [
+      "David McEachran",
+      "played professionally in",
+      "Canada"
+    ],
+    [
+      "David McEachran",
+      "was born on",
+      "5 December 1903"
+    ],
+    [
+      "David McEachran",
+      "was",
+      "Scottish"
+    ],
+    [
+      "David McEachran",
+      "was",
+      "football"
+    ]
+  ]
+}

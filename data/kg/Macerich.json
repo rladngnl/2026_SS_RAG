@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "shopping centers",
+    "real estate investment trust",
+    "Mace Siegel",
+    "United States",
+    "Macerich",
+    "43 properties",
+    "43 million square feet",
+    "December 31, 2024",
+    "Macerich Company",
+    "Richard Cohen"
+  ],
+  "edges": [
+    "is a",
+    "is the third-largest owner and operator of",
+    "as of",
+    "owned interests in",
+    "comprises",
+    "invests in",
+    "was established by",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Macerich Company",
+      "is a",
+      "real estate investment trust"
+    ],
+    [
+      "Macerich Company",
+      "is located in",
+      "United States"
+    ],
+    [
+      "Macerich Company",
+      "invests in",
+      "shopping centers"
+    ],
+    [
+      "Macerich Company",
+      "was established by",
+      "Richard Cohen"
+    ],
+    [
+      "Macerich Company",
+      "owned interests in",
+      "43 properties"
+    ],
+    [
+      "Macerich Company",
+      "as of",
+      "December 31, 2024"
+    ],
+    [
+      "Macerich Company",
+      "comprises",
+      "43 million square feet"
+    ],
+    [
+      "Macerich Company",
+      "was established by",
+      "Mace Siegel"
+    ],
+    [
+      "Macerich Company",
+      "is the third-largest owner and operator of",
+      "shopping centers"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "left-back",
+    "former professional footballer",
+    "16 April 1973",
+    "French",
+    "Jérôme Bonnissel"
+  ],
+  "edges": [
+    "is born on",
+    "played as",
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jérôme Bonnissel",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Jérôme Bonnissel",
+      "is born on",
+      "16 April 1973"
+    ],
+    [
+      "Jérôme Bonnissel",
+      "played as",
+      "left-back"
+    ],
+    [
+      "Jérôme Bonnissel",
+      "is",
+      "French"
+    ]
+  ]
+}

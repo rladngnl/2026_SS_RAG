@@ -1,0 +1,431 @@
+{
+  "entities": [
+    "Valencia Club de Fútbol",
+    "Andrés Palop",
+    "Spanish national team",
+    "FIFA World Player",
+    "Javi Guerra",
+    "Fernando Gómez",
+    "Carlos Soler",
+    "Acadèmia",
+    "Romário",
+    "Alfredo Di Stéfano",
+    "Golden Boy Award",
+    "Didier Deschamps",
+    "La Liga",
+    "Nou Mestalla",
+    "Jorge Valdano",
+    "Santiago Cañizares",
+    "Raúl Albiol",
+    "Diego López",
+    "David Albelda",
+    "Fabián Ayala",
+    "Gaizka Mendieta",
+    "Kily González",
+    "Zarra Trophy",
+    "Zamora Trophy",
+    "José Gayà",
+    "Jordi Alba",
+    "Yashin Trophy",
+    "Mario Alberto Kempes",
+    "Juan Mata",
+    "Miguel Ángel Angulo",
+    "Pichichi Trophy",
+    "Éver Banega",
+    "Lee Kang-in",
+    "David Villa",
+    "2010 FIFA World Cup",
+    "Isco",
+    "Ferran Torres",
+    "Mestalla",
+    "Miguel Tendillo",
+    "Ricardo Arias",
+    "Juan Bernat",
+    "Valencia CF",
+    "Carlos Marchena",
+    "Paco Alcácer",
+    "Kopa Trophy",
+    "Javier Farinos",
+    "Cristhian Mosquera",
+    "David Silva",
+    "Peter Lim",
+    "Ballon d'Or",
+    "UEFA Team of the Year",
+    "Vicente Rodríguez"
+  ],
+  "edges": [
+    "has four personalities in",
+    "is expected to move to",
+    "maintains",
+    "includes products such as",
+    "has current stars such as",
+    "won",
+    "was inducted into",
+    "competes in",
+    "was named",
+    "is the fourth in",
+    "was champion of",
+    "was included in",
+    "was part of",
+    "has one nomination for",
+    "is commonly known as",
+    "has had members inducted into",
+    "has been included in",
+    "is the team with the most",
+    "is the fifth in",
+    "was runner-up in",
+    "has won",
+    "is the third Spanish team with the most",
+    "has finished as runners-up",
+    "has played its home matches at",
+    "acquired",
+    "has ten nominations for"
+  ],
+  "relations": [
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "José Gayà"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "one UEFA Intertoto Cup"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "one UEFA Cup Winners' Cup"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "one Spanish Super Cup"
+    ],
+    [
+      "David Silva",
+      "was part of",
+      "the Spanish national team"
+    ],
+    [
+      "Kily González",
+      "was included in",
+      "the UEFA Team of the Year"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Javier Farinos"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "David Silva"
+    ],
+    [
+      "Peter Lim",
+      "acquired",
+      "Valencia CF"
+    ],
+    [
+      "Valencia CF",
+      "was part of",
+      "the G-14 group"
+    ],
+    [
+      "Valencia CF",
+      "has one nomination for",
+      "the 2024 Yashin Trophy"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Isco"
+    ],
+    [
+      "Valencia CF",
+      "has four personalities in",
+      "the FIFA 100"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "two Inter-Cities Fairs Cups"
+    ],
+    [
+      "Éver Banega",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "two UEFA Super Cups"
+    ],
+    [
+      "Miguel Ángel Angulo",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "one UEFA Cup"
+    ],
+    [
+      "Cristhian Mosquera",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Carlos Marchena",
+      "was part of",
+      "the Spanish national team"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Fernando Gómez"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Ferran Torres"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Vicente Rodríguez"
+    ],
+    [
+      "Valencia CF",
+      "was named",
+      "World's Best Club"
+    ],
+    [
+      "Valencia CF",
+      "has ten nominations for",
+      "the Golden Boy Award"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Javi Guerra"
+    ],
+    [
+      "Jorge Valdano",
+      "was inducted into",
+      "the FIFA International Football Hall of Fame"
+    ],
+    [
+      "Valencia CF",
+      "has had members inducted into",
+      "the FIFA International Football Hall of Fame"
+    ],
+    [
+      "Valencia CF",
+      "has finished as runners-up",
+      "six times"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Carlos Soler"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "two Segunda División titles"
+    ],
+    [
+      "Alfredo Di Stéfano",
+      "was inducted into",
+      "the FIFA International Football Hall of Fame"
+    ],
+    [
+      "Valencia CF",
+      "is the fourth in",
+      "the Zamora Trophy"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Juan Bernat"
+    ],
+    [
+      "Santiago Cañizares",
+      "was included in",
+      "the UEFA Team of the Year"
+    ],
+    [
+      "Juan Mata",
+      "was part of",
+      "the Spanish national team"
+    ],
+    [
+      "Fabián Ayala",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Valencia CF",
+      "maintains",
+      "a youth academy"
+    ],
+    [
+      "Valencia CF",
+      "was champion of",
+      "the Small Club World Cup"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "one Copa Eva Duarte"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Ricardo Arias"
+    ],
+    [
+      "Valencia CF",
+      "is the fifth in",
+      "the Pichichi Trophy"
+    ],
+    [
+      "Valencia CF",
+      "has played its home matches at",
+      "Mestalla"
+    ],
+    [
+      "Valencia CF",
+      "has one nomination for",
+      "the 2019 Kopa Trophy"
+    ],
+    [
+      "Valencia CF",
+      "was runner-up in",
+      "1955"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Gaizka Mendieta"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "six La Liga titles"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Lee Kang-in"
+    ],
+    [
+      "Valencia CF",
+      "competes in",
+      "La Liga"
+    ],
+    [
+      "Mario Alberto Kempes",
+      "was inducted into",
+      "the FIFA International Football Hall of Fame"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Paco Alcácer"
+    ],
+    [
+      "Valencia CF",
+      "is the fourth in",
+      "the Ballon d'Or"
+    ],
+    [
+      "David Villa",
+      "was included in",
+      "the UEFA Team of the Year"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Miguel Tendillo"
+    ],
+    [
+      "Diego López",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Valencia Club de Fútbol",
+      "is commonly known as",
+      "Valencia CF"
+    ],
+    [
+      "David Villa",
+      "was part of",
+      "the Spanish national team"
+    ],
+    [
+      "Didier Deschamps",
+      "was inducted into",
+      "the FIFA International Football Hall of Fame"
+    ],
+    [
+      "Valencia CF",
+      "is the team with the most",
+      "Zarra Trophy winners"
+    ],
+    [
+      "Valencia CF",
+      "is the third Spanish team with the most",
+      "FIFA World Player nominees"
+    ],
+    [
+      "Carlos Soler",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Valencia CF",
+      "has current stars such as",
+      "Jordi Alba"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Raúl Albiol"
+    ],
+    [
+      "Acadèmia",
+      "includes products such as",
+      "Andrés Palop"
+    ],
+    [
+      "Romário",
+      "was inducted into",
+      "the FIFA International Football Hall of Fame"
+    ],
+    [
+      "Valencia CF",
+      "has won",
+      "eight Copa del Rey trophies"
+    ],
+    [
+      "Valencia CF",
+      "has been included in",
+      "the UEFA Team of the Year"
+    ],
+    [
+      "David Albelda",
+      "won",
+      "Olympic Games medals"
+    ],
+    [
+      "Valencia CF",
+      "is expected to move to",
+      "Nou Mestalla"
+    ]
+  ]
+}

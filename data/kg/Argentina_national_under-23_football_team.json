@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "silver medal",
+    "Olympic football team",
+    "Marcelo Bielsa",
+    "Nigeria",
+    "Pan American Games",
+    "Olympic Games",
+    "final",
+    "Argentina",
+    "gold medal",
+    "Beijing",
+    "players",
+    "Uruguay",
+    "Amsterdam",
+    "IOC",
+    "AFA",
+    "Argentina national under-23 football team",
+    "international football competitions",
+    "Argentine Football Association",
+    "Carlos Tevez"
+  ],
+  "edges": [
+    "won against",
+    "was runner-up to",
+    "is controlled by",
+    "finished as top scorer with",
+    "was coached by",
+    "took revenge against",
+    "won",
+    "represents",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Argentina national under-23 football team",
+      "was runner-up to",
+      "Uruguay"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "won",
+      "gold medal"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "participated in",
+      "Pan American Games"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "won",
+      "silver medal"
+    ],
+    [
+      "Carlos Tevez",
+      "finished as top scorer with",
+      "eight goals"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "represents",
+      "Argentina"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "was coached by",
+      "Marcelo Bielsa"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "participated in",
+      "Olympic Games"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "won against",
+      "Nigeria"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "took revenge against",
+      "Nigeria"
+    ],
+    [
+      "Argentina national under-23 football team",
+      "is controlled by",
+      "Argentine Football Association"
+    ]
+  ]
+}

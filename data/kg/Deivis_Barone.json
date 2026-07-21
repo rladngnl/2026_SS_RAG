@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "footballer",
+    "Canelones",
+    "Uruguayan",
+    "Deivis Barone Farías",
+    "Canadian Keguay"
+  ],
+  "edges": [
+    "plays for",
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Deivis Barone Farías",
+      "plays for",
+      "Canadian Keguay"
+    ],
+    [
+      "Deivis Barone Farías",
+      "is from",
+      "Canelones"
+    ],
+    [
+      "Deivis Barone Farías",
+      "is a",
+      "Uruguayan"
+    ],
+    [
+      "Deivis Barone Farías",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

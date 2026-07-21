@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Birmingham City",
+    "Hull City",
+    "Ipswich Town",
+    "Peterborough United",
+    "Grays Athletic",
+    "Aaron McLean",
+    "Leyton Orient",
+    "Aldershot Town",
+    "Bradford City",
+    "England C team"
+  ],
+  "edges": [
+    "is a retired professional footballer",
+    "played for",
+    "gained caps for"
+  ],
+  "relations": [
+    [
+      "Aaron McLean",
+      "played for",
+      "Hull City"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Birmingham City"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Peterborough United"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Grays Athletic"
+    ],
+    [
+      "Aaron McLean",
+      "gained caps for",
+      "England C team"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Bradford City"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Aldershot Town"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Leyton Orient"
+    ],
+    [
+      "Aaron McLean",
+      "is a retired professional footballer",
+      "Aaron McLean"
+    ],
+    [
+      "Aaron McLean",
+      "played for",
+      "Ipswich Town"
+    ]
+  ]
+}

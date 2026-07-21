@@ -1,0 +1,143 @@
+{
+  "entities": [
+    "21,561 passengers",
+    "1944",
+    "1978",
+    "Aeropuertos Argentina 2000",
+    "EQS",
+    "2010",
+    "Aeropuerto de Esquel",
+    "Argentina",
+    "1,050m² passenger terminal",
+    "Chile",
+    "Esquel",
+    "Brigadier General Antonio Parodi International Airport",
+    "April 17, 1945",
+    "1,050m² hangar",
+    "El Chaitén",
+    "1999",
+    "May 2008",
+    "SAVE",
+    "96,500m² runways",
+    "Esquel Airport",
+    "Chubut Province",
+    "1973"
+  ],
+  "edges": [
+    "closed temporarily in",
+    "had passenger count in",
+    "has IATA code",
+    "constructed new terminal in",
+    "is also known as",
+    "has passenger terminal size",
+    "has hangar size",
+    "has ICAO code",
+    "serves the city of",
+    "is located in",
+    "was affected by volcanic activities in",
+    "paved runway in",
+    "had passenger count of",
+    "was inaugurated on",
+    "re-paved runway in",
+    "was built in",
+    "has runway size",
+    "has been operated by"
+  ],
+  "relations": [
+    [
+      "Esquel Airport",
+      "serves the city of",
+      "Esquel"
+    ],
+    [
+      "Esquel Airport",
+      "has runway size",
+      "96,500m² runways"
+    ],
+    [
+      "El Chaitén",
+      "is located in",
+      "Chile"
+    ],
+    [
+      "Esquel Airport",
+      "has IATA code",
+      "EQS"
+    ],
+    [
+      "Esquel Airport",
+      "has hangar size",
+      "1,050m² hangar"
+    ],
+    [
+      "Esquel Airport",
+      "has been operated by",
+      "Aeropuertos Argentina 2000"
+    ],
+    [
+      "Esquel Airport",
+      "was affected by volcanic activities in",
+      "El Chaitén"
+    ],
+    [
+      "Esquel Airport",
+      "is located in",
+      "Chubut Province"
+    ],
+    [
+      "Esquel Airport",
+      "had passenger count of",
+      "21,561 passengers"
+    ],
+    [
+      "Esquel Airport",
+      "closed temporarily in",
+      "May 2008"
+    ],
+    [
+      "Esquel Airport",
+      "is also known as",
+      "Aeropuerto de Esquel"
+    ],
+    [
+      "Esquel Airport",
+      "has passenger terminal size",
+      "1,050m² passenger terminal"
+    ],
+    [
+      "Esquel Airport",
+      "had passenger count in",
+      "2010"
+    ],
+    [
+      "Esquel Airport",
+      "constructed new terminal in",
+      "1978"
+    ],
+    [
+      "Esquel Airport",
+      "has ICAO code",
+      "SAVE"
+    ],
+    [
+      "Esquel Airport",
+      "paved runway in",
+      "1973"
+    ],
+    [
+      "Esquel Airport",
+      "was inaugurated on",
+      "April 17, 1945"
+    ],
+    [
+      "Esquel Airport",
+      "re-paved runway in",
+      "1999"
+    ],
+    [
+      "Esquel Airport",
+      "was built in",
+      "1944"
+    ]
+  ]
+}

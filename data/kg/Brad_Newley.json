@@ -1,0 +1,103 @@
+{
+  "entities": [
+    "Townsville Crocodiles",
+    "2024",
+    "Greece",
+    "Turkey",
+    "Melbourne United",
+    "Lithuania",
+    "2016",
+    "NBL",
+    "Brad Newley",
+    "Europe",
+    "2007 NBA draft",
+    "Houston Rockets",
+    "Sydney Kings",
+    "Spain",
+    "Australia",
+    "National Basketball League"
+  ],
+  "edges": [
+    "played in",
+    "started his career with",
+    "was drafted by",
+    "played between",
+    "played until",
+    "is born in",
+    "played in the National Basketball League",
+    "played for",
+    "was drafted in"
+  ],
+  "relations": [
+    [
+      "Brad Newley",
+      "was drafted in",
+      "2007 NBA draft"
+    ],
+    [
+      "Brad Newley",
+      "played between",
+      "2016"
+    ],
+    [
+      "Brad Newley",
+      "was drafted by",
+      "Houston Rockets"
+    ],
+    [
+      "Brad Newley",
+      "started his career with",
+      "Townsville Crocodiles"
+    ],
+    [
+      "Brad Newley",
+      "played for",
+      "Sydney Kings"
+    ],
+    [
+      "Brad Newley",
+      "played until",
+      "2024"
+    ],
+    [
+      "Brad Newley",
+      "is born in",
+      "Australia"
+    ],
+    [
+      "Brad Newley",
+      "played in the National Basketball League",
+      "NBL"
+    ],
+    [
+      "Brad Newley",
+      "played in",
+      "Spain"
+    ],
+    [
+      "Brad Newley",
+      "played in",
+      "Greece"
+    ],
+    [
+      "Brad Newley",
+      "played in",
+      "Europe"
+    ],
+    [
+      "Brad Newley",
+      "played for",
+      "Melbourne United"
+    ],
+    [
+      "Brad Newley",
+      "played in",
+      "Turkey"
+    ],
+    [
+      "Brad Newley",
+      "played in",
+      "Lithuania"
+    ]
+  ]
+}

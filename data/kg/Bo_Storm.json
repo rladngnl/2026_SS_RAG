@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "Danish 1st Division",
+    "assistant manager",
+    "3 February 1987",
+    "footballer",
+    "Bo Storm",
+    "FC Roskilde",
+    "Danish",
+    "Nordborg"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "is the assistant manager of",
+    "is born in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Bo Storm",
+      "was born on",
+      "3 February 1987"
+    ],
+    [
+      "FC Roskilde",
+      "is in",
+      "Danish 1st Division"
+    ],
+    [
+      "Bo Storm",
+      "is a",
+      "Danish footballer"
+    ],
+    [
+      "Bo Storm",
+      "is the assistant manager of",
+      "FC Roskilde"
+    ],
+    [
+      "Bo Storm",
+      "is born in",
+      "Nordborg"
+    ]
+  ]
+}

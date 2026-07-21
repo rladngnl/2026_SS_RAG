@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "Chilean football",
+    "HIFK",
+    "FC Honka",
+    "MyPa",
+    "September 2012",
+    "FC Lahti",
+    "Haka",
+    "Rabona penalty",
+    "Pekka Sihvola",
+    "Finland national football team",
+    "Finland",
+    "FC Hämeenlinna",
+    "C.D. Magallanes",
+    "C.D. La Serena"
+  ],
+  "edges": [
+    "represented",
+    "is a retired professional footballer",
+    "scored a",
+    "played for",
+    "had a trial at",
+    "attracted fame for",
+    "trained with"
+  ],
+  "relations": [
+    [
+      "Pekka Sihvola",
+      "scored a",
+      "Rabona penalty"
+    ],
+    [
+      "Pekka Sihvola",
+      "played for",
+      "FC Honka"
+    ],
+    [
+      "Pekka Sihvola",
+      "played for",
+      "FC Hämeenlinna"
+    ],
+    [
+      "Pekka Sihvola",
+      "played for",
+      "FC Lahti"
+    ],
+    [
+      "Pekka Sihvola",
+      "trained with",
+      "C.D. Magallanes"
+    ],
+    [
+      "Pekka Sihvola",
+      "had a trial at",
+      "C.D. La Serena"
+    ],
+    [
+      "Pekka Sihvola",
+      "played for",
+      "Haka"
+    ],
+    [
+      "Pekka Sihvola",
+      "represented",
+      "Finland national football team"
+    ],
+    [
+      "Pekka Sihvola",
+      "attracted fame for",
+      "September 2012"
+    ],
+    [
+      "Pekka Sihvola",
+      "played for",
+      "MyPa"
+    ],
+    [
+      "Pekka Sihvola",
+      "played for",
+      "HIFK"
+    ],
+    [
+      "Pekka Sihvola",
+      "is a retired professional footballer",
+      "Pekka Sihvola"
+    ]
+  ]
+}

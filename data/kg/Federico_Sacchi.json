@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "Argentine",
+    "Argentina national team",
+    "Federico Jorge Sacchi",
+    "Argentine Football Association Hall of Fame"
+  ],
+  "edges": [
+    "played as",
+    "made appearances for",
+    "is included in",
+    "was"
+  ],
+  "relations": [
+    [
+      "Federico Jorge Sacchi",
+      "is included in",
+      "Argentine Football Association Hall of Fame"
+    ],
+    [
+      "Federico Jorge Sacchi",
+      "made appearances for",
+      "Argentina national team"
+    ],
+    [
+      "Federico Jorge Sacchi",
+      "played as",
+      "central defender"
+    ],
+    [
+      "Federico Jorge Sacchi",
+      "was",
+      "Argentine footballer"
+    ]
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "Portugal",
+    "Switzerland",
+    "Turkey",
+    "Greece",
+    "Slovak",
+    "RTVS",
+    "Slovakia",
+    "Marián Zeman",
+    "UEFA Euro 2020",
+    "Netherlands"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "participates in",
+    "features as",
+    "works for"
+  ],
+  "relations": [
+    [
+      "Marián Zeman",
+      "played in",
+      "Portugal"
+    ],
+    [
+      "Marián Zeman",
+      "played in",
+      "Netherlands"
+    ],
+    [
+      "Marián Zeman",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Marián Zeman",
+      "played in",
+      "Slovakia"
+    ],
+    [
+      "Marián Zeman",
+      "features as",
+      "co-commentator"
+    ],
+    [
+      "Marián Zeman",
+      "is a",
+      "central defender"
+    ],
+    [
+      "Marián Zeman",
+      "works for",
+      "RTVS"
+    ],
+    [
+      "Marián Zeman",
+      "played in",
+      "Switzerland"
+    ],
+    [
+      "Marián Zeman",
+      "played in",
+      "Greece"
+    ],
+    [
+      "Marián Zeman",
+      "played in",
+      "Turkey"
+    ],
+    [
+      "Marián Zeman",
+      "features as",
+      "expert analyst"
+    ],
+    [
+      "Marián Zeman",
+      "is a",
+      "Slovak"
+    ],
+    [
+      "Marián Zeman",
+      "participates in",
+      "UEFA Euro 2020"
+    ]
+  ]
+}

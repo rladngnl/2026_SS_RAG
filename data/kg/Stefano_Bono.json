@@ -1,0 +1,59 @@
+{
+  "entities": [
+    "assistant manager",
+    "Brescia Calcio",
+    "Italian",
+    "Stefano Bono",
+    "Chiari",
+    "June 18, 1979",
+    "Serie A",
+    "professional football player",
+    "1997/98 season"
+  ],
+  "edges": [
+    "worked as",
+    "is a",
+    "played in",
+    "played one game in",
+    "was born on",
+    "was born in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Stefano Bono",
+      "worked as",
+      "assistant manager"
+    ],
+    [
+      "Stefano Bono",
+      "was born on",
+      "June 18, 1979"
+    ],
+    [
+      "Stefano Bono",
+      "played for",
+      "Brescia Calcio"
+    ],
+    [
+      "Stefano Bono",
+      "is a",
+      "professional football player"
+    ],
+    [
+      "Stefano Bono",
+      "played one game in",
+      "1997/98 season"
+    ],
+    [
+      "Stefano Bono",
+      "played in",
+      "Serie A"
+    ],
+    [
+      "Stefano Bono",
+      "was born in",
+      "Chiari"
+    ]
+  ]
+}

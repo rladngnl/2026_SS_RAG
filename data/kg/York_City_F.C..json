@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "Norman Wilkinson",
+    "Hull City",
+    "EFL League Two",
+    "Third Division play-off final",
+    "York",
+    "England",
+    "Wembley Stadium",
+    "non-League football",
+    "Barry Jackson",
+    "Football League",
+    "York City Football Club",
+    "York Community Stadium",
+    "Bootham Crescent",
+    "North Yorkshire",
+    "Scarborough",
+    "FA Cup",
+    "Newcastle United",
+    "FA Trophy",
+    "Fourth Division",
+    "Third Division North"
+  ],
+  "edges": [
+    "played in",
+    "competes in",
+    "first played at",
+    "joined",
+    "is leading scorer of",
+    "is located in",
+    "has rivalries with",
+    "won",
+    "is record appearance holder of",
+    "met",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "York City Football Club",
+      "is based in",
+      "York"
+    ],
+    [
+      "York City Football Club",
+      "joined",
+      "Football League"
+    ],
+    [
+      "York City Football Club",
+      "has rivalries with",
+      "Hull City"
+    ],
+    [
+      "York City Football Club",
+      "has rivalries with",
+      "Scarborough"
+    ],
+    [
+      "York City Football Club",
+      "played in",
+      "Third Division North"
+    ],
+    [
+      "York City Football Club",
+      "won",
+      "Third Division play-off final"
+    ],
+    [
+      "York City Football Club",
+      "first played at",
+      "Wembley Stadium"
+    ],
+    [
+      "York City Football Club",
+      "is located in",
+      "North Yorkshire"
+    ],
+    [
+      "York City Football Club",
+      "met",
+      "Newcastle United"
+    ],
+    [
+      "Norman Wilkinson",
+      "is leading scorer of",
+      "York City Football Club"
+    ],
+    [
+      "York City Football Club",
+      "competes in",
+      "EFL League Two"
+    ],
+    [
+      "York City Football Club",
+      "won",
+      "FA Trophy"
+    ],
+    [
+      "York City Football Club",
+      "played in",
+      "Fourth Division"
+    ],
+    [
+      "Barry Jackson",
+      "is record appearance holder of",
+      "York City Football Club"
+    ],
+    [
+      "York City Football Club",
+      "is located in",
+      "England"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "1948",
+    "Richard Conte",
+    "Chicago policeman",
+    "Call Northside 777",
+    "murder",
+    "1932",
+    "Joseph Majczek",
+    "organized crime",
+    "James Stewart",
+    "Chicago",
+    "Prohibition",
+    "Henry Hathaway",
+    "Frank Wiecek"
+  ],
+  "edges": [
+    "is a",
+    "plays",
+    "stars as",
+    "is based on",
+    "is directed by",
+    "was wrongly convicted of",
+    "was one of the worst years of"
+  ],
+  "relations": [
+    [
+      "Call Northside 777",
+      "is a",
+      "1948 American docudrama film"
+    ],
+    [
+      "Frank Wiecek",
+      "is based on",
+      "Joseph Majczek"
+    ],
+    [
+      "Joseph Majczek",
+      "was wrongly convicted of",
+      "the murder of a Chicago policeman"
+    ],
+    [
+      "James Stewart",
+      "stars as",
+      "the persistent journalist"
+    ],
+    [
+      "1932",
+      "was one of the worst years of",
+      "organized crime during Prohibition"
+    ],
+    [
+      "Call Northside 777",
+      "is directed by",
+      "Henry Hathaway"
+    ],
+    [
+      "Richard Conte",
+      "plays",
+      "the imprisoned Frank Wiecek"
+    ]
+  ]
+}

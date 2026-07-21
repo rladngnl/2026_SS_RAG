@@ -1,0 +1,156 @@
+{
+  "entities": [
+    "Senso",
+    "Brother Sun",
+    "screenwriter",
+    "Nino Rota",
+    "Bicycle Thieves",
+    "Angelina",
+    "Miracle in Milan",
+    "Venice Film Festival",
+    "Casanova 70",
+    "Luigi Zampa",
+    "Lucky to Be a Woman",
+    "Italian neorealist movement",
+    "Alberto Lattuada",
+    "Bellissima",
+    "Rocco and His Brothers",
+    "Golden Lion",
+    "Salvatore Giuliano",
+    "The Leopard",
+    "Giovanna Cecchi",
+    "Suso Cecchi d'Amico",
+    "Michelangelo Antonioni",
+    "Roman Holiday",
+    "Franco Zeffirelli",
+    "Vittorio de Sica",
+    "The Window to Luna Park",
+    "Risate di gioia",
+    "Alessandro Blasetti",
+    "Mario Monicelli",
+    "Sister Moon",
+    "Big Deal on Madonna Street",
+    "I due timidi",
+    "Luchino Visconti",
+    "The Taming of the Shrew",
+    "David di Donatello Award",
+    "Luigi Comencini",
+    "Ludwig",
+    "actress",
+    "Italian",
+    "Conversation Piece",
+    "Flesh Will Surrender",
+    "William Wyler",
+    "Cannes Film Festival",
+    "To Live in Peace",
+    "Le Amiche",
+    "Francesco Rosi"
+  ],
+  "edges": [
+    "was an",
+    "wrote the libretto for",
+    "worked with",
+    "is known professionally as",
+    "helped pioneer",
+    "won",
+    "collaborated on the script of",
+    "was a member of the jury at"
+  ],
+  "relations": [
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Francesco Rosi"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "won",
+      "David di Donatello Award"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "was an",
+      "actress"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Franco Zeffirelli"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "wrote the libretto for",
+      "Nino Rota's opera I due timidi"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Mario Monicelli"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "was an",
+      "Italian screenwriter"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Alberto Lattuada"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Michelangelo Antonioni"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "helped pioneer",
+      "Italian neorealist movement"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Luchino Visconti"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "collaborated on the script of",
+      "William Wyler's Roman Holiday"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "was a member of the jury at",
+      "Cannes Film Festival"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Vittorio de Sica"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Alessandro Blasetti"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "is known professionally as",
+      "Giovanna Cecchi"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Luigi Zampa"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "worked with",
+      "Luigi Comencini"
+    ],
+    [
+      "Suso Cecchi d'Amico",
+      "won",
+      "Golden Lion"
+    ]
+  ]
+}

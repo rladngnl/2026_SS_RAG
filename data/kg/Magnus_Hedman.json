@@ -1,0 +1,101 @@
+{
+  "entities": [
+    "Sweden national team",
+    "footballer",
+    "Swedish",
+    "2000",
+    "goalkeeper",
+    "English Premier League",
+    "UEFA Euro 2000",
+    "1994 FIFA World Cup",
+    "AIK",
+    "Magnus Hedman",
+    "Scottish Premier League",
+    "2002 FIFA World Cup",
+    "Italian Serie A",
+    "Guldbollen",
+    "UEFA Euro 2004"
+  ],
+  "edges": [
+    "began his career with",
+    "is a",
+    "is awarded for",
+    "played in",
+    "was awarded in",
+    "was awarded",
+    "played for",
+    "represented his country at"
+  ],
+  "relations": [
+    [
+      "Magnus Hedman",
+      "represented his country at",
+      "UEFA Euro 2000"
+    ],
+    [
+      "Magnus Hedman",
+      "played in",
+      "English Premier League"
+    ],
+    [
+      "Magnus Hedman",
+      "is a",
+      "Swedish footballer"
+    ],
+    [
+      "Magnus Hedman",
+      "represented his country at",
+      "UEFA Euro 2004"
+    ],
+    [
+      "Magnus Hedman",
+      "played in",
+      "Scottish Premier League"
+    ],
+    [
+      "Magnus Hedman",
+      "represented his country at",
+      "2002 FIFA World Cup"
+    ],
+    [
+      "Guldbollen",
+      "is awarded for",
+      "Sweden's best footballer of the year"
+    ],
+    [
+      "Magnus Hedman",
+      "began his career with",
+      "AIK"
+    ],
+    [
+      "Magnus Hedman",
+      "played for",
+      "Sweden national team"
+    ],
+    [
+      "Guldbollen",
+      "was awarded in",
+      "2000"
+    ],
+    [
+      "Magnus Hedman",
+      "is a",
+      "goalkeeper"
+    ],
+    [
+      "Magnus Hedman",
+      "was awarded",
+      "Guldbollen"
+    ],
+    [
+      "Magnus Hedman",
+      "played in",
+      "Italian Serie A"
+    ],
+    [
+      "Magnus Hedman",
+      "represented his country at",
+      "1994 FIFA World Cup"
+    ]
+  ]
+}

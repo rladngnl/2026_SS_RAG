@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Tritium",
+    "Italian association football club",
+    "Tritium Calcio 1908",
+    "Trezzo sull'Adda",
+    "Serie D",
+    "Latin name",
+    "Lombardy"
+  ],
+  "edges": [
+    "is currently playing in",
+    "comes from the",
+    "is located in",
+    "is an"
+  ],
+  "relations": [
+    [
+      "Tritium",
+      "comes from the",
+      "Latin name"
+    ],
+    [
+      "Tritium Calcio 1908",
+      "is located in",
+      "Lombardy"
+    ],
+    [
+      "Tritium Calcio 1908",
+      "is located in",
+      "Trezzo sull'Adda"
+    ],
+    [
+      "Tritium Calcio 1908",
+      "is an",
+      "Italian association football club"
+    ],
+    [
+      "Tritium Calcio 1908",
+      "is currently playing in",
+      "Serie D"
+    ]
+  ]
+}

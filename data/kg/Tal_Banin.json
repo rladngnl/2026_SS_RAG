@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "defensive midfielder",
+    "former player",
+    "Palermo",
+    "football manager",
+    "Tal Banin",
+    "Israeli",
+    "Israel national team",
+    "Maccabi Ahi Nazareth",
+    "Italian Serie A",
+    "Eran Zahavi"
+  ],
+  "edges": [
+    "was captain for",
+    "was the only Israeli player to ever play in",
+    "was manager of",
+    "is",
+    "played as",
+    "was signed by"
+  ],
+  "relations": [
+    [
+      "Tal Banin",
+      "was captain for",
+      "Israel national team"
+    ],
+    [
+      "Tal Banin",
+      "was manager of",
+      "Maccabi Ahi Nazareth"
+    ],
+    [
+      "Tal Banin",
+      "played as",
+      "defensive midfielder"
+    ],
+    [
+      "Tal Banin",
+      "is",
+      "Israeli"
+    ],
+    [
+      "Tal Banin",
+      "is",
+      "former player"
+    ],
+    [
+      "Tal Banin",
+      "was the only Israeli player to ever play in",
+      "Italian Serie A"
+    ],
+    [
+      "Tal Banin",
+      "is",
+      "football manager"
+    ],
+    [
+      "Eran Zahavi",
+      "was signed by",
+      "Palermo"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "entities": [
+    "Turkey",
+    "Ziyaettin Dogan",
+    "UEFA Pro Licensed",
+    "football manager",
+    "1 January 1961",
+    "Ziya Doğan",
+    "Gümüşhane",
+    "Turkish"
+  ],
+  "edges": [
+    "was born on",
+    "was born in",
+    "is from",
+    "is"
+  ],
+  "relations": [
+    [
+      "Ziya Doğan",
+      "is",
+      "UEFA Pro Licensed Turkish football manager"
+    ],
+    [
+      "Ziya Doğan",
+      "was born in",
+      "Gümüşhane"
+    ],
+    [
+      "Ziya Doğan",
+      "is from",
+      "Turkey"
+    ],
+    [
+      "Ziya Doğan",
+      "was born on",
+      "1 January 1961"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "1950 World Cup",
+    "Real Madrid",
+    "manager",
+    "national team",
+    "Spanish",
+    "coach",
+    "14 major titles",
+    "Spain",
+    "Luis Molowny Arbelo",
+    "La Liga",
+    "Las Palmas",
+    "midfielder",
+    "football player"
+  ],
+  "edges": [
+    "was a",
+    "played in",
+    "coached",
+    "represented",
+    "worked as a",
+    "won",
+    "amassed",
+    "was"
+  ],
+  "relations": [
+    [
+      "Luis Molowny Arbelo",
+      "was",
+      "coach"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "represented",
+      "Spain"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "was",
+      "Spanish"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "was",
+      "football player"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "was a",
+      "midfielder"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "coached",
+      "national team"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "played in",
+      "1950 World Cup"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "worked as a",
+      "manager"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "won",
+      "14 major titles"
+    ],
+    [
+      "Luis Molowny Arbelo",
+      "amassed",
+      "La Liga totals of 175 matches and 91 goals"
+    ]
+  ]
+}

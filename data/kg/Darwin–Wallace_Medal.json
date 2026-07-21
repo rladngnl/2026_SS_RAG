@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "silver",
+    "2008",
+    "On the Tendency of Species to form Varieties",
+    "Charles Darwin",
+    "Wallace",
+    "evolutionary biology",
+    "1 July 1858",
+    "Perpetuation of Varieties and Species by Natural Means of Selection",
+    "Darwin–Wallace Medal",
+    "Linnean Society of London",
+    "Alfred Russel Wallace",
+    "gold",
+    "2010"
+  ],
+  "edges": [
+    "presented papers on",
+    "began in",
+    "was awarded every",
+    "jointly presented with",
+    "was one of the first recipients of",
+    "received the medal in",
+    "is for",
+    "is the date of",
+    "was presented in",
+    "will be awarded annually beginning in",
+    "is awarded by",
+    "announced in"
+  ],
+  "relations": [
+    [
+      "Charles Darwin",
+      "jointly presented with",
+      "Alfred Russel Wallace"
+    ],
+    [
+      "Darwin–Wallace Medal",
+      "is for",
+      "evolutionary biology"
+    ],
+    [
+      "Darwin–Wallace Medal",
+      "is awarded by",
+      "Linnean Society of London"
+    ],
+    [
+      "Darwin–Wallace Medal",
+      "began in",
+      "1908"
+    ],
+    [
+      "Linnean Society",
+      "announced in",
+      "2008"
+    ],
+    [
+      "Charles Darwin",
+      "presented papers on",
+      "Perpetuation of Varieties and Species by Natural Means of Selection"
+    ],
+    [
+      "1 July 1858",
+      "is the date of",
+      "presentation to the Linnean Society of London"
+    ],
+    [
+      "Darwin–Wallace Medal",
+      "will be awarded annually beginning in",
+      "2010"
+    ],
+    [
+      "Wallace",
+      "was one of the first recipients of",
+      "Darwin–Wallace Medal"
+    ],
+    [
+      "Darwin–Wallace Medal",
+      "was presented in",
+      "silver"
+    ],
+    [
+      "Wallace",
+      "received the medal in",
+      "gold"
+    ],
+    [
+      "Charles Darwin",
+      "presented papers on",
+      "On the Tendency of Species to form Varieties"
+    ],
+    [
+      "Darwin–Wallace Medal",
+      "was awarded every",
+      "50 years"
+    ]
+  ]
+}

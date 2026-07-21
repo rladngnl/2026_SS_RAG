@@ -1,0 +1,96 @@
+{
+  "entities": [
+    "Blackpool",
+    "Stan Mortensen",
+    "professional footballer",
+    "Ron Suart",
+    "Les Shannon",
+    "John McPhee",
+    "Anfield",
+    "defender",
+    "Barnsley",
+    "Southport",
+    "Oxford United",
+    "Motherwell",
+    "Aston Villa",
+    "Scottish",
+    "Chopper",
+    "Suzi Wu",
+    "Liverpool"
+  ],
+  "edges": [
+    "was managed by",
+    "made his debut for",
+    "joined",
+    "has a granddaughter",
+    "became",
+    "was sold to",
+    "was voted",
+    "is nicknamed",
+    "moved to",
+    "played for",
+    "scored for"
+  ],
+  "relations": [
+    [
+      "John McPhee",
+      "moved to",
+      "Blackpool"
+    ],
+    [
+      "John McPhee",
+      "scored for",
+      "Blackpool"
+    ],
+    [
+      "John McPhee",
+      "was voted",
+      "Player of the Year"
+    ],
+    [
+      "John McPhee",
+      "was managed by",
+      "Stan Mortensen"
+    ],
+    [
+      "John McPhee",
+      "is nicknamed",
+      "Chopper"
+    ],
+    [
+      "John McPhee",
+      "played for",
+      "Motherwell"
+    ],
+    [
+      "John McPhee",
+      "was sold to",
+      "Barnsley"
+    ],
+    [
+      "John McPhee",
+      "joined",
+      "Southport"
+    ],
+    [
+      "John McPhee",
+      "was managed by",
+      "Les Shannon"
+    ],
+    [
+      "John McPhee",
+      "became",
+      "Blackpool's first participating substitute"
+    ],
+    [
+      "John McPhee",
+      "has a granddaughter",
+      "Suzi Wu"
+    ],
+    [
+      "John McPhee",
+      "made his debut for",
+      "Blackpool"
+    ]
+  ]
+}

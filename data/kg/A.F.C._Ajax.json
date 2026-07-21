@@ -1,0 +1,162 @@
+{
+  "entities": [
+    "UEFA Intertoto Cup",
+    "Johan Cruyff Arena",
+    "European Cup",
+    "Champions League",
+    "Amsterdam ArenA",
+    "International Federation of Football History & Statistics",
+    "Juventus",
+    "Milan",
+    "PSV Eindhoven",
+    "De Meer Stadion",
+    "Amsterdam",
+    "Ajax Amsterdam",
+    "Eredivisie",
+    "Feyenoord",
+    "Kicker",
+    "Rangers",
+    "Karl Rappan Cup",
+    "A.F.C. Ajax",
+    "Intercontinental Cup",
+    "UEFA Super Cup",
+    "Amsterdam Olympic Stadium",
+    "KNVB Cups",
+    "World Soccer"
+  ],
+  "edges": [
+    "completed",
+    "is one of",
+    "opened as",
+    "has cultivated a reputation for",
+    "has won",
+    "plays in",
+    "defeated",
+    "previously played at",
+    "was the second-most successful",
+    "won",
+    "was the seventh-most successful",
+    "lost",
+    "was crowned as",
+    "has earned the right to keep",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "A.F.C. Ajax",
+      "is based in",
+      "Amsterdam"
+    ],
+    [
+      "A.F.C. Ajax",
+      "completed",
+      "the continental treble"
+    ],
+    [
+      "A.F.C. Ajax",
+      "won",
+      "the 1995 Intercontinental Cup"
+    ],
+    [
+      "A.F.C. Ajax",
+      "has won",
+      "20 KNVB Cups"
+    ],
+    [
+      "A.F.C. Ajax",
+      "won",
+      "the 1995 UEFA Super Cup"
+    ],
+    [
+      "A.F.C. Ajax",
+      "defeated",
+      "Milan in the final"
+    ],
+    [
+      "A.F.C. Ajax",
+      "was the second-most successful",
+      "European club of the 20th century"
+    ],
+    [
+      "A.F.C. Ajax",
+      "lost",
+      "the 1996 Champions League final on penalties to Juventus"
+    ],
+    [
+      "A.F.C. Ajax",
+      "plays at",
+      "the Johan Cruyff Arena"
+    ],
+    [
+      "A.F.C. Ajax",
+      "has cultivated a reputation for",
+      "scouting, spotting and developing young talent"
+    ],
+    [
+      "A.F.C. Ajax",
+      "was crowned as",
+      "World Team of the Year by World Soccer magazine"
+    ],
+    [
+      "A.F.C. Ajax",
+      "plays in",
+      "Eredivisie"
+    ],
+    [
+      "A.F.C. Ajax",
+      "previously played at",
+      "De Meer Stadion"
+    ],
+    [
+      "Johan Cruyff Arena",
+      "opened as",
+      "the Amsterdam ArenA"
+    ],
+    [
+      "A.F.C. Ajax",
+      "is one of",
+      "four teams to win the continental treble and the Intercontinental Cup in the same season"
+    ],
+    [
+      "A.F.C. Ajax",
+      "previously played at",
+      "the Amsterdam Olympic Stadium"
+    ],
+    [
+      "A.F.C. Ajax",
+      "was the seventh-most successful",
+      "European club of the 20th century"
+    ],
+    [
+      "A.F.C. Ajax",
+      "is one of",
+      "the country's 'big three' clubs"
+    ],
+    [
+      "A.F.C. Ajax",
+      "has won",
+      "36 Eredivisie titles"
+    ],
+    [
+      "A.F.C. Ajax",
+      "won",
+      "the first European Super Cup against Rangers"
+    ],
+    [
+      "A.F.C. Ajax",
+      "is one of",
+      "five clubs to have won all three major UEFA club competitions played until 2021"
+    ],
+    [
+      "A.F.C. Ajax",
+      "has earned the right to keep",
+      "the European Cup"
+    ],
+    [
+      "A.F.C. Ajax",
+      "won",
+      "the 1995 Champions League"
+    ]
+  ]
+}

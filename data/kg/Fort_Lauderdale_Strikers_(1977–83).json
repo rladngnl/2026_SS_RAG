@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "Miami metropolitan area",
+    "Minnesota Strikers",
+    "Fort Lauderdale Strikers",
+    "North American Soccer League",
+    "NASL",
+    "West Palm Beach Auditorium",
+    "Florida",
+    "Miami Gatos",
+    "Hollywood Sportatorium",
+    "Gerd Müller",
+    "Miami Toros",
+    "George Best",
+    "Washington Darts",
+    "Lockhart Stadium"
+  ],
+  "edges": [
+    "relocated to",
+    "were founded as",
+    "had players including",
+    "competed in",
+    "played at",
+    "played their home matches at",
+    "were based in",
+    "moved to",
+    "were known as"
+  ],
+  "relations": [
+    [
+      "Fort Lauderdale Strikers",
+      "competed in",
+      "North American Soccer League"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "played at",
+      "Hollywood Sportatorium"
+    ],
+    [
+      "Washington Darts",
+      "were known as",
+      "Miami Gatos"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "played at",
+      "West Palm Beach Auditorium"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "were founded as",
+      "Washington Darts"
+    ],
+    [
+      "Miami Gatos",
+      "were known as",
+      "Miami Toros"
+    ],
+    [
+      "Washington Darts",
+      "relocated to",
+      "Florida"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "were based in",
+      "Miami metropolitan area"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "moved to",
+      "Minnesota Strikers"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "had players including",
+      "Gerd Müller"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "played their home matches at",
+      "Lockhart Stadium"
+    ],
+    [
+      "Fort Lauderdale Strikers",
+      "had players including",
+      "George Best"
+    ]
+  ]
+}

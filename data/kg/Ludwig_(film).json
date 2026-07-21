@@ -1,0 +1,142 @@
+{
+  "entities": [
+    "Dieter Geissler",
+    "Trevor Howard",
+    "Helmut Griem",
+    "Ugo Santalucia",
+    "The Damned",
+    "German Film Award",
+    "King Ludwig II of Bavaria",
+    "Empress Elisabeth of Austria",
+    "Munich",
+    "Best Film",
+    "Best Director",
+    "Special David di Donatello",
+    "Death in Venice",
+    "Silvana Mangano",
+    "Cinecittà Studios",
+    "Bavaria",
+    "German Trilogy",
+    "Helmut Berger",
+    "Gert Fröbe",
+    "David di Donatello Awards",
+    "Best Costume Design",
+    "Luchino Visconti",
+    "Romy Schneider",
+    "Ludwig II",
+    "Academy Award",
+    "Ludwig"
+  ],
+  "edges": [
+    "is a film directed by",
+    "was nominated for",
+    "stars",
+    "was produced by",
+    "received",
+    "was filmed at",
+    "follows",
+    "includes",
+    "was filmed in",
+    "is for",
+    "won",
+    "is part of",
+    "is about"
+  ],
+  "relations": [
+    [
+      "Ludwig",
+      "was filmed in",
+      "Bavaria"
+    ],
+    [
+      "Ludwig",
+      "was filmed in",
+      "Munich"
+    ],
+    [
+      "David di Donatello Awards",
+      "includes",
+      "Best Film"
+    ],
+    [
+      "David di Donatello Awards",
+      "includes",
+      "Best Director"
+    ],
+    [
+      "Academy Award",
+      "is for",
+      "Best Costume Design"
+    ],
+    [
+      "Ludwig",
+      "stars",
+      "Romy Schneider"
+    ],
+    [
+      "Berger",
+      "won",
+      "Special David di Donatello"
+    ],
+    [
+      "Ludwig",
+      "is part of",
+      "German Trilogy"
+    ],
+    [
+      "Ludwig",
+      "is a film directed by",
+      "Luchino Visconti"
+    ],
+    [
+      "German Trilogy",
+      "follows",
+      "The Damned"
+    ],
+    [
+      "Ludwig",
+      "was nominated for",
+      "Academy Award"
+    ],
+    [
+      "Ludwig",
+      "stars",
+      "Helmut Berger"
+    ],
+    [
+      "Ludwig",
+      "was produced by",
+      "Dieter Geissler"
+    ],
+    [
+      "Ludwig",
+      "was filmed at",
+      "Cinecittà Studios"
+    ],
+    [
+      "Ludwig",
+      "won",
+      "David di Donatello Awards"
+    ],
+    [
+      "Ludwig",
+      "was produced by",
+      "Ugo Santalucia"
+    ],
+    [
+      "German Trilogy",
+      "follows",
+      "Death in Venice"
+    ],
+    [
+      "Ludwig",
+      "is about",
+      "King Ludwig II of Bavaria"
+    ],
+    [
+      "Berger",
+      "received",
+      "German Film Award nominations"
+    ]
+  ]
+}

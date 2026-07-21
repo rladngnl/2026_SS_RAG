@@ -1,0 +1,243 @@
+{
+  "entities": [
+    "Bhopal",
+    "IISER",
+    "NIFT",
+    "methyl isocyanate",
+    "AMPRI",
+    "2020–21",
+    "Sindhi refugees",
+    "AIIMS",
+    "2019",
+    "Master Control Facility",
+    "Indore",
+    "NIDMP",
+    "MANIT",
+    "India",
+    "5-star Garbage Free City",
+    "IIIT",
+    "2018",
+    "ISRO",
+    "2023",
+    "Dow Chemical Company",
+    "Directorate of Economics and Statistics",
+    "Bhopal division",
+    "15 August 1947",
+    "Madhya Pradesh",
+    "City of Lakes",
+    "Bhopal State",
+    "Bairagarh",
+    "SPA",
+    "Union Carbide",
+    "Bhopal district",
+    "Bhopal disaster",
+    "National Council of Science Museums",
+    "BHEL",
+    "Smart Cities Mission",
+    "Sehore district",
+    "Instrument of Accession",
+    "INR 44,175 crores",
+    "Regional Science Centre, Bhopal",
+    "Nawabs of Bhopal",
+    "IIFM",
+    "2017",
+    "NLIU"
+  ],
+  "edges": [
+    "houses various educational and research institutions including",
+    "was the capital of",
+    "was ruled by",
+    "is the capital city of",
+    "is now owned by",
+    "is one of the constituent units of",
+    "achieved independence on",
+    "is the administrative headquarters of",
+    "was part of",
+    "has been awarded",
+    "were accommodated in",
+    "involved",
+    "became an Indian state on",
+    "is known as",
+    "is one of the central financial and economic pillars of",
+    "was selected as one of the first twenty Indian cities to be developed as",
+    "has",
+    "was estimated at",
+    "was caused by",
+    "is home to a large number of institutes of National Importance in India, namely",
+    "attracted international attention after",
+    "was rated as",
+    "is the cleanest State capital in the country in"
+  ],
+  "relations": [
+    [
+      "Union Carbide",
+      "is now owned by",
+      "Dow Chemical Company"
+    ],
+    [
+      "Bhopal disaster",
+      "involved",
+      "methyl isocyanate"
+    ],
+    [
+      "Bhopal",
+      "was part of",
+      "Sehore district"
+    ],
+    [
+      "Regional Science Centre, Bhopal",
+      "is one of the constituent units of",
+      "National Council of Science Museums"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "MANIT"
+    ],
+    [
+      "Bhopal",
+      "is the administrative headquarters of",
+      "Bhopal district"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "IISER"
+    ],
+    [
+      "India",
+      "achieved independence on",
+      "15 August 1947"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "NIFT"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "NLIU"
+    ],
+    [
+      "Bhopal disaster",
+      "was caused by",
+      "Union Carbide"
+    ],
+    [
+      "Bhopal",
+      "is the administrative headquarters of",
+      "Bhopal division"
+    ],
+    [
+      "Bhopal",
+      "has been awarded",
+      "5-star Garbage Free City rating"
+    ],
+    [
+      "Bhopal",
+      "was the capital of",
+      "Bhopal State"
+    ],
+    [
+      "Bhopal",
+      "houses various educational and research institutions including",
+      "ISRO's Master Control Facility"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "IIFM"
+    ],
+    [
+      "Bhopal",
+      "is one of the central financial and economic pillars of",
+      "Madhya Pradesh"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "IIIT"
+    ],
+    [
+      "Sindhi refugees",
+      "were accommodated in",
+      "Bairagarh"
+    ],
+    [
+      "Bhopal city",
+      "has",
+      "Regional Science Centre, Bhopal"
+    ],
+    [
+      "Bhopal's GDP (nominal)",
+      "was estimated at",
+      "INR 44,175 crores"
+    ],
+    [
+      "Bhopal",
+      "became an Indian state on",
+      "1 May 1949"
+    ],
+    [
+      "Bhopal",
+      "is the capital city of",
+      "Madhya Pradesh"
+    ],
+    [
+      "Bhopal",
+      "attracted international attention after",
+      "Bhopal disaster"
+    ],
+    [
+      "Bhopal",
+      "was rated as",
+      "the cleanest state capital city in India for three consecutive years"
+    ],
+    [
+      "Bhopal",
+      "houses various educational and research institutions including",
+      "BHEL"
+    ],
+    [
+      "Bhopal",
+      "is known as",
+      "City of Lakes"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "NIDMP"
+    ],
+    [
+      "Bhopal",
+      "was selected as one of the first twenty Indian cities to be developed as",
+      "Smart Cities Mission"
+    ],
+    [
+      "Bhopal State",
+      "was ruled by",
+      "Nawabs of Bhopal"
+    ],
+    [
+      "Bhopal",
+      "is the cleanest State capital in the country in",
+      "2023"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "SPA"
+    ],
+    [
+      "Bhopal",
+      "is home to a large number of institutes of National Importance in India, namely",
+      "AIIMS"
+    ],
+    [
+      "Bhopal",
+      "houses various educational and research institutions including",
+      "AMPRI"
+    ]
+  ]
+}

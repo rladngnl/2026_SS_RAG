@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "techniques",
+    "footballer",
+    "Eriverton Santos Lima",
+    "Brazil",
+    "Eriverton_Lima",
+    "playmaker",
+    "midfielder",
+    "pass"
+  ],
+  "edges": [
+    "is a",
+    "is",
+    "played as a",
+    "has"
+  ],
+  "relations": [
+    [
+      "Eriverton_Lima",
+      "has",
+      "techniques"
+    ],
+    [
+      "Eriverton_Lima",
+      "has",
+      "pass"
+    ],
+    [
+      "Eriverton_Lima",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Eriverton_Lima",
+      "is a",
+      "playmaker"
+    ],
+    [
+      "Eriverton_Lima",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Eriverton_Lima",
+      "is",
+      "Eriverton Santos Lima"
+    ]
+  ]
+}

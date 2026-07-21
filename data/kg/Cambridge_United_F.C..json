@@ -1,0 +1,214 @@
+{
+  "entities": [
+    "EFL League One",
+    "EFL League Two",
+    "black",
+    "1912",
+    "England",
+    "Third Division",
+    "Cambridge Regional College",
+    "2014",
+    "Newmarket Road",
+    "1972–73",
+    "Southern League",
+    "7,937",
+    "Bill Leivers",
+    "John Beck",
+    "Abbey Stadium",
+    "Eastern Counties League",
+    "Conference",
+    "Cambridge",
+    "Abbey United",
+    "1951",
+    "1990–91",
+    "1976–77",
+    "Second Division",
+    "Mark Bonner",
+    "Cambridge United Football Club",
+    "amber",
+    "1998–99",
+    "Cambridge United Community Trust",
+    "1970",
+    "2008",
+    "2009",
+    "U's",
+    "2021",
+    "Fourth Division",
+    "2005",
+    "League Two",
+    "1990",
+    "Southern League Premier Division"
+  ],
+  "edges": [
+    "was crowned champions of",
+    "finished as runners-up in",
+    "secured election into",
+    "was promoted as runners-up in",
+    "competes in",
+    "is located in",
+    "secured promotion out of",
+    "has a capacity of",
+    "entered the",
+    "was previously known as",
+    "performs charity work in",
+    "took the name in",
+    "remained in",
+    "is based in",
+    "led Cambridge United to promotion out of",
+    "was promoted at the end of",
+    "has played at",
+    "were promoted to",
+    "had close links with",
+    "was founded in",
+    "suffered relegation from",
+    "is located on",
+    "won the title in",
+    "reached the play-offs in",
+    "has been used since",
+    "won promotion out of",
+    "has traditionally worn",
+    "secured promotion after winning"
+  ],
+  "relations": [
+    [
+      "Cambridge United Football Club",
+      "reached the play-offs in",
+      "Second Division"
+    ],
+    [
+      "Cambridge United Football Club",
+      "is based in",
+      "Cambridge"
+    ],
+    [
+      "Cambridge United Football Club",
+      "secured election into",
+      "Football League"
+    ],
+    [
+      "Cambridge United Football Club",
+      "has played at",
+      "Abbey Stadium"
+    ],
+    [
+      "Cambridge United Football Club",
+      "had close links with",
+      "Cambridge Regional College"
+    ],
+    [
+      "Cambridge United Football Club",
+      "was previously known as",
+      "Abbey United"
+    ],
+    [
+      "Cambridge United Football Club",
+      "secured promotion after winning",
+      "2014 play-off final"
+    ],
+    [
+      "Cambridge United Football Club",
+      "were promoted to",
+      "League One"
+    ],
+    [
+      "Abbey Stadium",
+      "has been used since",
+      "1932"
+    ],
+    [
+      "Cambridge United Football Club",
+      "took the name in",
+      "1951"
+    ],
+    [
+      "Cambridge United Football Club",
+      "secured promotion out of",
+      "Third Division"
+    ],
+    [
+      "Cambridge United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Cambridge United Football Club",
+      "suffered relegation from",
+      "Fourth Division"
+    ],
+    [
+      "Cambridge United Football Club",
+      "won promotion out of",
+      "Fourth Division"
+    ],
+    [
+      "John Beck",
+      "led Cambridge United to promotion out of",
+      "Fourth Division"
+    ],
+    [
+      "Cambridge United Football Club",
+      "has traditionally worn",
+      "amber and black"
+    ],
+    [
+      "Cambridge United Football Club",
+      "remained in",
+      "Second Division"
+    ],
+    [
+      "Abbey Stadium",
+      "is located on",
+      "Newmarket Road"
+    ],
+    [
+      "Cambridge United Football Club",
+      "was promoted at the end of",
+      "1998–99"
+    ],
+    [
+      "Cambridge United Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Cambridge United Football Club",
+      "finished as runners-up in",
+      "Conference"
+    ],
+    [
+      "Cambridge United Football Club",
+      "was promoted as runners-up in",
+      "2021"
+    ],
+    [
+      "Cambridge United Community Trust",
+      "performs charity work in",
+      "local community"
+    ],
+    [
+      "Abbey Stadium",
+      "has a capacity of",
+      "7,937"
+    ],
+    [
+      "Cambridge United Football Club",
+      "won the title in",
+      "Fourth Division"
+    ],
+    [
+      "Cambridge United Football Club",
+      "entered the",
+      "Conference"
+    ],
+    [
+      "Cambridge United Football Club",
+      "was crowned champions of",
+      "Southern League Premier Division"
+    ],
+    [
+      "Cambridge United Football Club",
+      "was founded in",
+      "1912"
+    ]
+  ]
+}

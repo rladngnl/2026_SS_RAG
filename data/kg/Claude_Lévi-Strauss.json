@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "humanities",
+    "International Nonino Prize",
+    "Académie française",
+    "philosophy",
+    "structuralism",
+    "structural anthropology",
+    "School for Advanced Studies in the Social Sciences",
+    "Paris",
+    "sociology",
+    "Belgian",
+    "Claude Lévi-Strauss",
+    "Collège de France",
+    "Tristes Tropiques",
+    "Italy",
+    "ethnologist",
+    "French",
+    "anthropologist",
+    "Social Anthropology"
+  ],
+  "edges": [
+    "was",
+    "argued that",
+    "wrote",
+    "was a member of",
+    "was awarded in",
+    "won",
+    "held the chair of",
+    "established",
+    "received honors from"
+  ],
+  "relations": [
+    [
+      "Claude Lévi-Strauss",
+      "received honors from",
+      "universities and institutions throughout the world"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "held the chair of",
+      "Social Anthropology"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "argued that",
+      "the 'savage' mind had the same structures as the 'civilized' mind"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "was a member of",
+      "School for Advanced Studies in the Social Sciences"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "was",
+      "Belgian-born French anthropologist and ethnologist"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "wrote",
+      "Tristes Tropiques"
+    ],
+    [
+      "International Nonino Prize",
+      "was awarded in",
+      "Italy"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "won",
+      "International Nonino Prize"
+    ],
+    [
+      "Claude Lévi-Strauss",
+      "was a member of",
+      "Académie française"
+    ],
+    [
+      "Tristes Tropiques",
+      "established",
+      "Claude Lévi-Strauss's position as one of the central figures in the structuralist school of thought"
+    ]
+  ]
+}

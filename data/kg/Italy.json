@@ -1,0 +1,360 @@
+{
+  "entities": [
+    "economic recovery",
+    "literature",
+    "1922",
+    "international tourist arrivals",
+    "Bologna",
+    "Italian fascist dictatorship",
+    "Christianity",
+    "Central Powers",
+    "Florence",
+    "discoveries",
+    "Italian Renaissance",
+    "technology",
+    "Sardinia",
+    "RSI",
+    "fashion",
+    "European Union",
+    "Italian city-states",
+    "16th century",
+    "ancient Romans",
+    "Axis",
+    "Vatican City",
+    "Allied powers",
+    "Sicily",
+    "international organisations",
+    "Slovenia",
+    "art",
+    "Italian Republic",
+    "music",
+    "Austria",
+    "France",
+    "1943",
+    "World War II",
+    "maritime republics",
+    "nominal GDP",
+    "Palermo",
+    "Far East",
+    "wars of independence",
+    "republic",
+    "Entente",
+    "Bari",
+    "20th century",
+    "Turin",
+    "15th century",
+    "1946",
+    "Genoa",
+    "Naples",
+    "Age of Discovery",
+    "monarchy",
+    "1945",
+    "19th century",
+    "Papacy",
+    "World Heritage Sites",
+    "World War I",
+    "Western Roman Empire",
+    "colonial empire",
+    "German occupation",
+    "inventions",
+    "1861",
+    "Americas",
+    "Italy",
+    "cuisine",
+    "New World",
+    "Rome",
+    "Venice",
+    "Switzerland",
+    "cultural superpower",
+    "Italian resistance",
+    "Milan",
+    "Italic peoples",
+    "manufacturing sector",
+    "Alps",
+    "Catholic Church",
+    "Roman Empire",
+    "Roman Republic",
+    "11th century",
+    "Expedition of the Thousand",
+    "Kingdom of Italy",
+    "San Marino",
+    "science",
+    "Mediterranean Sea"
+  ],
+  "edges": [
+    "was replaced by",
+    "was established as",
+    "made a strong recovery after",
+    "included",
+    "brought prosperity through",
+    "became the seat of",
+    "consists of",
+    "is part of",
+    "is located in",
+    "has a capital city of",
+    "conquered",
+    "shares land borders with",
+    "flourished during",
+    "is a founding member of",
+    "was against",
+    "was part of",
+    "was home to",
+    "is the fourth most visited country by",
+    "was established in",
+    "has the highest number of",
+    "has major cities including",
+    "is a cultural superpower",
+    "has the second-largest",
+    "has the eighth-largest",
+    "took part in",
+    "was liberated from",
+    "has enclaves of",
+    "is officially known as",
+    "was a co-belligerent of",
+    "declined and fell between",
+    "discovered new routes to",
+    "expanded in the"
+  ],
+  "relations": [
+    [
+      "Italian explorers",
+      "discovered new routes to",
+      "the Far East"
+    ],
+    [
+      "Rome",
+      "became the seat of",
+      "the Catholic Church"
+    ],
+    [
+      "Italy",
+      "was against",
+      "the Central Powers"
+    ],
+    [
+      "Italy",
+      "was liberated from",
+      "German occupation"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Florence"
+    ],
+    [
+      "Italian fascist dictatorship",
+      "was established in",
+      "1922"
+    ],
+    [
+      "Italy",
+      "is a founding member of",
+      "the European Union"
+    ],
+    [
+      "Italian Renaissance",
+      "flourished during",
+      "the 15th and 16th centuries"
+    ],
+    [
+      "Rome",
+      "became the seat of",
+      "the Papacy"
+    ],
+    [
+      "Italy",
+      "took part in",
+      "World War I"
+    ],
+    [
+      "Italy",
+      "is a cultural superpower",
+      ""
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Bologna"
+    ],
+    [
+      "Italian city-states",
+      "brought prosperity through",
+      "commerce"
+    ],
+    [
+      "Italy",
+      "shares land borders with",
+      "Switzerland"
+    ],
+    [
+      "Italy",
+      "has a capital city of",
+      "Rome"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Genoa"
+    ],
+    [
+      "Italy",
+      "was established as",
+      "the Kingdom of Italy"
+    ],
+    [
+      "Kingdom of Italy",
+      "was established in",
+      "1861"
+    ],
+    [
+      "Italy",
+      "is officially known as",
+      "Italian Republic"
+    ],
+    [
+      "Italy",
+      "is the fourth most visited country by",
+      "international tourist arrivals"
+    ],
+    [
+      "Italy",
+      "has the eighth-largest",
+      "nominal GDP"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Venice"
+    ],
+    [
+      "Italy",
+      "is part of",
+      "numerous international organisations"
+    ],
+    [
+      "Italian city-states",
+      "expanded in the",
+      "11th century"
+    ],
+    [
+      "Italian explorers",
+      "discovered new routes to",
+      "the New World"
+    ],
+    [
+      "Italy",
+      "made a strong recovery after",
+      "1946"
+    ],
+    [
+      "Italy",
+      "was part of",
+      "the Axis"
+    ],
+    [
+      "Italy",
+      "was part of",
+      "the Entente"
+    ],
+    [
+      "Western Roman Empire",
+      "declined and fell between",
+      "late antiquity and the Early Middle Ages"
+    ],
+    [
+      "Italy",
+      "is located in",
+      "Southern and Western Europe"
+    ],
+    [
+      "Italy",
+      "shares land borders with",
+      "France"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Palermo"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Turin"
+    ],
+    [
+      "ancient Romans",
+      "conquered",
+      "the Mediterranean world"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Milan"
+    ],
+    [
+      "Italy",
+      "has enclaves of",
+      "Vatican City"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Bari"
+    ],
+    [
+      "Italy",
+      "was replaced by",
+      "a republic"
+    ],
+    [
+      "Italy",
+      "has the second-largest",
+      "manufacturing sector in Europe"
+    ],
+    [
+      "Italy",
+      "consists of",
+      "a peninsula"
+    ],
+    [
+      "Italy",
+      "has major cities including",
+      "Naples"
+    ],
+    [
+      "Italy",
+      "was a co-belligerent of",
+      "the Allies"
+    ],
+    [
+      "Italy",
+      "was home to",
+      "Italic peoples"
+    ],
+    [
+      "Italy",
+      "shares land borders with",
+      "Slovenia"
+    ],
+    [
+      "Italic peoples",
+      "included",
+      "ancient Romans"
+    ],
+    [
+      "Italy",
+      "has the highest number of",
+      "World Heritage Sites"
+    ],
+    [
+      "Italy",
+      "shares land borders with",
+      "Austria"
+    ],
+    [
+      "Italy",
+      "has enclaves of",
+      "San Marino"
+    ]
+  ]
+}

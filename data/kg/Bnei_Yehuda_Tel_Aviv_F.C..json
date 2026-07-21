@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Bnei Yehuda",
+    "Bnei Yehuda Tel Aviv F.C.",
+    "Hatikva Quarter",
+    "Liga Leumit",
+    "Tel Aviv"
+  ],
+  "edges": [
+    "is located in",
+    "is from the",
+    "is commonly referred to as",
+    "is a member of the"
+  ],
+  "relations": [
+    [
+      "Bnei Yehuda Tel Aviv F.C.",
+      "is a member of the",
+      "Liga Leumit"
+    ],
+    [
+      "Bnei Yehuda Tel Aviv F.C.",
+      "is commonly referred to as",
+      "Bnei Yehuda"
+    ],
+    [
+      "Bnei Yehuda Tel Aviv F.C.",
+      "is from the",
+      "Hatikva Quarter"
+    ],
+    [
+      "Bnei Yehuda Tel Aviv F.C.",
+      "is located in",
+      "Tel Aviv"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "4 July 1960",
+    "Honduran football club",
+    "Cortés",
+    "Puerto Cortés",
+    "Platense F.C.",
+    "Estadio Excelsior",
+    "Honduran National Football League"
+  ],
+  "edges": [
+    "is a",
+    "was founded on",
+    "became the first champions of",
+    "has home venue at",
+    "is in the department of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Platense F.C.",
+      "is a",
+      "Honduran football club"
+    ],
+    [
+      "Platense F.C.",
+      "became the first champions of",
+      "Honduran National Football League"
+    ],
+    [
+      "Platense F.C.",
+      "was founded on",
+      "4 July 1960"
+    ],
+    [
+      "Platense F.C.",
+      "is located in",
+      "Puerto Cortés"
+    ],
+    [
+      "Puerto Cortés",
+      "is in the department of",
+      "Cortés"
+    ],
+    [
+      "Platense F.C.",
+      "has home venue at",
+      "Estadio Excelsior"
+    ]
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "entities": [
+    "1974–75 European Cup Winners’ Cup",
+    "Bursa",
+    "1975–76 season",
+    "1963",
+    "Bursaspor",
+    "1995 UEFA Intertoto Cup",
+    "Bursaspor Kulübü Derneği",
+    "2010–11 UEFA Champions League",
+    "Turkish football league system",
+    "Turkish league title",
+    "1986–87 UEFA Cup",
+    "green and white",
+    "1986",
+    "Galatasaray",
+    "Istanbul Big Three",
+    "Beşiktaş",
+    "Turkish Cup",
+    "Trabzonspor",
+    "75 points",
+    "TFF First League",
+    "Bursa Centennial Atatürk Stadium",
+    "Rangers",
+    "Prime Minister's Cup",
+    "Manchester United",
+    "Valencia",
+    "2009–10 Süper Lig",
+    "Fenerbahçe"
+  ],
+  "edges": [
+    "has traditional colors",
+    "produced",
+    "reached the quarter-finals in",
+    "has played home matches at",
+    "is the second team outside of Istanbul to win",
+    "played against",
+    "won",
+    "achieved",
+    "finished with",
+    "has won promotion from",
+    "disrupted the dominance of",
+    "finished bottom of",
+    "is based in",
+    "is known as",
+    "has a tradition of",
+    "has home kits featuring",
+    "includes",
+    "was founded in",
+    "plays in",
+    "finished runners-up in",
+    "has claimed",
+    "first achieved the feat in",
+    "was ahead of",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Bursaspor",
+      "finished bottom of",
+      "their group"
+    ],
+    [
+      "Bursaspor",
+      "won",
+      "Turkish league title"
+    ],
+    [
+      "Bursaspor",
+      "achieved",
+      "qualifying for the Champions League"
+    ],
+    [
+      "Bursaspor",
+      "is the second team outside of Istanbul to win",
+      "Süper Lig"
+    ],
+    [
+      "Bursaspor",
+      "finished runners-up in",
+      "multiple occasions"
+    ],
+    [
+      "Bursaspor",
+      "participated in",
+      "1995 UEFA Intertoto Cup"
+    ],
+    [
+      "Bursaspor",
+      "produced",
+      "several prominent Turkish players"
+    ],
+    [
+      "Bursaspor",
+      "plays in",
+      "TFF First League"
+    ],
+    [
+      "Bursaspor",
+      "finished with",
+      "75 points"
+    ],
+    [
+      "Bursaspor",
+      "has won promotion from",
+      "TFF First League"
+    ],
+    [
+      "Trabzonspor",
+      "first achieved the feat in",
+      "1975–76 season"
+    ],
+    [
+      "Istanbul Big Three",
+      "includes",
+      "Beşiktaş"
+    ],
+    [
+      "Bursaspor",
+      "has played home matches at",
+      "Bursa Centennial Atatürk Stadium"
+    ],
+    [
+      "Bursaspor",
+      "was founded in",
+      "1963"
+    ],
+    [
+      "Bursaspor",
+      "was ahead of",
+      "Fenerbahçe"
+    ],
+    [
+      "Bursaspor",
+      "reached the quarter-finals in",
+      "1974–75 European Cup Winners’ Cup"
+    ],
+    [
+      "Bursaspor",
+      "has a tradition of",
+      "youth development"
+    ],
+    [
+      "Bursaspor",
+      "is based in",
+      "Bursa"
+    ],
+    [
+      "Bursaspor",
+      "played against",
+      "Manchester United"
+    ],
+    [
+      "Bursaspor",
+      "played against",
+      "Rangers"
+    ],
+    [
+      "Bursaspor",
+      "participated in",
+      "2010–11 UEFA Champions League"
+    ],
+    [
+      "Istanbul Big Three",
+      "includes",
+      "Galatasaray"
+    ],
+    [
+      "Bursaspor",
+      "has traditional colors",
+      "green and white"
+    ],
+    [
+      "Bursaspor",
+      "is known as",
+      "Bursaspor Kulübü Derneği"
+    ],
+    [
+      "Bursaspor",
+      "has home kits featuring",
+      "green and white"
+    ],
+    [
+      "Bursaspor",
+      "won",
+      "Turkish Cup"
+    ],
+    [
+      "Bursaspor",
+      "participated in",
+      "1986–87 UEFA Cup"
+    ],
+    [
+      "Bursaspor",
+      "disrupted the dominance of",
+      "Istanbul Big Three"
+    ],
+    [
+      "Bursaspor",
+      "has claimed",
+      "Prime Minister's Cup"
+    ],
+    [
+      "Istanbul Big Three",
+      "includes",
+      "Fenerbahçe"
+    ],
+    [
+      "Bursaspor",
+      "played against",
+      "Valencia"
+    ]
+  ]
+}

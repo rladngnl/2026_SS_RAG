@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "American",
+    "forward",
+    "Sporting Charlotte",
+    "soccer player",
+    "amateur team",
+    "November 28, 1978",
+    "Jacob Coggins",
+    "USASA"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "plays for",
+    "is",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Jacob Coggins",
+      "plays as a",
+      "forward"
+    ],
+    [
+      "Jacob Coggins",
+      "is born on",
+      "November 28, 1978"
+    ],
+    [
+      "Sporting Charlotte",
+      "is a",
+      "USASA amateur team"
+    ],
+    [
+      "Jacob Coggins",
+      "plays for",
+      "Sporting Charlotte"
+    ],
+    [
+      "Jacob Coggins",
+      "is",
+      "American"
+    ],
+    [
+      "Jacob Coggins",
+      "is a",
+      "soccer player"
+    ]
+  ]
+}

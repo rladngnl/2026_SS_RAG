@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "psychiatrist",
+    "neuropathologist",
+    "brain development",
+    "anatomist",
+    "Dresden",
+    "Theodor Hermann Meynert",
+    "German-Austrian",
+    "psychiatric illness",
+    "psychoses"
+  ],
+  "edges": [
+    "believed that disturbances in",
+    "are",
+    "could be a predisposition for",
+    "was born in",
+    "was"
+  ],
+  "relations": [
+    [
+      "Theodor Hermann Meynert",
+      "was",
+      "German-Austrian"
+    ],
+    [
+      "Theodor Hermann Meynert",
+      "was",
+      "psychiatrist"
+    ],
+    [
+      "Theodor Hermann Meynert",
+      "was",
+      "neuropathologist"
+    ],
+    [
+      "disturbances in brain development",
+      "could be a predisposition for",
+      "psychiatric illness"
+    ],
+    [
+      "certain psychoses",
+      "are",
+      "reversible"
+    ],
+    [
+      "Theodor Hermann Meynert",
+      "believed that disturbances in",
+      "brain development"
+    ],
+    [
+      "Theodor Hermann Meynert",
+      "was",
+      "anatomist"
+    ],
+    [
+      "Theodor Hermann Meynert",
+      "was born in",
+      "Dresden"
+    ]
+  ]
+}

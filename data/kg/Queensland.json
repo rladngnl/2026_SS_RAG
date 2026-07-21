@@ -1,0 +1,222 @@
+{
+  "entities": [
+    "Australian frontier wars",
+    "Aboriginal Australians",
+    "Brisbane",
+    "mining",
+    "Great Barrier Reef",
+    "agriculture",
+    "Moreton Bay Penal Settlement",
+    "New South Wales",
+    "Torres Strait Islanders",
+    "Sunshine State",
+    "Townsville",
+    "transportation",
+    "Toowoomba",
+    "Queen Victoria",
+    "banking",
+    "Gold Coast",
+    "Arthur Phillip",
+    "Coral Sea",
+    "Kingdom of Great Britain",
+    "Sunshine Coast",
+    "James Cook",
+    "Gulf of Carpentaria",
+    "Pacific Ocean",
+    "Bjelke-Petersen",
+    "John Oxley",
+    "Cairns",
+    "Papua New Guinea",
+    "Australia",
+    "international education",
+    "Torres Strait",
+    "insurance",
+    "South Australia",
+    "Queensland",
+    "Northern Territory",
+    "Willem Janszoon",
+    "Ipswich"
+  ],
+  "edges": [
+    "has a population of over",
+    "is separated from",
+    "was established at",
+    "is nicknamed",
+    "has the third-largest economy among",
+    "has strengths in",
+    "included all of what is now",
+    "is bounded by",
+    "killed tens of thousands of",
+    "claimed the east coast of",
+    "is Australia's third-largest city",
+    "is located near",
+    "was first inhabited by",
+    "is a state in",
+    "founded the colony of",
+    "established",
+    "were inhabited by",
+    "is bordered by",
+    "was the first European to land in",
+    "is the capital of",
+    "was named for",
+    "signed the letters patent to establish",
+    "was among the six colonies which became the founding states of"
+  ],
+  "relations": [
+    [
+      "Queensland",
+      "was first inhabited by",
+      "Aboriginal Australians"
+    ],
+    [
+      "Arthur Phillip",
+      "founded the colony of",
+      "New South Wales"
+    ],
+    [
+      "Queensland",
+      "has strengths in",
+      "transportation"
+    ],
+    [
+      "Queensland",
+      "is bordered by",
+      "Northern Territory"
+    ],
+    [
+      "Queensland",
+      "is bordered by",
+      "New South Wales"
+    ],
+    [
+      "colonists",
+      "killed tens of thousands of",
+      "Aboriginal people"
+    ],
+    [
+      "Queensland",
+      "is bounded by",
+      "Coral Sea"
+    ],
+    [
+      "Willem Janszoon",
+      "was the first European to land in",
+      "Australia"
+    ],
+    [
+      "New South Wales",
+      "included all of what is now",
+      "Queensland"
+    ],
+    [
+      "Queensland",
+      "is bordered by",
+      "South Australia"
+    ],
+    [
+      "Queensland",
+      "has strengths in",
+      "international education"
+    ],
+    [
+      "Queensland",
+      "is a state in",
+      "Australia"
+    ],
+    [
+      "Queensland",
+      "was named for",
+      "Queen Victoria"
+    ],
+    [
+      "Queensland",
+      "has strengths in",
+      "agriculture"
+    ],
+    [
+      "Queensland",
+      "was among the six colonies which became the founding states of",
+      "Australia"
+    ],
+    [
+      "Brisbane",
+      "is Australia's third-largest city",
+      "Queensland"
+    ],
+    [
+      "Torres Strait Islands",
+      "were inhabited by",
+      "Torres Strait Islanders"
+    ],
+    [
+      "Queensland",
+      "is separated from",
+      "Papua New Guinea"
+    ],
+    [
+      "Queensland",
+      "has strengths in",
+      "mining"
+    ],
+    [
+      "Queensland",
+      "is bounded by",
+      "Pacific Ocean"
+    ],
+    [
+      "Queensland",
+      "is located near",
+      "Gulf of Carpentaria"
+    ],
+    [
+      "James Cook",
+      "claimed the east coast of",
+      "Australia"
+    ],
+    [
+      "Queensland",
+      "has strengths in",
+      "banking"
+    ],
+    [
+      "Moreton Bay Penal Settlement",
+      "was established at",
+      "Brisbane"
+    ],
+    [
+      "Queensland",
+      "has the third-largest economy among",
+      "Australian states"
+    ],
+    [
+      "Queen Victoria",
+      "signed the letters patent to establish",
+      "Queensland"
+    ],
+    [
+      "Queensland",
+      "has strengths in",
+      "insurance"
+    ],
+    [
+      "Brisbane",
+      "is the capital of",
+      "Queensland"
+    ],
+    [
+      "John Oxley",
+      "established",
+      "Moreton Bay Penal Settlement"
+    ],
+    [
+      "Queensland",
+      "has a population of over",
+      "5.5 million"
+    ],
+    [
+      "Queensland",
+      "is nicknamed",
+      "Sunshine State"
+    ]
+  ]
+}

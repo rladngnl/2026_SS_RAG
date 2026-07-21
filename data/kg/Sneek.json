@@ -1,0 +1,88 @@
+{
+  "entities": [
+    "watersports",
+    "January 2024",
+    "Friese elf steden",
+    "Sneek",
+    "34,850 inhabitants",
+    "Southwest Corner",
+    "Súdwest-Fryslân",
+    "Friesland",
+    "Leeuwarden",
+    "Sneekermeer",
+    "canals",
+    "Zuidwesthoek",
+    "Sneekweek",
+    "Southwest Friesland",
+    "Waterpoort",
+    "Netherlands"
+  ],
+  "edges": [
+    "is one of the",
+    "is the seat of",
+    "is known for",
+    "is situated near",
+    "hosts",
+    "contains",
+    "is important in",
+    "has approximately",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Sneek",
+      "is known for",
+      "watersports"
+    ],
+    [
+      "Sneek",
+      "is located in",
+      "Southwest Friesland"
+    ],
+    [
+      "Sneek",
+      "is one of the",
+      "Friese elf steden"
+    ],
+    [
+      "Sneek",
+      "is known for",
+      "canals"
+    ],
+    [
+      "Friesland",
+      "contains",
+      "Sneek"
+    ],
+    [
+      "Sneek",
+      "is important in",
+      "Zuidwesthoek"
+    ],
+    [
+      "Sneek",
+      "has approximately",
+      "34,850 inhabitants"
+    ],
+    [
+      "Sneek",
+      "is the seat of",
+      "Súdwest-Fryslân"
+    ],
+    [
+      "Sneek",
+      "hosts",
+      "Sneekweek"
+    ],
+    [
+      "Sneek",
+      "is situated near",
+      "Sneekermeer"
+    ],
+    [
+      "Sneek",
+      "is known for",
+      "Waterpoort"
+    ]
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "UEFA Cup",
+    "Málaga",
+    "UEFA Intertoto Cup",
+    "Segunda División",
+    "2012–13 UEFA Champions League",
+    "quarter-finalists",
+    "quarter-final stages",
+    "football club",
+    "La Liga",
+    "Málaga Club de Fútbol",
+    "2025–26 season",
+    "2002",
+    "June 2010",
+    "Málaga_CF",
+    "Andalusia",
+    "Spain",
+    "Abdullah ben Nasser Al Thani",
+    "Qatari investor"
+  ],
+  "edges": [
+    "is a",
+    "reached",
+    "was quarter-finalists in",
+    "has owner",
+    "qualified for",
+    "won",
+    "competes in",
+    "is based in",
+    "was promoted from"
+  ],
+  "relations": [
+    [
+      "Málaga_CF",
+      "was promoted from",
+      "Segunda División"
+    ],
+    [
+      "Málaga_CF",
+      "reached",
+      "quarter-final stages"
+    ],
+    [
+      "Málaga_CF",
+      "is based in",
+      "Málaga"
+    ],
+    [
+      "Málaga_CF",
+      "qualified for",
+      "2012–13 UEFA Champions League"
+    ],
+    [
+      "Málaga_CF",
+      "qualified for",
+      "UEFA Cup"
+    ],
+    [
+      "Málaga_CF",
+      "won",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "Málaga_CF",
+      "was quarter-finalists in",
+      "2012–13 UEFA Champions League"
+    ],
+    [
+      "Málaga_CF",
+      "has owner",
+      "Abdullah ben Nasser Al Thani"
+    ],
+    [
+      "Abdullah ben Nasser Al Thani",
+      "is a",
+      "Qatari investor"
+    ],
+    [
+      "Málaga_CF",
+      "competes in",
+      "La Liga"
+    ],
+    [
+      "Málaga_CF",
+      "is a",
+      "football club"
+    ]
+  ]
+}

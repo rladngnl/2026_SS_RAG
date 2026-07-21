@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "June 24, 1982",
+    "American",
+    "Colorado Rapids",
+    "West Islip",
+    "defender",
+    "Gary Sullivan",
+    "Long Island Rough Riders",
+    "Major League Soccer",
+    "soccer",
+    "New York"
+  ],
+  "edges": [
+    "is born on",
+    "is in",
+    "is a",
+    "is from",
+    "plays for",
+    "spent one season with",
+    "is"
+  ],
+  "relations": [
+    [
+      "Gary Sullivan",
+      "is born on",
+      "June 24, 1982"
+    ],
+    [
+      "Gary Sullivan",
+      "is from",
+      "West Islip"
+    ],
+    [
+      "Gary Sullivan",
+      "spent one season with",
+      "Colorado Rapids"
+    ],
+    [
+      "Gary Sullivan",
+      "is a",
+      "defender"
+    ],
+    [
+      "Colorado Rapids",
+      "is in",
+      "Major League Soccer"
+    ],
+    [
+      "Gary Sullivan",
+      "is",
+      "American"
+    ],
+    [
+      "Gary Sullivan",
+      "plays for",
+      "Long Island Rough Riders"
+    ],
+    [
+      "Gary Sullivan",
+      "is from",
+      "New York"
+    ]
+  ]
+}

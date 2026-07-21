@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "European competition",
+    "Yugoslav First League",
+    "Zagreb",
+    "NK_Trešnjevka",
+    "Igralište Trešnjevka-Graba Stadium",
+    "Nogometni klub Trešnjevka",
+    "Panonija",
+    "Croatia"
+  ],
+  "edges": [
+    "is a professional association football club from",
+    "was promoted to",
+    "has been known as",
+    "was formed under the name",
+    "plays in",
+    "is situated in",
+    "plays its home games at",
+    "played a"
+  ],
+  "relations": [
+    [
+      "NK_Trešnjevka",
+      "was formed under the name",
+      "Panonija"
+    ],
+    [
+      "NK_Trešnjevka",
+      "plays in",
+      "3. NL"
+    ],
+    [
+      "NK_Trešnjevka",
+      "is situated in",
+      "Croatia"
+    ],
+    [
+      "NK_Trešnjevka",
+      "was promoted to",
+      "Yugoslav First League"
+    ],
+    [
+      "NK_Trešnjevka",
+      "played a",
+      "European competition"
+    ],
+    [
+      "NK_Trešnjevka",
+      "has been known as",
+      "Trešnjevka"
+    ],
+    [
+      "NK_Trešnjevka",
+      "plays its home games at",
+      "Igralište Trešnjevka-Graba Stadium"
+    ],
+    [
+      "NK_Trešnjevka",
+      "is a professional association football club from",
+      "Zagreb"
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "Santo António",
+    "Club Sport Marítimo",
+    "League Cup",
+    "Primeira Liga",
+    "academy players",
+    "AF Madeira 1ª Divisão",
+    "C.S. Marítimo B",
+    "Madeira",
+    "Cup of Portugal",
+    "Campo da Imaculada Conceição",
+    "2025–26 season",
+    "Funchal",
+    "1999"
+  ],
+  "edges": [
+    "is restricted from promotion to",
+    "is in",
+    "is located in",
+    "is reserve team of",
+    "plays in",
+    "focuses on integrating",
+    "registered for",
+    "is not allowed to compete in",
+    "was established in",
+    "plays home games at"
+  ],
+  "relations": [
+    [
+      "C.S. Marítimo B",
+      "is reserve team of",
+      "Club Sport Marítimo"
+    ],
+    [
+      "Campo da Imaculada Conceição",
+      "is located in",
+      "Santo António"
+    ],
+    [
+      "C.S. Marítimo B",
+      "plays home games at",
+      "Campo da Imaculada Conceição"
+    ],
+    [
+      "C.S. Marítimo B",
+      "plays in",
+      "AF Madeira 1ª Divisão"
+    ],
+    [
+      "C.S. Marítimo B",
+      "was established in",
+      "1999"
+    ],
+    [
+      "C.S. Marítimo B",
+      "registered for",
+      "2025–26 season"
+    ],
+    [
+      "C.S. Marítimo B",
+      "focuses on integrating",
+      "academy players"
+    ],
+    [
+      "C.S. Marítimo B",
+      "is restricted from promotion to",
+      "Primeira Liga"
+    ],
+    [
+      "C.S. Marítimo B",
+      "is not allowed to compete in",
+      "League Cup"
+    ],
+    [
+      "C.S. Marítimo B",
+      "is not allowed to compete in",
+      "Cup of Portugal"
+    ],
+    [
+      "Santo António",
+      "is in",
+      "Funchal"
+    ],
+    [
+      "Funchal",
+      "is in",
+      "Madeira"
+    ]
+  ]
+}

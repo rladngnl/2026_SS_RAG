@@ -1,0 +1,163 @@
+{
+  "entities": [
+    "Byomkesh film series",
+    "Swapnasandhani",
+    "1953",
+    "Mrinal Sen",
+    "Chalo Let's Go",
+    "Kaushik Sen",
+    "film director",
+    "anyodharar gaan",
+    "Mr. and Mrs. Iyer",
+    "singer-songwriter",
+    "Ranjana Ami Ar Ashbona",
+    "Venice Film Festival",
+    "national award-winning filmmaker",
+    "Chaalchitra",
+    "2018",
+    "Taraye Taraye",
+    "Bengali alternative music",
+    "Indian",
+    "The Bong Connection",
+    "best newcomer actor award",
+    "Anjan Dutt",
+    "actor",
+    "Aparna Sen",
+    "bengali adventure movies",
+    "Dutta Vs Dutta",
+    "Madly Bangalee",
+    "Vincent van Gogh",
+    "Bengali cinema"
+  ],
+  "edges": [
+    "is born on",
+    "began his career in",
+    "is a",
+    "featured in",
+    "acted in",
+    "is known for his work in",
+    "is directed by",
+    "directed",
+    "is awarded at",
+    "is mainly famous for his",
+    "won",
+    "is one of the most prominent directors of"
+  ],
+  "relations": [
+    [
+      "Anjan Dutt",
+      "acted in",
+      "Mr. and Mrs. Iyer"
+    ],
+    [
+      "Anjan Dutt",
+      "directed",
+      "Chalo Let's Go"
+    ],
+    [
+      "Anjan Dutt",
+      "directed",
+      "Dutta Vs Dutta"
+    ],
+    [
+      "Anjan Dutt",
+      "directed",
+      "Madly Bangalee"
+    ],
+    [
+      "Anjan Dutt",
+      "directed",
+      "The Bong Connection"
+    ],
+    [
+      "Anjan Dutt",
+      "is a",
+      "national award-winning filmmaker"
+    ],
+    [
+      "Anjan Dutt",
+      "is a",
+      "actor"
+    ],
+    [
+      "Anjan Dutt",
+      "is known for his work in",
+      "anyodharar gaan"
+    ],
+    [
+      "Chaalchitra",
+      "is directed by",
+      "Mrinal Sen"
+    ],
+    [
+      "Anjan Dutt",
+      "is known for his work in",
+      "Bengali alternative music"
+    ],
+    [
+      "Anjan Dutt",
+      "is mainly famous for his",
+      "bengali adventure movies"
+    ],
+    [
+      "Anjan Dutt",
+      "directed",
+      "Byomkesh film series"
+    ],
+    [
+      "Anjan Dutt",
+      "won",
+      "best newcomer actor award"
+    ],
+    [
+      "Taraye Taraye",
+      "is directed by",
+      "Kaushik Sen"
+    ],
+    [
+      "best newcomer actor award",
+      "is awarded at",
+      "Venice Film Festival"
+    ],
+    [
+      "Anjan Dutt",
+      "acted in",
+      "Chaalchitra"
+    ],
+    [
+      "Anjan Dutt",
+      "is one of the most prominent directors of",
+      "Bengali cinema"
+    ],
+    [
+      "Anjan Dutt",
+      "is born on",
+      "19 January 1953"
+    ],
+    [
+      "Anjan Dutt",
+      "began his career in",
+      "Bengali cinema"
+    ],
+    [
+      "Anjan Dutt",
+      "is a",
+      "Indian film director"
+    ],
+    [
+      "Anjan Dutt",
+      "featured in",
+      "Taraye Taraye"
+    ],
+    [
+      "Anjan Dutt",
+      "is a",
+      "singer-songwriter"
+    ],
+    [
+      "Anjan Dutt",
+      "directed",
+      "Ranjana Ami Ar Ashbona"
+    ]
+  ]
+}

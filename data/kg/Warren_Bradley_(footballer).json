@@ -1,0 +1,151 @@
+{
+  "entities": [
+    "Bolton Wanderers",
+    "University of Durham",
+    "Northwich Victoria",
+    "Cheshire",
+    "Hatfield College",
+    "Stretford",
+    "England",
+    "Northern League",
+    "Bangor City",
+    "Warren Bradley",
+    "Mexico",
+    "Bishop Auckland",
+    "Macclesfield Town",
+    "United States",
+    "Hyde",
+    "Bury",
+    "Walter Winterbottom",
+    "Munich air disaster",
+    "footballer",
+    "Durham City",
+    "Manchester United",
+    "Manchester United ex-players association",
+    "Hyde Grammar School",
+    "Matt Busby",
+    "Deane School"
+  ],
+  "edges": [
+    "left",
+    "is in",
+    "is a",
+    "was loaned to",
+    "is part of",
+    "joined",
+    "was transferred to",
+    "was selected by",
+    "had a career as",
+    "worked with",
+    "was educated at",
+    "was born in",
+    "appeared for",
+    "attended",
+    "was impressed by",
+    "played for",
+    "made his first-team debut for",
+    "was"
+  ],
+  "relations": [
+    [
+      "Warren Bradley",
+      "appeared for",
+      "Durham City"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "England"
+    ],
+    [
+      "Warren Bradley",
+      "worked with",
+      "Manchester United ex-players association"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Bolton Wanderers"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Manchester United"
+    ],
+    [
+      "Warren Bradley",
+      "joined",
+      "Bishop Auckland"
+    ],
+    [
+      "Warren Bradley",
+      "was selected by",
+      "Walter Winterbottom"
+    ],
+    [
+      "Warren Bradley",
+      "was educated at",
+      "Hyde Grammar School"
+    ],
+    [
+      "Warren Bradley",
+      "left",
+      "Bury"
+    ],
+    [
+      "Warren Bradley",
+      "was",
+      "footballer"
+    ],
+    [
+      "Warren Bradley",
+      "attended",
+      "Hatfield College"
+    ],
+    [
+      "Hyde",
+      "is in",
+      "Cheshire"
+    ],
+    [
+      "Matt Busby",
+      "was impressed by",
+      "Warren Bradley"
+    ],
+    [
+      "Hatfield College",
+      "is part of",
+      "University of Durham"
+    ],
+    [
+      "Warren Bradley",
+      "was born in",
+      "Hyde"
+    ],
+    [
+      "Warren Bradley",
+      "had a career as",
+      "headteacher"
+    ],
+    [
+      "Warren Bradley",
+      "made his first-team debut for",
+      "Manchester United"
+    ],
+    [
+      "Warren Bradley",
+      "was transferred to",
+      "Bury"
+    ],
+    [
+      "Bishop Auckland",
+      "is a",
+      "Northern League"
+    ],
+    [
+      "Warren Bradley",
+      "was loaned to",
+      "Manchester United"
+    ]
+  ]
+}

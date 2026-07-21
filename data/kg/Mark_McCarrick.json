@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "Birmingham City",
+    "Tranmere Rovers",
+    "Lincoln City",
+    "former professional footballer",
+    "full back",
+    "Mark Bernard McCarrick",
+    "Crewe Alexandra",
+    "Football League",
+    "English",
+    "4 February 1962",
+    "Mark McCarrick"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "represented",
+    "played as a",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Mark McCarrick",
+      "represented",
+      "Lincoln City"
+    ],
+    [
+      "Mark McCarrick",
+      "represented",
+      "Tranmere Rovers"
+    ],
+    [
+      "Mark McCarrick",
+      "represented",
+      "Crewe Alexandra"
+    ],
+    [
+      "Mark McCarrick",
+      "represented",
+      "Birmingham City"
+    ],
+    [
+      "Mark McCarrick",
+      "played as a",
+      "full back"
+    ],
+    [
+      "Mark McCarrick",
+      "is",
+      "English"
+    ],
+    [
+      "Mark McCarrick",
+      "is",
+      "Mark Bernard McCarrick"
+    ],
+    [
+      "Mark McCarrick",
+      "was born on",
+      "4 February 1962"
+    ],
+    [
+      "Mark McCarrick",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Mark McCarrick",
+      "played in",
+      "Football League"
+    ]
+  ]
+}

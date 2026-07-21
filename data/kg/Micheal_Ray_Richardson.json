@@ -1,0 +1,142 @@
+{
+  "entities": [
+    "Michael Ray Richardson",
+    "professional basketball player",
+    "1978 NBA draft",
+    "Golden State Warriors",
+    "1986",
+    "two-time NBA All-Defensive First Team",
+    "head coach",
+    "Montana Grizzlies",
+    "American",
+    "National Basketball League of Canada",
+    "November 11, 2025",
+    "New York Knicks",
+    "David Stern",
+    "cocaine",
+    "four-time NBA All-Star",
+    "National Basketball Association",
+    "steals",
+    "CBA",
+    "1988",
+    "April 11, 1955",
+    "Sugar",
+    "NBL Canada",
+    "Continental Basketball Association",
+    "NBA",
+    "New Jersey Nets"
+  ],
+  "edges": [
+    "was a",
+    "played in the",
+    "died on",
+    "played college basketball for",
+    "is known by the nickname",
+    "was the fourth overall pick in the",
+    "was an",
+    "was born on",
+    "became a head coach in the",
+    "was reinstated by the NBA in",
+    "was banned for life by",
+    "played for",
+    "tested positive for",
+    "led the league in"
+  ],
+  "relations": [
+    [
+      "Michael Ray Richardson",
+      "was reinstated by the NBA in",
+      "1988"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was a",
+      "head coach"
+    ],
+    [
+      "Michael Ray Richardson",
+      "led the league in",
+      "steals"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was born on",
+      "April 11, 1955"
+    ],
+    [
+      "Michael Ray Richardson",
+      "became a head coach in the",
+      "National Basketball League of Canada"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was an",
+      "American professional basketball player"
+    ],
+    [
+      "Michael Ray Richardson",
+      "played for",
+      "New York Knicks"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was banned for life by",
+      "David Stern"
+    ],
+    [
+      "Michael Ray Richardson",
+      "died on",
+      "November 11, 2025"
+    ],
+    [
+      "Michael Ray Richardson",
+      "tested positive for",
+      "cocaine"
+    ],
+    [
+      "Michael Ray Richardson",
+      "played college basketball for",
+      "Montana Grizzlies"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was the fourth overall pick in the",
+      "1978 NBA draft"
+    ],
+    [
+      "Michael Ray Richardson",
+      "played for",
+      "Golden State Warriors"
+    ],
+    [
+      "Michael Ray Richardson",
+      "became a head coach in the",
+      "Continental Basketball Association"
+    ],
+    [
+      "Michael Ray Richardson",
+      "is known by the nickname",
+      "Sugar"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was a",
+      "two-time NBA All-Defensive First Team"
+    ],
+    [
+      "Michael Ray Richardson",
+      "played in the",
+      "National Basketball Association"
+    ],
+    [
+      "Michael Ray Richardson",
+      "played for",
+      "New Jersey Nets"
+    ],
+    [
+      "Michael Ray Richardson",
+      "was a",
+      "four-time NBA All-Star"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "footballer",
+    "Sparta Rejowiec Fabryczny",
+    "Polish",
+    "Piotr Prędota",
+    "forward",
+    "20 July 1982"
+  ],
+  "edges": [
+    "plays for",
+    "was born on",
+    "is a",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Piotr Prędota",
+      "plays for",
+      "Sparta Rejowiec Fabryczny"
+    ],
+    [
+      "Piotr Prędota",
+      "is a",
+      "Polish footballer"
+    ],
+    [
+      "Piotr Prędota",
+      "was born on",
+      "20 July 1982"
+    ],
+    [
+      "Piotr Prędota",
+      "plays as a",
+      "forward"
+    ]
+  ]
+}

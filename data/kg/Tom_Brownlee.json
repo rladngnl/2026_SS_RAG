@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "December 2018",
+    "1964–65",
+    "York City",
+    "Walsall",
+    "age 83",
+    "Scottish",
+    "Thomas Courtney Brownlee",
+    "professional footballer",
+    "Gus Alexander",
+    "centre forward",
+    "18 games",
+    "May 1935",
+    "Carnwath",
+    "Netherfield",
+    "Workington",
+    "Tom Brownlee",
+    "Broxburn Athletic",
+    "14 goals",
+    "Bradford City"
+  ],
+  "edges": [
+    "was a",
+    "played in",
+    "died in",
+    "scored",
+    "played as a",
+    "was the club's top goal-scorer in",
+    "started at",
+    "was born in",
+    "moved to",
+    "played for",
+    "was in an exchange deal with",
+    "was"
+  ],
+  "relations": [
+    [
+      "Tom Brownlee",
+      "was in an exchange deal with",
+      "Gus Alexander"
+    ],
+    [
+      "Tom Brownlee",
+      "was",
+      "age 83"
+    ],
+    [
+      "Tom Brownlee",
+      "played for",
+      "Workington"
+    ],
+    [
+      "Tom Brownlee",
+      "played in",
+      "18 games"
+    ],
+    [
+      "Tom Brownlee",
+      "played for",
+      "Bradford City"
+    ],
+    [
+      "Tom Brownlee",
+      "was born in",
+      "Carnwath"
+    ],
+    [
+      "Tom Brownlee",
+      "played as a",
+      "centre forward"
+    ],
+    [
+      "Tom Brownlee",
+      "was the club's top goal-scorer in",
+      "1964–65"
+    ],
+    [
+      "Tom Brownlee",
+      "was a",
+      "Scottish professional footballer"
+    ],
+    [
+      "Tom Brownlee",
+      "scored",
+      "14 goals"
+    ],
+    [
+      "Tom Brownlee",
+      "moved to",
+      "Walsall"
+    ],
+    [
+      "Tom Brownlee",
+      "started at",
+      "Broxburn Athletic"
+    ],
+    [
+      "Tom Brownlee",
+      "played for",
+      "Netherfield"
+    ],
+    [
+      "Tom Brownlee",
+      "died in",
+      "December 2018"
+    ],
+    [
+      "Tom Brownlee",
+      "played for",
+      "York City"
+    ]
+  ]
+}

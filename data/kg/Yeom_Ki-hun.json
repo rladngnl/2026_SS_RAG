@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "former player",
+    "30 March 1983",
+    "football manager",
+    "South Korea",
+    "Yeom Ki-hun"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Yeom Ki-hun",
+      "is a",
+      "football manager"
+    ],
+    [
+      "Yeom Ki-hun",
+      "is a",
+      "former player"
+    ],
+    [
+      "Yeom Ki-hun",
+      "was born on",
+      "30 March 1983"
+    ],
+    [
+      "Yeom Ki-hun",
+      "is from",
+      "South Korea"
+    ]
+  ]
+}

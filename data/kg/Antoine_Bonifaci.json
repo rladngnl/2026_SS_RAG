@@ -1,0 +1,122 @@
+{
+  "entities": [
+    "France national team",
+    "1953",
+    "Italy",
+    "Bologna",
+    "professional footballer",
+    "30 million francs",
+    "Vicenza",
+    "Stade Français",
+    "Inter Milan",
+    "1951",
+    "Nice",
+    "29 December 2021",
+    "4 September 1931",
+    "Antoine Bonifaci",
+    "football stadium",
+    "Villefranche-sur-Mer",
+    "Torino",
+    "French",
+    "90"
+  ],
+  "edges": [
+    "was a",
+    "played in",
+    "was transferred from",
+    "was transferred for a fee of",
+    "died on",
+    "bears the name of",
+    "was born on",
+    "died in",
+    "played for",
+    "was"
+  ],
+  "relations": [
+    [
+      "Antoine Bonifaci",
+      "was born on",
+      "4 September 1931"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was",
+      "90 years old"
+    ],
+    [
+      "Antoine Bonifaci",
+      "died on",
+      "29 December 2021"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Vicenza"
+    ],
+    [
+      "Antoine Bonifaci",
+      "died in",
+      "Villefranche-sur-Mer"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Nice"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "France national team"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was transferred for a fee of",
+      "30 million francs"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Stade Français"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played in",
+      "France"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played in",
+      "Italy"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was transferred from",
+      "Nice to Inter Milan"
+    ],
+    [
+      "football stadium",
+      "bears the name of",
+      "Antoine Bonifaci"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Bologna"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Torino"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was a",
+      "French professional footballer"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Inter Milan"
+    ]
+  ]
+}

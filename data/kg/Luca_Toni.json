@@ -1,0 +1,162 @@
+{
+  "entities": [
+    "Palermo",
+    "Alessandro Del Piero",
+    "Italy",
+    "Bundesliga",
+    "2006 FIFA World Cup",
+    "Roma",
+    "Bayern Munich",
+    "Juventus",
+    "Genoa",
+    "Italy national team",
+    "UAE Arabian Gulf League",
+    "European Golden Shoe",
+    "Verona",
+    "Serie B",
+    "Fiorentina",
+    "UEFA Cup",
+    "UEFA Euro 2008",
+    "Capocannoniere",
+    "2009 FIFA Confederations Cup",
+    "Al-Nasr Dubai SC",
+    "Serie A",
+    "Luca Toni"
+  ],
+  "edges": [
+    "scored over 300 goals throughout his career",
+    "helped Fiorentina qualify for Europe",
+    "helped Palermo to Serie A promotion during the 2003–04 season",
+    "helped Bayern Munich to a domestic treble during the 2007–08 season",
+    "won the Capocannoniere award during the 2005–06 season",
+    "contributed to Italy's 2006 World Cup victory",
+    "is a former professional footballer who played as a striker",
+    "finished as top scorer in the 2007–08 Bundesliga",
+    "spent three seasons with Bayern Munich",
+    "made his international debut in 2004",
+    "played for Al-Nasr Dubai SC in the UAE Arabian Gulf League",
+    "finished as top scorer in the 2007–08 UEFA Cup",
+    "returned to Italy on loan with Roma in 2010",
+    "retired in 2016 after three seasons with Verona",
+    "returned to Fiorentina for a season later in 2012",
+    "is currently the fourth-highest scoring Italian player of all time",
+    "scored 16 goals for",
+    "played for thirteen different Italian teams throughout his career",
+    "was the league's top scorer with 30 goals in Serie B",
+    "won the European Golden Shoe",
+    "is considered one of the best strikers of his generation",
+    "represented the Italy national team on 47 occasions"
+  ],
+  "relations": [
+    [
+      "Luca Toni",
+      "is considered one of the best strikers of his generation",
+      "Luca Toni"
+    ],
+    [
+      "Luca Toni",
+      "made his international debut in 2004",
+      "Luca Toni"
+    ],
+    [
+      "Luca Toni",
+      "finished as top scorer in the 2007–08 UEFA Cup",
+      "UEFA Cup"
+    ],
+    [
+      "Luca Toni",
+      "won the European Golden Shoe",
+      "European Golden Shoe"
+    ],
+    [
+      "Luca Toni",
+      "is currently the fourth-highest scoring Italian player of all time",
+      "Luca Toni"
+    ],
+    [
+      "Luca Toni",
+      "retired in 2016 after three seasons with Verona",
+      "Verona"
+    ],
+    [
+      "Luca Toni",
+      "scored over 300 goals throughout his career",
+      "Luca Toni"
+    ],
+    [
+      "Luca Toni",
+      "scored 16 goals for",
+      "Italy national team"
+    ],
+    [
+      "Luca Toni",
+      "was the league's top scorer with 30 goals in Serie B",
+      "Serie B"
+    ],
+    [
+      "Luca Toni",
+      "is a former professional footballer who played as a striker",
+      "Luca Toni"
+    ],
+    [
+      "Luca Toni",
+      "spent three seasons with Bayern Munich",
+      "Bayern Munich"
+    ],
+    [
+      "Luca Toni",
+      "represented the Italy national team on 47 occasions",
+      "Italy national team"
+    ],
+    [
+      "Luca Toni",
+      "played for thirteen different Italian teams throughout his career",
+      "Luca Toni"
+    ],
+    [
+      "Luca Toni",
+      "returned to Italy on loan with Roma in 2010",
+      "Roma"
+    ],
+    [
+      "Luca Toni",
+      "helped Palermo to Serie A promotion during the 2003–04 season",
+      "Palermo"
+    ],
+    [
+      "Luca Toni",
+      "returned to Fiorentina for a season later in 2012",
+      "Fiorentina"
+    ],
+    [
+      "Luca Toni",
+      "helped Fiorentina qualify for Europe",
+      "Fiorentina"
+    ],
+    [
+      "Luca Toni",
+      "helped Bayern Munich to a domestic treble during the 2007–08 season",
+      "Bayern Munich"
+    ],
+    [
+      "Luca Toni",
+      "contributed to Italy's 2006 World Cup victory",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Luca Toni",
+      "finished as top scorer in the 2007–08 Bundesliga",
+      "Bundesliga"
+    ],
+    [
+      "Luca Toni",
+      "won the Capocannoniere award during the 2005–06 season",
+      "Capocannoniere"
+    ],
+    [
+      "Luca Toni",
+      "played for Al-Nasr Dubai SC in the UAE Arabian Gulf League",
+      "Al-Nasr Dubai SC"
+    ]
+  ]
+}

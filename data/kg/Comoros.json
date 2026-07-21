@@ -1,0 +1,264 @@
+{
+  "entities": [
+    "Indian Ocean Commission",
+    "Bantu speakers",
+    "Indian Ocean",
+    "Organisation of Islamic Co-operation",
+    "Islam",
+    "French colonial empire",
+    "São Tomé and Príncipe",
+    "1,659 square kilometres",
+    "Human Development Index",
+    "1500",
+    "Union of the Comoros",
+    "1974",
+    "Anjouan",
+    "Seychelles",
+    "US $1.90",
+    "19%",
+    "2014",
+    "Arab traders",
+    "Mohéli",
+    "African Union",
+    "income inequality",
+    "2023",
+    "international poverty line",
+    "944,388",
+    "AU",
+    "Mayotte",
+    "641 sq mi",
+    "rural areas",
+    "Arabic",
+    "Arab League",
+    "Southern Hemisphere",
+    "Organisation internationale de la Francophonie",
+    "UN",
+    "20 coups",
+    "Sultanate of Anjouan",
+    "United Nations Security Council",
+    "19th century",
+    "Comorian",
+    "purchasing power parity",
+    "France",
+    "2009",
+    "Southeast Africa",
+    "Grande Comore",
+    "Moroni",
+    "French",
+    "Austronesian-speaking Malagasy peoples",
+    "Mozambique Channel",
+    "Comoros",
+    "6 July 1975"
+  ],
+  "edges": [
+    "administers",
+    "has vetoed United Nations Security Council resolutions affirming",
+    "has widespread poverty especially in",
+    "is the third-smallest African country by area after",
+    "ranks in the medium quartile on the",
+    "continues to claim",
+    "ranks as one of the most densely populated countries in the world",
+    "proclaimed its independence from",
+    "is located in the",
+    "has a population estimated at",
+    "is a member of",
+    "is located in",
+    "has three official languages",
+    "was estimated to be",
+    "lived below the international poverty line between",
+    "has backing from",
+    "has experienced more than",
+    "is located at the northern end of",
+    "became an overseas department of",
+    "lived below the international poverty line of",
+    "gained independence in",
+    "is a member state of",
+    "voted against independence from",
+    "had the least income inequality among its peers in",
+    "has an area of",
+    "has the predominant religion of",
+    "is located entirely in the",
+    "dominated the islands from",
+    "is officially known as",
+    "became part of the",
+    "has its capital in",
+    "was likely first settled by"
+  ],
+  "relations": [
+    [
+      "Comoros",
+      "was likely first settled by",
+      "Austronesian-speaking Malagasy peoples, Bantu speakers from East Africa, and seafaring Arab traders"
+    ],
+    [
+      "Comoros",
+      "ranks as one of the most densely populated countries in the world",
+      ""
+    ],
+    [
+      "Comoros",
+      "gained independence in",
+      "1975"
+    ],
+    [
+      "Comoros",
+      "is a member of",
+      "Organisation of Islamic Co-operation"
+    ],
+    [
+      "Comoros",
+      "is a member of",
+      "Organisation internationale de la Francophonie"
+    ],
+    [
+      "France",
+      "has vetoed United Nations Security Council resolutions affirming",
+      "Comorian sovereignty over the island"
+    ],
+    [
+      "Comoros",
+      "has an area of",
+      "1,659 square kilometres"
+    ],
+    [
+      "Comoros",
+      "has the predominant religion of",
+      "Islam"
+    ],
+    [
+      "Comoros",
+      "is located entirely in the",
+      "Southern Hemisphere"
+    ],
+    [
+      "Comoros",
+      "has its capital in",
+      "Moroni"
+    ],
+    [
+      "Comoros",
+      "is a member of",
+      "Indian Ocean Commission"
+    ],
+    [
+      "Comoros",
+      "ranks in the medium quartile on the",
+      "Human Development Index"
+    ],
+    [
+      "Comoros",
+      "is located at the northern end of",
+      "Mozambique Channel"
+    ],
+    [
+      "Comoros",
+      "continues to claim",
+      "Mayotte"
+    ],
+    [
+      "Comoros",
+      "is located in the",
+      "Indian Ocean"
+    ],
+    [
+      "Comoros",
+      "is a member state of",
+      "African Union"
+    ],
+    [
+      "Comoros",
+      "has a population estimated at",
+      "944,388"
+    ],
+    [
+      "population",
+      "lived below the international poverty line of",
+      "US $1.90 a day"
+    ],
+    [
+      "Comoros",
+      "had the least income inequality among its peers in",
+      "2023"
+    ],
+    [
+      "Comoros",
+      "became part of the",
+      "French colonial empire"
+    ],
+    [
+      "France",
+      "administers",
+      "Mayotte"
+    ],
+    [
+      "Comoros",
+      "is officially known as",
+      "Union of the Comoros"
+    ],
+    [
+      "Comoros",
+      "has three official languages",
+      "Comorian, French and Arabic"
+    ],
+    [
+      "Mayotte",
+      "became an overseas department of",
+      "France"
+    ],
+    [
+      "Comoros",
+      "has backing from",
+      "AU and UN"
+    ],
+    [
+      "population",
+      "was estimated to be",
+      "19%"
+    ],
+    [
+      "Comoros",
+      "is located in",
+      "Southeast Africa"
+    ],
+    [
+      "Comoros",
+      "proclaimed its independence from",
+      "France"
+    ],
+    [
+      "Mayotte",
+      "voted against independence from",
+      "France"
+    ],
+    [
+      "Comoros",
+      "has experienced more than",
+      "20 coups"
+    ],
+    [
+      "Comoros",
+      "is the third-smallest African country by area after",
+      "São Tomé and Príncipe and Seychelles"
+    ],
+    [
+      "Comoros",
+      "has widespread poverty especially in",
+      "rural areas"
+    ],
+    [
+      "Sultanate of Anjouan",
+      "dominated the islands from",
+      "1500"
+    ],
+    [
+      "Comoros",
+      "is a member of",
+      "Arab League"
+    ],
+    [
+      "population",
+      "lived below the international poverty line between",
+      "2009 and 2014"
+    ]
+  ]
+}

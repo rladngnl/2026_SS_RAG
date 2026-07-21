@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "footballer",
+    "Fabrice Catherine",
+    "goalkeeper",
+    "French",
+    "12 May 1973"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Fabrice Catherine",
+      "is a",
+      "French"
+    ],
+    [
+      "Fabrice Catherine",
+      "played as a",
+      "goalkeeper"
+    ],
+    [
+      "Fabrice Catherine",
+      "was born on",
+      "12 May 1973"
+    ],
+    [
+      "Fabrice Catherine",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

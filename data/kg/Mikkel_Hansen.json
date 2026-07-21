@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "2024",
+    "professional handball player",
+    "EHF Hall of Fame",
+    "IHF World Player of the Year",
+    "Danish",
+    "playmaker",
+    "left back",
+    "centre back",
+    "Mikkel Hansen"
+  ],
+  "edges": [
+    "was inducted in",
+    "transitioned to play as",
+    "is a",
+    "has won",
+    "played as",
+    "was inducted into"
+  ],
+  "relations": [
+    [
+      "Mikkel Hansen",
+      "has won",
+      "IHF World Player of the Year"
+    ],
+    [
+      "Mikkel Hansen",
+      "was inducted into",
+      "EHF Hall of Fame"
+    ],
+    [
+      "Mikkel Hansen",
+      "is a",
+      "Danish"
+    ],
+    [
+      "Mikkel Hansen",
+      "played as",
+      "left back"
+    ],
+    [
+      "EHF Hall of Fame",
+      "was inducted in",
+      "2024"
+    ],
+    [
+      "Mikkel Hansen",
+      "transitioned to play as",
+      "playmaker"
+    ],
+    [
+      "Mikkel Hansen",
+      "transitioned to play as",
+      "centre back"
+    ],
+    [
+      "Mikkel Hansen",
+      "is a",
+      "professional handball player"
+    ]
+  ]
+}

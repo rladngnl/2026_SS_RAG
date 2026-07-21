@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "academic",
+    "footballer",
+    "Northern Irish",
+    "Jonathan Magee",
+    "9 February 1972"
+  ],
+  "edges": [
+    "born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jonathan Magee",
+      "is",
+      "academic"
+    ],
+    [
+      "Jonathan Magee",
+      "is",
+      "footballer"
+    ],
+    [
+      "Jonathan Magee",
+      "born on",
+      "9 February 1972"
+    ],
+    [
+      "Jonathan Magee",
+      "is",
+      "Northern Irish"
+    ]
+  ]
+}

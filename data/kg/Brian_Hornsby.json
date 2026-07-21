@@ -1,0 +1,113 @@
+{
+  "entities": [
+    "48 goals",
+    "222 English league games",
+    "English",
+    "Falu BS",
+    "IK Brage",
+    "10 September 1954",
+    "Brian Hornsby",
+    "Canada",
+    "professional footballer",
+    "Edmonton Drillers",
+    "Sheffield Wednesday",
+    "Sweden",
+    "Carlisle United",
+    "1980",
+    "Shrewsbury Town",
+    "hamstring injury",
+    "Arsenal",
+    "player-manager",
+    "midfielder",
+    "English league"
+  ],
+  "edges": [
+    "is a",
+    "played abroad for",
+    "was born on",
+    "was curtailed by",
+    "scored",
+    "played as a",
+    "played for",
+    "played",
+    "occurred in",
+    "was player-manager of"
+  ],
+  "relations": [
+    [
+      "Brian Hornsby",
+      "played for",
+      "Arsenal"
+    ],
+    [
+      "Brian Hornsby",
+      "played for",
+      "Shrewsbury Town"
+    ],
+    [
+      "Brian Hornsby",
+      "played abroad for",
+      "IK Brage"
+    ],
+    [
+      "Brian Hornsby",
+      "was player-manager of",
+      "Falu BS"
+    ],
+    [
+      "Brian Hornsby",
+      "played for",
+      "Carlisle United"
+    ],
+    [
+      "Brian Hornsby",
+      "played",
+      "222 English league games"
+    ],
+    [
+      "Brian Hornsby",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Brian Hornsby",
+      "was curtailed by",
+      "hamstring injury"
+    ],
+    [
+      "Brian Hornsby",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Brian Hornsby",
+      "played abroad for",
+      "Edmonton Drillers"
+    ],
+    [
+      "Brian Hornsby",
+      "played abroad for",
+      "Falu BS"
+    ],
+    [
+      "hamstring injury",
+      "occurred in",
+      "1980"
+    ],
+    [
+      "Brian Hornsby",
+      "played for",
+      "Sheffield Wednesday"
+    ],
+    [
+      "Brian Hornsby",
+      "scored",
+      "48 goals"
+    ],
+    [
+      "Brian Hornsby",
+      "was born on",
+      "10 September 1954"
+    ]
+  ]
+}

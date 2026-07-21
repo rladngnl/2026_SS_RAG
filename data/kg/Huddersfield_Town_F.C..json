@@ -1,0 +1,246 @@
+{
+  "entities": [
+    "The Terriers",
+    "Leeds Road",
+    "EFL League One",
+    "Kirklees Stadium",
+    "Huddersfield Town Association Football Club",
+    "Championship",
+    "Herbert Chapman",
+    "West Yorkshire",
+    "England",
+    "Third Division",
+    "Football League Trophy",
+    "North Eastern League",
+    "Midland League",
+    "Premier League",
+    "Football League",
+    "Wembley",
+    "Leeds United",
+    "Huddersfield",
+    "FA Cup",
+    "Cecil Potter",
+    "Fourth Division",
+    "blue and white stripes",
+    "Bradford City",
+    "Accu Stadium"
+  ],
+  "edges": [
+    "nickname is",
+    "returned to",
+    "completed the hat-trick for",
+    "were promoted out of",
+    "won",
+    "competes in",
+    "is located in",
+    "were promoted from",
+    "adopted club colours of",
+    "were relegated in",
+    "is currently known as",
+    "played on the losing side in",
+    "gained admittance to",
+    "have played home games at",
+    "were relegated from",
+    "is based in",
+    "were relegated",
+    "were founded on",
+    "returned to the fourth tier in",
+    "managed",
+    "were beaten in",
+    "has long-standing rivalries with",
+    "were crowned league champions in",
+    "spent",
+    "finished 2nd in",
+    "moved from",
+    "reached",
+    "competed in",
+    "secured an immediate promotion the following season after"
+  ],
+  "relations": [
+    [
+      "Huddersfield Town Association Football Club",
+      "moved from",
+      "Leeds Road"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were relegated in",
+      "2019"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "is based in",
+      "Huddersfield"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "gained admittance to",
+      "Football League"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "secured an immediate promotion the following season after",
+      "relegation"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "finished 2nd in",
+      "the following two seasons"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "has long-standing rivalries with",
+      "Leeds United"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were founded on",
+      "15 August 1908"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "won",
+      "FA Cup"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "played on the losing side in",
+      "three more FA Cup finals"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were promoted out of",
+      "Second Division"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "reached",
+      "the Premier League"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "nickname is",
+      "The Terriers"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were beaten in",
+      "the 1994 final of the Football League Trophy"
+    ],
+    [
+      "Herbert Chapman",
+      "managed",
+      "Huddersfield Town Association Football Club"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "returned to the fourth tier in",
+      "2003"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "adopted club colours of",
+      "blue and white stripes"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "won",
+      "Fourth Division"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Cecil Potter",
+      "completed the hat-trick for",
+      "Huddersfield Town Association Football Club"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "spent",
+      "two seasons in the Premier League"
+    ],
+    [
+      "Kirklees Stadium",
+      "is currently known as",
+      "Accu Stadium"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "returned to",
+      "Wembley"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were promoted from",
+      "Third Division"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were crowned league champions in",
+      "1924–25"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "has long-standing rivalries with",
+      "Bradford City"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "competed in",
+      "Midland League"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were crowned league champions in",
+      "1923–24"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "have played home games at",
+      "Kirklees Stadium"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were relegated from",
+      "Championship"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were crowned league champions in",
+      "1925–26"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were relegated",
+      "three times in four years"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "is located in",
+      "West Yorkshire"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "were relegated from",
+      "First Division"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "competed in",
+      "North Eastern League"
+    ],
+    [
+      "Huddersfield Town Association Football Club",
+      "won",
+      "Second Division title"
+    ]
+  ]
+}

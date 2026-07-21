@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "professional footballer",
+    "German",
+    "Maximilian Mehring",
+    "midfielder",
+    "1986"
+  ],
+  "edges": [
+    "played as",
+    "is a",
+    "was born in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Maximilian Mehring",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Maximilian Mehring",
+      "is",
+      "German"
+    ],
+    [
+      "Maximilian Mehring",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Maximilian Mehring",
+      "was born in",
+      "1986"
+    ]
+  ]
+}

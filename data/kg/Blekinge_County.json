@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "Blekinge County",
+    "Duchess of Blekinge",
+    "Karlskrona",
+    "Princess Adrienne",
+    "Kronoberg",
+    "Sweden",
+    "Kalmar",
+    "Princess Madeleine",
+    "Skåne",
+    "Baltic Sea"
+  ],
+  "edges": [
+    "is located in",
+    "has capital",
+    "is daughter of",
+    "is",
+    "borders"
+  ],
+  "relations": [
+    [
+      "Blekinge County",
+      "borders",
+      "Kronoberg"
+    ],
+    [
+      "Blekinge County",
+      "borders",
+      "Baltic Sea"
+    ],
+    [
+      "Blekinge County",
+      "is located in",
+      "Sweden"
+    ],
+    [
+      "Blekinge County",
+      "borders",
+      "Skåne"
+    ],
+    [
+      "Blekinge County",
+      "borders",
+      "Kalmar"
+    ],
+    [
+      "Princess Adrienne",
+      "is",
+      "Duchess of Blekinge"
+    ],
+    [
+      "Princess Adrienne",
+      "is daughter of",
+      "Princess Madeleine"
+    ],
+    [
+      "Blekinge County",
+      "has capital",
+      "Karlskrona"
+    ]
+  ]
+}

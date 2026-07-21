@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "Brazilian football club",
+    "Grêmio Barueri Futebol",
+    "metropolitan São Paulo",
+    "February 2010",
+    "Presidente Prudente",
+    "31,452 spectators",
+    "600 km",
+    "Arena Barueri",
+    "1989",
+    "Grêmio Barueri",
+    "Barueri",
+    "Grêmio Recreativo Barueri",
+    "São Paulo",
+    "Grêmio Prudente Futebol Ltda."
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "is located in",
+    "was formerly known as",
+    "has home stadium",
+    "has capacity of",
+    "moved to",
+    "moved back to",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Grêmio Barueri Futebol",
+      "was founded in",
+      "1989"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "was formerly known as",
+      "Grêmio Recreativo Barueri"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "has home stadium",
+      "Arena Barueri"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "moved back to",
+      "Barueri"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "is located in",
+      "Barueri"
+    ],
+    [
+      "Arena Barueri",
+      "has capacity of",
+      "31,452 spectators"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "was formerly known as",
+      "Grêmio Prudente Futebol Ltda."
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "is a",
+      "Brazilian football club"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "is known as",
+      "Grêmio Barueri"
+    ],
+    [
+      "Grêmio Barueri Futebol",
+      "moved to",
+      "Presidente Prudente"
+    ]
+  ]
+}

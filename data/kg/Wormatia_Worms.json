@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "German association football club",
+    "1963",
+    "VfR Wormatia 08 Worms",
+    "regional first-division football competition",
+    "Worms",
+    "Bundesliga",
+    "Rhineland-Palatinate"
+  ],
+  "edges": [
+    "was replaced by",
+    "is a",
+    "was a participant in",
+    "plays in",
+    "is located in",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "Bundesliga",
+      "was formed in",
+      "1963"
+    ],
+    [
+      "regional first-division football competition",
+      "was replaced by",
+      "Bundesliga"
+    ],
+    [
+      "VfR Wormatia 08 Worms",
+      "plays in",
+      "Worms"
+    ],
+    [
+      "VfR Wormatia 08 Worms",
+      "was a participant in",
+      "regional first-division football competition"
+    ],
+    [
+      "Worms",
+      "is located in",
+      "Rhineland-Palatinate"
+    ],
+    [
+      "VfR Wormatia 08 Worms",
+      "is a",
+      "German association football club"
+    ]
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "entities": [
+    "são-paulinos",
+    "Boca Juniors",
+    "3 Copa Libertadores titles",
+    "Campeonato Paulista",
+    "1 Copa Masters CONMEBOL",
+    "Morumbi",
+    "Associação Atlética das Palmeiras",
+    "Flamengo",
+    "Club Athletico Paulistano",
+    "R$ 2.214 billion",
+    "1 Supercopa do Brasil title",
+    "Estádio do Morumbi",
+    "2 Intercontinental Cup",
+    "Torcida que conduz",
+    "Palmeiras",
+    "1 Supercopa Libertadores",
+    "São Paulo Futebol Clube",
+    "23 state titles",
+    "6 Campeonato Brasileiro titles",
+    "44 official titles",
+    "1 Copa Sudamericana",
+    "1 Copa do Brasil title",
+    "1 inter-state title",
+    "São Paulo",
+    "Campeonato Brasileiro Série A",
+    "1 FIFA Club World Cup",
+    "2024 Supercopa do Brasil",
+    "Peñarol",
+    "Nacional",
+    "2 Recopa Sudamericanas",
+    "1 Copa CONMEBOL"
+  ],
+  "edges": [
+    "is the only club to have won",
+    "are often nicknamed",
+    "has won",
+    "won after",
+    "plays in",
+    "has home ground",
+    "has supporters called",
+    "has a market value of",
+    "shared an honour with",
+    "earned the nickname",
+    "is part of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "São Paulo Futebol Clube",
+      "won after",
+      "2024 Supercopa do Brasil"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "44 official titles"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has supporters called",
+      "são-paulinos"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "shared an honour with",
+      "Palmeiras"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "is the only club to have won",
+      "all available titles"
+    ],
+    [
+      "são-paulinos",
+      "are often nicknamed",
+      "Torcida que conduz"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "23 state titles"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has home ground",
+      "Estádio do Morumbi"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "3 Copa Libertadores titles"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 Copa do Brasil title"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has a market value of",
+      "R$ 2.214 billion"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 FIFA Club World Cup"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "earned the nickname",
+      "Champions of All"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "6 Campeonato Brasileiro titles"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 Copa Masters CONMEBOL"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "2 Intercontinental Cup"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 Copa Sudamericana"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 Supercopa Libertadores"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "plays in",
+      "Campeonato Paulista"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 inter-state title"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "2 Recopa Sudamericanas"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 Copa CONMEBOL"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "is based in",
+      "Morumbi"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "plays in",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "is part of",
+      "Big Twelve of Brazilian football"
+    ],
+    [
+      "São Paulo Futebol Clube",
+      "has won",
+      "1 Supercopa do Brasil title"
+    ]
+  ]
+}

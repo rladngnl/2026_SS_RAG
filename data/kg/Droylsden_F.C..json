@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "England",
+    "Droylsden Football Club",
+    "North West Counties League Premier Division",
+    "Droylsden",
+    "Greater Manchester",
+    "Butcher's Arms Ground"
+  ],
+  "edges": [
+    "is in",
+    "is a member of",
+    "is located in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Droylsden Football Club",
+      "is located in",
+      "Droylsden"
+    ],
+    [
+      "Droylsden Football Club",
+      "plays at",
+      "Butcher's Arms Ground"
+    ],
+    [
+      "Droylsden Football Club",
+      "is in",
+      "Greater Manchester"
+    ],
+    [
+      "Droylsden Football Club",
+      "is a member of",
+      "North West Counties League Premier Division"
+    ],
+    [
+      "Droylsden Football Club",
+      "is in",
+      "England"
+    ]
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "entities": [
+    "Black Country flag",
+    "Walsall",
+    "West Bromwich Albion",
+    "EFL League Two",
+    "2019",
+    "Championship",
+    "England",
+    "club crest",
+    "League One",
+    "Wembley Stadium",
+    "Football League",
+    "AFC Wimbledon",
+    "West Midlands",
+    "Fellows Park",
+    "Birmingham & District League",
+    "Wolverhampton Wanderers",
+    "Walsall Football Club",
+    "1959–60",
+    "Shrewsbury Town",
+    "Port Vale",
+    "2025",
+    "Bristol City",
+    "Walsall Swifts",
+    "Football League Third Division North",
+    "2025 League Two play-off final",
+    "Second Division",
+    "Walsall Town Swifts",
+    "2015 Football League Trophy Final",
+    "Walsall Town",
+    "Football Alliance",
+    "Football League Second Division",
+    "The Saddlers",
+    "Bescot Stadium",
+    "1998–99",
+    "playoff semi-final",
+    "Midland Association",
+    "Fourth Division",
+    "Barnsley",
+    "League Two"
+  ],
+  "edges": [
+    "returned to",
+    "moved into",
+    "lost to",
+    "won",
+    "competes in",
+    "is located in",
+    "secured promotion out of",
+    "was invited to help found",
+    "spent seasons in",
+    "became a founder member of",
+    "previously played at",
+    "was relegated back to",
+    "played at Wembley again in",
+    "has nickname",
+    "played at",
+    "secured promotion as",
+    "is an amalgamation of",
+    "remained in",
+    "is based in",
+    "lost in",
+    "is in",
+    "was invited to help form",
+    "missed out on promotion to",
+    "won promotion into",
+    "ended stay in",
+    "wears kit resembling",
+    "holds rivalries with",
+    "lost playoff semi-final against",
+    "features",
+    "was founded as",
+    "spent time in"
+  ],
+  "relations": [
+    [
+      "Walsall Football Club",
+      "won",
+      "1959–60"
+    ],
+    [
+      "Walsall Football Club",
+      "lost to",
+      "AFC Wimbledon"
+    ],
+    [
+      "Walsall Football Club",
+      "played at Wembley again in",
+      "2025"
+    ],
+    [
+      "Walsall Football Club",
+      "moved into",
+      "Bescot Stadium"
+    ],
+    [
+      "Walsall Football Club",
+      "was invited to help found",
+      "Football League Second Division"
+    ],
+    [
+      "Walsall Football Club",
+      "spent seasons in",
+      "second tier"
+    ],
+    [
+      "Walsall Football Club",
+      "holds rivalries with",
+      "Wolverhampton Wanderers"
+    ],
+    [
+      "Walsall Town Swifts",
+      "is an amalgamation of",
+      "Walsall Town"
+    ],
+    [
+      "Walsall Football Club",
+      "secured promotion as",
+      "2006–07 League Two champions"
+    ],
+    [
+      "Walsall Football Club",
+      "was invited to help form",
+      "Football League Third Division North"
+    ],
+    [
+      "Walsall Football Club",
+      "lost playoff semi-final against",
+      "Barnsley"
+    ],
+    [
+      "Walsall Football Club",
+      "ended stay in",
+      "League One"
+    ],
+    [
+      "Walsall Football Club",
+      "secured promotion out of",
+      "Third Division"
+    ],
+    [
+      "Walsall Football Club",
+      "was relegated back to",
+      "Fourth Division"
+    ],
+    [
+      "Walsall Football Club",
+      "competes in",
+      "EFL League Two"
+    ],
+    [
+      "Walsall Football Club",
+      "holds rivalries with",
+      "Shrewsbury Town"
+    ],
+    [
+      "Walsall Football Club",
+      "holds rivalries with",
+      "West Bromwich Albion"
+    ],
+    [
+      "Walsall Football Club",
+      "has nickname",
+      "The Saddlers"
+    ],
+    [
+      "Walsall Football Club",
+      "features",
+      "club crest"
+    ],
+    [
+      "Walsall Football Club",
+      "was founded as",
+      "Walsall Town Swifts"
+    ],
+    [
+      "Walsall Football Club",
+      "spent time in",
+      "Birmingham & District League"
+    ],
+    [
+      "Walsall Football Club",
+      "previously played at",
+      "Fellows Park"
+    ],
+    [
+      "Walsall Football Club",
+      "wears kit resembling",
+      "Black Country flag"
+    ],
+    [
+      "Walsall Football Club",
+      "holds rivalries with",
+      "Port Vale"
+    ],
+    [
+      "Walsall Football Club",
+      "remained in",
+      "Fourth Division"
+    ],
+    [
+      "Walsall Football Club",
+      "played at",
+      "Wembley Stadium"
+    ],
+    [
+      "Walsall Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Walsall Football Club",
+      "became a founder member of",
+      "Fourth Division"
+    ],
+    [
+      "Walsall Football Club",
+      "lost to",
+      "Bristol City"
+    ],
+    [
+      "Walsall Football Club",
+      "missed out on promotion to",
+      "Championship"
+    ],
+    [
+      "Walsall Football Club",
+      "is based in",
+      "Walsall"
+    ],
+    [
+      "Walsall Town Swifts",
+      "is an amalgamation of",
+      "Walsall Swifts"
+    ],
+    [
+      "Walsall Football Club",
+      "returned to",
+      "Football League"
+    ],
+    [
+      "Walsall Football Club",
+      "is located in",
+      "West Midlands"
+    ],
+    [
+      "Walsall Football Club",
+      "lost in",
+      "2025 League Two play-off final"
+    ],
+    [
+      "Walsall Football Club",
+      "won promotion into",
+      "Second Division"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "qualifying play-offs",
+    "Poland women's national football team",
+    "Polish Football Association",
+    "UEFA Women's Euro 1991",
+    "UEFA Women's Euro 2025",
+    "international women's football",
+    "Austria"
+  ],
+  "edges": [
+    "played their inaugural game in",
+    "won over",
+    "clinched their first successful qualification for",
+    "is governed by",
+    "attempted to qualify for",
+    "represents",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "Poland women's national football team",
+      "represents",
+      "Poland"
+    ],
+    [
+      "Poland women's national football team",
+      "participated in",
+      "qualifying play-offs"
+    ],
+    [
+      "Poland women's national football team",
+      "clinched their first successful qualification for",
+      "UEFA Women's Euro 2025"
+    ],
+    [
+      "Poland women's national football team",
+      "played their inaugural game in",
+      "1981"
+    ],
+    [
+      "Poland women's national football team",
+      "won over",
+      "Austria"
+    ],
+    [
+      "Poland women's national football team",
+      "attempted to qualify for",
+      "UEFA Women's Euro 1991"
+    ],
+    [
+      "Poland women's national football team",
+      "is governed by",
+      "Polish Football Association"
+    ]
+  ]
+}

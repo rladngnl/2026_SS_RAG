@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "Luxembourg City",
+    "LUX",
+    "Findel",
+    "ELLX",
+    "Luxembourg",
+    "Luxembourg Airport",
+    "cargo hub",
+    "100,000 aircraft movements",
+    "Cargolux",
+    "single runway",
+    "28th-busiest airport globally",
+    "fifth-busiest airport in Europe",
+    "Luxair",
+    "five million passengers",
+    "2010"
+  ],
+  "edges": [
+    "is known as",
+    "is the only international airport in",
+    "is equipped with",
+    "accommodated",
+    "is ranked as",
+    "is recognized as",
+    "handles",
+    "maintains its headquarters on",
+    "serves as"
+  ],
+  "relations": [
+    [
+      "Luxembourg Airport",
+      "is ranked as",
+      "the fifth-busiest airport in Europe"
+    ],
+    [
+      "Luxembourg Airport",
+      "is ranked as",
+      "the 28th-busiest airport globally"
+    ],
+    [
+      "Luxair",
+      "maintains its headquarters on",
+      "the airport premises"
+    ],
+    [
+      "Cargolux",
+      "maintains its headquarters on",
+      "the airport premises"
+    ],
+    [
+      "Luxembourg Airport",
+      "handles",
+      "100,000 aircraft movements"
+    ],
+    [
+      "Luxembourg Airport",
+      "is known as",
+      "Luxembourg Findel Airport"
+    ],
+    [
+      "Luxembourg Airport",
+      "is the only international airport in",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg Airport",
+      "is equipped with",
+      "a paved runway"
+    ],
+    [
+      "Luxembourg Airport",
+      "is recognized as",
+      "a major cargo hub"
+    ],
+    [
+      "Luxembourg Airport",
+      "serves as",
+      "the principal airport of Luxembourg"
+    ],
+    [
+      "Luxembourg Airport",
+      "accommodated",
+      "five million passengers"
+    ]
+  ]
+}

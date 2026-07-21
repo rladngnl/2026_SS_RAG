@@ -1,0 +1,111 @@
+{
+  "entities": [
+    "England",
+    "Sainsbury's Supermarket",
+    "U Lock It Stadium",
+    "Witton Albion F.C.",
+    "Stalybridge Celtic",
+    "FA Cup",
+    "Chapel Street",
+    "Northern Premier League Division One North",
+    "Wincham",
+    "Northwich Victoria",
+    "Northwich",
+    "Cheshire Senior Cup",
+    "Wincham Park",
+    "Central Ground",
+    "2015–16 season"
+  ],
+  "edges": [
+    "was won by",
+    "has won",
+    "has reached",
+    "is located in",
+    "defeated",
+    "is occupied by",
+    "had a rivalry with",
+    "will play in",
+    "moved to",
+    "is part of",
+    "was founded in",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Witton Albion F.C.",
+      "is based in",
+      "Northwich"
+    ],
+    [
+      "Witton Albion F.C.",
+      "is located in",
+      "England"
+    ],
+    [
+      "Chapel Street",
+      "is located in",
+      "Wincham"
+    ],
+    [
+      "Northern Premier League Division One North",
+      "is part of",
+      "2015–16 season"
+    ],
+    [
+      "Witton Albion F.C.",
+      "plays at",
+      "U Lock It Stadium"
+    ],
+    [
+      "Witton Albion F.C.",
+      "defeated",
+      "Stalybridge Celtic"
+    ],
+    [
+      "Witton Albion F.C.",
+      "moved to",
+      "Chapel Street"
+    ],
+    [
+      "Witton Albion F.C.",
+      "has reached",
+      "FA Cup"
+    ],
+    [
+      "Witton Albion F.C.",
+      "was founded in",
+      "1887"
+    ],
+    [
+      "Central Ground",
+      "is occupied by",
+      "Sainsbury's Supermarket"
+    ],
+    [
+      "U Lock It Stadium",
+      "is located in",
+      "Wincham Park"
+    ],
+    [
+      "Witton Albion F.C.",
+      "will play in",
+      "Northern Premier League Division One North"
+    ],
+    [
+      "Witton Albion F.C.",
+      "had a rivalry with",
+      "Northwich Victoria"
+    ],
+    [
+      "Witton Albion F.C.",
+      "has won",
+      "Cheshire Senior Cup"
+    ],
+    [
+      "Cheshire Senior Cup",
+      "was won by",
+      "Witton Albion F.C."
+    ]
+  ]
+}

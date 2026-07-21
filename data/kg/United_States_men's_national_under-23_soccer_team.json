@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Paris Olympics",
+    "United States men's national under-23 soccer team",
+    "Olympic Football Tournament",
+    "2024 edition",
+    "2028 Summer Olympics",
+    "FIFA regulations",
+    "Morocco",
+    "U.S. Soccer",
+    "Los Angeles",
+    "United States men's Olympic soccer team"
+  ],
+  "edges": [
+    "is operated under the auspices of",
+    "can augment its roster with",
+    "has qualified for",
+    "was held at",
+    "is also known as",
+    "was eliminated by",
+    "has a primary role of",
+    "will be held in",
+    "are regulated by",
+    "participated in"
+  ],
+  "relations": [
+    [
+      "three 'overage' players",
+      "are regulated by",
+      "FIFA regulations"
+    ],
+    [
+      "2028 Summer Olympics",
+      "will be held in",
+      "Los Angeles"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "has qualified for",
+      "2028 Summer Olympics"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "has a primary role of",
+      "qualification into and competition at the quadrennial Olympic Football Tournament"
+    ],
+    [
+      "2024 edition",
+      "was held at",
+      "Paris Olympics"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "is operated under the auspices of",
+      "U.S. Soccer"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "is also known as",
+      "United States men's Olympic soccer team"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "participated in",
+      "2024 edition"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "can augment its roster with",
+      "three 'overage' players"
+    ],
+    [
+      "United States men's national under-23 soccer team",
+      "was eliminated by",
+      "Morocco"
+    ]
+  ]
+}

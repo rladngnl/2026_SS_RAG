@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "2007 UEFA Intertoto Cup",
+    "Kazakh",
+    "football club",
+    "2002",
+    "Kazakhstan Premier League",
+    "2021",
+    "Kostanay",
+    "Central Stadium",
+    "FC Tobol",
+    "2010"
+  ],
+  "edges": [
+    "is a",
+    "is based at",
+    "was won in",
+    "has been a member of",
+    "finished no lower than fourth place between",
+    "won",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "FC Tobol",
+      "is based at",
+      "Central Stadium"
+    ],
+    [
+      "FC Tobol",
+      "is a",
+      "football club"
+    ],
+    [
+      "Kazakhstan Premier League",
+      "was won in",
+      "2010"
+    ],
+    [
+      "FC Tobol",
+      "won",
+      "2007 UEFA Intertoto Cup"
+    ],
+    [
+      "FC Tobol",
+      "has been a member of",
+      "Kazakhstan Premier League"
+    ],
+    [
+      "Kazakhstan Premier League",
+      "was won in",
+      "2021"
+    ],
+    [
+      "Central Stadium",
+      "is located in",
+      "Kostanay"
+    ],
+    [
+      "FC Tobol",
+      "finished no lower than fourth place between",
+      "2002 and 2010"
+    ],
+    [
+      "FC Tobol",
+      "won",
+      "Kazakhstan Premier League"
+    ]
+  ]
+}

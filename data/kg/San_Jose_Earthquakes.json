@@ -1,0 +1,204 @@
+{
+  "entities": [
+    "2006",
+    "John Fisher",
+    "2001",
+    "San Jose Earthquakes",
+    "California",
+    "2015",
+    "2003",
+    "Santa Clara University",
+    "MLS",
+    "Anschutz Entertainment Group",
+    "PayPal Park",
+    "quarterfinals",
+    "Houston Dynamo",
+    "San Jose",
+    "2014",
+    "American professional soccer club",
+    "Supporters' Shields",
+    "Western Conference",
+    "D.C. United",
+    "LA Galaxy",
+    "CONCACAF Champions Cup",
+    "San Jose Clash",
+    "June 18, 2025",
+    "MLS Cup titles",
+    "Houston",
+    "1996",
+    "2012",
+    "2008",
+    "Santa Clara",
+    "Major League Soccer",
+    "Buck Shaw Stadium",
+    "2005",
+    "California Clásico"
+  ],
+  "edges": [
+    "compete in",
+    "is an",
+    "include",
+    "have a rivalry with",
+    "have won",
+    "are based in",
+    "played in",
+    "defeated",
+    "were relocated to",
+    "have played home games at",
+    "played at Buck Shaw Stadium from",
+    "returned after a hiatus in",
+    "is in",
+    "put the team up for sale on",
+    "is known as",
+    "was the owner of",
+    "is located on the campus of",
+    "were originally known as",
+    "announced plans of relocating",
+    "previously played home games at",
+    "began play in",
+    "are located in",
+    "reached"
+  ],
+  "relations": [
+    [
+      "San Jose Earthquakes",
+      "is an",
+      "American professional soccer club"
+    ],
+    [
+      "MLS Cup titles",
+      "include",
+      "2003"
+    ],
+    [
+      "Santa Clara University",
+      "is in",
+      "Santa Clara"
+    ],
+    [
+      "Anschutz Entertainment Group",
+      "announced plans of relocating",
+      "San Jose Earthquakes"
+    ],
+    [
+      "San Jose Earthquakes",
+      "compete in",
+      "Major League Soccer"
+    ],
+    [
+      "San Jose Earthquakes",
+      "were originally known as",
+      "San Jose Clash"
+    ],
+    [
+      "Anschutz Entertainment Group",
+      "was the owner of",
+      "San Jose Earthquakes"
+    ],
+    [
+      "San Jose Earthquakes",
+      "played at Buck Shaw Stadium from",
+      "2008 to 2014"
+    ],
+    [
+      "San Jose Earthquakes",
+      "played in",
+      "CONCACAF Champions Cup"
+    ],
+    [
+      "Supporters' Shields",
+      "include",
+      "2005"
+    ],
+    [
+      "Buck Shaw Stadium",
+      "is located on the campus of",
+      "Santa Clara University"
+    ],
+    [
+      "San Jose Earthquakes",
+      "previously played home games at",
+      "Buck Shaw Stadium"
+    ],
+    [
+      "CONCACAF Champions Cup",
+      "reached",
+      "quarterfinals"
+    ],
+    [
+      "San Jose Earthquakes",
+      "are based in",
+      "San Jose"
+    ],
+    [
+      "San Jose Earthquakes",
+      "defeated",
+      "D.C. United"
+    ],
+    [
+      "Supporters' Shields",
+      "include",
+      "2012"
+    ],
+    [
+      "San Jose Earthquakes",
+      "have played home games at",
+      "PayPal Park"
+    ],
+    [
+      "San Jose Earthquakes",
+      "were relocated to",
+      "Houston"
+    ],
+    [
+      "MLS Cup titles",
+      "include",
+      "2001"
+    ],
+    [
+      "San Jose Earthquakes",
+      "began play in",
+      "1996"
+    ],
+    [
+      "Houston Dynamo",
+      "began play in",
+      "2006"
+    ],
+    [
+      "San Jose Earthquakes",
+      "have won",
+      "Supporters' Shields"
+    ],
+    [
+      "San Jose Earthquakes",
+      "are located in",
+      "California"
+    ],
+    [
+      "John Fisher",
+      "put the team up for sale on",
+      "June 18, 2025"
+    ],
+    [
+      "San Jose Earthquakes",
+      "have won",
+      "MLS Cup titles"
+    ],
+    [
+      "LA Galaxy",
+      "is known as",
+      "California Clásico"
+    ],
+    [
+      "San Jose Earthquakes",
+      "have a rivalry with",
+      "LA Galaxy"
+    ],
+    [
+      "San Jose Earthquakes",
+      "returned after a hiatus in",
+      "2008"
+    ]
+  ]
+}

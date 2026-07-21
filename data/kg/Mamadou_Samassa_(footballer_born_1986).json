@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "forward",
+    "Mali",
+    "footballer",
+    "France",
+    "French under-21 international",
+    "Mamadou Samassa"
+  ],
+  "edges": [
+    "is a",
+    "switched allegiance to",
+    "is a former",
+    "was born in",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Mamadou Samassa",
+      "was born in",
+      "France"
+    ],
+    [
+      "Mamadou Samassa",
+      "played as",
+      "forward"
+    ],
+    [
+      "Mamadou Samassa",
+      "is a former",
+      "French under-21 international"
+    ],
+    [
+      "Mamadou Samassa",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Mamadou Samassa",
+      "switched allegiance to",
+      "Mali"
+    ]
+  ]
+}

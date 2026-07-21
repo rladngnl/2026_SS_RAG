@@ -1,0 +1,68 @@
+{
+  "entities": [
+    "Russian Second Division",
+    "2013–14 season",
+    "Russian First Division",
+    "debts",
+    "15 June 2016",
+    "2010",
+    "FC Volga Nizhny Novgorod",
+    "1998",
+    "Russian",
+    "Russian Premier League",
+    "Nizhny Novgorod",
+    "Ural-Povolzhye"
+  ],
+  "edges": [
+    "won the",
+    "was dissolved on",
+    "was relegated to the second level after the",
+    "promoted to the",
+    "was in the",
+    "was dissolved due to",
+    "advanced to the",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "FC Volga Nizhny Novgorod",
+      "was in the",
+      "Russian Second Division"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "advanced to the",
+      "Russian First Division"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "won the",
+      "Ural-Povolzhye"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "was dissolved on",
+      "15 June 2016"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "was founded in",
+      "1998"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "promoted to the",
+      "Russian Premier League"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "was relegated to the second level after the",
+      "2013–14 season"
+    ],
+    [
+      "FC Volga Nizhny Novgorod",
+      "was dissolved due to",
+      "debts"
+    ]
+  ]
+}

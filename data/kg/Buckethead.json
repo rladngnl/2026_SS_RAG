@@ -1,0 +1,187 @@
+{
+  "entities": [
+    "810 Pike albums",
+    "Brian Patrick Carroll",
+    "Death Cube K",
+    "Buckethead",
+    "Guns N' Roses",
+    "Viggo Mortensen",
+    "Pike series",
+    "July 2026",
+    "Colonel Claypool's Bucket of Bernie Brains",
+    "That 1 Guy",
+    "50 fastest guitarists of all time",
+    "American guitarist",
+    "Brain",
+    "robot dancing",
+    "KFC bucket",
+    "plain white mask",
+    "Bucketheadland",
+    "300 live recordings",
+    "Cornbugs",
+    "Travis Dickerson",
+    "FUNERAL",
+    "DJ Disk",
+    "Deli Creeps",
+    "Shin Terai",
+    "Praxis",
+    "Halloween 4: The Return of Michael Myers",
+    "Melissa Reese",
+    "25 all-time weirdest guitarists",
+    "31 studio albums",
+    "nunchaku",
+    "Guitar World",
+    "Bootsy Collins",
+    "Chinese Democracy",
+    "Science Faxtion"
+  ],
+  "edges": [
+    "performs wearing a",
+    "has released albums with the band",
+    "ranked the release of his debut album",
+    "began releasing albums in the",
+    "recorded on the album",
+    "was credited by",
+    "incorporates",
+    "is an",
+    "is known professionally as",
+    "has released",
+    "has released collaborative albums with",
+    "was a lead guitarist of",
+    "has an expressionless",
+    "listed him among the",
+    "has released albums under the alias"
+  ],
+  "relations": [
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "Shin Terai"
+    ],
+    [
+      "Buckethead",
+      "is known professionally as",
+      "Brian Patrick Carroll"
+    ],
+    [
+      "Guitar World",
+      "listed him among the",
+      "25 all-time weirdest guitarists"
+    ],
+    [
+      "Buckethead",
+      "has released",
+      "300 live recordings"
+    ],
+    [
+      "Buckethead",
+      "has released albums with the band",
+      "Guns N' Roses"
+    ],
+    [
+      "Buckethead",
+      "has released",
+      "810 Pike albums"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "Bootsy Collins"
+    ],
+    [
+      "Buckethead",
+      "incorporates",
+      "robot dancing"
+    ],
+    [
+      "Buckethead",
+      "is an",
+      "American guitarist"
+    ],
+    [
+      "Buckethead",
+      "performs wearing a",
+      "KFC bucket"
+    ],
+    [
+      "Buckethead",
+      "was credited by",
+      "Guitar World"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "Brain"
+    ],
+    [
+      "Guitar World",
+      "ranked the release of his debut album",
+      "Bucketheadland"
+    ],
+    [
+      "Buckethead",
+      "was a lead guitarist of",
+      "Guns N' Roses"
+    ],
+    [
+      "Buckethead",
+      "recorded on the album",
+      "Chinese Democracy"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "DJ Disk"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "That 1 Guy"
+    ],
+    [
+      "Buckethead",
+      "has released albums under the alias",
+      "Death Cube K"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "Melissa Reese"
+    ],
+    [
+      "Buckethead",
+      "began releasing albums in the",
+      "Pike series"
+    ],
+    [
+      "Buckethead",
+      "has an expressionless",
+      "plain white mask"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "Viggo Mortensen"
+    ],
+    [
+      "Buckethead",
+      "incorporates",
+      "nunchaku"
+    ],
+    [
+      "Guitar World",
+      "listed him among the",
+      "50 fastest guitarists of all time"
+    ],
+    [
+      "Buckethead",
+      "has released collaborative albums with",
+      "Travis Dickerson"
+    ],
+    [
+      "Buckethead",
+      "has released",
+      "31 studio albums"
+    ]
+  ]
+}

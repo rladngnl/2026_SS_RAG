@@ -1,0 +1,124 @@
+{
+  "entities": [
+    "Chelsea",
+    "Celtic",
+    "Walsall",
+    "Scottish",
+    "BT Sport",
+    "Scotland",
+    "Craig Burley",
+    "sports television pundit",
+    "Derby County",
+    "Premier League",
+    "Football League",
+    "co-commentator",
+    "Dundee",
+    "Scottish Premier League",
+    "ESPN",
+    "footballer",
+    "BBC Sport",
+    "midfielder",
+    "Preston North End"
+  ],
+  "edges": [
+    "worked for",
+    "is a",
+    "played in the",
+    "earned caps for",
+    "played for",
+    "played as a",
+    "finished his career in the"
+  ],
+  "relations": [
+    [
+      "Craig Burley",
+      "finished his career in the",
+      "Football League"
+    ],
+    [
+      "Craig Burley",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Craig Burley",
+      "played for",
+      "Chelsea"
+    ],
+    [
+      "Craig Burley",
+      "played for",
+      "Walsall"
+    ],
+    [
+      "Craig Burley",
+      "played for",
+      "Derby County"
+    ],
+    [
+      "Craig Burley",
+      "played in the",
+      "Scottish Premier League"
+    ],
+    [
+      "Craig Burley",
+      "played for",
+      "Preston North End"
+    ],
+    [
+      "Craig Burley",
+      "worked for",
+      "BBC Sport"
+    ],
+    [
+      "Craig Burley",
+      "earned caps for",
+      "Scotland"
+    ],
+    [
+      "Craig Burley",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Craig Burley",
+      "played for",
+      "Dundee"
+    ],
+    [
+      "Craig Burley",
+      "is a",
+      "co-commentator"
+    ],
+    [
+      "Craig Burley",
+      "worked for",
+      "ESPN"
+    ],
+    [
+      "Craig Burley",
+      "played in the",
+      "Premier League"
+    ],
+    [
+      "Craig Burley",
+      "played for",
+      "Celtic"
+    ],
+    [
+      "Craig Burley",
+      "is a",
+      "Scottish"
+    ],
+    [
+      "Craig Burley",
+      "is a",
+      "sports television pundit"
+    ],
+    [
+      "Craig Burley",
+      "worked for",
+      "BT Sport"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "manager",
+    "Hungarian citizen",
+    "former player",
+    "Serhiy Kuznetsov (father)",
+    "Hungarian",
+    "Russian league",
+    "forward",
+    "Russian",
+    "Serhiy Kuznetsov",
+    "football coach"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "is a son of",
+    "played as a",
+    "was registered with"
+  ],
+  "relations": [
+    [
+      "Serhiy Kuznetsov",
+      "is a",
+      "former player"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "is a",
+      "manager"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "is a son of",
+      "Serhiy Kuznetsov (father)"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "was registered with",
+      "the Russian league"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "is a",
+      "Hungarian (of Russian descent) football coach"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "is a",
+      "Hungarian citizen"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "played as a",
+      "forward"
+    ],
+    [
+      "Serhiy Kuznetsov",
+      "is born on",
+      "31 August 1982"
+    ]
+  ]
+}

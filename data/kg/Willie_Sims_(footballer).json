@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Guatemalan",
+    "Willie Sims",
+    "former professional footballer",
+    "forward",
+    "Jefferson Willie Sims"
+  ],
+  "edges": [
+    "played as",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jefferson Willie Sims",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Jefferson Willie Sims",
+      "is",
+      "Guatemalan"
+    ],
+    [
+      "Jefferson Willie Sims",
+      "played as",
+      "forward"
+    ]
+  ]
+}

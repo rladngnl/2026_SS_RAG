@@ -1,0 +1,22 @@
+{
+  "entities": [
+    "Kamel Larbi (judoka)",
+    "Kamel Larbi",
+    "Kamel Larbi (footballer)"
+  ],
+  "edges": [
+    "may refer to"
+  ],
+  "relations": [
+    [
+      "Kamel Larbi",
+      "may refer to",
+      "Kamel Larbi (footballer)"
+    ],
+    [
+      "Kamel Larbi",
+      "may refer to",
+      "Kamel Larbi (judoka)"
+    ]
+  ]
+}

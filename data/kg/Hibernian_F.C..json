@@ -1,0 +1,94 @@
+{
+  "entities": [
+    "Scottish Cup",
+    "Scottish League Cup",
+    "Hibs",
+    "Irish community",
+    "Hibernian F.C.",
+    "Heart of Midlothian",
+    "Scotland",
+    "Edinburgh derby",
+    "Scottish league championship",
+    "European Cup",
+    "Inter-Cities Fairs Cup",
+    "Easter Road",
+    "The Famous Five",
+    "Edinburgh",
+    "Scottish Football League",
+    "Scottish Premiership"
+  ],
+  "edges": [
+    "is in",
+    "competes in",
+    "has won",
+    "has local rivals",
+    "contests",
+    "was founded by",
+    "reached the semi-final of",
+    "reached the same stage of",
+    "is located in",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Hibernian F.C.",
+      "reached the same stage of",
+      "Inter-Cities Fairs Cup"
+    ],
+    [
+      "Hibernian F.C.",
+      "has won",
+      "Scottish League Cup"
+    ],
+    [
+      "Hibernian F.C.",
+      "has won",
+      "Scottish league championship"
+    ],
+    [
+      "Hibernian F.C.",
+      "is in",
+      "Scotland"
+    ],
+    [
+      "Hibernian F.C.",
+      "contests",
+      "Edinburgh derby"
+    ],
+    [
+      "Hibernian F.C.",
+      "plays home matches at",
+      "Easter Road"
+    ],
+    [
+      "Hibernian F.C.",
+      "reached the semi-final of",
+      "European Cup"
+    ],
+    [
+      "Hibernian F.C.",
+      "has won",
+      "Scottish Cup"
+    ],
+    [
+      "Hibernian F.C.",
+      "has local rivals",
+      "Heart of Midlothian"
+    ],
+    [
+      "Hibernian F.C.",
+      "is located in",
+      "Edinburgh"
+    ],
+    [
+      "Hibernian F.C.",
+      "competes in",
+      "Scottish Premiership"
+    ],
+    [
+      "Hibernian F.C.",
+      "was founded by",
+      "Irish community"
+    ]
+  ]
+}

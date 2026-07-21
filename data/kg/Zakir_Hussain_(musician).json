@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "Zakir Hussain Qureshi",
+    "music producer",
+    "Sangeet Natak Akademi Award",
+    "National Endowment for the Arts",
+    "Sangeet Natak Akademi Fellowship",
+    "The New York Times",
+    "San Francisco Bay Area",
+    "Ustad",
+    "The Guardian",
+    "National Heritage Fellowship",
+    "Ratna Sadsya",
+    "percussionist",
+    "Government of India",
+    "composer",
+    "Alla Rakha",
+    "arranger",
+    "Grammy Award",
+    "Indian tabla player",
+    "film actor"
+  ],
+  "edges": [
+    "is son of",
+    "received",
+    "was marveled by",
+    "was described by",
+    "is",
+    "was awarded",
+    "was given",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Zakir Hussain Qureshi",
+      "was given",
+      "Sangeet Natak Akademi Award"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is son of",
+      "Alla Rakha"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is",
+      "Indian tabla player"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "was given",
+      "Sangeet Natak Akademi Fellowship"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is",
+      "music producer"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is",
+      "percussionist"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is based in",
+      "San Francisco Bay Area"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is",
+      "composer"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "was awarded",
+      "National Heritage Fellowship"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "received",
+      "Grammy Award"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "was given",
+      "Ratna Sadsya"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "was described by",
+      "The Guardian"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "was marveled by",
+      "The New York Times"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is",
+      "arranger"
+    ],
+    [
+      "Zakir Hussain Qureshi",
+      "is",
+      "film actor"
+    ]
+  ]
+}

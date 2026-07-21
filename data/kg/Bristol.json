@@ -1,0 +1,271 @@
+{
+  "entities": [
+    "West of England Combined Authority",
+    "River Avon",
+    "North Somerset",
+    "Americas",
+    "Bristol",
+    "Bristol Parkway",
+    "Bristol Channel",
+    "South West England",
+    "Bristol Airport",
+    "M4",
+    "Bristol City Council",
+    "1807",
+    "creative media",
+    "electronics",
+    "University of the West of England",
+    "M32",
+    "rivers Frome and Avon",
+    "slave ships",
+    "Bristol Harbour",
+    "1700",
+    "Severn Estuary",
+    "royal charter",
+    "13th century",
+    "Bristol conurbation",
+    "Somerset",
+    "South Gloucestershire",
+    "Ashton Gate",
+    "University of Bristol",
+    "London",
+    "UWE Bristol",
+    "Memorial Ground",
+    "Roman villas",
+    "Arnolfini",
+    "Portway",
+    "18th century",
+    "Port of Bristol",
+    "Africa",
+    "Bristol slave trade",
+    "Bristol Temple Meads",
+    "Royal Portbury Dock",
+    "M5",
+    "Avonmouth",
+    "aerospace industries",
+    "Bath and North East Somerset",
+    "Iron Age hillforts",
+    "1373",
+    "Royal West of England Academy",
+    "Gloucestershire"
+  ],
+  "edges": [
+    "is a city in",
+    "carried people to",
+    "carried people from",
+    "is also known as",
+    "became a county corporate in",
+    "was among the top three English cities after",
+    "has venues including",
+    "is a member of",
+    "has a modern economy built on",
+    "is connected by road by",
+    "is connected to the world by",
+    "is connected to the city centre by",
+    "occurred from",
+    "has a coastline on the",
+    "has universities including",
+    "is the most populous city in",
+    "was a starting place for early voyages of exploration to the",
+    "moved to",
+    "was historically divided between",
+    "governs",
+    "is bordered by",
+    "moved from",
+    "is connected to Great Britain via",
+    "is on the",
+    "received a royal charter in"
+  ],
+  "relations": [
+    [
+      "Bristol",
+      "was a starting place for early voyages of exploration to the",
+      "New World"
+    ],
+    [
+      "Bristol",
+      "is connected to the city centre by",
+      "Portway"
+    ],
+    [
+      "Port of Bristol",
+      "moved from",
+      "Bristol Harbour"
+    ],
+    [
+      "Bristol",
+      "has universities including",
+      "University of Bristol"
+    ],
+    [
+      "Port of Bristol",
+      "moved to",
+      "Avonmouth"
+    ],
+    [
+      "Bristol City Council",
+      "is a member of",
+      "West of England Combined Authority"
+    ],
+    [
+      "Bristol",
+      "was historically divided between",
+      "Gloucestershire"
+    ],
+    [
+      "Bristol slave trade",
+      "occurred from",
+      "1700 to 1807"
+    ],
+    [
+      "Bristol",
+      "was among the top three English cities after",
+      "London"
+    ],
+    [
+      "Bristol",
+      "is connected to the city centre by",
+      "M32"
+    ],
+    [
+      "Bristol",
+      "is bordered by",
+      "Gloucestershire"
+    ],
+    [
+      "Bristol",
+      "has a modern economy built on",
+      "aerospace industries"
+    ],
+    [
+      "Bristol",
+      "has universities including",
+      "University of the West of England"
+    ],
+    [
+      "University of the West of England",
+      "is also known as",
+      "UWE Bristol"
+    ],
+    [
+      "Bristol",
+      "has venues including",
+      "Memorial Ground"
+    ],
+    [
+      "Bristol",
+      "is connected by road by",
+      "M4"
+    ],
+    [
+      "Bristol",
+      "has venues including",
+      "Arnolfini"
+    ],
+    [
+      "Port of Bristol",
+      "moved to",
+      "Severn Estuary"
+    ],
+    [
+      "Bristol",
+      "is the most populous city in",
+      "the region"
+    ],
+    [
+      "Port of Bristol",
+      "moved to",
+      "Royal Portbury Dock"
+    ],
+    [
+      "Bristol",
+      "has a modern economy built on",
+      "electronics"
+    ],
+    [
+      "Bristol",
+      "is connected by road by",
+      "M5"
+    ],
+    [
+      "Bristol",
+      "is a city in",
+      "South West England"
+    ],
+    [
+      "Bristol",
+      "became a county corporate in",
+      "1373"
+    ],
+    [
+      "Bristol",
+      "was historically divided between",
+      "Somerset"
+    ],
+    [
+      "Bristol",
+      "is connected to the world by",
+      "Bristol Airport"
+    ],
+    [
+      "Bristol",
+      "is on the",
+      "River Avon"
+    ],
+    [
+      "Bristol",
+      "is bordered by",
+      "Somerset"
+    ],
+    [
+      "Bristol City Council",
+      "governs",
+      "Bristol"
+    ],
+    [
+      "Bristol",
+      "is connected to Great Britain via",
+      "Bristol Parkway"
+    ],
+    [
+      "Bristol",
+      "has a modern economy built on",
+      "creative media"
+    ],
+    [
+      "Bristol",
+      "has venues including",
+      "Royal West of England Academy"
+    ],
+    [
+      "slave ships",
+      "carried people to",
+      "Americas"
+    ],
+    [
+      "Bristol",
+      "has a coastline on the",
+      "Bristol Channel"
+    ],
+    [
+      "Bristol",
+      "received a royal charter in",
+      "1155"
+    ],
+    [
+      "Bristol",
+      "has venues including",
+      "Ashton Gate"
+    ],
+    [
+      "Bristol",
+      "is connected to Great Britain via",
+      "Bristol Temple Meads"
+    ],
+    [
+      "slave ships",
+      "carried people from",
+      "Africa"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "Lucy Mercer",
+    "Marie Souvestre",
+    "Sara Roosevelt",
+    "Gallup",
+    "Franklin D. Roosevelt",
+    "Eleanor Roosevelt",
+    "World War II refugees",
+    "The New York Times",
+    "West Virginia",
+    "Presidential Commission on the Status of Women",
+    "African Americans",
+    "Siena College Research Institute",
+    "United States",
+    "New York state Democratic Party",
+    "Women's Trade Union League",
+    "Harry S. Truman",
+    "Arthurdale",
+    "Asian Americans",
+    "John F. Kennedy",
+    "Theodore Roosevelt",
+    "United Nations General Assembly",
+    "Universal Declaration of Human Rights"
+  ],
+  "edges": [
+    "was ranked by",
+    "called",
+    "joined",
+    "was influenced by",
+    "designed the text of",
+    "was married to",
+    "became active in",
+    "advocated for the rights of",
+    "discovered her husband's affair with",
+    "was assessed by",
+    "served as a delegate to",
+    "chaired",
+    "was a niece of",
+    "was the longest-serving first lady of"
+  ],
+  "relations": [
+    [
+      "Eleanor Roosevelt",
+      "became active in",
+      "New York state Democratic Party"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "discovered her husband's affair with",
+      "Lucy Mercer"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "chaired",
+      "Presidential Commission on the Status of Women"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "advocated for the rights of",
+      "Asian Americans"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "was the longest-serving first lady of",
+      "United States"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "advocated for the rights of",
+      "African Americans"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "was ranked by",
+      "Gallup"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "was a niece of",
+      "Theodore Roosevelt"
+    ],
+    [
+      "Harry S. Truman",
+      "called",
+      "Eleanor Roosevelt"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "was married to",
+      "Franklin D. Roosevelt"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "joined",
+      "Women's Trade Union League"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "designed the text of",
+      "Universal Declaration of Human Rights"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "served as a delegate to",
+      "United Nations General Assembly"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "was influenced by",
+      "Marie Souvestre"
+    ],
+    [
+      "The New York Times",
+      "called",
+      "Eleanor Roosevelt"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "was assessed by",
+      "Siena College Research Institute"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "advocated for the rights of",
+      "World War II refugees"
+    ]
+  ]
+}

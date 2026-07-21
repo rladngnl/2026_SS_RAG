@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "professional footballer",
+    "7 May 1988",
+    "Estonian",
+    "Estonia national team",
+    "midfielder",
+    "Sander Puri"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Sander Puri",
+      "is",
+      "Estonian"
+    ],
+    [
+      "Sander Puri",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Sander Puri",
+      "was born on",
+      "7 May 1988"
+    ],
+    [
+      "Sander Puri",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "Sander Puri",
+      "played for",
+      "Estonia national team"
+    ]
+  ]
+}

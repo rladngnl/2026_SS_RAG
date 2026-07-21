@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "professional footballer",
+    "UCAM Murcia",
+    "Spanish",
+    "left-footed",
+    "Segunda Federación",
+    "Daniel Aquino Pintos",
+    "winger",
+    "forward",
+    "Dani"
+  ],
+  "edges": [
+    "can play as",
+    "is a",
+    "plays for",
+    "plays in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Daniel Aquino Pintos",
+      "is a",
+      "Spanish professional footballer"
+    ],
+    [
+      "Daniel Aquino Pintos",
+      "is",
+      "Dani"
+    ],
+    [
+      "Daniel Aquino Pintos",
+      "can play as",
+      "winger"
+    ],
+    [
+      "Daniel Aquino Pintos",
+      "is",
+      "left-footed"
+    ],
+    [
+      "Daniel Aquino Pintos",
+      "can play as",
+      "forward"
+    ],
+    [
+      "Daniel Aquino Pintos",
+      "plays for",
+      "UCAM Murcia"
+    ],
+    [
+      "Daniel Aquino Pintos",
+      "plays in",
+      "Segunda Federación"
+    ]
+  ]
+}

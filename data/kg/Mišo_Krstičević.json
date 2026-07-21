@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "former player",
+    "third-tier club",
+    "football manager",
+    "Croatian",
+    "Jadran LP",
+    "Mišo Krstičević"
+  ],
+  "edges": [
+    "is currently the manager of",
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Mišo Krstičević",
+      "is",
+      "Croatian"
+    ],
+    [
+      "Mišo Krstičević",
+      "is a",
+      "former player"
+    ],
+    [
+      "Mišo Krstičević",
+      "is a",
+      "football manager"
+    ],
+    [
+      "Jadran LP",
+      "is a",
+      "third-tier club"
+    ],
+    [
+      "Mišo Krstičević",
+      "is currently the manager of",
+      "Jadran LP"
+    ]
+  ]
+}

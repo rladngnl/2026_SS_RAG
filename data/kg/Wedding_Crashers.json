@@ -1,0 +1,147 @@
+{
+  "entities": [
+    "R-rated comedy",
+    "Bradley Cooper",
+    "Isla Fisher",
+    "Owen Wilson",
+    "David Dobkin",
+    "July 15, 2005",
+    "adult-oriented comedies",
+    "Steve Faber",
+    "Rachel McAdams",
+    "$40 million",
+    "U.S. Treasury Secretary",
+    "Vince Vaughn",
+    "$288.5 million",
+    "New Line Cinema",
+    "romantic comedy film",
+    "Bob Fisher",
+    "Wedding Crashers",
+    "American",
+    "domestic box office",
+    "6th highest grossing film of 2005",
+    "Jane Seymour",
+    "Christopher Walken",
+    "critical success",
+    "$200 million",
+    "commercial success",
+    "2005"
+  ],
+  "edges": [
+    "was directed by",
+    "is a",
+    "became the first",
+    "was written by",
+    "had a budget of",
+    "stars",
+    "helped to revive",
+    "grossed",
+    "features",
+    "was released by",
+    "was the",
+    "was released on",
+    "achieved"
+  ],
+  "relations": [
+    [
+      "Wedding Crashers",
+      "grossed",
+      "$288.5 million"
+    ],
+    [
+      "Wedding Crashers",
+      "features",
+      "Jane Seymour"
+    ],
+    [
+      "Wedding Crashers",
+      "was directed by",
+      "David Dobkin"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Isla Fisher"
+    ],
+    [
+      "Wedding Crashers",
+      "was released on",
+      "July 15, 2005"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Rachel McAdams"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Owen Wilson"
+    ],
+    [
+      "Wedding Crashers",
+      "had a budget of",
+      "$40 million"
+    ],
+    [
+      "Wedding Crashers",
+      "was written by",
+      "Bob Fisher"
+    ],
+    [
+      "Wedding Crashers",
+      "features",
+      "Christopher Walken"
+    ],
+    [
+      "Wedding Crashers",
+      "helped to revive",
+      "the popularity of adult-oriented comedies"
+    ],
+    [
+      "Wedding Crashers",
+      "achieved",
+      "critical success"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Vince Vaughn"
+    ],
+    [
+      "Wedding Crashers",
+      "was the",
+      "6th highest grossing film of 2005"
+    ],
+    [
+      "Wedding Crashers",
+      "became the first",
+      "R-rated comedy to make $200 million at the domestic box office"
+    ],
+    [
+      "Wedding Crashers",
+      "was written by",
+      "Steve Faber"
+    ],
+    [
+      "Wedding Crashers",
+      "was released by",
+      "New Line Cinema"
+    ],
+    [
+      "Wedding Crashers",
+      "achieved",
+      "commercial success"
+    ],
+    [
+      "Wedding Crashers",
+      "features",
+      "Bradley Cooper"
+    ],
+    [
+      "Wedding Crashers",
+      "is a",
+      "2005 American romantic comedy film"
+    ]
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "entities": [
+    "LBA",
+    "FIBA Saporta Cups",
+    "FIBA Korać Cups",
+    "FIBA Europe",
+    "Olimpia Milano",
+    "Italian Basketball Federation",
+    "Lega Basket Serie A",
+    "FIBA",
+    "Italy",
+    "Serie A",
+    "Serie A2",
+    "Euroleague Basketball",
+    "European national domestic league",
+    "EuroLeague championships",
+    "16 teams",
+    "Virtus Bologna",
+    "FIP"
+  ],
+  "edges": [
+    "has won the title a record",
+    "is the highest-tier level of",
+    "is organised by",
+    "has won the title",
+    "was the historically top ranked national domestic league in",
+    "is regulated by",
+    "have won the most",
+    "is relegated to",
+    "currently consists of",
+    "have won the second most",
+    "is organised in",
+    "plays under",
+    "is considered to be one of the top"
+  ],
+  "relations": [
+    [
+      "LBA clubs",
+      "have won the most",
+      "FIBA Saporta Cups"
+    ],
+    [
+      "Serie A",
+      "is organised by",
+      "Lega Basket"
+    ],
+    [
+      "LBA",
+      "is considered to be one of the top",
+      "European national basketball leagues"
+    ],
+    [
+      "lowest-placed team",
+      "is relegated to",
+      "Serie A2"
+    ],
+    [
+      "LBA clubs",
+      "have won the second most",
+      "EuroLeague championships"
+    ],
+    [
+      "Virtus Bologna",
+      "has won the title",
+      "17 times"
+    ],
+    [
+      "Lega Basket Serie A",
+      "is the highest-tier level of",
+      "Italian league system"
+    ],
+    [
+      "LBA clubs",
+      "have won the most",
+      "FIBA Korać Cups"
+    ],
+    [
+      "Lega Basket Serie A",
+      "is regulated by",
+      "Italian Basketball Federation"
+    ],
+    [
+      "Olimpia Milano",
+      "has won the title a record",
+      "31 times"
+    ],
+    [
+      "LBA",
+      "was the historically top ranked national domestic league in",
+      "Europe"
+    ],
+    [
+      "Lega Basket Serie A",
+      "is organised in",
+      "Italy"
+    ],
+    [
+      "LBA",
+      "currently consists of",
+      "16 teams"
+    ],
+    [
+      "LBA",
+      "plays under",
+      "FIBA rules"
+    ]
+  ]
+}

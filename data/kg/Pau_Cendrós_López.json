@@ -1,0 +1,42 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "1 April 1987",
+    "Spanish",
+    "Pau Cendrós López",
+    "right-back"
+  ],
+  "edges": [
+    "played as",
+    "born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Pau Cendrós López",
+      "is",
+      "Spanish"
+    ],
+    [
+      "Pau Cendrós López",
+      "played as",
+      "right-back"
+    ],
+    [
+      "Pau Cendrós López",
+      "born on",
+      "1 April 1987"
+    ],
+    [
+      "Pau Cendrós López",
+      "is",
+      "footballer"
+    ],
+    [
+      "Pau Cendrós López",
+      "played as",
+      "central defender"
+    ]
+  ]
+}

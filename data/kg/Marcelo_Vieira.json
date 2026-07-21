@@ -1,0 +1,211 @@
+{
+  "entities": [
+    "2006",
+    "2008 Olympic squad",
+    "2012 Olympic team",
+    "silver medal",
+    "2013 FIFA Confederations Cup",
+    "France Football",
+    "Fluminense",
+    "La Liga's Team of the Season",
+    "2014",
+    "Olympiacos",
+    "La Liga",
+    "2018",
+    "Spain",
+    "Marcelo",
+    "Real Madrid",
+    "FIFA World Cups",
+    "Marcelo Vieira da Silva Júnior",
+    "FIFPro World XI",
+    "bronze medal",
+    "Brazil",
+    "Copa Libertadores",
+    "UEFA Team of the Year"
+  ],
+  "edges": [
+    "returned to",
+    "has been named in",
+    "started his professional career with",
+    "went on to be a mainstay at",
+    "won",
+    "is a former professional footballer who played as",
+    "played in",
+    "was the first foreign captain since",
+    "debuted for",
+    "was part of",
+    "had a spell at",
+    "was victorious in",
+    "is one of",
+    "is known as",
+    "was named in",
+    "spent most of his career with",
+    "beat",
+    "became the captain of",
+    "was named to",
+    "is widely regarded as",
+    "joined"
+  ],
+  "relations": [
+    [
+      "Marcelo",
+      "is a former professional footballer who played as",
+      "left-back"
+    ],
+    [
+      "Marcelo",
+      "debuted for",
+      "Brazil"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "six La Liga titles"
+    ],
+    [
+      "Marcelo",
+      "was the first foreign captain since",
+      "1904"
+    ],
+    [
+      "Marcelo",
+      "is widely regarded as",
+      "one of the greatest left-backs of all time"
+    ],
+    [
+      "Marcelo",
+      "has been named in",
+      "the UEFA Team of the Year three times"
+    ],
+    [
+      "Brazil",
+      "beat",
+      "Spain"
+    ],
+    [
+      "Marcelo",
+      "was named in",
+      "the 2006 Brasileirão Team of the Season"
+    ],
+    [
+      "Marcelo",
+      "spent most of his career with",
+      "Real Madrid"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "Campeonato Carioca title"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "five UEFA Champions League titles"
+    ],
+    [
+      "Marcelo",
+      "was part of",
+      "Brazil's squad at two FIFA World Cups"
+    ],
+    [
+      "Marcelo",
+      "was named to",
+      "France Football's Team of the Decade (2010–2019)"
+    ],
+    [
+      "Marcelo",
+      "was part of",
+      "Brazil's 2012 Olympic team"
+    ],
+    [
+      "Marcelo",
+      "played in",
+      "the 2013 FIFA Confederations Cup"
+    ],
+    [
+      "Brazil",
+      "was victorious in",
+      "the 2013 FIFA Confederations Cup"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "a bronze medal"
+    ],
+    [
+      "Marcelo",
+      "was named in",
+      "both tournament's Dream Teams"
+    ],
+    [
+      "Marcelo",
+      "was named in",
+      "La Liga's Team of the Season in 2016"
+    ],
+    [
+      "Marcelo",
+      "was part of",
+      "the 2008 Olympic squad"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "a silver medal"
+    ],
+    [
+      "Marcelo",
+      "joined",
+      "Real Madrid"
+    ],
+    [
+      "Marcelo",
+      "went on to be a mainstay at",
+      "Real Madrid"
+    ],
+    [
+      "Marcelo",
+      "became the captain of",
+      "Real Madrid"
+    ],
+    [
+      "Marcelo",
+      "had a spell at",
+      "Olympiacos"
+    ],
+    [
+      "Marcelo",
+      "started his professional career with",
+      "Fluminense"
+    ],
+    [
+      "Marcelo",
+      "is one of",
+      "Real Madrid’s most decorated players"
+    ],
+    [
+      "Marcelo",
+      "is known as",
+      "Marcelo Vieira da Silva Júnior"
+    ],
+    [
+      "Marcelo",
+      "returned to",
+      "Fluminense"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "Copa Libertadores"
+    ],
+    [
+      "Marcelo",
+      "won",
+      "25 trophies"
+    ],
+    [
+      "Marcelo",
+      "has been named in",
+      "the FIFPro World XI six times"
+    ]
+  ]
+}

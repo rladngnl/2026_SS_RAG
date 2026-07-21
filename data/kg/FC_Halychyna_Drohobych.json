@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "Lviv Oblast Championship",
+    "December 2, 1989",
+    "SKA Karpaty Lviv",
+    "2003",
+    "Ukrainian Cup",
+    "Drohobych",
+    "1999-2000",
+    "Ukraine",
+    "Avanhard Drohobych",
+    "SFC Drohobych",
+    "FC Halychyna Drohobych",
+    "2000-01"
+  ],
+  "edges": [
+    "is located in",
+    "appeared in the",
+    "is an amateur football club from",
+    "was formerly known as",
+    "competed in the",
+    "competes in the",
+    "was created in place of",
+    "lost its professional status in",
+    "was created on"
+  ],
+  "relations": [
+    [
+      "FC Halychyna Drohobych",
+      "was formerly known as",
+      "SFC Drohobych"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "is located in",
+      "Ukraine"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "was created in place of",
+      "SKA Karpaty Lviv"
+    ],
+    [
+      "Drohobych",
+      "competed in the",
+      "2000-01"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "is an amateur football club from",
+      "Drohobych"
+    ],
+    [
+      "Drohobych",
+      "appeared in the",
+      "Ukrainian Cup"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "lost its professional status in",
+      "2003"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "competes in the",
+      "Lviv Oblast Championship"
+    ],
+    [
+      "Drohobych",
+      "competed in the",
+      "1999-2000"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "was created on",
+      "December 2, 1989"
+    ],
+    [
+      "FC Halychyna Drohobych",
+      "was created in place of",
+      "Avanhard Drohobych"
+    ]
+  ]
+}

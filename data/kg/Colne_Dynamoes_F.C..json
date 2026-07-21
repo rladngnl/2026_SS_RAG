@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Graham White",
+    "Northern Premier League",
+    "Colne",
+    "Colne Dynamoes Football Club",
+    "Lancashire",
+    "Football Conference"
+  ],
+  "edges": [
+    "failed to meet conditions for",
+    "dissolved",
+    "is located in",
+    "was chairman-manager of",
+    "won",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Graham White",
+      "was chairman-manager of",
+      "Colne Dynamoes Football Club"
+    ],
+    [
+      "Colne Dynamoes Football Club",
+      "failed to meet conditions for",
+      "Football Conference"
+    ],
+    [
+      "Colne Dynamoes Football Club",
+      "is based in",
+      "Colne"
+    ],
+    [
+      "Colne Dynamoes Football Club",
+      "is located in",
+      "Lancashire"
+    ],
+    [
+      "Colne Dynamoes Football Club",
+      "won",
+      "Northern Premier League championship"
+    ],
+    [
+      "Graham White",
+      "dissolved",
+      "Colne Dynamoes Football Club"
+    ]
+  ]
+}

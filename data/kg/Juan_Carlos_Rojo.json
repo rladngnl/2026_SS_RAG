@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "manager",
+    "Spanish",
+    "football forward",
+    "Juan Carlos Pérez Rojo",
+    "17 November 1959"
+  ],
+  "edges": [
+    "born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Juan Carlos Pérez Rojo",
+      "born on",
+      "17 November 1959"
+    ],
+    [
+      "Juan Carlos Pérez Rojo",
+      "is",
+      "football forward"
+    ],
+    [
+      "Juan Carlos Pérez Rojo",
+      "is",
+      "Spanish"
+    ],
+    [
+      "Juan Carlos Pérez Rojo",
+      "is",
+      "manager"
+    ]
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "entities": [
+    "Spanish side Barcelona",
+    "quarter-final match",
+    "Martinez Turn",
+    "footballer",
+    "Wolves",
+    "Eulogio Ramiro Martínez",
+    "striker",
+    "1959–60 European Cup",
+    "Johan Cruyff",
+    "1974 World Cup",
+    "Paraguayan",
+    "1960s",
+    "Movietone",
+    "1950s",
+    "Cruyff Turn"
+  ],
+  "edges": [
+    "was at",
+    "was demonstrated in",
+    "created",
+    "was active in",
+    "played as",
+    "demonstrated",
+    "later received acclaim as",
+    "played for",
+    "used",
+    "was credited for",
+    "was",
+    "can be seen on"
+  ],
+  "relations": [
+    [
+      "Eulogio Ramiro Martínez",
+      "played as",
+      "striker"
+    ],
+    [
+      "Johan Cruyff",
+      "demonstrated",
+      "Cruyff Turn"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "was active in",
+      "1960s"
+    ],
+    [
+      "Johan Cruyff",
+      "was at",
+      "Barcelona"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "used",
+      "Martinez Turn"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "created",
+      "Martinez Turn"
+    ],
+    [
+      "Martinez Turn",
+      "was demonstrated in",
+      "1974 World Cup"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "was credited for",
+      "Martinez Turn"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "was",
+      "footballer"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "played for",
+      "Spanish side Barcelona"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "was active in",
+      "1950s"
+    ],
+    [
+      "Eulogio Ramiro Martínez",
+      "was",
+      "Paraguayan"
+    ],
+    [
+      "Martinez Turn",
+      "can be seen on",
+      "Movietone footage"
+    ],
+    [
+      "Martinez Turn",
+      "later received acclaim as",
+      "Cruyff Turn"
+    ]
+  ]
+}

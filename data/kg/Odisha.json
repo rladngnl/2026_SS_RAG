@@ -1,0 +1,134 @@
+{
+  "entities": [
+    "Indian Ocean",
+    "Scheduled Tribes",
+    "Utkala Divas",
+    "Andhra Pradesh",
+    "Kalinga War",
+    "India",
+    "Central Provinces",
+    "British Indian government",
+    "1 April 1936",
+    "Mauryan Emperor Ashoka",
+    "Bihar",
+    "Chhattisgarh",
+    "Madras Presidency",
+    "eastern India",
+    "Anantavarman Chodaganga",
+    "Odia-speaking districts",
+    "Bhubaneswar",
+    "Jharkhand",
+    "Odisha",
+    "Jana Gana Mana",
+    "Orissa Province",
+    "Utkaḷa",
+    "Orissa",
+    "Bay of Bengal",
+    "Cuttack",
+    "Kalinga",
+    "West Bengal"
+  ],
+  "edges": [
+    "is mentioned in",
+    "was made the capital of",
+    "neighbours",
+    "coincides with the borders of",
+    "has a population of",
+    "consisted of",
+    "was invaded by",
+    "made",
+    "has the third-largest population of",
+    "has a coastline along",
+    "became the capital of",
+    "was established on",
+    "is located in",
+    "is spelled"
+  ],
+  "relations": [
+    [
+      "Odisha",
+      "is located in",
+      "eastern India"
+    ],
+    [
+      "Odisha",
+      "neighbours",
+      "Jharkhand"
+    ],
+    [
+      "Bhubaneswar",
+      "became the capital of",
+      "Odisha"
+    ],
+    [
+      "Odisha",
+      "neighbours",
+      "Chhattisgarh"
+    ],
+    [
+      "Orissa Province",
+      "was established on",
+      "1 April 1936"
+    ],
+    [
+      "Odisha",
+      "has a population of",
+      "over 41 million inhabitants"
+    ],
+    [
+      "Odisha",
+      "has the third-largest population of",
+      "Scheduled Tribes"
+    ],
+    [
+      "Odisha",
+      "neighbours",
+      "Andhra Pradesh"
+    ],
+    [
+      "Kalinga",
+      "was invaded by",
+      "Mauryan Emperor Ashoka"
+    ],
+    [
+      "Orissa Province",
+      "consisted of",
+      "Odia-speaking districts"
+    ],
+    [
+      "Odisha",
+      "is mentioned in",
+      "Jana Gana Mana"
+    ],
+    [
+      "Kalinga",
+      "coincides with the borders of",
+      "Odisha"
+    ],
+    [
+      "Anantavarman Chodaganga",
+      "made",
+      "Cuttack"
+    ],
+    [
+      "Odisha",
+      "is spelled",
+      "Orissa"
+    ],
+    [
+      "Odisha",
+      "has a coastline along",
+      "Bay of Bengal"
+    ],
+    [
+      "Odisha",
+      "neighbours",
+      "West Bengal"
+    ],
+    [
+      "Cuttack",
+      "was made the capital of",
+      "Odisha"
+    ]
+  ]
+}

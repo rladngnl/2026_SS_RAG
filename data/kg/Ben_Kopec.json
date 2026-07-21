@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "Rock Band Network",
+    "The Rock Pulse",
+    "OnChain Music",
+    "The Tall Man",
+    "musician",
+    "blockchain",
+    "Intricate Unit",
+    "Epitome Music Library",
+    "NFTs",
+    "advertising campaigns",
+    "Ben Kopec",
+    "Rock Band Authoring service",
+    "American",
+    "Benjamin Nils Kopec",
+    "East Coast",
+    "The Curse of Micah Rood",
+    "TV",
+    "composer",
+    "Never Surrender",
+    "video games",
+    "film"
+  ],
+  "edges": [
+    "launched",
+    "involves the sale of",
+    "is known better by",
+    "is a",
+    "helps",
+    "helps musicians generate royalties on",
+    "has the primary goal of",
+    "is related to",
+    "formed",
+    "started",
+    "is called",
+    "has had his music used in",
+    "opened for bands on"
+  ],
+  "relations": [
+    [
+      "Ben Kopec",
+      "is known better by",
+      "Benjamin Nils Kopec"
+    ],
+    [
+      "OnChain Music",
+      "involves the sale of",
+      "NFTs"
+    ],
+    [
+      "Ben Kopec",
+      "launched",
+      "Epitome Music Library"
+    ],
+    [
+      "Epitome Music Library",
+      "has the primary goal of",
+      "placing music into film, TV, video games, advertising campaigns, and other mediums"
+    ],
+    [
+      "Ben Kopec",
+      "launched",
+      "OnChain Music"
+    ],
+    [
+      "Ben Kopec",
+      "formed",
+      "Intricate Unit"
+    ],
+    [
+      "Intricate Unit",
+      "opened for bands on",
+      "East Coast"
+    ],
+    [
+      "Rock Band Authoring service",
+      "is called",
+      "The Rock Pulse"
+    ],
+    [
+      "Ben Kopec",
+      "has had his music used in",
+      "Never Surrender"
+    ],
+    [
+      "Ben Kopec",
+      "has had his music used in",
+      "The Curse of Micah Rood"
+    ],
+    [
+      "OnChain Music",
+      "is a",
+      "music distribution service"
+    ],
+    [
+      "The Rock Pulse",
+      "helps",
+      "bands get their music into the Rock Band Network"
+    ],
+    [
+      "Ben Kopec",
+      "is a",
+      "musician"
+    ],
+    [
+      "OnChain Music",
+      "is related to",
+      "blockchain"
+    ],
+    [
+      "Ben Kopec",
+      "started",
+      "Rock Band Authoring service"
+    ],
+    [
+      "Ben Kopec",
+      "has had his music used in",
+      "The Tall Man"
+    ],
+    [
+      "Ben Kopec",
+      "is a",
+      "composer"
+    ],
+    [
+      "Intricate Unit",
+      "is a",
+      "Industrial rock band"
+    ],
+    [
+      "OnChain Music",
+      "helps musicians generate royalties on",
+      "the blockchain"
+    ]
+  ]
+}

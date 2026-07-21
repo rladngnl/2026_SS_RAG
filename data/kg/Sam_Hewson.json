@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "centre midfielder",
+    "England",
+    "footballer",
+    "KFK Kópavogur",
+    "Sam Hewson",
+    "English",
+    "28 November 1988",
+    "youth international level"
+  ],
+  "edges": [
+    "represented",
+    "plays for",
+    "plays as",
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Sam Hewson",
+      "was born on",
+      "28 November 1988"
+    ],
+    [
+      "Sam Hewson",
+      "plays for",
+      "KFK Kópavogur"
+    ],
+    [
+      "Sam Hewson",
+      "is",
+      "English footballer"
+    ],
+    [
+      "Sam Hewson",
+      "plays as",
+      "centre midfielder"
+    ],
+    [
+      "Sam Hewson",
+      "represented",
+      "England at youth international level"
+    ]
+  ]
+}

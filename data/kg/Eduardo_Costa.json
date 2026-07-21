@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "Eduardo Nascimento Costa",
+    "defensive midfielder",
+    "former player",
+    "Eduardo Costa",
+    "professional football coach",
+    "Brazilian",
+    "Atlético Catarinense",
+    "head coach"
+  ],
+  "edges": [
+    "is a",
+    "is known as",
+    "is the current",
+    "played as a",
+    "coaches"
+  ],
+  "relations": [
+    [
+      "Eduardo Nascimento Costa",
+      "is known as",
+      "Eduardo Costa"
+    ],
+    [
+      "Eduardo Costa",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Eduardo Costa",
+      "is a",
+      "former player"
+    ],
+    [
+      "Eduardo Costa",
+      "coaches",
+      "Atlético Catarinense"
+    ],
+    [
+      "Eduardo Costa",
+      "played as a",
+      "defensive midfielder"
+    ],
+    [
+      "Eduardo Costa",
+      "is a",
+      "professional football coach"
+    ],
+    [
+      "Eduardo Costa",
+      "is the current",
+      "head coach"
+    ]
+  ]
+}

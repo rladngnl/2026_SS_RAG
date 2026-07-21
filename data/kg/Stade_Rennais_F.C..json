@@ -1,0 +1,239 @@
+{
+  "entities": [
+    "Stade Rennais F.C.",
+    "2000",
+    "2003",
+    "1971",
+    "2019",
+    "Artémis",
+    "Jimmy Briand",
+    "Roazhon Park",
+    "French Football Federation",
+    "Désiré Doué",
+    "François Pinault",
+    "Moussa Sow",
+    "Mathys Tel",
+    "Sylvain Wiltord",
+    "Henri Guérin Training Centre",
+    "Ligue 1",
+    "Nantes",
+    "Brittany",
+    "1901",
+    "1965",
+    "FFF",
+    "Yacine Brahimi",
+    "Coupe de France",
+    "2025",
+    "Yann M'Vila",
+    "Olivier Cloarec",
+    "Coupe Gambardella",
+    "2008",
+    "Abdoulaye Doucouré",
+    "Rennes",
+    "Derby Breton",
+    "Ousmane Dembélé",
+    "Eduardo Camavinga",
+    "Yoann Gourcuff",
+    "1973"
+  ],
+  "edges": [
+    "won Coupe de France in",
+    "has produced",
+    "is one of the founding members of",
+    "was won in",
+    "include",
+    "has president",
+    "competes in",
+    "is the holding company of",
+    "is based in",
+    "was formed in",
+    "recognised Rennes as having",
+    "changed its name to",
+    "contests",
+    "is known for its youth academy",
+    "is one of the top football clubs in",
+    "was founded in",
+    "is the cornerstone of",
+    "has won",
+    "has owner",
+    "plays its home matches at",
+    "has home colours of"
+  ],
+  "relations": [
+    [
+      "several notable talents",
+      "include",
+      "Abdoulaye Doucouré"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Moussa Sow"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "changed its name to",
+      "its current version"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Jimmy Briand"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "has owner",
+      "Artémis"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Yann M'Vila"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "was founded in",
+      "1901"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "is the cornerstone of",
+      "the under-19 team"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "has president",
+      "Olivier Cloarec"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Sylvain Wiltord"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "has produced",
+      "several notable talents"
+    ],
+    [
+      "Rennes",
+      "contests",
+      "Derby Breton"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "is based in",
+      "Rennes"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "was formed in",
+      "2000"
+    ],
+    [
+      "Coupe Gambardella",
+      "was won in",
+      "2003"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "has home colours of",
+      "red, black, and white"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "won Coupe de France in",
+      "1971"
+    ],
+    [
+      "Rennes",
+      "is one of the top football clubs in",
+      "Brittany"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Eduardo Camavinga"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "has won",
+      "three Coupe de France titles"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Yoann Gourcuff"
+    ],
+    [
+      "Coupe Gambardella",
+      "was won in",
+      "2008"
+    ],
+    [
+      "under-19 team",
+      "has won",
+      "Coupe Gambardella four times"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Ousmane Dembélé"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "plays its home matches at",
+      "Roazhon Park"
+    ],
+    [
+      "Coupe Gambardella",
+      "was won in",
+      "2025"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Mathys Tel"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "is one of the founding members of",
+      "the first division of French football"
+    ],
+    [
+      "French Football Federation",
+      "recognised Rennes as having",
+      "the best youth academy in the country"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Yacine Brahimi"
+    ],
+    [
+      "Coupe Gambardella",
+      "was won in",
+      "1973"
+    ],
+    [
+      "several notable talents",
+      "include",
+      "Désiré Doué"
+    ],
+    [
+      "Artémis",
+      "is the holding company of",
+      "François Pinault"
+    ],
+    [
+      "Rennes",
+      "is known for its youth academy",
+      "Henri Guérin Training Centre"
+    ]
+  ]
+}

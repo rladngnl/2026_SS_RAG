@@ -1,0 +1,75 @@
+{
+  "entities": [
+    "Evelyn Waugh",
+    "Bright Young Things",
+    "satirical social commentary",
+    "bohemians",
+    "society",
+    "interwar era",
+    "Stephen Fry",
+    "Bright Young People",
+    "film",
+    "London",
+    "Vile Bodies",
+    "aristocrats",
+    "screenplay"
+  ],
+  "edges": [
+    "is a",
+    "was written and directed by",
+    "was written by",
+    "are",
+    "is in the",
+    "is based on",
+    "provides",
+    "are part of",
+    "is about"
+  ],
+  "relations": [
+    [
+      "satirical social commentary",
+      "is about",
+      "Bright Young People"
+    ],
+    [
+      "Bright Young Things",
+      "is a",
+      "film"
+    ],
+    [
+      "Bright Young People",
+      "are part of",
+      "society"
+    ],
+    [
+      "society",
+      "is in the",
+      "interwar era"
+    ],
+    [
+      "screenplay",
+      "provides",
+      "satirical social commentary"
+    ],
+    [
+      "Vile Bodies",
+      "was written by",
+      "Evelyn Waugh"
+    ],
+    [
+      "Bright Young People",
+      "are",
+      "young and carefree London aristocrats and bohemians"
+    ],
+    [
+      "Bright Young Things",
+      "was written and directed by",
+      "Stephen Fry"
+    ],
+    [
+      "screenplay",
+      "is based on",
+      "Vile Bodies"
+    ]
+  ]
+}

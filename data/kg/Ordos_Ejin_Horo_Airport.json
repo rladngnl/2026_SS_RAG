@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "Inner Mongolia Autonomous Region",
+    "Ejin Horo Banner",
+    "ZBDS",
+    "Ordos City",
+    "350 million yuan",
+    "Dongsheng Airport",
+    "Ordos Ejin Horo International Airport",
+    "July 2007",
+    "ICAO",
+    "IATA",
+    "2005",
+    "1983",
+    "DSN"
+  ],
+  "edges": [
+    "was rebuilt in",
+    "had an investment of",
+    "re-opened in",
+    "ceased operation in",
+    "was first built in",
+    "is part of",
+    "is located in",
+    "was called"
+  ],
+  "relations": [
+    [
+      "Ordos Ejin Horo International Airport",
+      "had an investment of",
+      "350 million yuan"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "ceased operation in",
+      "1983"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "was first built in",
+      "1959"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "re-opened in",
+      "July 2007"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "is located in",
+      "Ordos City"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "was called",
+      "Dongsheng Airport"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "was rebuilt in",
+      "2005"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "is located in",
+      "Ejin Horo Banner"
+    ],
+    [
+      "Ordos Ejin Horo International Airport",
+      "is part of",
+      "Inner Mongolia Autonomous Region"
+    ]
+  ]
+}

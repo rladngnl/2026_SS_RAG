@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "Boston-Worcester-Providence combined statistical area",
+    "Massachusetts",
+    "population",
+    "Worcester",
+    "largest city",
+    "1,510.6 square miles",
+    "2020 census",
+    "Worcester County",
+    "862,111",
+    "Worcester, MA–CT metropolitan statistical area",
+    "largest county"
+  ],
+  "edges": [
+    "has population",
+    "has largest city",
+    "reports population of",
+    "is the largest county by geographic area in",
+    "has land area of",
+    "is the second-most populous county in",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Worcester County",
+      "is part of",
+      "Worcester, MA–CT metropolitan statistical area"
+    ],
+    [
+      "Worcester County",
+      "is located in",
+      "Massachusetts"
+    ],
+    [
+      "2020 census",
+      "reports population of",
+      "862,111"
+    ],
+    [
+      "Worcester County",
+      "has land area of",
+      "1,510.6 square miles"
+    ],
+    [
+      "Worcester County",
+      "is the second-most populous county in",
+      "Massachusetts"
+    ],
+    [
+      "Worcester County",
+      "has population",
+      "862,111"
+    ],
+    [
+      "Worcester County",
+      "is part of",
+      "Boston-Worcester-Providence combined statistical area"
+    ],
+    [
+      "Worcester County",
+      "has largest city",
+      "Worcester"
+    ],
+    [
+      "Worcester County",
+      "is the largest county by geographic area in",
+      "Massachusetts"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "England",
+    "28 July 1983",
+    "professional footballer",
+    "U23",
+    "Lee Colin Clarke",
+    "U21",
+    "Northern Ireland",
+    "Lee Clarke",
+    "Colin Clarke"
+  ],
+  "edges": [
+    "represented",
+    "was born in",
+    "is",
+    "is son of",
+    "represented Northern Ireland at youth levels"
+  ],
+  "relations": [
+    [
+      "Lee Colin Clarke",
+      "represented",
+      "Northern Ireland"
+    ],
+    [
+      "Lee Colin Clarke",
+      "represented Northern Ireland at youth levels",
+      "U21"
+    ],
+    [
+      "Lee Colin Clarke",
+      "is",
+      "professional footballer"
+    ],
+    [
+      "Lee Colin Clarke",
+      "is son of",
+      "Colin Clarke"
+    ],
+    [
+      "Lee Colin Clarke",
+      "was born in",
+      "England"
+    ],
+    [
+      "Lee Colin Clarke",
+      "represented Northern Ireland at youth levels",
+      "U23"
+    ]
+  ]
+}

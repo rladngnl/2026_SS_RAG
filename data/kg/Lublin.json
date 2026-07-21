@@ -1,0 +1,157 @@
+{
+  "entities": [
+    "population",
+    "Vilnius",
+    "Poland",
+    "Lublin Voivodeship",
+    "Lesser Poland",
+    "2023 European Youth Capital",
+    "Arianism",
+    "2029 European Capital of Culture",
+    "standard of living",
+    "1385",
+    "Crown of the Kingdom of Poland",
+    "Old Town",
+    "royal city",
+    "Lublin",
+    "Warsaw",
+    "royal election",
+    "16th century",
+    "Kraków",
+    "commerce",
+    "Kingdom of Poland",
+    "Calvinist congregation",
+    "national monuments",
+    "Financial Times Group",
+    "Grand Duchy of Lithuania",
+    "Foreign Direct Investment",
+    "Reformation",
+    "Lublin Parliament",
+    "green spaces",
+    "Vistula River",
+    "trade",
+    "Polish–Lithuanian Commonwealth",
+    "Polish–Lithuanian Union of Krewo",
+    "business",
+    "1569",
+    "Crown Tribunal",
+    "National Heritage Board of Poland"
+  ],
+  "edges": [
+    "is located southeast of",
+    "is noted for its",
+    "found Lublin to be one of the best cities for",
+    "is one of",
+    "has a high standard of",
+    "has a population of",
+    "is the capital of",
+    "witnessed the early stages of",
+    "is located on the route between",
+    "was an important royal city of",
+    "was chosen as the seat of",
+    "is tracked by",
+    "thrived as a centre of",
+    "has been selected as",
+    "is the largest city east of",
+    "was placed second among larger Polish cities in",
+    "occurred in",
+    "session led to the creation of"
+  ],
+  "relations": [
+    [
+      "Polish–Lithuanian Union of Krewo",
+      "occurred in",
+      "1385"
+    ],
+    [
+      "Lublin",
+      "is the largest city east of",
+      "Vistula River"
+    ],
+    [
+      "Old Town",
+      "is tracked by",
+      "National Heritage Board of Poland"
+    ],
+    [
+      "Lublin",
+      "was placed second among larger Polish cities in",
+      "cost-effectiveness category"
+    ],
+    [
+      "Lublin",
+      "is the capital of",
+      "Lublin Voivodeship"
+    ],
+    [
+      "Lublin",
+      "thrived as a centre of",
+      "trade and commerce"
+    ],
+    [
+      "Lublin Parliament",
+      "session led to the creation of",
+      "Polish–Lithuanian Commonwealth"
+    ],
+    [
+      "Lublin",
+      "has been selected as",
+      "2023 European Youth Capital"
+    ],
+    [
+      "Lublin",
+      "is noted for its",
+      "green spaces"
+    ],
+    [
+      "Lublin",
+      "was chosen as the seat of",
+      "Crown Tribunal"
+    ],
+    [
+      "Lublin",
+      "is located southeast of",
+      "Warsaw"
+    ],
+    [
+      "Lublin",
+      "has a high standard of",
+      "living"
+    ],
+    [
+      "Lublin",
+      "has been selected as",
+      "2029 European Capital of Culture"
+    ],
+    [
+      "Lublin",
+      "is located on the route between",
+      "Vilnius and Kraków"
+    ],
+    [
+      "Lublin",
+      "witnessed the early stages of",
+      "Reformation"
+    ],
+    [
+      "Lublin",
+      "has a population of",
+      "336,339"
+    ],
+    [
+      "Old Town",
+      "is one of",
+      "Poland's national monuments"
+    ],
+    [
+      "Financial Times Group",
+      "found Lublin to be one of the best cities for",
+      "business"
+    ],
+    [
+      "Lublin",
+      "was an important royal city of",
+      "Kingdom of Poland"
+    ]
+  ]
+}

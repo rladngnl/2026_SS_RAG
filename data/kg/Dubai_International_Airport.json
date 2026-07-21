@@ -1,0 +1,102 @@
+{
+  "entities": [
+    "DXB",
+    "Airbus A380",
+    "United Arab Emirates",
+    "Dubai International Airport",
+    "Dubai's employment",
+    "Flydubai",
+    "July 2019",
+    "Dubai's GDP",
+    "Al Maktoum International Airport",
+    "DWC",
+    "OMDB",
+    "Boeing 777",
+    "Middle East",
+    "Terminal 3",
+    "Al Garhoud district",
+    "Emirates",
+    "Dubai's economy",
+    "January 2025"
+  ],
+  "edges": [
+    "is the main hub of",
+    "is the primary operator of",
+    "serves",
+    "is the busiest airport in",
+    "is planned to close once",
+    "will supersede",
+    "contributed to",
+    "handles",
+    "represents",
+    "is a low-cost carrier at",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Emirates",
+      "is the main hub of",
+      "DXB"
+    ],
+    [
+      "DXB",
+      "is planned to close once",
+      "Al Maktoum International Airport"
+    ],
+    [
+      "Dubai International Airport",
+      "is the busiest airport in",
+      "Middle East"
+    ],
+    [
+      "Dubai International Airport",
+      "is located in",
+      "Al Garhoud district"
+    ],
+    [
+      "Dubai International Airport",
+      "represents",
+      "21% of employment in the city"
+    ],
+    [
+      "Flydubai",
+      "is a low-cost carrier at",
+      "Dubai International Airport"
+    ],
+    [
+      "Al Maktoum International Airport",
+      "will supersede",
+      "DXB"
+    ],
+    [
+      "Flydubai",
+      "handles",
+      "13% of passenger traffic"
+    ],
+    [
+      "Dubai International Airport",
+      "represents",
+      "27% of Dubai's GDP"
+    ],
+    [
+      "Emirates",
+      "handles",
+      "51% of all passenger traffic"
+    ],
+    [
+      "Dubai International Airport",
+      "is the primary operator of",
+      "Terminal 3"
+    ],
+    [
+      "Dubai International Airport",
+      "contributed to",
+      "Dubai's economy"
+    ],
+    [
+      "Dubai International Airport",
+      "serves",
+      "United Arab Emirates"
+    ]
+  ]
+}

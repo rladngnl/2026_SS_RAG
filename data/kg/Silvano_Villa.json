@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "August 13, 1951",
+    "Silvano Villa",
+    "Villasanta",
+    "Italy",
+    "professional football player"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is from",
+    "is born in"
+  ],
+  "relations": [
+    [
+      "Silvano Villa",
+      "is from",
+      "Italy"
+    ],
+    [
+      "Silvano Villa",
+      "was born on",
+      "August 13, 1951"
+    ],
+    [
+      "Silvano Villa",
+      "is born in",
+      "Villasanta"
+    ],
+    [
+      "Silvano Villa",
+      "is a",
+      "professional football player"
+    ]
+  ]
+}

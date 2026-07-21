@@ -1,0 +1,164 @@
+{
+  "entities": [
+    "Conn Smythe Trophy",
+    "National Hockey League",
+    "Charlie Simmer",
+    "Pacific Division",
+    "Luc Robitaille",
+    "Anschutz Entertainment Group",
+    "Forum",
+    "New Jersey Devils",
+    "Miracle on Manchester",
+    "Wayne Gretzky",
+    "Jeff Carter",
+    "Western Conference",
+    "Ed Roski Jr.",
+    "Darryl Sutter",
+    "Dave Taylor",
+    "Stanley Cup Final",
+    "Los Angeles Kings",
+    "Rob Blake",
+    "Marcel Dionne",
+    "Triple Crown Line",
+    "Anze Kopitar",
+    "Montreal Canadiens",
+    "NHL expansion franchise",
+    "New York Rangers",
+    "Edmonton Oilers",
+    "Inglewood",
+    "Rogie Vachon",
+    "Los Angeles Lakers",
+    "Drew Doughty",
+    "Dustin Brown",
+    "Philip Anschutz",
+    "Jack Kent Cooke",
+    "Jonathan Quick",
+    "Justin Williams",
+    "Crypto.com Arena"
+  ],
+  "edges": [
+    "won the",
+    "was the captain of",
+    "compete in",
+    "qualified for the playoffs from",
+    "was hired by",
+    "won over",
+    "was founded on",
+    "share their home with",
+    "traded with",
+    "includes",
+    "plays its home games at",
+    "had strong goaltending from",
+    "was awarded an",
+    "played for",
+    "are a member of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Justin Williams",
+      "won the",
+      "Conn Smythe Trophy"
+    ],
+    [
+      "Wayne Gretzky",
+      "was the captain of",
+      "Los Angeles Kings"
+    ],
+    [
+      "Los Angeles Kings",
+      "are a member of",
+      "Pacific Division"
+    ],
+    [
+      "Forum",
+      "is located in",
+      "Inglewood"
+    ],
+    [
+      "Los Angeles Kings",
+      "won over",
+      "New Jersey Devils"
+    ],
+    [
+      "Triple Crown Line",
+      "includes",
+      "Charlie Simmer"
+    ],
+    [
+      "Los Angeles Kings",
+      "traded with",
+      "Edmonton Oilers"
+    ],
+    [
+      "Los Angeles Kings",
+      "had strong goaltending from",
+      "Rogie Vachon"
+    ],
+    [
+      "Jack Kent Cooke",
+      "was awarded an",
+      "NHL expansion franchise"
+    ],
+    [
+      "Triple Crown Line",
+      "includes",
+      "Dave Taylor"
+    ],
+    [
+      "Los Angeles Kings",
+      "share their home with",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Los Angeles Kings",
+      "won over",
+      "New York Rangers"
+    ],
+    [
+      "Jonathan Quick",
+      "won the",
+      "Conn Smythe Trophy"
+    ],
+    [
+      "Los Angeles Kings",
+      "plays its home games at",
+      "Crypto.com Arena"
+    ],
+    [
+      "Los Angeles Kings",
+      "was founded on",
+      "June 5, 1967"
+    ],
+    [
+      "Los Angeles Kings",
+      "compete in",
+      "National Hockey League"
+    ],
+    [
+      "Darryl Sutter",
+      "was hired by",
+      "Los Angeles Kings"
+    ],
+    [
+      "Los Angeles Kings",
+      "played for",
+      "32 years at the Forum"
+    ],
+    [
+      "Los Angeles Kings",
+      "qualified for the playoffs from",
+      "2022 to 2026"
+    ],
+    [
+      "Triple Crown Line",
+      "includes",
+      "Marcel Dionne"
+    ],
+    [
+      "Los Angeles Kings",
+      "are a member of",
+      "Western Conference"
+    ]
+  ]
+}

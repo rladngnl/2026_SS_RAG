@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "English footballer",
+    "striker",
+    "Joe Benjamin",
+    "Great Wakering Rovers",
+    "Joseph John Benjamin",
+    "10 October 1990"
+  ],
+  "edges": [
+    "last played for",
+    "last played as",
+    "born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Joseph John Benjamin",
+      "is",
+      "English footballer"
+    ],
+    [
+      "Joseph John Benjamin",
+      "born on",
+      "10 October 1990"
+    ],
+    [
+      "Joseph John Benjamin",
+      "last played for",
+      "Great Wakering Rovers"
+    ],
+    [
+      "Joseph John Benjamin",
+      "last played as",
+      "striker"
+    ]
+  ]
+}

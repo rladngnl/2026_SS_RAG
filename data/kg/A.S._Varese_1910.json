@@ -1,0 +1,111 @@
+{
+  "entities": [
+    "2020–21 season",
+    "1910",
+    "Varese",
+    "Varese Calcio",
+    "Busto Arsizio",
+    "Coppa Italia Dilettanti",
+    "1967–68 Serie A season",
+    "Busto 81",
+    "Varese Football Club",
+    "Coppa Italia Serie C",
+    "Italy",
+    "Serie A",
+    "Italian football league system",
+    "Serie D",
+    "ASD Città di Varese",
+    "Serie B",
+    "Lombardy"
+  ],
+  "edges": [
+    "is considered the heir to",
+    "has participated in",
+    "has won",
+    "is located in",
+    "was informally replacing",
+    "took over the title from",
+    "has a best placement in",
+    "has played in",
+    "is part of",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Varese Football Club",
+      "has a best placement in",
+      "1967–68 Serie A season"
+    ],
+    [
+      "Varese Football Club",
+      "is considered the heir to",
+      "Varese Football Club"
+    ],
+    [
+      "Varese Football Club",
+      "is part of",
+      "Italian football league system"
+    ],
+    [
+      "Varese Football Club",
+      "was informally replacing",
+      "Varese Calcio"
+    ],
+    [
+      "Varese Football Club",
+      "has won",
+      "Coppa Italia Serie C"
+    ],
+    [
+      "Varese Football Club",
+      "was founded in",
+      "2019"
+    ],
+    [
+      "Varese Football Club",
+      "took over the title from",
+      "Busto 81"
+    ],
+    [
+      "Varese Football Club",
+      "is located in",
+      "Lombardy"
+    ],
+    [
+      "Varese Football Club",
+      "is located in",
+      "Italy"
+    ],
+    [
+      "Varese Football Club",
+      "has won",
+      "Coppa Italia Dilettanti"
+    ],
+    [
+      "Busto 81",
+      "is located in",
+      "Busto Arsizio"
+    ],
+    [
+      "Varese Football Club",
+      "is based in",
+      "Varese"
+    ],
+    [
+      "Varese Football Club",
+      "has won",
+      "Serie B"
+    ],
+    [
+      "Varese Football Club",
+      "has played in",
+      "Serie D"
+    ],
+    [
+      "Varese Football Club",
+      "has participated in",
+      "Serie A"
+    ]
+  ]
+}

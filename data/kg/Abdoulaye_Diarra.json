@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "Abdoulaye Diarra (footballer, born 1986)",
+    "Malian football striker",
+    "Abdoulaye Diarra (footballer, born 1994)",
+    "Abdoulaye Diarra",
+    "Malian-French rapper",
+    "Ivorian football midfielder",
+    "Abdoulaye Plea Diarra",
+    "Oxmo Puccino"
+  ],
+  "edges": [
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Oxmo Puccino",
+      "is",
+      "Abdoulaye Plea Diarra"
+    ],
+    [
+      "Oxmo Puccino",
+      "is a",
+      "Malian-French rapper"
+    ],
+    [
+      "Abdoulaye Diarra (footballer, born 1986)",
+      "is a",
+      "Ivorian football midfielder"
+    ],
+    [
+      "Abdoulaye Diarra (footballer, born 1994)",
+      "is a",
+      "Malian football striker"
+    ]
+  ]
+}

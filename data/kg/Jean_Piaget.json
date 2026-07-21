@@ -1,0 +1,111 @@
+{
+  "entities": [
+    "cognitive development",
+    "psychology",
+    "Swiss psychologist",
+    "education",
+    "International Bureau of Education",
+    "University of Geneva",
+    "B. F. Skinner",
+    "genetic epistemology",
+    "International Center for Genetic Epistemology",
+    "child development",
+    "constructivist theory",
+    "Ernst von Glasersfeld",
+    "Jean Piaget"
+  ],
+  "edges": [
+    "was on the faculty of",
+    "has ideas that were popularized in",
+    "is a",
+    "has worked on",
+    "created",
+    "was referred to as",
+    "was a pioneer of",
+    "is known for",
+    "was the Director of",
+    "has a theory called",
+    "directed",
+    "has been studied in",
+    "was second only to",
+    "has an impact on",
+    "declared"
+  ],
+  "relations": [
+    [
+      "Jean Piaget",
+      "created",
+      "International Center for Genetic Epistemology"
+    ],
+    [
+      "Jean Piaget",
+      "was on the faculty of",
+      "University of Geneva"
+    ],
+    [
+      "Jean Piaget",
+      "has ideas that were popularized in",
+      "the 1960s"
+    ],
+    [
+      "Jean Piaget",
+      "was a pioneer of",
+      "constructivist theory"
+    ],
+    [
+      "Jean Piaget",
+      "has been studied in",
+      "pre-service education programs"
+    ],
+    [
+      "Jean Piaget",
+      "was the Director of",
+      "International Bureau of Education"
+    ],
+    [
+      "Jean Piaget",
+      "directed",
+      "International Center for Genetic Epistemology"
+    ],
+    [
+      "Jean Piaget",
+      "is a",
+      "Swiss psychologist"
+    ],
+    [
+      "Jean Piaget",
+      "is known for",
+      "child development"
+    ],
+    [
+      "Jean Piaget",
+      "has an impact on",
+      "psychology"
+    ],
+    [
+      "Jean Piaget",
+      "has a theory called",
+      "genetic epistemology"
+    ],
+    [
+      "Jean Piaget",
+      "was referred to as",
+      "Piaget's factory"
+    ],
+    [
+      "Jean Piaget",
+      "was second only to",
+      "B. F. Skinner"
+    ],
+    [
+      "Jean Piaget",
+      "has worked on",
+      "cognitive development"
+    ],
+    [
+      "Jean Piaget",
+      "declared",
+      "education"
+    ]
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "entities": [
+    "European Cup",
+    "1958 FIFA World Cup",
+    "Coppa delle Alpi",
+    "Roger Marche",
+    "Jean Vincent",
+    "Just Fontaine",
+    "Stade Auguste Delaune",
+    "Trophée des champions",
+    "Ligue 2",
+    "Raymond Kopa",
+    "Stade de Reims",
+    "Ligue 1",
+    "Reims",
+    "Armand Penverne",
+    "Latin Cup",
+    "Coupe de France",
+    "Roger Piantoni",
+    "Dominique Colonna",
+    "Championnat National",
+    "Robert Jonquet"
+  ],
+  "edges": [
+    "was relegated again in",
+    "is a",
+    "returned to",
+    "were largely responsible for",
+    "reached the semi-finals at",
+    "hovered between",
+    "has won",
+    "plays in",
+    "was formed in",
+    "finished as runners-up in",
+    "won",
+    "was promoted back to",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Stade de Reims",
+      "plays home matches at",
+      "Stade Auguste Delaune"
+    ],
+    [
+      "Reims",
+      "won",
+      "the Latin Cup"
+    ],
+    [
+      "Stade de Reims",
+      "was formed in",
+      "1931"
+    ],
+    [
+      "Reims",
+      "has won",
+      "six Ligue 1 titles"
+    ],
+    [
+      "Reims",
+      "finished as runners-up in",
+      "the 1959 European Cup"
+    ],
+    [
+      "Reims",
+      "won",
+      "the Coppa delle Alpi"
+    ],
+    [
+      "Reims",
+      "was relegated again in",
+      "2016"
+    ],
+    [
+      "Reims players",
+      "reached the semi-finals at",
+      "the 1958 FIFA World Cup"
+    ],
+    [
+      "Reims players",
+      "were largely responsible for",
+      "the first Golden Generation of French football"
+    ],
+    [
+      "Reims",
+      "hovered between",
+      "Ligue 2 and the Championnat National"
+    ],
+    [
+      "Reims",
+      "returned to",
+      "Ligue 1"
+    ],
+    [
+      "Reims",
+      "has won",
+      "two Coupe de France trophies"
+    ],
+    [
+      "Reims",
+      "has won",
+      "five Trophée des champions titles"
+    ],
+    [
+      "Stade de Reims",
+      "is a",
+      "French professional football club"
+    ],
+    [
+      "Reims",
+      "finished as runners-up in",
+      "the 1956 European Cup"
+    ],
+    [
+      "Reims",
+      "was promoted back to",
+      "Ligue 1"
+    ],
+    [
+      "Stade de Reims",
+      "plays in",
+      "Ligue 2"
+    ]
+  ]
+}

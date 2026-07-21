@@ -1,0 +1,118 @@
+{
+  "entities": [
+    "Cruzeiro",
+    "Barcelona",
+    "Copa América",
+    "footballer",
+    "2005 FIFA Confederations Cup",
+    "Argentina",
+    "left-back",
+    "Paris Saint-Germain",
+    "sports broadcaster",
+    "2006 World Cup",
+    "Argentina national team",
+    "Juan Pablo Sorín",
+    "Villarreal",
+    "River Plate",
+    "World Cups",
+    "Lazio",
+    "left midfielder"
+  ],
+  "edges": [
+    "earned caps with",
+    "was the captain of",
+    "is a",
+    "represented the team at",
+    "played as a",
+    "was the captain at",
+    "had a successful club career in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Juan Pablo Sorín",
+      "played for",
+      "Barcelona"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played as a",
+      "left midfielder"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "is a",
+      "sports broadcaster"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "represented the team at",
+      "World Cups"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "represented the team at",
+      "2005 FIFA Confederations Cup"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "was the captain at",
+      "2006 World Cup"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "was the captain of",
+      "Argentina national team"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played for",
+      "River Plate"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played for",
+      "Cruzeiro"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "had a successful club career in",
+      "Argentina"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played for",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played for",
+      "Lazio"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played as a",
+      "left-back"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "represented the team at",
+      "Copa América"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "earned caps with",
+      "Argentina national team"
+    ],
+    [
+      "Juan Pablo Sorín",
+      "played for",
+      "Villarreal"
+    ]
+  ]
+}

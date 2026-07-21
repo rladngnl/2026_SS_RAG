@@ -1,0 +1,76 @@
+{
+  "entities": [
+    "1954",
+    "championship title",
+    "Cypriot sports club",
+    "basketball",
+    "Limassol",
+    "volleyball",
+    "Super Cup",
+    "Apollon Lemesou",
+    "Apollon Limassol FC",
+    "cup",
+    "Cypriot First Division",
+    "football"
+  ],
+  "edges": [
+    "is a",
+    "has won",
+    "plays in",
+    "has teams in",
+    "was founded in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Apollon Limassol FC",
+      "has teams in",
+      "volleyball"
+    ],
+    [
+      "Apollon Limassol FC",
+      "has won",
+      "championship title"
+    ],
+    [
+      "Apollon Limassol FC",
+      "plays in",
+      "Cypriot First Division"
+    ],
+    [
+      "Apollon Limassol FC",
+      "was founded in",
+      "1954"
+    ],
+    [
+      "Apollon Limassol FC",
+      "has won",
+      "Super Cup"
+    ],
+    [
+      "Apollon Limassol FC",
+      "has teams in",
+      "basketball"
+    ],
+    [
+      "Apollon Limassol FC",
+      "is a",
+      "Cypriot sports club"
+    ],
+    [
+      "Apollon Limassol FC",
+      "has won",
+      "cup"
+    ],
+    [
+      "Apollon Limassol FC",
+      "is based in",
+      "Limassol"
+    ],
+    [
+      "Apollon Limassol FC",
+      "has teams in",
+      "football"
+    ]
+  ]
+}

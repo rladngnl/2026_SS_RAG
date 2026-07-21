@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "English footballer",
+    "goalkeeper",
+    "David Knight",
+    "Spennymoor Town",
+    "15 January 1987"
+  ],
+  "edges": [
+    "last played for",
+    "was born on",
+    "plays as",
+    "is"
+  ],
+  "relations": [
+    [
+      "David Knight",
+      "was born on",
+      "15 January 1987"
+    ],
+    [
+      "David Knight",
+      "last played for",
+      "Spennymoor Town"
+    ],
+    [
+      "David Knight",
+      "is",
+      "English footballer"
+    ],
+    [
+      "David Knight",
+      "plays as",
+      "goalkeeper"
+    ]
+  ]
+}

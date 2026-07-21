@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "Gheorghe Hagi",
+    "footballer",
+    "Belgian First Division",
+    "Club Brugge",
+    "Gent",
+    "2015",
+    "R.S.C. Anderlecht",
+    "Alin Tudor Adi Stoica",
+    "attacking midfielder",
+    "Italy",
+    "Serbia",
+    "Steaua București",
+    "Romanian"
+  ],
+  "edges": [
+    "is a",
+    "named",
+    "is an",
+    "came through the youth ranks at",
+    "retired in",
+    "moved to",
+    "won",
+    "had a spell at"
+  ],
+  "relations": [
+    [
+      "Gheorghe Hagi",
+      "named",
+      "Alin Tudor Adi Stoica"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "moved to",
+      "R.S.C. Anderlecht"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "won",
+      "three Belgian First Division titles"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "had a spell at",
+      "Gent"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "retired in",
+      "2015"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "came through the youth ranks at",
+      "Steaua București"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "is an",
+      "attacking midfielder"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "moved to",
+      "Club Brugge"
+    ],
+    [
+      "Alin Tudor Adi Stoica",
+      "won",
+      "one league title"
+    ]
+  ]
+}

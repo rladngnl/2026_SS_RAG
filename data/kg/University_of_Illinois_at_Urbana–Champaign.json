@@ -1,0 +1,217 @@
+{
+  "entities": [
+    "Big Ten Conference",
+    "multinational corporations",
+    "R1: Doctoral Universities – Very high research activity",
+    "100 graduate programs",
+    "Illinois",
+    "$652 million",
+    "Illinois athletic teams",
+    "59,000 students",
+    "University of Illinois System",
+    "16 schools and colleges",
+    "Division I",
+    "Association of American Universities",
+    "29 medals",
+    "1947",
+    "1964",
+    "1952",
+    "150 undergraduate programs",
+    "6,370 acres",
+    "24 Nobel laureates",
+    "Champaign–Urbana metropolitan area",
+    "fourth-largest university library",
+    "2 Turing Award winners",
+    "U of I",
+    "1867",
+    "Olympic events",
+    "United States",
+    "UIUC",
+    "27 Pulitzer Prize winners",
+    "National Center for Supercomputing Applications",
+    "NCAA",
+    "651 buildings",
+    "University of Illinois at Urbana–Champaign",
+    "research park",
+    "$2 billion",
+    "Rose Bowl Game",
+    "campus library system",
+    "90 start-up companies",
+    "Fighting Illini",
+    "2 Fields medalists",
+    "five national championships"
+  ],
+  "edges": [
+    "compete in",
+    "has over",
+    "won",
+    "covers",
+    "have won",
+    "is a member of",
+    "is located in",
+    "possesses",
+    "are members of",
+    "have participated in",
+    "has alumni, faculty members, or researchers including",
+    "offers over",
+    "was established in",
+    "is the founding campus and flagship institution of",
+    "had an annual operating budget in 2016 of over",
+    "had research expenditures totaling in fiscal year 2019",
+    "holds",
+    "operates a",
+    "is home to",
+    "contains",
+    "is classified among",
+    "offers more than",
+    "hosts the",
+    "is a public land-grant research university in"
+  ],
+  "relations": [
+    [
+      "University of Illinois at Urbana–Champaign",
+      "hosts the",
+      "National Center for Supercomputing Applications"
+    ],
+    [
+      "campus library system",
+      "possesses",
+      "fourth-largest university library"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "contains",
+      "16 schools and colleges"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "is located in",
+      "Champaign–Urbana metropolitan area"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "has over",
+      "59,000 students"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "offers over",
+      "100 graduate programs"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "has alumni, faculty members, or researchers including",
+      "2 Turing Award winners"
+    ],
+    [
+      "Illinois athletes",
+      "have participated in",
+      "Olympic events"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "holds",
+      "651 buildings"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "has alumni, faculty members, or researchers including",
+      "24 Nobel laureates"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "is classified among",
+      "R1: Doctoral Universities – Very high research activity"
+    ],
+    [
+      "Illinois athletes",
+      "have won",
+      "29 medals"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "is a public land-grant research university in",
+      "United States"
+    ],
+    [
+      "research park",
+      "is home to",
+      "90 start-up companies"
+    ],
+    [
+      "Illinois athletic teams",
+      "are members of",
+      "Big Ten Conference"
+    ],
+    [
+      "Illinois athletic teams",
+      "have won",
+      "the second-most conference titles"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "was established in",
+      "1867"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "is the founding campus and flagship institution of",
+      "University of Illinois System"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "had an annual operating budget in 2016 of over",
+      "$2 billion"
+    ],
+    [
+      "Illinois Fighting Illini football",
+      "won",
+      "Rose Bowl Game"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "covers",
+      "6,370 acres"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "offers more than",
+      "150 undergraduate programs"
+    ],
+    [
+      "Illinois Fighting Illini football",
+      "won",
+      "five national championships"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "had research expenditures totaling in fiscal year 2019",
+      "$652 million"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "is a member of",
+      "Association of American Universities"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "operates a",
+      "research park"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "has alumni, faculty members, or researchers including",
+      "2 Fields medalists"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "has alumni, faculty members, or researchers including",
+      "27 Pulitzer Prize winners"
+    ],
+    [
+      "Illinois athletic teams",
+      "compete in",
+      "Division I"
+    ]
+  ]
+}

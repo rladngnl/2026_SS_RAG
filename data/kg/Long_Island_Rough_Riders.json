@@ -1,0 +1,77 @@
+{
+  "entities": [
+    "1994",
+    "United States",
+    "USL W League",
+    "American Soccer Pyramid",
+    "women's team",
+    "Long Island Rough Riders",
+    "Mitchel Athletic Complex",
+    "USL League Two",
+    "New York",
+    "South Huntington",
+    "American soccer club"
+  ],
+  "edges": [
+    "is based in",
+    "plays in",
+    "is an",
+    "plays its home games at",
+    "has a",
+    "is part of",
+    "was founded in",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "New York",
+      "is part of",
+      "United States"
+    ],
+    [
+      "Long Island Rough Riders",
+      "is based in",
+      "South Huntington"
+    ],
+    [
+      "women's team",
+      "plays in",
+      "USL W League"
+    ],
+    [
+      "Long Island Rough Riders",
+      "is an",
+      "American soccer club"
+    ],
+    [
+      "Long Island Rough Riders",
+      "plays in",
+      "USL League Two"
+    ],
+    [
+      "South Huntington",
+      "is located in",
+      "New York"
+    ],
+    [
+      "USL League Two",
+      "is part of",
+      "American Soccer Pyramid"
+    ],
+    [
+      "Long Island Rough Riders",
+      "plays its home games at",
+      "Mitchel Athletic Complex"
+    ],
+    [
+      "Long Island Rough Riders",
+      "has a",
+      "women's team"
+    ],
+    [
+      "Long Island Rough Riders",
+      "was founded in",
+      "1994"
+    ]
+  ]
+}

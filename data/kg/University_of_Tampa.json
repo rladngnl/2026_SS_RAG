@@ -1,0 +1,106 @@
+{
+  "entities": [
+    "Southern Association of Colleges and Schools",
+    "pre-professional programs",
+    "majors",
+    "Plant Hall",
+    "11,000 students",
+    "University of Tampa",
+    "1931",
+    "Tampa Bay Hotel",
+    "minors",
+    "football program",
+    "Henry B. Plant",
+    "19 master's degrees",
+    "200 programs of study",
+    "certificates",
+    "1970s",
+    "United States",
+    "1990s",
+    "junior college",
+    "Moorish minarets",
+    "Florida",
+    "city of Tampa",
+    "UTampa"
+  ],
+  "edges": [
+    "had a football program in",
+    "was initially a",
+    "increased enrollment to",
+    "is a symbol of",
+    "is accredited by",
+    "was converted into",
+    "offers",
+    "moved to",
+    "was established in",
+    "expanded and modernized its campus since",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "University of Tampa",
+      "was established in",
+      "1931"
+    ],
+    [
+      "University of Tampa",
+      "expanded and modernized its campus since",
+      "1990s"
+    ],
+    [
+      "University of Tampa",
+      "had a football program in",
+      "1970s"
+    ],
+    [
+      "University of Tampa",
+      "moved to",
+      "Tampa Bay Hotel"
+    ],
+    [
+      "University of Tampa",
+      "is located in",
+      "United States"
+    ],
+    [
+      "University of Tampa",
+      "increased enrollment to",
+      "11,000 students"
+    ],
+    [
+      "University of Tampa",
+      "is accredited by",
+      "Southern Association of Colleges and Schools"
+    ],
+    [
+      "University of Tampa",
+      "is located in",
+      "Florida"
+    ],
+    [
+      "Plant Hall",
+      "is a symbol of",
+      "city of Tampa"
+    ],
+    [
+      "University of Tampa",
+      "offers",
+      "200 programs of study"
+    ],
+    [
+      "University of Tampa",
+      "offers",
+      "19 master's degrees"
+    ],
+    [
+      "University of Tampa",
+      "was initially a",
+      "junior college"
+    ],
+    [
+      "Tampa Bay Hotel",
+      "was converted into",
+      "Plant Hall"
+    ]
+  ]
+}

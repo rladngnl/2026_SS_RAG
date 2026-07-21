@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "seventy goals",
+    "Fortuna Sittard",
+    "NAC Breda",
+    "Sparta Rotterdam",
+    "footballer",
+    "Excelsior Rotterdam",
+    "RKC Waalwijk",
+    "football manager",
+    "480 professional league games",
+    "AZ Alkmaar",
+    "DOTO",
+    "Port Vale",
+    "Nico Jalink",
+    "Eredivisie",
+    "22 June 1964",
+    "FC Dordrecht",
+    "Nicholaas Jalink",
+    "Dutch"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "played with",
+    "spent most of his career in",
+    "spent time with",
+    "managed",
+    "scored",
+    "spent time in",
+    "played"
+  ],
+  "relations": [
+    [
+      "Nicholaas Jalink",
+      "is a",
+      "Dutch footballer"
+    ],
+    [
+      "Nicholaas Jalink",
+      "played with",
+      "Excelsior Rotterdam"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent time with",
+      "Fortuna Sittard"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent time with",
+      "AZ Alkmaar"
+    ],
+    [
+      "Nicholaas Jalink",
+      "is born on",
+      "22 June 1964"
+    ],
+    [
+      "Nicholaas Jalink",
+      "scored",
+      "seventy goals"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent most of his career in",
+      "Eredivisie"
+    ],
+    [
+      "Nicholaas Jalink",
+      "managed",
+      "DOTO"
+    ],
+    [
+      "Nicholaas Jalink",
+      "played",
+      "480 professional league games"
+    ],
+    [
+      "Nicholaas Jalink",
+      "played with",
+      "Sparta Rotterdam"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent time with",
+      "RKC Waalwijk"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent time with",
+      "NAC Breda"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent time in",
+      "Port Vale"
+    ],
+    [
+      "Nicholaas Jalink",
+      "is a",
+      "football manager"
+    ],
+    [
+      "Nicholaas Jalink",
+      "spent time with",
+      "FC Dordrecht"
+    ]
+  ]
+}

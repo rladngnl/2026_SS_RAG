@@ -1,0 +1,178 @@
+{
+  "entities": [
+    "Pope Benedict XVI",
+    "Nazi",
+    "Berlin",
+    "disarmed prisoners of war",
+    "people of a foreign race or descent",
+    "Gestapo",
+    "White Rose",
+    "Alfred Rosenberg",
+    "1923 meeting of Catholic German aristocrats",
+    "Treaty of Versailles",
+    "Pope Pius XI",
+    "Jesuits",
+    "innocent and defenceless mentally handicapped",
+    "Protocols of the Elders of Zion",
+    "German aristocracy",
+    "Feldkirch",
+    "German Resistance groups",
+    "Die Pest des Laizismus und ihre Erscheinungsformen",
+    "Nazi euthanasia",
+    "political conservatism",
+    "Catholic Church",
+    "German count",
+    "September 1943",
+    "Bishop of Münster",
+    "mentally ill",
+    "stab-in-the-back theory",
+    "cardinal",
+    "Münster's St. Lamberti Church",
+    "1937 anti-Nazi encyclical Mit brennender Sorge",
+    "Jews",
+    "Weimar Republic",
+    "Stella Matutina",
+    "Pope Pius XII",
+    "church property",
+    "St. Matthias",
+    "Clemens August Graf von Galen",
+    "incurably infirm",
+    "1941",
+    "fatally wounded",
+    "Nazi attacks on the Church",
+    "Aktion T4",
+    "diocese of Münster",
+    "criminal offenders",
+    "World War II",
+    "Austria-Hungary",
+    "Bolshevism",
+    "Hitler",
+    "innocent hostages"
+  ],
+  "edges": [
+    "was a",
+    "was appointed by",
+    "denounced",
+    "was pastor of",
+    "led",
+    "condemned",
+    "delivered sermons denouncing",
+    "became",
+    "was a member of",
+    "was beatified by",
+    "was an outspoken critic of",
+    "was involved in",
+    "inspired",
+    "criticized",
+    "received education in",
+    "helped draft",
+    "worked in"
+  ],
+  "relations": [
+    [
+      "Clemens August Graf von Galen",
+      "denounced",
+      "Gestapo lawlessness"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "became",
+      "Bishop of Münster"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "condemned",
+      "Nazi 'worship of race'"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was beatified by",
+      "Pope Benedict XVI"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "led",
+      "Catholic protests against Nazi euthanasia"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was pastor of",
+      "Münster's St. Lamberti Church"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "denounced",
+      "Nazi attacks on the Church"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was an outspoken critic of",
+      "Nazi euthanasia policies"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was involved in",
+      "September 1943 condemnation"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was appointed by",
+      "Pope Pius XII"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "delivered sermons denouncing",
+      "the arrest of Jesuits"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "inspired",
+      "German Resistance groups"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was a",
+      "cardinal"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was a",
+      "German count"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "helped draft",
+      "Pope Pius XI's 1937 anti-Nazi encyclical Mit brennender Sorge"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "criticized",
+      "Hitler's movement"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "condemned",
+      "the state-approved mass killing in Aktion T4"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was a member of",
+      "Catholic Church"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "worked in",
+      "Berlin"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "received education in",
+      "Austria-Hungary"
+    ],
+    [
+      "Clemens August Graf von Galen",
+      "was a",
+      "Bishop of Münster"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "Serbian",
+    "bronze medal",
+    "silver medal",
+    "Luxembourg",
+    "March 2016",
+    "Belgium",
+    "Vesna Čitaković",
+    "2015",
+    "2016",
+    "women's national team",
+    "OK Crvena Zvezda",
+    "2006 World Championship",
+    "volleyball player",
+    "Japan",
+    "2007 European Championship",
+    "Volley Bergamo"
+  ],
+  "edges": [
+    "signed for",
+    "at",
+    "retired as a player with",
+    "won",
+    "in",
+    "is a member of"
+  ],
+  "relations": [
+    [
+      "bronze medal",
+      "at",
+      "2006 World Championship"
+    ],
+    [
+      "women's national team",
+      "won",
+      "silver medal"
+    ],
+    [
+      "Vesna Čitaković",
+      "signed for",
+      "OK Crvena Zvezda"
+    ],
+    [
+      "Vesna Čitaković",
+      "retired as a player with",
+      "Bergamo"
+    ],
+    [
+      "2007 European Championship",
+      "in",
+      "Luxembourg"
+    ],
+    [
+      "Vesna Čitaković",
+      "signed for",
+      "Volley Bergamo"
+    ],
+    [
+      "women's national team",
+      "won",
+      "bronze medal"
+    ],
+    [
+      "2006 World Championship",
+      "in",
+      "Japan"
+    ],
+    [
+      "2007 European Championship",
+      "in",
+      "Belgium"
+    ],
+    [
+      "silver medal",
+      "at",
+      "2007 European Championship"
+    ],
+    [
+      "Vesna Čitaković",
+      "is a member of",
+      "women's national team"
+    ]
+  ]
+}

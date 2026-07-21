@@ -1,0 +1,80 @@
+{
+  "entities": [
+    "midfield player",
+    "professional footballer",
+    "13 June 2016",
+    "Tony Byrne",
+    "Hereford United",
+    "left-back",
+    "Millwall",
+    "4 goals",
+    "Irish",
+    "Southampton",
+    "Republic of Ireland",
+    "Anthony Brendan Byrne",
+    "1946",
+    "229 league games",
+    "Newport County"
+  ],
+  "edges": [
+    "scoring",
+    "had a career total of",
+    "was originally a",
+    "won",
+    "played for",
+    "switched to",
+    "was"
+  ],
+  "relations": [
+    [
+      "Anthony Brendan Byrne",
+      "played for",
+      "Southampton"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "switched to",
+      "left-back"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "was originally a",
+      "midfield player"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "had a career total of",
+      "229 league games"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "played for",
+      "Millwall"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "was",
+      "Irish professional footballer"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "played for",
+      "Hereford United"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "scoring",
+      "4 goals"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "won",
+      "14 caps for the Republic of Ireland"
+    ],
+    [
+      "Anthony Brendan Byrne",
+      "played for",
+      "Newport County"
+    ]
+  ]
+}

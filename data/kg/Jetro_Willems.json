@@ -1,0 +1,67 @@
+{
+  "entities": [
+    "professional footballer",
+    "UEFA Euro 2012",
+    "left-back",
+    "Jetro Danovich Sexer Willems",
+    "youngest player",
+    "Lamine Yamal",
+    "left wing-back",
+    "Netherlands national team",
+    "Jetro Willems",
+    "Dutch",
+    "Spain",
+    "UEFA European Championship"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "is from",
+    "represented",
+    "holds the record for",
+    "plays as",
+    "is the youngest player ever to play in"
+  ],
+  "relations": [
+    [
+      "Jetro Willems",
+      "played in",
+      "UEFA Euro 2012"
+    ],
+    [
+      "Jetro Willems",
+      "plays as",
+      "left-back"
+    ],
+    [
+      "Lamine Yamal",
+      "is from",
+      "Spain"
+    ],
+    [
+      "Jetro Willems",
+      "represented",
+      "Netherlands national team"
+    ],
+    [
+      "Jetro Willems",
+      "is the youngest player ever to play in",
+      "UEFA European Championship"
+    ],
+    [
+      "Jetro Willems",
+      "plays as",
+      "left wing-back"
+    ],
+    [
+      "Jetro Willems",
+      "is a",
+      "Dutch professional footballer"
+    ],
+    [
+      "Lamine Yamal",
+      "holds the record for",
+      "youngest player"
+    ]
+  ]
+}

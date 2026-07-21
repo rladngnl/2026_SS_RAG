@@ -1,0 +1,98 @@
+{
+  "entities": [
+    "American",
+    "Everwood",
+    "1994",
+    "screenwriter",
+    "Flight 93",
+    "comedy western",
+    "Wagons East",
+    "The Personals",
+    "Peter Markle",
+    "The X-Files",
+    "film director",
+    "1982",
+    "CSI: Crime Scene Investigation",
+    "romantic comedy",
+    "television director"
+  ],
+  "edges": [
+    "is a",
+    "directed",
+    "is",
+    "was released in",
+    "was director of"
+  ],
+  "relations": [
+    [
+      "Peter Markle",
+      "directed",
+      "Everwood"
+    ],
+    [
+      "Wagons East",
+      "is a",
+      "comedy western"
+    ],
+    [
+      "Peter Markle",
+      "was director of",
+      "Flight 93"
+    ],
+    [
+      "The Personals",
+      "was released in",
+      "1982"
+    ],
+    [
+      "Peter Markle",
+      "is",
+      "screenwriter"
+    ],
+    [
+      "Peter Markle",
+      "directed",
+      "The Personals"
+    ],
+    [
+      "Peter Markle",
+      "directed",
+      "Wagons East"
+    ],
+    [
+      "Wagons East",
+      "was released in",
+      "1994"
+    ],
+    [
+      "Peter Markle",
+      "is",
+      "television director"
+    ],
+    [
+      "Peter Markle",
+      "is",
+      "film director"
+    ],
+    [
+      "The Personals",
+      "is a",
+      "romantic comedy"
+    ],
+    [
+      "Peter Markle",
+      "is",
+      "American"
+    ],
+    [
+      "Peter Markle",
+      "directed",
+      "The X-Files"
+    ],
+    [
+      "Peter Markle",
+      "directed",
+      "CSI: Crime Scene Investigation"
+    ]
+  ]
+}

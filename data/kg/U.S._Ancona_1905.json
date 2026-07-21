@@ -1,0 +1,67 @@
+{
+  "entities": [
+    "bankruptcy",
+    "A.C. Ancona",
+    "S.S. Piano San Lazzaro",
+    "Ancona",
+    "relegation",
+    "U.S. Ancona 1905",
+    "football pyramid",
+    "Ancona, Marche",
+    "2017",
+    "Italian football club",
+    "2010"
+  ],
+  "edges": [
+    "was an",
+    "withdrew from the",
+    "changed its name to",
+    "caused the bankruptcy of",
+    "was renamed to",
+    "experienced relegation in",
+    "is commonly referred to as",
+    "was established in"
+  ],
+  "relations": [
+    [
+      "U.S. Ancona 1905",
+      "is commonly referred to as",
+      "Ancona"
+    ],
+    [
+      "A.C. Ancona",
+      "caused the bankruptcy of",
+      "U.S. Ancona 1905"
+    ],
+    [
+      "U.S. Ancona 1905",
+      "experienced relegation in",
+      "2017"
+    ],
+    [
+      "S.S. Piano San Lazzaro",
+      "was renamed to",
+      "U.S. Ancona 1905"
+    ],
+    [
+      "U.S. Ancona 1905",
+      "changed its name to",
+      "U.S. Ancona 1905"
+    ],
+    [
+      "U.S. Ancona 1905",
+      "was established in",
+      "2010"
+    ],
+    [
+      "U.S. Ancona 1905",
+      "withdrew from the",
+      "football pyramid"
+    ],
+    [
+      "U.S. Ancona 1905",
+      "was an",
+      "Italian football club"
+    ]
+  ]
+}

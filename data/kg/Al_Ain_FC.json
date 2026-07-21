@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "Al Ain Sports and Cultural Club",
+    "United Arab Emirates",
+    "Super Cups",
+    "League Cup",
+    "Emirati-Moroccan Super Cup",
+    "Abu Dhabi",
+    "Bahraini group of exchange students",
+    "President's Cups",
+    "Al-Ain Football Club",
+    "Federation Cups",
+    "AFC Champions League",
+    "Sudanese community",
+    "Gulf Club Champions Cup",
+    "UAE",
+    "UAE Pro League",
+    "Joint League",
+    "Al Ain",
+    "Abu Dhabi Championship"
+  ],
+  "edges": [
+    "is the city of",
+    "has won",
+    "is located in",
+    "is a part of",
+    "was founded by",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "UAE Pro League"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "Abu Dhabi Championship"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "AFC Champions League"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "Emirati-Moroccan Super Cup"
+    ],
+    [
+      "Al-Ain Football Club",
+      "was founded by",
+      "Bahraini group of exchange students"
+    ],
+    [
+      "Al-Ain Football Club",
+      "was founded by",
+      "Sudanese community"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "League Cup"
+    ],
+    [
+      "Al Ain",
+      "is the city of",
+      "Al-Ain Football Club"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "President's Cups"
+    ],
+    [
+      "Al-Ain Football Club",
+      "is based in",
+      "Abu Dhabi"
+    ],
+    [
+      "Al-Ain Football Club",
+      "is a part of",
+      "Al Ain Sports and Cultural Club"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "Federation Cups"
+    ],
+    [
+      "Al-Ain Football Club",
+      "is located in",
+      "United Arab Emirates"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "Joint League"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "Gulf Club Champions Cup"
+    ],
+    [
+      "Al-Ain Football Club",
+      "has won",
+      "Super Cups"
+    ]
+  ]
+}

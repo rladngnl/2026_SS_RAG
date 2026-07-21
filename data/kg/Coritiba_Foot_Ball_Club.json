@@ -1,0 +1,165 @@
+{
+  "entities": [
+    "Coritiba",
+    "Coxa",
+    "Paraná",
+    "Treecorp Investimentos",
+    "Paraná Clube",
+    "2010",
+    "Coritiba Foot Ball Club",
+    "1.1 billion reais",
+    "2007",
+    "Paratiba",
+    "Atletiba derby",
+    "Brazilian Championship",
+    "39",
+    "Rio de Janeiro",
+    "Brazilian Championship Série B",
+    "Estádio Couto Pereira",
+    "Athletico Paranaense",
+    "2025",
+    "Paraná State Championship",
+    "Rio Grande do Sul",
+    "Curitiba",
+    "São Paulo",
+    "Minas Gerais",
+    "90%",
+    "1985"
+  ],
+  "edges": [
+    "valued at",
+    "has main rivalry with",
+    "completed the purchase of",
+    "plays",
+    "is from",
+    "is commonly known as",
+    "has won",
+    "is located in",
+    "has home stadium",
+    "was the first club from Paraná to win",
+    "has capacity of",
+    "won in",
+    "was founded in",
+    "is colloquially referred to as",
+    "was built in",
+    "competes in",
+    "won titles in"
+  ],
+  "relations": [
+    [
+      "Athletico Paranaense",
+      "has won",
+      "27 titles"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "has won",
+      "39 times"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "has home stadium",
+      "Estádio Couto Pereira"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "won in",
+      "1985"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "won titles in",
+      "2010"
+    ],
+    [
+      "Paraná Clube",
+      "has won",
+      "7 titles"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "won titles in",
+      "2025"
+    ],
+    [
+      "Estádio Couto Pereira",
+      "was built in",
+      "1932"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "competes in",
+      "Paratiba"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "won titles in",
+      "2007"
+    ],
+    [
+      "Treecorp Investimentos",
+      "valued at",
+      "1.1 billion reais"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "is colloquially referred to as",
+      "Coxa"
+    ],
+    [
+      "Estádio Couto Pereira",
+      "has capacity of",
+      "40,000 fans"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "has main rivalry with",
+      "Athletico Paranaense"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "has won",
+      "Paraná State Championship"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "is located in",
+      "Paraná"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "was the first club from Paraná to win",
+      "Brazilian Championship"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "has won",
+      "three Brazilian Championship Série B titles"
+    ],
+    [
+      "Treecorp Investimentos",
+      "completed the purchase of",
+      "90% of the club's SAF"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "is commonly known as",
+      "Coritiba"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "is from",
+      "Curitiba"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "plays",
+      "Atletiba derby"
+    ],
+    [
+      "Coritiba Foot Ball Club",
+      "was founded in",
+      "1909"
+    ]
+  ]
+}

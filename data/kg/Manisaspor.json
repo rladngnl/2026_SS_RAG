@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "15 June 1965",
+    "red",
+    "Turkish professional football club",
+    "black",
+    "Mümin Özkasap Stadium",
+    "Aegean Region",
+    "Manisaspor",
+    "Tarık Almış Sports Complex",
+    "white",
+    "Sakaryaspor",
+    "Manisa"
+  ],
+  "edges": [
+    "changed its name on",
+    "is a",
+    "changed its name to",
+    "has club colours",
+    "has training ground at",
+    "plays home matches at",
+    "was originally formed as",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Manisaspor",
+      "was originally formed as",
+      "Sakaryaspor"
+    ],
+    [
+      "Manisaspor",
+      "changed its name on",
+      "15 June 1965"
+    ],
+    [
+      "Manisaspor",
+      "is a",
+      "Turkish professional football club"
+    ],
+    [
+      "Manisaspor",
+      "is located in",
+      "Manisa"
+    ],
+    [
+      "Manisaspor",
+      "changed its name to",
+      "Manisaspor"
+    ],
+    [
+      "Manisaspor",
+      "has club colours",
+      "red"
+    ],
+    [
+      "Manisaspor",
+      "has club colours",
+      "black"
+    ],
+    [
+      "Manisaspor",
+      "has training ground at",
+      "Tarık Almış Sports Complex"
+    ],
+    [
+      "Manisaspor",
+      "plays home matches at",
+      "Mümin Özkasap Stadium"
+    ],
+    [
+      "Tarık Almış Sports Complex",
+      "is located in",
+      "Aegean Region"
+    ],
+    [
+      "Manisaspor",
+      "has club colours",
+      "white"
+    ]
+  ]
+}

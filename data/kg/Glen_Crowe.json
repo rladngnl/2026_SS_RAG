@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "Bohemians",
+    "25 December 1977",
+    "Glen Crowe",
+    "League of Ireland Premier Division",
+    "Shelbourne",
+    "Sporting Fingal",
+    "Wolves",
+    "Irish",
+    "professional football forward",
+    "Republic of Ireland national football team"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "was a prolific goalscorer in",
+    "is",
+    "has represented",
+    "previously played for"
+  ],
+  "relations": [
+    [
+      "Glen Crowe",
+      "is",
+      "Irish"
+    ],
+    [
+      "Glen Crowe",
+      "is born on",
+      "25 December 1977"
+    ],
+    [
+      "Glen Crowe",
+      "previously played for",
+      "Shelbourne"
+    ],
+    [
+      "Glen Crowe",
+      "is a",
+      "professional football forward"
+    ],
+    [
+      "Glen Crowe",
+      "previously played for",
+      "Bohemians"
+    ],
+    [
+      "Glen Crowe",
+      "was a prolific goalscorer in",
+      "League of Ireland Premier Division"
+    ],
+    [
+      "Glen Crowe",
+      "previously played for",
+      "Wolves"
+    ],
+    [
+      "Glen Crowe",
+      "previously played for",
+      "Sporting Fingal"
+    ],
+    [
+      "Glen Crowe",
+      "has represented",
+      "Republic of Ireland national football team"
+    ]
+  ]
+}

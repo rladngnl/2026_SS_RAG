@@ -1,0 +1,67 @@
+{
+  "entities": [
+    "Club Sportif Sedan Ardennes",
+    "Championnat National",
+    "CS Sedan",
+    "2022–23 season",
+    "France",
+    "Stade Louis Dugauguez",
+    "1919",
+    "financial problems",
+    "8th tier",
+    "Régional 3",
+    "Sedan"
+  ],
+  "edges": [
+    "is the",
+    "is a football club based in",
+    "finished 7th in",
+    "plays its home matches at",
+    "was formed in",
+    "was relegated to",
+    "is commonly referred to as",
+    "was relegated due to"
+  ],
+  "relations": [
+    [
+      "Régional 3",
+      "is the",
+      "8th tier"
+    ],
+    [
+      "CS Sedan",
+      "was relegated due to",
+      "financial problems"
+    ],
+    [
+      "CS Sedan",
+      "was relegated to",
+      "Régional 3"
+    ],
+    [
+      "CS Sedan",
+      "finished 7th in",
+      "Championnat National"
+    ],
+    [
+      "CS Sedan",
+      "was formed in",
+      "1919"
+    ],
+    [
+      "CS Sedan",
+      "is commonly referred to as",
+      "Club Sportif Sedan Ardennes"
+    ],
+    [
+      "CS Sedan",
+      "is a football club based in",
+      "Sedan"
+    ],
+    [
+      "CS Sedan",
+      "plays its home matches at",
+      "Stade Louis Dugauguez"
+    ]
+  ]
+}

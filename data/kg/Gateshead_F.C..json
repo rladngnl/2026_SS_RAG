@@ -1,0 +1,150 @@
+{
+  "entities": [
+    "Gateshead International Stadium",
+    "Premier Division",
+    "England",
+    "Gateshead",
+    "Conference North",
+    "Heed",
+    "Football League",
+    "National League North",
+    "First Division play-offs",
+    "Gateshead Football Club",
+    "Northern Premier League",
+    "Tynesiders",
+    "Football Conference",
+    "2021–22 season",
+    "National League",
+    "Premier Division play-offs",
+    "Gateshead A.F.C.",
+    "FA Trophy",
+    "Tyne and Wear",
+    "2023–24 season"
+  ],
+  "edges": [
+    "returned to",
+    "spent the next decade in",
+    "were further relegated from",
+    "was in",
+    "was relegated from",
+    "is located in",
+    "secured promotion back to",
+    "won promotion from",
+    "finished as runners-up in",
+    "won their first",
+    "were demoted to",
+    "won",
+    "are known as",
+    "began life in",
+    "competes in",
+    "is based in",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Gateshead Football Club",
+      "were further relegated from",
+      "Northern Premier League Premier Division"
+    ],
+    [
+      "Gateshead Football Club",
+      "returned to",
+      "National League"
+    ],
+    [
+      "Gateshead Football Club",
+      "plays home matches at",
+      "Gateshead International Stadium"
+    ],
+    [
+      "Gateshead Football Club",
+      "are known as",
+      "Tynesiders"
+    ],
+    [
+      "Gateshead Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Gateshead Football Club",
+      "won",
+      "Premier Division titles in the 1982–83 and 1985–86 seasons"
+    ],
+    [
+      "Gateshead Football Club",
+      "won their first",
+      "FA Trophy title in the 2023–24 season"
+    ],
+    [
+      "Gateshead A.F.C.",
+      "was in",
+      "Football League"
+    ],
+    [
+      "Gateshead Football Club",
+      "won promotion from",
+      "Conference North"
+    ],
+    [
+      "Gateshead Football Club",
+      "is located in",
+      "Tyne and Wear"
+    ],
+    [
+      "Gateshead Football Club",
+      "competes in",
+      "National League"
+    ],
+    [
+      "Gateshead Football Club",
+      "secured promotion back to",
+      "Conference"
+    ],
+    [
+      "Gateshead Football Club",
+      "won",
+      "First Division play-offs in 2004"
+    ],
+    [
+      "Gateshead Football Club",
+      "began life in",
+      "Northern Premier League"
+    ],
+    [
+      "Gateshead Football Club",
+      "were demoted to",
+      "National League North"
+    ],
+    [
+      "Gateshead Football Club",
+      "finished as runners-up in",
+      "previous competition"
+    ],
+    [
+      "Gateshead Football Club",
+      "is based in",
+      "Gateshead"
+    ],
+    [
+      "Gateshead Football Club",
+      "was relegated from",
+      "Football Conference"
+    ],
+    [
+      "Gateshead Football Club",
+      "won",
+      "Premier Division play-offs in 2008"
+    ],
+    [
+      "Gateshead Football Club",
+      "are known as",
+      "Heed"
+    ],
+    [
+      "Gateshead Football Club",
+      "spent the next decade in",
+      "top-flight of English football's non-League system"
+    ]
+  ]
+}

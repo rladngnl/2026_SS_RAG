@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "footballer",
+    "Real Salt Lake",
+    "Canadian-Jamaican",
+    "Andy Williams",
+    "Major League Soccer",
+    "Jamaican",
+    "midfielder",
+    "Andrew Williams"
+  ],
+  "edges": [
+    "played for",
+    "last played as",
+    "is in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Andrew Williams",
+      "last played as",
+      "midfielder"
+    ],
+    [
+      "Andrew Williams",
+      "is",
+      "Canadian-Jamaican"
+    ],
+    [
+      "Andrew Williams",
+      "played for",
+      "Real Salt Lake"
+    ],
+    [
+      "Andrew Williams",
+      "is",
+      "footballer"
+    ],
+    [
+      "Real Salt Lake",
+      "is in",
+      "Major League Soccer"
+    ]
+  ]
+}

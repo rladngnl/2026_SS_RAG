@@ -1,0 +1,204 @@
+{
+  "entities": [
+    "April 16, 1924",
+    "1963",
+    "Grammy Awards",
+    "American composer",
+    "Golden Globe",
+    "flutist",
+    "Grammy Award for Album of the Year",
+    "Days of Wine and Roses",
+    "1961",
+    "film and television scores",
+    "Grammy Lifetime Achievement Award",
+    "Academy Awards",
+    "The Music from Peter Gunn",
+    "1969",
+    "June 14, 1994",
+    "The Pink Panther",
+    "The Pink Panther Theme",
+    "Johnny Mercer",
+    "Hot 100",
+    "1995",
+    "pianist",
+    "Peter Gunn",
+    "Blake Edwards",
+    "arranger",
+    "Love Theme from Romeo and Juliet",
+    "Henry Mancini",
+    "Enrico Nicola Mancini",
+    "conductor",
+    "Grammy Awards for Song of the Year",
+    "Grammy Awards for Record of the Year",
+    "Moon River",
+    "Breakfast at Tiffany's",
+    "1958"
+  ],
+  "edges": [
+    "was a",
+    "was best known as a",
+    "won the Grammy Awards for",
+    "composed the music for",
+    "collaborated with",
+    "is from",
+    "died on",
+    "scored a No. 1 single on the Hot 100 in",
+    "was born on",
+    "composed",
+    "was an",
+    "co-wrote with",
+    "won in",
+    "arranged and recorded",
+    "won",
+    "composed the theme and soundtrack for",
+    "born as",
+    "composed the song"
+  ],
+  "relations": [
+    [
+      "Moon River",
+      "is from",
+      "Breakfast at Tiffany's"
+    ],
+    [
+      "Moon River",
+      "won the Grammy Awards for",
+      "Record of the Year"
+    ],
+    [
+      "The Music from Peter Gunn",
+      "won",
+      "the Grammy Award for Album of the Year"
+    ],
+    [
+      "The Music from Peter Gunn",
+      "won in",
+      "1958"
+    ],
+    [
+      "Henry Mancini",
+      "was a",
+      "flutist"
+    ],
+    [
+      "Henry Mancini",
+      "was best known as a",
+      "composer of film and television scores"
+    ],
+    [
+      "Henry Mancini",
+      "scored a No. 1 single on the Hot 100 in",
+      "1969"
+    ],
+    [
+      "Henry Mancini",
+      "won in",
+      "1995"
+    ],
+    [
+      "Moon River",
+      "won the Grammy Awards for",
+      "Song of the Year"
+    ],
+    [
+      "Henry Mancini",
+      "was born on",
+      "April 16, 1924"
+    ],
+    [
+      "Henry Mancini",
+      "won",
+      "a Golden Globe"
+    ],
+    [
+      "Henry Mancini",
+      "co-wrote with",
+      "Johnny Mercer"
+    ],
+    [
+      "Henry Mancini",
+      "was an",
+      "arranger"
+    ],
+    [
+      "Henry Mancini",
+      "composed",
+      "The Pink Panther Theme"
+    ],
+    [
+      "Henry Mancini",
+      "won",
+      "four Academy Awards"
+    ],
+    [
+      "Henry Mancini",
+      "was a",
+      "pianist"
+    ],
+    [
+      "Henry Mancini",
+      "collaborated with",
+      "Blake Edwards"
+    ],
+    [
+      "Henry Mancini",
+      "was a",
+      "conductor"
+    ],
+    [
+      "Moon River",
+      "won in",
+      "1961"
+    ],
+    [
+      "Henry Mancini",
+      "born as",
+      "Enrico Nicola Mancini"
+    ],
+    [
+      "Henry Mancini",
+      "was an",
+      "American composer"
+    ],
+    [
+      "Henry Mancini",
+      "composed the music for",
+      "The Pink Panther"
+    ],
+    [
+      "Henry Mancini",
+      "arranged and recorded",
+      "Love Theme from Romeo and Juliet"
+    ],
+    [
+      "Henry Mancini",
+      "composed the theme and soundtrack for",
+      "Peter Gunn"
+    ],
+    [
+      "Henry Mancini",
+      "won",
+      "twenty Grammy Awards"
+    ],
+    [
+      "Henry Mancini",
+      "composed the song",
+      "Moon River"
+    ],
+    [
+      "Henry Mancini",
+      "died on",
+      "June 14, 1994"
+    ],
+    [
+      "Days of Wine and Roses",
+      "won in",
+      "1963"
+    ],
+    [
+      "Henry Mancini",
+      "won",
+      "a Grammy Lifetime Achievement Award"
+    ]
+  ]
+}

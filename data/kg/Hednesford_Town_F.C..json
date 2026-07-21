@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "England",
+    "Hednesford Town F.C.",
+    "Hednesford",
+    "FA Trophy",
+    "Keys Park",
+    "2004",
+    "Staffordshire",
+    "National League North"
+  ],
+  "edges": [
+    "are members of",
+    "play at",
+    "is located in",
+    "won in",
+    "won",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Hednesford Town F.C.",
+      "is located in",
+      "England"
+    ],
+    [
+      "Hednesford Town F.C.",
+      "is based in",
+      "Hednesford"
+    ],
+    [
+      "Hednesford Town F.C.",
+      "are members of",
+      "National League North"
+    ],
+    [
+      "Hednesford Town F.C.",
+      "is located in",
+      "Staffordshire"
+    ],
+    [
+      "Hednesford Town F.C.",
+      "won",
+      "FA Trophy"
+    ],
+    [
+      "Hednesford Town F.C.",
+      "won in",
+      "2004"
+    ],
+    [
+      "Hednesford Town F.C.",
+      "play at",
+      "Keys Park"
+    ]
+  ]
+}

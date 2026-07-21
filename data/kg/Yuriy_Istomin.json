@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "3 July 1944",
+    "Yuriy_Istomin",
+    "Yuriy Vasylyovych Istomin",
+    "footballer",
+    "Soviet",
+    "6 February 1999",
+    "Юрий Васильевич Истомин",
+    "Юрій Васильович Істомин",
+    "Ukrainian",
+    "Yuriy Vasilyevich Istomin"
+  ],
+  "edges": [
+    "was born on",
+    "is",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Yuriy_Istomin",
+      "died on",
+      "6 February 1999"
+    ],
+    [
+      "Yuriy_Istomin",
+      "is",
+      "Yuriy Vasylyovych Istomin"
+    ],
+    [
+      "Yuriy_Istomin",
+      "is",
+      "Юрій Васильович Істомин"
+    ],
+    [
+      "Yuriy_Istomin",
+      "was born on",
+      "3 July 1944"
+    ],
+    [
+      "Yuriy_Istomin",
+      "was",
+      "Soviet Ukrainian footballer"
+    ],
+    [
+      "Yuriy_Istomin",
+      "is",
+      "Yuriy Vasilyevich Istomin"
+    ],
+    [
+      "Yuriy_Istomin",
+      "is",
+      "Юрий Васильевич Истомин"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "entities": [
+    "International Schools Player of the Year",
+    "Ards",
+    "coach",
+    "Football Association of Ireland",
+    "NIFL Premiership",
+    "David Elebert",
+    "Shaun",
+    "1990/91",
+    "Irish",
+    "Shamrock Rovers",
+    "football player",
+    "Longford Town"
+  ],
+  "edges": [
+    "for the year",
+    "is uncle of",
+    "is",
+    "won",
+    "played for",
+    "coaches at",
+    "is awarded by"
+  ],
+  "relations": [
+    [
+      "David Elebert",
+      "is",
+      "coach"
+    ],
+    [
+      "Shaun",
+      "won",
+      "International Schools Player of the Year"
+    ],
+    [
+      "Shaun",
+      "is uncle of",
+      "David Elebert"
+    ],
+    [
+      "International Schools Player of the Year",
+      "is awarded by",
+      "Football Association of Ireland"
+    ],
+    [
+      "David Elebert",
+      "coaches at",
+      "Ards"
+    ],
+    [
+      "David Elebert",
+      "is",
+      "football player"
+    ],
+    [
+      "Shaun",
+      "played for",
+      "Longford Town"
+    ],
+    [
+      "International Schools Player of the Year",
+      "for the year",
+      "1990/91"
+    ],
+    [
+      "David Elebert",
+      "coaches at",
+      "NIFL Premiership"
+    ],
+    [
+      "David Elebert",
+      "is",
+      "Irish"
+    ],
+    [
+      "Shaun",
+      "played for",
+      "Shamrock Rovers"
+    ]
+  ]
+}

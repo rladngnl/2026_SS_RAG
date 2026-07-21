@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "Rio Gallegos",
+    "Buenos Aires Province",
+    "Puerto Santa Cruz",
+    "Argentina",
+    "Conquest of the Desert",
+    "gold rush",
+    "Tehuelches",
+    "Territory of Santa Cruz",
+    "Chile",
+    "European countries",
+    "1957",
+    "Patagonia",
+    "Chubut Province",
+    "Santa Cruz Province",
+    "Atlantic coast"
+  ],
+  "edges": [
+    "is second-largest province of",
+    "has coast on",
+    "was named after",
+    "is least densely populated in",
+    "borders",
+    "had a population of",
+    "are indigenous people of",
+    "became a province of",
+    "covers a land area of",
+    "moved to",
+    "was organised after",
+    "was established in",
+    "is part of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "capital",
+      "moved to",
+      "Rio Gallegos"
+    ],
+    [
+      "Santa Cruz Province",
+      "became a province of",
+      "Argentina"
+    ],
+    [
+      "Santa Cruz Province",
+      "is located in",
+      "Argentina"
+    ],
+    [
+      "Santa Cruz Province",
+      "is second-largest province of",
+      "Argentina"
+    ],
+    [
+      "Santa Cruz Province",
+      "covers a land area of",
+      "243,943 km2"
+    ],
+    [
+      "Santa Cruz Province",
+      "was established in",
+      "1957"
+    ],
+    [
+      "Santa Cruz Province",
+      "has coast on",
+      "Atlantic coast"
+    ],
+    [
+      "Santa Cruz Province",
+      "borders",
+      "Chile"
+    ],
+    [
+      "Territory of Santa Cruz",
+      "was organised after",
+      "Conquest of the Desert"
+    ],
+    [
+      "Santa Cruz Province",
+      "borders",
+      "Chubut Province"
+    ],
+    [
+      "Santa Cruz Province",
+      "is least densely populated in",
+      "mainland Argentina"
+    ],
+    [
+      "Tehuelches",
+      "are indigenous people of",
+      "Santa Cruz Province"
+    ],
+    [
+      "Territory of Santa Cruz",
+      "was named after",
+      "Puerto Santa Cruz"
+    ],
+    [
+      "Santa Cruz Province",
+      "is part of",
+      "Patagonia"
+    ],
+    [
+      "Santa Cruz Province",
+      "had a population of",
+      "337,226"
+    ]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "entities": [
+    "2018–19 season",
+    "Gil Vicente",
+    "Estádio Cidade de Barcelos",
+    "Barcelos",
+    "Portugal",
+    "Primeira Liga",
+    "Gil Vicente (playwright)",
+    "2021–22",
+    "women's football team",
+    "Segunda Liga",
+    "Primeira Liga 1990–91",
+    "Gil Vicente Futebol Clube",
+    "1999–2000",
+    "1924"
+  ],
+  "edges": [
+    "has been relegated to",
+    "participated in",
+    "had highest league finishes of",
+    "has played",
+    "plays in",
+    "is named after",
+    "created a",
+    "won back promotion by winning",
+    "first played in",
+    "competes in",
+    "was founded in",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Gil Vicente Futebol Clube",
+      "won back promotion by winning",
+      "Segunda Liga"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "was founded in",
+      "1924"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "created a",
+      "women's football team"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "plays home matches at",
+      "Estádio Cidade de Barcelos"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "plays in",
+      "Barcelos"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "first played in",
+      "Primeira Liga 1990–91"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "has been relegated to",
+      "the second tier"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "has played",
+      "six straight seasons in it"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "is named after",
+      "Gil Vicente (playwright)"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "had highest league finishes of",
+      "two fifth-places in 1999–2000 and 2021–22"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "competes in",
+      "Primeira Liga"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "participated in",
+      "the top tier"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "Philippines",
+    "City of Talisay",
+    "Highly Urbanized City",
+    "Cebu",
+    "province of Cebu",
+    "Filipino",
+    "Talisay",
+    "2024 census",
+    "Visayas",
+    "talisay tree",
+    "263,832 people",
+    "Cebuano",
+    "HUC"
+  ],
+  "edges": [
+    "is abundant in",
+    "is in",
+    "is a",
+    "is the most populous component city in",
+    "is applying for",
+    "is the population of",
+    "is also known as",
+    "is named after",
+    "has a population of",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "City of Talisay",
+      "is located in",
+      "province of Cebu"
+    ],
+    [
+      "City of Talisay",
+      "is applying for",
+      "Highly Urbanized City"
+    ],
+    [
+      "263,832 people",
+      "is the population of",
+      "City of Talisay"
+    ],
+    [
+      "City of Talisay",
+      "has a population of",
+      "263,832 people"
+    ],
+    [
+      "Highly Urbanized City",
+      "is also known as",
+      "HUC"
+    ],
+    [
+      "City of Talisay",
+      "is the most populous component city in",
+      "Visayas"
+    ],
+    [
+      "City of Talisay",
+      "is named after",
+      "talisay tree"
+    ],
+    [
+      "talisay tree",
+      "is abundant in",
+      "area"
+    ],
+    [
+      "City of Talisay",
+      "is in",
+      "Philippines"
+    ],
+    [
+      "Talisay",
+      "is a",
+      "City of Talisay"
+    ]
+  ]
+}

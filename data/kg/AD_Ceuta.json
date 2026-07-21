@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "6,500",
+    "Asociación Deportiva Ceuta",
+    "1996",
+    "Estadio Alfonso Murube",
+    "Segunda División B",
+    "Ceuta",
+    "2011–12",
+    "Spanish football team"
+  ],
+  "edges": [
+    "is a",
+    "played in",
+    "has a capacity of",
+    "held home matches at",
+    "last season was",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Asociación Deportiva Ceuta",
+      "last season was",
+      "2011–12"
+    ],
+    [
+      "Asociación Deportiva Ceuta",
+      "was founded in",
+      "1996"
+    ],
+    [
+      "Asociación Deportiva Ceuta",
+      "played in",
+      "Segunda División B"
+    ],
+    [
+      "Estadio Alfonso Murube",
+      "has a capacity of",
+      "6,500"
+    ],
+    [
+      "Asociación Deportiva Ceuta",
+      "held home matches at",
+      "Estadio Alfonso Murube"
+    ],
+    [
+      "Asociación Deportiva Ceuta",
+      "is a",
+      "Spanish football team"
+    ]
+  ]
+}

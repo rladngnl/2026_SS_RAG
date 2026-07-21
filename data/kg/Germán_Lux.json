@@ -1,0 +1,56 @@
+{
+  "entities": [
+    "Mallorca",
+    "footballer",
+    "Argentina",
+    "goalkeeper",
+    "Germán Darío Lux",
+    "River Plate",
+    "Deportivo",
+    "Spain"
+  ],
+  "edges": [
+    "is a",
+    "spent most of his career in",
+    "started out at",
+    "was born in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Germán Darío Lux",
+      "played for",
+      "Deportivo"
+    ],
+    [
+      "Germán Darío Lux",
+      "played for",
+      "Mallorca"
+    ],
+    [
+      "Germán Darío Lux",
+      "started out at",
+      "River Plate"
+    ],
+    [
+      "Germán Darío Lux",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Germán Darío Lux",
+      "is a",
+      "goalkeeper"
+    ],
+    [
+      "Germán Darío Lux",
+      "spent most of his career in",
+      "Spain"
+    ],
+    [
+      "Germán Darío Lux",
+      "was born in",
+      "Argentina"
+    ]
+  ]
+}

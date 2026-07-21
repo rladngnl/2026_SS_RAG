@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "Blackburn Rovers",
+    "football manager",
+    "Omonia",
+    "Lillestrøm",
+    "Lyn",
+    "Vålerenga",
+    "Ekstraklasa",
+    "Henning Berg",
+    "Norway",
+    "Premier League",
+    "Norwegian",
+    "Scottish Premier League",
+    "Videoton",
+    "Rangers",
+    "former player",
+    "Stabæk",
+    "Manchester United",
+    "Legia Warsaw",
+    "Cyprus",
+    "Polish Cup"
+  ],
+  "edges": [
+    "became manager of",
+    "played in",
+    "returned to",
+    "managed",
+    "was capped by",
+    "is former player of",
+    "managed in",
+    "is manager of",
+    "won titles with",
+    "won",
+    "played for",
+    "finished career in",
+    "became coach of",
+    "led to championship"
+  ],
+  "relations": [
+    [
+      "Henning Berg",
+      "played for",
+      "Vålerenga"
+    ],
+    [
+      "Henning Berg",
+      "managed",
+      "Stabæk"
+    ],
+    [
+      "Henning Berg",
+      "is former player of",
+      "Norwegian"
+    ],
+    [
+      "Legia Warsaw",
+      "won",
+      "Ekstraklasa"
+    ],
+    [
+      "Henning Berg",
+      "became manager of",
+      "Lyn"
+    ],
+    [
+      "Henning Berg",
+      "finished career in",
+      "Scottish Premier League"
+    ],
+    [
+      "Henning Berg",
+      "led to championship",
+      "Omonia"
+    ],
+    [
+      "Henning Berg",
+      "played in",
+      "Premier League"
+    ],
+    [
+      "Henning Berg",
+      "played for",
+      "Lillestrøm"
+    ],
+    [
+      "Henning Berg",
+      "became coach of",
+      "Legia Warsaw"
+    ],
+    [
+      "Henning Berg",
+      "was capped by",
+      "Norway"
+    ],
+    [
+      "Henning Berg",
+      "managed in",
+      "Cyprus"
+    ],
+    [
+      "Henning Berg",
+      "is manager of",
+      "Omonia"
+    ],
+    [
+      "Henning Berg",
+      "returned to",
+      "Blackburn"
+    ],
+    [
+      "Henning Berg",
+      "became manager of",
+      "Lillestrøm"
+    ],
+    [
+      "Legia Warsaw",
+      "won",
+      "Polish Cup"
+    ],
+    [
+      "Henning Berg",
+      "won titles with",
+      "Manchester United"
+    ],
+    [
+      "Henning Berg",
+      "managed",
+      "Videoton"
+    ],
+    [
+      "Henning Berg",
+      "won titles with",
+      "Blackburn Rovers"
+    ]
+  ]
+}

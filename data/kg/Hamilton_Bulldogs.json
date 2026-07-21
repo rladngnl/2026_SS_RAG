@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "Hamilton Bulldogs (AHL)",
+    "Ontario Hockey League",
+    "Hamilton Bulldogs (OHL)",
+    "Hamilton Bulldogs",
+    "American Hockey League"
+  ],
+  "edges": [
+    "may refer to",
+    "is a team in"
+  ],
+  "relations": [
+    [
+      "Hamilton Bulldogs (OHL)",
+      "is a team in",
+      "Ontario Hockey League"
+    ],
+    [
+      "Hamilton Bulldogs (AHL)",
+      "is a team in",
+      "American Hockey League"
+    ],
+    [
+      "Hamilton Bulldogs",
+      "may refer to",
+      "Hamilton Bulldogs (OHL)"
+    ],
+    [
+      "Hamilton Bulldogs",
+      "may refer to",
+      "Hamilton Bulldogs (AHL)"
+    ]
+  ]
+}

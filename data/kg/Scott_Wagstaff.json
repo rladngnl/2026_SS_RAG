@@ -1,0 +1,53 @@
+{
+  "entities": [
+    "Scott Wagstaff",
+    "footballer",
+    "midfielder",
+    "Dartford",
+    "Youth Team manager",
+    "English",
+    "31 March 1990",
+    "Gillingham",
+    "Scott Andrew Wagstaff"
+  ],
+  "edges": [
+    "is the Youth Team manager for",
+    "is a",
+    "plays for",
+    "is also the",
+    "is",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Scott Wagstaff",
+      "is the Youth Team manager for",
+      "Gillingham"
+    ],
+    [
+      "Scott Wagstaff",
+      "plays as a",
+      "midfielder"
+    ],
+    [
+      "Scott Wagstaff",
+      "plays for",
+      "Dartford"
+    ],
+    [
+      "Scott Wagstaff",
+      "is",
+      "Scott Andrew Wagstaff"
+    ],
+    [
+      "Scott Wagstaff",
+      "is also the",
+      "Youth Team manager"
+    ],
+    [
+      "Scott Wagstaff",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

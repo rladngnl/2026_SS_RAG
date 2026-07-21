@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "Istanbul High School",
+    "Uzan family",
+    "Beşiktaş",
+    "Turkey",
+    "government",
+    "İstanbulspor A.Ş.",
+    "1932",
+    "Turkish championship title",
+    "Turkish Süper Lig",
+    "TFF First League",
+    "Fenerbahçe",
+    "third parties",
+    "İstanbulspor Kulübü",
+    "1926",
+    "2004–05",
+    "Galatasaray"
+  ],
+  "edges": [
+    "is a",
+    "has been resold to",
+    "was founded by",
+    "has been repossessed by",
+    "was relegated from",
+    "was won in",
+    "was relegated to",
+    "is the fourth most famous and well-developed professional football club in",
+    "won",
+    "was bought by",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "İstanbulspor Kulübü",
+      "is the fourth most famous and well-developed professional football club in",
+      "Istanbul"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "was founded by",
+      "Istanbul High School students"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "was bought by",
+      "Uzan family"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "was relegated to",
+      "TFF First League"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "has been resold to",
+      "third parties"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "has been repossessed by",
+      "government"
+    ],
+    [
+      "Turkish championship title",
+      "was won in",
+      "1932"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "won",
+      "Turkish championship title"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "was relegated from",
+      "Turkish Süper Lig"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "was founded in",
+      "1926"
+    ],
+    [
+      "İstanbulspor Kulübü",
+      "is a",
+      "Turkish football and sports club"
+    ]
+  ]
+}

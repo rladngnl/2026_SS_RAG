@@ -1,0 +1,84 @@
+{
+  "entities": [
+    "2006",
+    "Almetyevsk",
+    "2001",
+    "Russian Second Division",
+    "1970",
+    "2008",
+    "1967",
+    "4th place",
+    "football team",
+    "1993",
+    "Russian",
+    "FC Alnas Almetyevsk",
+    "Zone Ural-Povolzhye"
+  ],
+  "edges": [
+    "played professionally from",
+    "is a",
+    "played professionally until",
+    "is from",
+    "achieved best result in",
+    "competed in",
+    "played professionally in",
+    "achieved"
+  ],
+  "relations": [
+    [
+      "FC Alnas Almetyevsk",
+      "achieved best result in",
+      "2006"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "is from",
+      "Almetyevsk"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "played professionally from",
+      "2001"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "played professionally until",
+      "1970"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "competed in",
+      "Russian Second Division"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "is a",
+      "football team"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "played professionally in",
+      "1993"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "played professionally until",
+      "2008"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "played professionally from",
+      "1967"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "achieved",
+      "4th place"
+    ],
+    [
+      "FC Alnas Almetyevsk",
+      "competed in",
+      "Zone Ural-Povolzhye"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "Swiss football league system",
+    "jaune et noir",
+    "1991",
+    "Switzerland",
+    "Stade de Colovray",
+    "Vaud Cantonal Football Association",
+    "Nyon",
+    "FC Stade Nyonnais",
+    "1905",
+    "Challenge League"
+  ],
+  "edges": [
+    "has been since",
+    "is affiliated to",
+    "is based in",
+    "is located in",
+    "plays its home matches at",
+    "is nicknamed",
+    "is part of",
+    "competes in",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "FC Stade Nyonnais",
+      "plays its home matches at",
+      "Stade de Colovray"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "has been since",
+      "1991"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "is affiliated to",
+      "Vaud Cantonal Football Association"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "competes in",
+      "Challenge League"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "is nicknamed",
+      "jaune et noir"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "was founded in",
+      "1905"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "is based in",
+      "Nyon"
+    ],
+    [
+      "FC Stade Nyonnais",
+      "is located in",
+      "Switzerland"
+    ],
+    [
+      "Challenge League",
+      "is part of",
+      "Swiss football league system"
+    ]
+  ]
+}

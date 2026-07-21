@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "domestic success",
+    "international success",
+    "first division",
+    "Cyprus Basketball Division A",
+    "founding members",
+    "Apollon Limassol Basketball Club",
+    "Cypriot basketball"
+  ],
+  "edges": [
+    "is a",
+    "has yet to see significant",
+    "has been a regular in the",
+    "has been one of the",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "Apollon Limassol Basketball Club",
+      "has yet to see significant",
+      "international success"
+    ],
+    [
+      "Apollon Limassol Basketball Club",
+      "is a",
+      "Cypriot basketball"
+    ],
+    [
+      "Apollon Limassol Basketball Club",
+      "has been a regular in the",
+      "first division"
+    ],
+    [
+      "Apollon Limassol Basketball Club",
+      "has been one of the",
+      "founding members"
+    ],
+    [
+      "Apollon Limassol Basketball Club",
+      "has yet to see significant",
+      "domestic success"
+    ],
+    [
+      "Apollon Limassol Basketball Club",
+      "competes in",
+      "Cyprus Basketball Division A"
+    ]
+  ]
+}

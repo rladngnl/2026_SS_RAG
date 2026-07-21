@@ -1,0 +1,191 @@
+{
+  "entities": [
+    "Cris",
+    "Copa Master de Supercopa",
+    "Atlético Mineiro",
+    "Ronaldo",
+    "Belo Horizonte",
+    "Rivaldo",
+    "Alex",
+    "Luisão",
+    "Torneio Início",
+    "Recopa Sudamericana",
+    "Tostão",
+    "Taça Minas Gerais",
+    "Mineirão",
+    "Santásticos",
+    "Maicon",
+    "Edílson",
+    "Copa dos Campeões Mineiros",
+    "Copa de Oro",
+    "Campeonato Mineiro",
+    "Cruzeiro do Sul",
+    "Roberto Perfumo",
+    "Jairzinho",
+    "Copa do Brasil",
+    "Wilson Piazza",
+    "Cruzeiro Esporte Clube",
+    "Dida",
+    "Supercopa Libertadores",
+    "Nelinho",
+    "Supercampeonato Mineiro",
+    "Minas Gerais",
+    "Campeonato Brasileiro Série A",
+    "Giorgian de Arrascaeta",
+    "Copa Libertadores",
+    "Juan Pablo Sorín",
+    "Copa Sul-Minas",
+    "Società Sportiva Palestra Itália",
+    "Santos"
+  ],
+  "edges": [
+    "competes in",
+    "has a rivalry with",
+    "is located in",
+    "was founded as",
+    "defeated",
+    "is associated with",
+    "renamed to",
+    "won",
+    "contributed players to",
+    "is based in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Cruzeiro Esporte Clube",
+      "plays at",
+      "Mineirão"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "competes in",
+      "Copa do Brasil"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Recopa Sudamericana"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "contributed players to",
+      "Brazil's FIFA World Cup squads"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "competes in",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "has a rivalry with",
+      "Atlético Mineiro"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Copa Sul-Minas"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "defeated",
+      "Santos"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "is located in",
+      "Minas Gerais"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Copa dos Campeões Mineiros"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Copa Master de Supercopa"
+    ],
+    [
+      "Santos",
+      "is associated with",
+      "Santásticos"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Copa de Oro"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Supercampeonato Mineiro"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "was founded as",
+      "Società Sportiva Palestra Itália"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Taça Minas Gerais"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Copa Libertadores"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "contributed players to",
+      "Uruguay's FIFA World Cup squads"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Torneio Início"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "competes in",
+      "Campeonato Mineiro"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Campeonato Mineiro"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Copa do Brasil"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "contributed players to",
+      "Argentina's FIFA World Cup squads"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "is based in",
+      "Belo Horizonte"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "won",
+      "Supercopa Libertadores"
+    ],
+    [
+      "Cruzeiro Esporte Clube",
+      "renamed to",
+      "Cruzeiro do Sul"
+    ]
+  ]
+}

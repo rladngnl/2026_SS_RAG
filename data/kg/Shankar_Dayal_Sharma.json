@@ -1,0 +1,162 @@
+{
+  "entities": [
+    "Union Minister for Communications",
+    "Bhopal",
+    "I. K. Gujral",
+    "Allahabad",
+    "Lucknow",
+    "Indira Gandhi",
+    "Andhra Pradesh",
+    "Harvard University",
+    "India",
+    "Madhya Pradesh Congress Committee",
+    "Karma Bhumi",
+    "H. D. Deve Gowda",
+    "All India Congress Committee",
+    "K. R. Narayanan",
+    "P. V. Narasimha Rao",
+    "Maharashtra",
+    "Lincoln's Inn",
+    "Madhya Pradesh",
+    "Bhopal State",
+    "Lok Sabha",
+    "Atal Bihari Vajpayee",
+    "Indian National Congress",
+    "Punjab",
+    "Bhopal State Congress Committee",
+    "Shankar Dayal Sharma",
+    "Babri Masjid",
+    "University of Cambridge",
+    "Agra",
+    "Delhi"
+  ],
+  "edges": [
+    "was president of",
+    "served as Union Minister for",
+    "was vice president of",
+    "studied at",
+    "was succeeded by",
+    "served as a cabinet minister in the government of",
+    "was chief minister of",
+    "died in",
+    "was a member of",
+    "was elected to",
+    "was born in",
+    "appointed",
+    "served under prime minister",
+    "served as governor of",
+    "was accorded a state funeral at"
+  ],
+  "relations": [
+    [
+      "Shankar Dayal Sharma",
+      "studied at",
+      "University of Cambridge"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "served under prime minister",
+      "Indira Gandhi"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "served as governor of",
+      "Punjab"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "appointed",
+      "H. D. Deve Gowda as prime minister"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "served as Union Minister for",
+      "Communications"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was president of",
+      "Madhya Pradesh Congress Committee"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "served as governor of",
+      "Andhra Pradesh"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was succeeded by",
+      "K. R. Narayanan"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was president of",
+      "All India Congress Committee"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was a member of",
+      "Indian National Congress"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "died in",
+      "1999"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was chief minister of",
+      "Bhopal State"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "appointed",
+      "Atal Bihari Vajpayee as prime minister"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was elected to",
+      "Lok Sabha"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was president of",
+      "Bhopal State Congress Committee"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "served as a cabinet minister in the government of",
+      "Madhya Pradesh"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was born in",
+      "Bhopal"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "appointed",
+      "I. K. Gujral as prime minister"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was accorded a state funeral at",
+      "Karma Bhumi in Delhi"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was vice president of",
+      "India"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "served as governor of",
+      "Maharashtra"
+    ],
+    [
+      "Shankar Dayal Sharma",
+      "was president of",
+      "India"
+    ]
+  ]
+}

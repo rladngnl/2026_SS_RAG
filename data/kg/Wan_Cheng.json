@@ -1,0 +1,39 @@
+{
+  "entities": [
+    "1 November 1985",
+    "Wàn Chéng",
+    "Wan Cheng",
+    "万程",
+    "Tianjin",
+    "Chinese",
+    "萬程",
+    "football player"
+  ],
+  "edges": [
+    "was born on",
+    "is a",
+    "is born in"
+  ],
+  "relations": [
+    [
+      "Wan Cheng",
+      "is a",
+      "Chinese"
+    ],
+    [
+      "Wan Cheng",
+      "is a",
+      "football player"
+    ],
+    [
+      "Wan Cheng",
+      "is born in",
+      "Tianjin"
+    ],
+    [
+      "Wan Cheng",
+      "was born on",
+      "1 November 1985"
+    ]
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "Åland",
+    "Bulgaria",
+    "Denmark",
+    "Luxembourg",
+    "Poland",
+    "Tomasz Piotr Sajdak",
+    "Iran",
+    "Germany",
+    "Cyprus",
+    "Finland",
+    "Latvia",
+    "Tomasz Sajdak",
+    "Faroe Islands"
+  ],
+  "edges": [
+    "holds citizenship of",
+    "is a former professional footballer from",
+    "played in"
+  ],
+  "relations": [
+    [
+      "Tomasz Piotr Sajdak",
+      "holds citizenship of",
+      "Germany"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "is a former professional footballer from",
+      "Poland"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Denmark"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Bulgaria"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Finland"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Åland"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Faroe Islands"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Cyprus"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Germany"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Luxembourg"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Latvia"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Iran"
+    ],
+    [
+      "Tomasz Piotr Sajdak",
+      "played in",
+      "Poland"
+    ]
+  ]
+}

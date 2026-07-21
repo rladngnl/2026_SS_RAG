@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "Qatar",
+    "footballer",
+    "Sheik",
+    "Brazil",
+    "Emerson Sheik",
+    "nickname",
+    "forward",
+    "Márcio Passos de Albuquerque"
+  ],
+  "edges": [
+    "is known as",
+    "represented",
+    "has nickname",
+    "was born in",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Márcio Passos de Albuquerque",
+      "played as",
+      "forward"
+    ],
+    [
+      "Márcio Passos de Albuquerque",
+      "was born in",
+      "Brazil"
+    ],
+    [
+      "Márcio Passos de Albuquerque",
+      "is known as",
+      "Emerson Sheik"
+    ],
+    [
+      "Márcio Passos de Albuquerque",
+      "played as",
+      "footballer"
+    ],
+    [
+      "Márcio Passos de Albuquerque",
+      "represented",
+      "Qatar"
+    ],
+    [
+      "Márcio Passos de Albuquerque",
+      "has nickname",
+      "Sheik"
+    ]
+  ]
+}

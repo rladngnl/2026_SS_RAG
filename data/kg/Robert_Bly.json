@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "Robert Bly",
+    "essayist",
+    "American poet",
+    "activist",
+    "Iron John: A Book About Men",
+    "The New York Times Best Seller list",
+    "mythopoetic men's movement",
+    "The Light Around the Body",
+    "1968 National Book Award for Poetry"
+  ],
+  "edges": [
+    "is book of",
+    "is best-known prose book of",
+    "spent weeks on",
+    "is leader of",
+    "is",
+    "won"
+  ],
+  "relations": [
+    [
+      "Robert Bly",
+      "is",
+      "American poet"
+    ],
+    [
+      "The Light Around the Body",
+      "is book of",
+      "Robert Bly"
+    ],
+    [
+      "Robert Bly",
+      "is",
+      "activist"
+    ],
+    [
+      "Iron John: A Book About Men",
+      "spent weeks on",
+      "The New York Times Best Seller list"
+    ],
+    [
+      "Robert Bly",
+      "is",
+      "essayist"
+    ],
+    [
+      "Robert Bly",
+      "won",
+      "1968 National Book Award for Poetry"
+    ],
+    [
+      "Iron John: A Book About Men",
+      "is best-known prose book of",
+      "Robert Bly"
+    ],
+    [
+      "Robert Bly",
+      "is leader of",
+      "mythopoetic men's movement"
+    ]
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "entities": [
+    "literacy rate",
+    "Maldives",
+    "population",
+    "nominal per capita income",
+    "Vijayanagara Empire",
+    "Indian Ocean",
+    "biodiversity hotspots",
+    "Maurya Empire",
+    "Middle kingdoms",
+    "Islam",
+    "federal republic",
+    "Arabian Sea",
+    "China",
+    "Christianity",
+    "Indus Valley Civilisation",
+    "South India",
+    "child malnutrition",
+    "India",
+    "multilingual society",
+    "Dravidian languages",
+    "British East India Company",
+    "Judaism",
+    "Delhi Sultanate",
+    "information technology",
+    "middle class",
+    "Kashmir",
+    "gender inequality",
+    "poverty rate",
+    "Andaman Islands",
+    "Bhutan",
+    "Nepal",
+    "South Asia",
+    "Hinduism",
+    "Southeast Asia",
+    "Mughal Empire",
+    "wildlife",
+    "Myanmar",
+    "Pakistan",
+    "Indus River",
+    "Indian economy",
+    "Zoroastrianism",
+    "Indonesia",
+    "Buddhism",
+    "Jainism",
+    "multi-ethnic society",
+    "protected habitats",
+    "Sanskrit",
+    "nationalist movement",
+    "Punjab",
+    "Africa",
+    "Nicobar Islands",
+    "Sikhism",
+    "Republic of India",
+    "British Indian Empire",
+    "air pollution",
+    "Bay of Bengal",
+    "Bangladesh",
+    "Gupta Empire",
+    "British Crown",
+    "Thailand",
+    "democratic parliamentary system",
+    "Sri Lanka"
+  ],
+  "edges": [
+    "is a",
+    "was partitioned into",
+    "recorded the early dawnings of",
+    "turned India into",
+    "arrived on the Indian subcontinent from",
+    "emerged in",
+    "has reduced its",
+    "has a population of",
+    "is located in",
+    "drew northern India into",
+    "emerged within",
+    "is bounded by",
+    "shares land borders with",
+    "were supplanted in",
+    "is governed through a",
+    "began rule in",
+    "exported Dravidian language scripts to",
+    "increased from",
+    "created a composite culture in",
+    "has become a",
+    "arose in",
+    "evolved from",
+    "was a political consolidation in",
+    "ushered in economic expansion in",
+    "share a maritime border with",
+    "became established on",
+    "emerged on the subcontinent in",
+    "is near",
+    "supports its wildlife in",
+    "faces challenges of",
+    "is officially known as",
+    "had diffused into",
+    "increased to",
+    "is megadiverse with"
+  ],
+  "relations": [
+    [
+      "India",
+      "shares land borders with",
+      "Myanmar"
+    ],
+    [
+      "India",
+      "is near",
+      "Maldives"
+    ],
+    [
+      "Sanskrit",
+      "had diffused into",
+      "India"
+    ],
+    [
+      "Gupta Empire",
+      "was a political consolidation in",
+      "India"
+    ],
+    [
+      "India",
+      "has a population of",
+      "over 1.4 billion"
+    ],
+    [
+      "India",
+      "is located in",
+      "South Asia"
+    ],
+    [
+      "India",
+      "is megadiverse with",
+      "four biodiversity hotspots"
+    ],
+    [
+      "Zoroastrianism",
+      "became established on",
+      "India"
+    ],
+    [
+      "India",
+      "is bounded by",
+      "Indian Ocean"
+    ],
+    [
+      "Judaism",
+      "became established on",
+      "India"
+    ],
+    [
+      "nationalist movement",
+      "emerged in",
+      "India"
+    ],
+    [
+      "Islam",
+      "became established on",
+      "India"
+    ],
+    [
+      "Jainism",
+      "arose in",
+      "India"
+    ],
+    [
+      "British Indian Empire",
+      "was partitioned into",
+      "two independent dominions"
+    ],
+    [
+      "settled life",
+      "emerged on the subcontinent in",
+      "Indus River"
+    ],
+    [
+      "India",
+      "is officially known as",
+      "Republic of India"
+    ],
+    [
+      "India",
+      "is governed through a",
+      "democratic parliamentary system"
+    ],
+    [
+      "India",
+      "shares land borders with",
+      "Nepal"
+    ],
+    [
+      "Sikhism",
+      "emerged in",
+      "Punjab"
+    ],
+    [
+      "Vijayanagara Empire",
+      "created a composite culture in",
+      "south India"
+    ],
+    [
+      "India",
+      "supports its wildlife in",
+      "protected habitats"
+    ],
+    [
+      "Maurya Empire",
+      "was a political consolidation in",
+      "India"
+    ],
+    [
+      "India",
+      "faces challenges of",
+      "child malnutrition"
+    ],
+    [
+      "humans",
+      "arrived on the Indian subcontinent from",
+      "Africa"
+    ],
+    [
+      "Indus Valley Civilisation",
+      "evolved from",
+      "settled life"
+    ],
+    [
+      "India",
+      "is bounded by",
+      "Bay of Bengal"
+    ],
+    [
+      "Mughal Empire",
+      "ushered in economic expansion in",
+      "India"
+    ],
+    [
+      "literacy rate",
+      "increased from",
+      "16.6%"
+    ],
+    [
+      "nominal per capita income",
+      "increased from",
+      "US$64 annually"
+    ],
+    [
+      "Indian economy",
+      "has become a",
+      "fast-growing major economy"
+    ],
+    [
+      "India",
+      "has reduced its",
+      "poverty rate"
+    ],
+    [
+      "Buddhism",
+      "arose in",
+      "India"
+    ],
+    [
+      "India",
+      "faces challenges of",
+      "air pollution"
+    ],
+    [
+      "nominal per capita income",
+      "increased to",
+      "US$2,601"
+    ],
+    [
+      "Dravidian languages",
+      "were supplanted in",
+      "India"
+    ],
+    [
+      "India",
+      "is bounded by",
+      "Arabian Sea"
+    ],
+    [
+      "India",
+      "faces challenges of",
+      "gender inequality"
+    ],
+    [
+      "India",
+      "is a",
+      "multi-ethnic society"
+    ],
+    [
+      "India",
+      "is near",
+      "Sri Lanka"
+    ],
+    [
+      "Andaman Islands",
+      "share a maritime border with",
+      "Myanmar"
+    ],
+    [
+      "India",
+      "shares land borders with",
+      "Bhutan"
+    ],
+    [
+      "Hinduism",
+      "recorded the early dawnings of",
+      "Sanskrit"
+    ],
+    [
+      "Middle kingdoms",
+      "exported Dravidian language scripts to",
+      "Southeast Asia"
+    ],
+    [
+      "India",
+      "shares land borders with",
+      "China"
+    ],
+    [
+      "India",
+      "is a",
+      "multilingual society"
+    ],
+    [
+      "India",
+      "shares land borders with",
+      "Pakistan"
+    ],
+    [
+      "Andaman Islands",
+      "share a maritime border with",
+      "Indonesia"
+    ],
+    [
+      "India",
+      "shares land borders with",
+      "Bangladesh"
+    ],
+    [
+      "India",
+      "is a",
+      "federal republic"
+    ],
+    [
+      "Delhi Sultanate",
+      "drew northern India into",
+      "medieval Islam"
+    ],
+    [
+      "Andaman Islands",
+      "share a maritime border with",
+      "Thailand"
+    ],
+    [
+      "British Crown",
+      "began rule in",
+      "India"
+    ],
+    [
+      "caste",
+      "emerged within",
+      "Hinduism"
+    ],
+    [
+      "Christianity",
+      "became established on",
+      "India"
+    ],
+    [
+      "British East India Company",
+      "turned India into",
+      "a colonial economy"
+    ],
+    [
+      "literacy rate",
+      "increased to",
+      "74%"
+    ]
+  ]
+}

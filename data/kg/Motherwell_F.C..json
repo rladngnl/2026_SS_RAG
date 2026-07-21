@@ -1,0 +1,97 @@
+{
+  "entities": [
+    "Sports Illustrated",
+    "Hamilton Academical",
+    "Scottish Cup",
+    "Scottish League Cup",
+    "Motherwell Football Club",
+    "Lanarkshire derby",
+    "Viking Thunder Clap",
+    "Fir Park",
+    "Scottish League title",
+    "Iceland national football team",
+    "Euro 2016",
+    "North Lanarkshire",
+    "Airdrieonians",
+    "Scottish Premiership"
+  ],
+  "edges": [
+    "was popularised by",
+    "received attention during",
+    "is part of",
+    "has won",
+    "has main rivals",
+    "plays in",
+    "plays their home matches at",
+    "has lifted",
+    "has suggested",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Viking Thunder Clap",
+      "received attention during",
+      "Euro 2016"
+    ],
+    [
+      "Motherwell Football Club",
+      "plays their home matches at",
+      "Fir Park"
+    ],
+    [
+      "Sports Illustrated",
+      "has suggested",
+      "Viking Thunder Clap"
+    ],
+    [
+      "Motherwell Football Club",
+      "has main rivals",
+      "Hamilton Academical"
+    ],
+    [
+      "Viking Thunder Clap",
+      "was popularised by",
+      "Iceland national football team"
+    ],
+    [
+      "Motherwell Football Club",
+      "has won",
+      "Scottish Cup"
+    ],
+    [
+      "Motherwell Football Club",
+      "has main rivals",
+      "Airdrieonians"
+    ],
+    [
+      "Hamilton Academical",
+      "is part of",
+      "Lanarkshire derby"
+    ],
+    [
+      "Motherwell Football Club",
+      "plays in",
+      "Scottish Premiership"
+    ],
+    [
+      "Motherwell Football Club",
+      "has won",
+      "Scottish League Cup"
+    ],
+    [
+      "Motherwell Football Club",
+      "has won",
+      "Scottish League title"
+    ],
+    [
+      "Motherwell Football Club",
+      "is based in",
+      "North Lanarkshire"
+    ],
+    [
+      "Motherwell Football Club",
+      "has lifted",
+      "Scottish Cup"
+    ]
+  ]
+}

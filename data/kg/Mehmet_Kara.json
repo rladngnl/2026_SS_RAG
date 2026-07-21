@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "professional footballer",
+    "VfL Kamen",
+    "21 November 1983",
+    "Mehmet Kara",
+    "midfielder",
+    "Turkish"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "plays for",
+    "is",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Mehmet Kara",
+      "plays as a",
+      "midfielder"
+    ],
+    [
+      "Mehmet Kara",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Mehmet Kara",
+      "is born on",
+      "21 November 1983"
+    ],
+    [
+      "Mehmet Kara",
+      "is",
+      "Turkish"
+    ],
+    [
+      "Mehmet Kara",
+      "plays for",
+      "VfL Kamen"
+    ]
+  ]
+}

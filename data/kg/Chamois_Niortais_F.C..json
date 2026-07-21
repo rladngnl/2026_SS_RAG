@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "Division 4",
+    "10,898",
+    "Division 3",
+    "Championnat National",
+    "Division 1",
+    "Championnat de France Amateur",
+    "Niort",
+    "France",
+    "Les Chamois",
+    "10 April 2025",
+    "Deux-Sèvres",
+    "Ligue 2",
+    "Chamois Niortais Football Club",
+    "Stade René Gaillard",
+    "Nouvelle-Aquitaine",
+    "Division 2",
+    "Centre-Ouest",
+    "Charles Boinot"
+  ],
+  "edges": [
+    "is in",
+    "played in",
+    "achieved promotion to",
+    "joined",
+    "was founded by",
+    "gained professional status for the first time when promoted to",
+    "is located in",
+    "has home stadium",
+    "has capacity of",
+    "were dissolved on",
+    "were relegated to",
+    "were promoted back to",
+    "is part of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Chamois Niortais Football Club",
+      "joined",
+      "Championnat de France Amateur"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "gained professional status for the first time when promoted to",
+      "Division 2"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "were dissolved on",
+      "10 April 2025"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "is based in",
+      "Niort"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "were promoted back to",
+      "Ligue 2"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "were relegated to",
+      "Championnat National"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "has home stadium",
+      "Stade René Gaillard"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "played in",
+      "Division 4"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "is part of",
+      "Nouvelle-Aquitaine"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "was founded by",
+      "Charles Boinot"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "achieved promotion to",
+      "Division 3"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "played in",
+      "Division 1"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "played in",
+      "Centre-Ouest"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "is in",
+      "France"
+    ],
+    [
+      "Stade René Gaillard",
+      "has capacity of",
+      "10,898"
+    ],
+    [
+      "Chamois Niortais Football Club",
+      "is located in",
+      "Deux-Sèvres"
+    ]
+  ]
+}

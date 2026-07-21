@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Norwich City",
+    "footballer",
+    "Lincoln City",
+    "Swindon Town",
+    "Stoke City",
+    "Reading",
+    "Keith Scott",
+    "Colchester United",
+    "Wycombe Wanderers",
+    "AFC Bournemouth",
+    "Watford"
+  ],
+  "edges": [
+    "played for",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Keith Scott",
+      "played for",
+      "Wycombe Wanderers"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Watford"
+    ],
+    [
+      "Keith Scott",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Swindon Town"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Lincoln City"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Colchester United"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Reading"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Norwich City"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "AFC Bournemouth"
+    ],
+    [
+      "Keith Scott",
+      "played for",
+      "Stoke City"
+    ]
+  ]
+}

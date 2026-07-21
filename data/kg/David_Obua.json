@@ -1,0 +1,96 @@
+{
+  "entities": [
+    "Uganda national team",
+    "Heart of Midlothian",
+    "Raleigh Capital Express",
+    "Police FC",
+    "URA FC",
+    "Ugandan",
+    "David Obua",
+    "November 2023",
+    "Wilmington Hammerheads",
+    "World Cup qualifiers",
+    "Kaizer Chiefs",
+    "professional football player",
+    "Scottish Premier League",
+    "Ugandan Premier League",
+    "Africa Nations Cup",
+    "football coach"
+  ],
+  "edges": [
+    "has a record of being the country's all-time goal scorer in",
+    "is the coach of",
+    "is a",
+    "is in the",
+    "represented",
+    "was appointed in",
+    "played for"
+  ],
+  "relations": [
+    [
+      "David Obua",
+      "has a record of being the country's all-time goal scorer in",
+      "World Cup qualifiers"
+    ],
+    [
+      "David Obua",
+      "played for",
+      "Raleigh Capital Express"
+    ],
+    [
+      "David Obua",
+      "represented",
+      "Uganda national team"
+    ],
+    [
+      "David Obua",
+      "played for",
+      "Wilmington Hammerheads"
+    ],
+    [
+      "David Obua",
+      "was appointed in",
+      "November 2023"
+    ],
+    [
+      "David Obua",
+      "played for",
+      "Heart of Midlothian"
+    ],
+    [
+      "David Obua",
+      "is a",
+      "Ugandan football coach"
+    ],
+    [
+      "David Obua",
+      "played for",
+      "Police FC"
+    ],
+    [
+      "David Obua",
+      "is a",
+      "professional football player"
+    ],
+    [
+      "David Obua",
+      "has a record of being the country's all-time goal scorer in",
+      "Africa Nations Cup"
+    ],
+    [
+      "David Obua",
+      "played for",
+      "Kaizer Chiefs"
+    ],
+    [
+      "URA FC",
+      "is in the",
+      "Ugandan Premier League"
+    ],
+    [
+      "David Obua",
+      "is the coach of",
+      "URA FC"
+    ]
+  ]
+}

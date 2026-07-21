@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "central defender",
+    "footballer",
+    "23 October 1984",
+    "Jeffrey Hoogervorst",
+    "Dutch"
+  ],
+  "edges": [
+    "played as",
+    "was born on",
+    "is"
+  ],
+  "relations": [
+    [
+      "Jeffrey Hoogervorst",
+      "played as",
+      "central defender"
+    ],
+    [
+      "Jeffrey Hoogervorst",
+      "is",
+      "footballer"
+    ],
+    [
+      "Jeffrey Hoogervorst",
+      "is",
+      "Dutch"
+    ],
+    [
+      "Jeffrey Hoogervorst",
+      "was born on",
+      "23 October 1984"
+    ]
+  ]
+}

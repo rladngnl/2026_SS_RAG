@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "American",
+    "Dominic Rashad McGuire",
+    "Dominic McGuire",
+    "October 20, 1985",
+    "Real Estelí Baloncesto",
+    "professional basketball player"
+  ],
+  "edges": [
+    "last played for",
+    "was born on",
+    "is a",
+    "is"
+  ],
+  "relations": [
+    [
+      "Dominic McGuire",
+      "is",
+      "Dominic Rashad McGuire"
+    ],
+    [
+      "Dominic Rashad McGuire",
+      "is",
+      "American"
+    ],
+    [
+      "Dominic Rashad McGuire",
+      "is a",
+      "professional basketball player"
+    ],
+    [
+      "Dominic Rashad McGuire",
+      "last played for",
+      "Real Estelí Baloncesto"
+    ],
+    [
+      "Dominic Rashad McGuire",
+      "was born on",
+      "October 20, 1985"
+    ]
+  ]
+}

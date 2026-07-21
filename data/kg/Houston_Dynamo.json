@@ -1,0 +1,118 @@
+{
+  "entities": [
+    "2011",
+    "San Jose Earthquakes",
+    "MLS",
+    "Robertson Stadium",
+    "Supporters' Shield",
+    "2018",
+    "2023",
+    "Shell Energy Stadium",
+    "MLS Cup",
+    "Western Conference",
+    "U.S. Open Cup",
+    "New England Revolution",
+    "University of Houston",
+    "Houston",
+    "North American SuperLiga",
+    "Houston Dynamo Football Club",
+    "East Downtown Houston",
+    "December 15, 2005",
+    "Ted Segal",
+    "2012",
+    "2008",
+    "Major League Soccer"
+  ],
+  "edges": [
+    "competes in",
+    "was founded after",
+    "has been runners-up in",
+    "has won",
+    "is located on the campus of",
+    "is a member of",
+    "finished as runners-up in",
+    "was established on",
+    "played at",
+    "moved to",
+    "defeated by",
+    "is majority-owned by",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "Houston Dynamo Football Club",
+      "is based in",
+      "Houston"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "played at",
+      "Robertson Stadium"
+    ],
+    [
+      "Robertson Stadium",
+      "is located on the campus of",
+      "University of Houston"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "has won",
+      "U.S. Open Cup"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "finished as runners-up in",
+      "North American SuperLiga"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "has won",
+      "MLS Cup"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "has been runners-up in",
+      "MLS Cup"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "has been runners-up in",
+      "Supporters' Shield"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "was established on",
+      "December 15, 2005"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "is majority-owned by",
+      "Ted Segal"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "defeated by",
+      "New England Revolution"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "competes in",
+      "Major League Soccer"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "is a member of",
+      "Western Conference"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "was founded after",
+      "San Jose Earthquakes"
+    ],
+    [
+      "Houston Dynamo Football Club",
+      "moved to",
+      "Shell Energy Stadium"
+    ]
+  ]
+}

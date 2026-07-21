@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Lyon",
+    "Sidney Rodrigue Noukpo Govou",
+    "striker",
+    "left winger",
+    "Ligue 1 titles",
+    "seven Ligue 1 titles",
+    "former professional footballer",
+    "French",
+    "Sidney Govou"
+  ],
+  "edges": [
+    "played primarily as",
+    "was occasionally deployed as",
+    "is most prominent for",
+    "is associated with",
+    "is",
+    "won"
+  ],
+  "relations": [
+    [
+      "Sidney Rodrigue Noukpo Govou",
+      "won",
+      "seven Ligue 1 titles"
+    ],
+    [
+      "Sidney Rodrigue Noukpo Govou",
+      "played primarily as",
+      "left winger"
+    ],
+    [
+      "Sidney Rodrigue Noukpo Govou",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Sidney Rodrigue Noukpo Govou",
+      "is",
+      "French"
+    ],
+    [
+      "Sidney Rodrigue Noukpo Govou",
+      "was occasionally deployed as",
+      "striker"
+    ],
+    [
+      "Lyon",
+      "is associated with",
+      "seven Ligue 1 titles"
+    ],
+    [
+      "Sidney Rodrigue Noukpo Govou",
+      "is most prominent for",
+      "lengthy playing career at Lyon"
+    ]
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "entities": [
+    "The Murder Man",
+    "Indiana",
+    "Carry Nation",
+    "George Cukor",
+    "Vertigo",
+    "American actor",
+    "military aviator",
+    "Pennsylvania",
+    "703d Bombardment Squadron",
+    "brigadier general",
+    "Rear Window",
+    "You Can't Take It with You",
+    "US Army Air Forces",
+    "Air Force Reserve",
+    "Anatomy of a Murder",
+    "Academy Award for Best Actor",
+    "Rope",
+    "Frank Capra",
+    "Broadway",
+    "It's a Wonderful Life",
+    "2nd Bombardment Wing",
+    "The Man Who Knew Too Much",
+    "Princeton University",
+    "Ernst Lubitsch",
+    "Mr. Smith Goes to Washington",
+    "The Man Who Shot Liberty Valance",
+    "World War II",
+    "The Shop Around the Corner",
+    "James Maitland Stewart",
+    "The Philadelphia Story",
+    "Alfred Hitchcock"
+  ],
+  "edges": [
+    "held various command positions until his retirement as",
+    "received the Academy Award for Best Actor for",
+    "transferred to",
+    "landed his first supporting role in",
+    "had his breakthrough in",
+    "starred in",
+    "enlisted in",
+    "made his Broadway debut in",
+    "was born in",
+    "attended",
+    "is",
+    "was deputy commanding officer of",
+    "commanded",
+    "was raised in",
+    "starred in films directed by"
+  ],
+  "relations": [
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "Rear Window"
+    ],
+    [
+      "James Maitland Stewart",
+      "was born in",
+      "Indiana"
+    ],
+    [
+      "James Maitland Stewart",
+      "had his breakthrough in",
+      "You Can't Take It with You"
+    ],
+    [
+      "James Maitland Stewart",
+      "was raised in",
+      "Pennsylvania"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "The Man Who Shot Liberty Valance"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "Rope"
+    ],
+    [
+      "James Maitland Stewart",
+      "attended",
+      "Princeton University"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "Vertigo"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "The Man Who Knew Too Much"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "It's a Wonderful Life"
+    ],
+    [
+      "James Maitland Stewart",
+      "received the Academy Award for Best Actor for",
+      "The Philadelphia Story"
+    ],
+    [
+      "James Maitland Stewart",
+      "commanded",
+      "703d Bombardment Squadron"
+    ],
+    [
+      "James Maitland Stewart",
+      "made his Broadway debut in",
+      "Carry Nation"
+    ],
+    [
+      "James Maitland Stewart",
+      "is",
+      "military aviator"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in films directed by",
+      "Alfred Hitchcock"
+    ],
+    [
+      "James Maitland Stewart",
+      "is",
+      "American actor"
+    ],
+    [
+      "James Maitland Stewart",
+      "enlisted in",
+      "US Army Air Forces"
+    ],
+    [
+      "James Maitland Stewart",
+      "landed his first supporting role in",
+      "The Murder Man"
+    ],
+    [
+      "James Maitland Stewart",
+      "held various command positions until his retirement as",
+      "brigadier general"
+    ],
+    [
+      "James Maitland Stewart",
+      "was deputy commanding officer of",
+      "2nd Bombardment Wing"
+    ],
+    [
+      "James Maitland Stewart",
+      "transferred to",
+      "Air Force Reserve"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "The Shop Around the Corner"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "Mr. Smith Goes to Washington"
+    ],
+    [
+      "James Maitland Stewart",
+      "starred in",
+      "Anatomy of a Murder"
+    ]
+  ]
+}

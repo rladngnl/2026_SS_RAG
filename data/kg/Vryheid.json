@@ -1,0 +1,61 @@
+{
+  "entities": [
+    "freedom",
+    "Abaqulusi clan",
+    "coal mining",
+    "Afrikaans",
+    "iFilidi",
+    "cattle ranching",
+    "Vryheid",
+    "South Africa",
+    "KwaZulu-Natal",
+    "Zulu",
+    "eFilidi",
+    "Abaqulusi"
+  ],
+  "edges": [
+    "is in",
+    "is a",
+    "means",
+    "is the original name of",
+    "reflects",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Vryheid",
+      "is in",
+      "South Africa"
+    ],
+    [
+      "Vryheid",
+      "means",
+      "freedom"
+    ],
+    [
+      "Vryheid",
+      "is a",
+      "cattle ranching"
+    ],
+    [
+      "Vryheid",
+      "is located in",
+      "KwaZulu-Natal"
+    ],
+    [
+      "Vryheid",
+      "reflects",
+      "Abaqulusi clan"
+    ],
+    [
+      "Vryheid",
+      "is a",
+      "coal mining"
+    ],
+    [
+      "Abaqulusi",
+      "is the original name of",
+      "Vryheid"
+    ]
+  ]
+}

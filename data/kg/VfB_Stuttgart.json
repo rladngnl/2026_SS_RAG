@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "DFB-Pokal",
+    "3. Liga",
+    "Verein für Bewegungsspiele Stuttgart 1893 e. V.",
+    "UEFA Intertoto Cup",
+    "MHPArena",
+    "VfB-Garde",
+    "Neckarpark",
+    "VfB Stuttgart II",
+    "Cannstatter Wasen",
+    "Bundesliga",
+    "national under 19 championships",
+    "Baden-Württemberg",
+    "Stuttgart",
+    "VfB Stuttgart",
+    "national under 17 championships"
+  ],
+  "edges": [
+    "has won",
+    "is located in",
+    "is also known as",
+    "plays in",
+    "is the largest sports club in",
+    "plays its home games at",
+    "has departments for",
+    "maintains a department for",
+    "is the eighth-largest football club in",
+    "is near",
+    "is part of",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "VfB Stuttgart",
+      "is located in",
+      "Baden-Württemberg"
+    ],
+    [
+      "VfB Stuttgart",
+      "has won",
+      "DFB-Pokal"
+    ],
+    [
+      "VfB Stuttgart",
+      "has won",
+      "national under 17 championships"
+    ],
+    [
+      "VfB Stuttgart",
+      "maintains a department for",
+      "VfB-Garde"
+    ],
+    [
+      "VfB Stuttgart",
+      "is also known as",
+      "Verein für Bewegungsspiele Stuttgart 1893 e. V."
+    ],
+    [
+      "VfB Stuttgart",
+      "is part of",
+      "Bundesliga"
+    ],
+    [
+      "MHPArena",
+      "is located in",
+      "Neckarpark"
+    ],
+    [
+      "VfB Stuttgart II",
+      "plays in",
+      "3. Liga"
+    ],
+    [
+      "VfB Stuttgart",
+      "has won",
+      "national under 19 championships"
+    ],
+    [
+      "VfB Stuttgart",
+      "is the largest sports club in",
+      "Baden-Württemberg"
+    ],
+    [
+      "VfB Stuttgart",
+      "is the eighth-largest football club in",
+      "Germany"
+    ],
+    [
+      "VfB Stuttgart",
+      "has won",
+      "UEFA Intertoto Cup"
+    ],
+    [
+      "VfB Stuttgart",
+      "has departments for",
+      "fistball, field hockey, track and field, table tennis, and football referees"
+    ],
+    [
+      "VfB Stuttgart",
+      "plays its home games at",
+      "MHPArena"
+    ],
+    [
+      "Neckarpark",
+      "is near",
+      "Cannstatter Wasen"
+    ],
+    [
+      "VfB Stuttgart",
+      "maintains a department for",
+      "esports"
+    ],
+    [
+      "VfB Stuttgart",
+      "is based in",
+      "Stuttgart"
+    ]
+  ]
+}

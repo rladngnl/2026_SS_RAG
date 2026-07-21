@@ -1,0 +1,46 @@
+{
+  "entities": [
+    "Zelenodolsk youth sportive school",
+    "Greece",
+    "football defender",
+    "39",
+    "Vyacheslav Sharpar",
+    "Vyacheslav Volodymyrovych Sharpar",
+    "2 June 2026",
+    "Loutraki",
+    "Ukrainian"
+  ],
+  "edges": [
+    "was product of",
+    "drowned in",
+    "was",
+    "died on"
+  ],
+  "relations": [
+    [
+      "Vyacheslav Sharpar",
+      "died on",
+      "2 June 2026"
+    ],
+    [
+      "Vyacheslav Sharpar",
+      "was product of",
+      "Zelenodolsk youth sportive school"
+    ],
+    [
+      "Vyacheslav Sharpar",
+      "drowned in",
+      "Loutraki, Greece"
+    ],
+    [
+      "Vyacheslav Sharpar",
+      "was",
+      "Ukrainian football defender"
+    ],
+    [
+      "Vyacheslav Sharpar",
+      "was",
+      "39 years old"
+    ]
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "FMF",
+    "economic debts",
+    "Veracruz",
+    "Mexican professional football club",
+    "Copa MX",
+    "youth system",
+    "Tiburones Rojos de Veracruz",
+    "first team players",
+    "Estadio Luis 'Pirata' Fuente",
+    "CD Veracruz",
+    "Liga MX"
+  ],
+  "edges": [
+    "was a",
+    "announced the disaffiliation of",
+    "is also known as",
+    "played its home matches at",
+    "was due to",
+    "competed in",
+    "was based in",
+    "won",
+    "involved",
+    "was disaffiliated from"
+  ],
+  "relations": [
+    [
+      "disaffiliation",
+      "was due to",
+      "economic debts"
+    ],
+    [
+      "FMF",
+      "announced the disaffiliation of",
+      "Veracruz"
+    ],
+    [
+      "Veracruz",
+      "was disaffiliated from",
+      "Liga MX"
+    ],
+    [
+      "CD Veracruz",
+      "competed in",
+      "Liga MX"
+    ],
+    [
+      "CD Veracruz",
+      "was based in",
+      "Veracruz"
+    ],
+    [
+      "economic debts",
+      "involved",
+      "youth system"
+    ],
+    [
+      "CD Veracruz",
+      "is also known as",
+      "Tiburones Rojos de Veracruz"
+    ],
+    [
+      "CD Veracruz",
+      "played its home matches at",
+      "Estadio Luis 'Pirata' Fuente"
+    ],
+    [
+      "CD Veracruz",
+      "was a",
+      "Mexican professional football club"
+    ],
+    [
+      "CD Veracruz",
+      "won",
+      "two Liga MX titles"
+    ],
+    [
+      "CD Veracruz",
+      "won",
+      "two Copa MX titles"
+    ],
+    [
+      "economic debts",
+      "involved",
+      "first team players"
+    ]
+  ]
+}

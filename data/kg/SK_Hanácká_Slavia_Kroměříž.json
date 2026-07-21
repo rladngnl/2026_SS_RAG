@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "Czech National Football League",
+    "Moravian–Silesian Football League",
+    "2005–06 season",
+    "2022–23 season",
+    "2024–25 season",
+    "2004–05 season",
+    "SK Hanácká Slavia Kroměříž",
+    "SK HS Kroměříž",
+    "2023–24 season",
+    "Czech Republic",
+    "Kroměříž"
+  ],
+  "edges": [
+    "played in",
+    "was promoted to",
+    "was in",
+    "was relegated after",
+    "plays in",
+    "was promoted back to",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "plays in",
+      "Czech National Football League"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "was relegated after",
+      "2022–23 season"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "played in",
+      "Czech National Football League"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "is located in",
+      "Czech Republic"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "was promoted back to",
+      "Czech National Football League"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "played in",
+      "2004–05 season"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "played in",
+      "2023–24 season"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "played in",
+      "2005–06 season"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "was in",
+      "Moravian–Silesian Football League"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "was promoted to",
+      "Czech National Football League"
+    ],
+    [
+      "SK Hanácká Slavia Kroměříž",
+      "is located in",
+      "Kroměříž"
+    ]
+  ]
+}

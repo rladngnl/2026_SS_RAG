@@ -1,0 +1,80 @@
+{
+  "entities": [
+    "Kajakai Dam",
+    "Operation Volcano",
+    "NATO",
+    "allied forces",
+    "March 6, 2007",
+    "Taliban",
+    "Operation_Achilles",
+    "War in Afghanistan",
+    "British Royal Marines",
+    "British ISAF forces",
+    "Operation Kryptonite",
+    "Helmand province"
+  ],
+  "edges": [
+    "began on",
+    "is led by",
+    "saw the clearing of",
+    "aims to clear",
+    "is the largest",
+    "successfully cleared",
+    "involves",
+    "is part of",
+    "focuses on",
+    "avoids direct confrontation in favor of"
+  ],
+  "relations": [
+    [
+      "Operation_Achilles",
+      "aims to clear",
+      "Helmand province"
+    ],
+    [
+      "Operation_Achilles",
+      "focuses on",
+      "Kajakai Dam"
+    ],
+    [
+      "British Royal Marines",
+      "successfully cleared",
+      "Operation Volcano"
+    ],
+    [
+      "Operation_Achilles",
+      "is the largest",
+      "NATO-based operation in Afghanistan"
+    ],
+    [
+      "Operation Volcano",
+      "involves",
+      "Kajakai Dam"
+    ],
+    [
+      "Taliban",
+      "avoids direct confrontation in favor of",
+      "guerilla tactics"
+    ],
+    [
+      "Operation_Achilles",
+      "is led by",
+      "British ISAF forces"
+    ],
+    [
+      "Operation_Achilles",
+      "began on",
+      "March 6, 2007"
+    ],
+    [
+      "Operation_Achilles",
+      "is part of",
+      "War in Afghanistan"
+    ],
+    [
+      "Operation Kryptonite",
+      "saw the clearing of",
+      "Kajakai Dam"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "entities": [
+    "Hazen and Robinson",
+    "Marvin Robinson, American architect",
+    "Marvin Robinson (footballer)",
+    "Marvin Robinson (politician)",
+    "Marvin Robinson"
+  ],
+  "edges": [
+    "may refer to",
+    "works with"
+  ],
+  "relations": [
+    [
+      "Marvin Robinson",
+      "may refer to",
+      "Marvin Robinson, American architect"
+    ],
+    [
+      "Marvin Robinson, American architect",
+      "works with",
+      "Hazen and Robinson"
+    ],
+    [
+      "Marvin Robinson",
+      "may refer to",
+      "Marvin Robinson (footballer)"
+    ],
+    [
+      "Marvin Robinson",
+      "may refer to",
+      "Marvin Robinson (politician)"
+    ]
+  ]
+}

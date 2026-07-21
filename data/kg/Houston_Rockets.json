@@ -1,0 +1,175 @@
+{
+  "entities": [
+    "Orlando Magic",
+    "Ralph Sampson",
+    "Clyde Drexler",
+    "MVP awards",
+    "1986 NBA Finals",
+    "Elvin Hayes",
+    "Mike D'Antoni",
+    "Southwest Division",
+    "James Harden",
+    "1991–92 season",
+    "Daryl Morey",
+    "American Basketball Association",
+    "1980–81 season",
+    "Toyota Center",
+    "Houston Rockets",
+    "Golden State Warriors",
+    "Western Conference",
+    "2020–21 season",
+    "Western Conference titles",
+    "Hakeem Olajuwon",
+    "San Diego Rockets",
+    "Charles Barkley",
+    "New York Knicks",
+    "Tracy McGrady",
+    "Downtown Houston",
+    "NBA championships",
+    "advanced statistical analytics",
+    "Rudy Tomjanovich",
+    "Moses Malone",
+    "Yao Ming",
+    "1993–94 season",
+    "1984 NBA draft",
+    "Boston Celtics",
+    "NBA",
+    "Twin Towers"
+  ],
+  "edges": [
+    "led the team to",
+    "compete in",
+    "are based in",
+    "was established as",
+    "play home games at",
+    "won against",
+    "reached",
+    "won",
+    "traded for",
+    "drafted",
+    "were renowned for",
+    "selected",
+    "was paired with",
+    "were led by",
+    "finished the regular season with",
+    "acquired",
+    "was named"
+  ],
+  "relations": [
+    [
+      "James Harden",
+      "was named",
+      "MVP awards"
+    ],
+    [
+      "Houston Rockets",
+      "finished the regular season with",
+      "40–42 record"
+    ],
+    [
+      "Houston Rockets",
+      "were led by",
+      "Yao Ming"
+    ],
+    [
+      "Houston Rockets",
+      "won against",
+      "New York Knicks"
+    ],
+    [
+      "Hakeem Olajuwon",
+      "was named",
+      "MVP awards"
+    ],
+    [
+      "Houston Rockets",
+      "was established as",
+      "San Diego Rockets"
+    ],
+    [
+      "Houston Rockets",
+      "selected",
+      "Elvin Hayes"
+    ],
+    [
+      "Hakeem Olajuwon",
+      "led the team to",
+      "1986 NBA Finals"
+    ],
+    [
+      "Houston Rockets",
+      "acquired",
+      "Charles Barkley"
+    ],
+    [
+      "Houston Rockets",
+      "acquired",
+      "James Harden"
+    ],
+    [
+      "Houston Rockets",
+      "play home games at",
+      "Toyota Center"
+    ],
+    [
+      "Houston Rockets",
+      "drafted",
+      "Hakeem Olajuwon"
+    ],
+    [
+      "Houston Rockets",
+      "won",
+      "NBA championships"
+    ],
+    [
+      "Hakeem Olajuwon",
+      "was paired with",
+      "Ralph Sampson"
+    ],
+    [
+      "Houston Rockets",
+      "were renowned for",
+      "advanced statistical analytics"
+    ],
+    [
+      "Houston Rockets",
+      "were led by",
+      "Tracy McGrady"
+    ],
+    [
+      "Houston Rockets",
+      "reached",
+      "NBA Finals"
+    ],
+    [
+      "Houston Rockets",
+      "compete in",
+      "NBA"
+    ],
+    [
+      "James Harden",
+      "led the team to",
+      "Western Conference finals appearances"
+    ],
+    [
+      "Houston Rockets",
+      "traded for",
+      "Moses Malone"
+    ],
+    [
+      "Moses Malone",
+      "was named",
+      "MVP awards"
+    ],
+    [
+      "Houston Rockets",
+      "are based in",
+      "Downtown Houston"
+    ],
+    [
+      "Houston Rockets",
+      "won",
+      "Western Conference titles"
+    ]
+  ]
+}

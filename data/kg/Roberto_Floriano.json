@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "footballer",
+    "Caravaggio",
+    "Roberto Floriano",
+    "Italy",
+    "forward",
+    "sporting director"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "is from",
+    "plays as a",
+    "is the current",
+    "works for"
+  ],
+  "relations": [
+    [
+      "Roberto Floriano",
+      "is the current",
+      "sporting director"
+    ],
+    [
+      "Roberto Floriano",
+      "plays as a",
+      "forward"
+    ],
+    [
+      "Roberto Floriano",
+      "works for",
+      "Caravaggio"
+    ],
+    [
+      "Roberto Floriano",
+      "is from",
+      "Italy"
+    ],
+    [
+      "Roberto Floriano",
+      "is born on",
+      "14 August 1986"
+    ],
+    [
+      "Roberto Floriano",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

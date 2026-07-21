@@ -1,0 +1,87 @@
+{
+  "entities": [
+    "UEFA Cup Winner's Cup",
+    "Moscow",
+    "Dynamo Kyiv",
+    "Russian Cups",
+    "Футбольный клуб «Спартак» Москва",
+    "UEFA Europa League",
+    "UEFA Champions League",
+    "Soviet championships",
+    "Russian championships",
+    "Soviet Cups",
+    "Russian Super Cup",
+    "FC Spartak Moscow",
+    "Zenit St Petersburg"
+  ],
+  "edges": [
+    "is the country's most successful club",
+    "has reached the semi-finals of",
+    "is second only to",
+    "has won",
+    "has a record jointly held with",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FC Spartak Moscow",
+      "has won",
+      "12 Soviet championships"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has won",
+      "10 Russian championships"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has reached the semi-finals of",
+      "UEFA Europa League"
+    ],
+    [
+      "FC Spartak Moscow",
+      "is the country's most successful club",
+      ""
+    ],
+    [
+      "FC Spartak Moscow",
+      "has won",
+      "one Russian Super Cup"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has reached the semi-finals of",
+      "UEFA Champions League"
+    ],
+    [
+      "FC Spartak Moscow",
+      "is based in",
+      "Moscow"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has reached the semi-finals of",
+      "UEFA Cup Winner's Cup"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has won",
+      "5 Russian Cups"
+    ],
+    [
+      "FC Spartak Moscow",
+      "is second only to",
+      "Dynamo Kyiv"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has won",
+      "10 Soviet Cups"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has a record jointly held with",
+      "Zenit St Petersburg"
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "entities": [
+    "Sight and Sound",
+    "David Lynch",
+    "The New York Times",
+    "Justin Theroux",
+    "BBC",
+    "ABC",
+    "Mary Sweeney",
+    "LA Film Critics Association",
+    "Naomi Watts",
+    "StudioCanal",
+    "Cannes Film Festival",
+    "The Ringer",
+    "IndieWire",
+    "Mulholland Drive",
+    "Laura Harring",
+    "Academy Award",
+    "Ann Miller"
+  ],
+  "edges": [
+    "is listed by",
+    "was conceived as",
+    "boosted by",
+    "was nominated for",
+    "secured funding from",
+    "is produced by",
+    "features",
+    "is directed by",
+    "is featured in",
+    "won",
+    "is ranked by",
+    "is named by"
+  ],
+  "relations": [
+    [
+      "Mulholland Drive",
+      "features",
+      "Naomi Watts"
+    ],
+    [
+      "Mulholland Drive",
+      "secured funding from",
+      "StudioCanal"
+    ],
+    [
+      "Mulholland Drive",
+      "is named by",
+      "IndieWire"
+    ],
+    [
+      "Mulholland Drive",
+      "is directed by",
+      "David Lynch"
+    ],
+    [
+      "Mulholland Drive",
+      "was conceived as",
+      "ABC"
+    ],
+    [
+      "Mulholland Drive",
+      "is named by",
+      "BBC"
+    ],
+    [
+      "Ann Miller",
+      "is featured in",
+      "Mulholland Drive"
+    ],
+    [
+      "Mulholland Drive",
+      "won",
+      "Cannes Film Festival Award for Best Director"
+    ],
+    [
+      "Mulholland Drive",
+      "is listed by",
+      "LA Film Critics Association"
+    ],
+    [
+      "Mulholland Drive",
+      "is ranked by",
+      "The New York Times"
+    ],
+    [
+      "Mulholland Drive",
+      "was nominated for",
+      "Academy Award for Best Director"
+    ],
+    [
+      "Mulholland Drive",
+      "features",
+      "Laura Harring"
+    ],
+    [
+      "Naomi Watts",
+      "boosted by",
+      "Mulholland Drive"
+    ],
+    [
+      "Mulholland Drive",
+      "features",
+      "Justin Theroux"
+    ],
+    [
+      "Mulholland Drive",
+      "is ranked by",
+      "Sight and Sound"
+    ],
+    [
+      "Mulholland Drive",
+      "is named by",
+      "The Ringer"
+    ],
+    [
+      "Mulholland Drive",
+      "is produced by",
+      "Mary Sweeney"
+    ]
+  ]
+}

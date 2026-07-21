@@ -1,0 +1,191 @@
+{
+  "entities": [
+    "Battlestar Galactica",
+    "American Family",
+    "The Ballad of Gregorio Cortez",
+    "Gregorio Cortez",
+    "Mayans M.C.",
+    "Jaime Escalante",
+    "The Wonderful Ice Cream Suit",
+    "Abraham Quintanilla",
+    "The Road to El Dorado",
+    "El Pachuco",
+    "Talent for the Game",
+    "Coco",
+    "Zoot Suit",
+    "Chief Tannabok",
+    "The Disappearance of Garcia Lorca",
+    "Selena",
+    "Golden Globe Award",
+    "Miami Vice",
+    "William Adama",
+    "The Burning Season",
+    "Blade Runner 2049",
+    "Edward James Olmos",
+    "12 Angry Men",
+    "Stand and Deliver",
+    "My Family",
+    "Montoya Santana",
+    "Blade Runner",
+    "Wolfen",
+    "Academy Award",
+    "Walkout",
+    "Chicharrón",
+    "Dexter",
+    "Triumph of the Spirit",
+    "Primetime Emmy Award",
+    "American Me",
+    "Felipe Reyes",
+    "Caught"
+  ],
+  "edges": [
+    "has directed",
+    "was nominated for",
+    "has starred in",
+    "is best known for his roles as",
+    "is known for his roles as",
+    "won"
+  ],
+  "relations": [
+    [
+      "Edward James Olmos",
+      "is known for his roles as",
+      "Chief Tannabok"
+    ],
+    [
+      "Edward James Olmos",
+      "was nominated for",
+      "Academy Award"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Walkout"
+    ],
+    [
+      "Edward James Olmos",
+      "is known for his roles as",
+      "Chicharrón"
+    ],
+    [
+      "Edward James Olmos",
+      "is best known for his roles as",
+      "Detective Gaff"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "My Family"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Battlestar Galactica"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Triumph of the Spirit"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "American Family"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Dexter"
+    ],
+    [
+      "Edward James Olmos",
+      "is known for his roles as",
+      "El Pachuco"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "12 Angry Men"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "The Wonderful Ice Cream Suit"
+    ],
+    [
+      "Edward James Olmos",
+      "won",
+      "Golden Globe Award"
+    ],
+    [
+      "Edward James Olmos",
+      "is known for his roles as",
+      "Felipe Reyes"
+    ],
+    [
+      "Edward James Olmos",
+      "is best known for his roles as",
+      "Jaime Escalante"
+    ],
+    [
+      "Edward James Olmos",
+      "is best known for his roles as",
+      "Lieutenant Martin \"Marty\" Castillo"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Talent for the Game"
+    ],
+    [
+      "Edward James Olmos",
+      "is known for his roles as",
+      "Gregorio Cortez"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "The Disappearance of Garcia Lorca"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Wolfen"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "The Burning Season"
+    ],
+    [
+      "Edward James Olmos",
+      "has directed",
+      "American Me"
+    ],
+    [
+      "Edward James Olmos",
+      "is known for his roles as",
+      "Abraham Quintanilla"
+    ],
+    [
+      "Edward James Olmos",
+      "has starred in",
+      "Caught"
+    ],
+    [
+      "Edward James Olmos",
+      "is best known for his roles as",
+      "William Adama"
+    ],
+    [
+      "Edward James Olmos",
+      "is best known for his roles as",
+      "Montoya Santana"
+    ],
+    [
+      "Edward James Olmos",
+      "won",
+      "Primetime Emmy Award"
+    ]
+  ]
+}

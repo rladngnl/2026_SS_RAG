@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "Sudan Premier League",
+    "Omdurman",
+    "Sudanese civil war",
+    "Africa",
+    "Sudan",
+    "Al-Merrikh Sporting Club",
+    "Al-Merrikh Stadium",
+    "1908",
+    "Rwanda Premier League",
+    "The Red Castle"
+  ],
+  "edges": [
+    "is ongoing due to",
+    "currently competes in",
+    "competes in",
+    "has home stadium",
+    "is one of the oldest football clubs in",
+    "was founded in",
+    "is the top-flight of football in",
+    "is based in",
+    "is locally known as"
+  ],
+  "relations": [
+    [
+      "Al-Merrikh Sporting Club",
+      "currently competes in",
+      "Rwanda Premier League"
+    ],
+    [
+      "Al-Merrikh Sporting Club",
+      "was founded in",
+      "1908"
+    ],
+    [
+      "Al-Merrikh Sporting Club",
+      "has home stadium",
+      "Al-Merrikh Stadium"
+    ],
+    [
+      "Al-Merrikh Sporting Club",
+      "is based in",
+      "Omdurman"
+    ],
+    [
+      "Rwanda Premier League",
+      "is the top-flight of football in",
+      "Rwanda"
+    ],
+    [
+      "Sudanese civil war",
+      "is ongoing due to",
+      "Sudan"
+    ],
+    [
+      "Al-Merrikh Stadium",
+      "is locally known as",
+      "The Red Castle"
+    ],
+    [
+      "Al-Merrikh Sporting Club",
+      "is one of the oldest football clubs in",
+      "Africa"
+    ],
+    [
+      "Al-Merrikh Sporting Club",
+      "competes in",
+      "Sudan Premier League"
+    ]
+  ]
+}

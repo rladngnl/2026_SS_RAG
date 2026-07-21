@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "King of the Romans",
+    "Jodokus von Mähren",
+    "House of Luxembourg",
+    "Jošt Moravský",
+    "Jo(b)st",
+    "Margrave of Moravia",
+    "Duke of Luxembourg",
+    "King of Germany",
+    "Luxembourg dynasty",
+    "Jobst of Moravia",
+    "Elector of Brandenburg",
+    "Jošt Lucemburský",
+    "German throne"
+  ],
+  "edges": [
+    "was Margrave of",
+    "was Duke of",
+    "dominated the struggles around the",
+    "was King of the",
+    "dominated the struggles within",
+    "was Elector of",
+    "was elected King of",
+    "is a member of"
+  ],
+  "relations": [
+    [
+      "Jobst of Moravia",
+      "was Elector of",
+      "Brandenburg"
+    ],
+    [
+      "Jobst of Moravia",
+      "dominated the struggles within",
+      "Luxembourg dynasty"
+    ],
+    [
+      "Jobst of Moravia",
+      "was elected King of",
+      "Germany"
+    ],
+    [
+      "Jobst of Moravia",
+      "is a member of",
+      "House of Luxembourg"
+    ],
+    [
+      "Jobst of Moravia",
+      "was King of the",
+      "Romans"
+    ],
+    [
+      "Jobst of Moravia",
+      "dominated the struggles around the",
+      "German throne"
+    ],
+    [
+      "Jobst of Moravia",
+      "was Margrave of",
+      "Moravia"
+    ],
+    [
+      "Jobst of Moravia",
+      "was Duke of",
+      "Luxembourg"
+    ]
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "entities": [
+    "Chris Killen",
+    "Norwich City",
+    "New Zealand",
+    "Hibernian",
+    "Celtic",
+    "2002 OFC Nations Cup",
+    "Miramar Rangers",
+    "2003 FIFA Confederations Cup",
+    "Wellington",
+    "2000 OFC Nations Cup",
+    "2008 Summer Olympics",
+    "New Zealand U23",
+    "Gordon Strachan",
+    "Chongqing",
+    "Shenzhen Ruby",
+    "Wrexham",
+    "Port Vale",
+    "Oldham Athletic",
+    "2010 FIFA World Cup",
+    "Christopher John Killen",
+    "Middlesbrough",
+    "2009 FIFA Confederations Cup",
+    "Manchester City"
+  ],
+  "edges": [
+    "signed for",
+    "was loaned to",
+    "made his international debut for",
+    "joined the youth academy of",
+    "switched clubs to",
+    "joined",
+    "is a former footballer for",
+    "made his first senior club appearances during a loan spell at",
+    "was part of the squad for",
+    "was included in the squad for",
+    "played club football for",
+    "rejoined his former manager",
+    "scored goals in the early part of the season for",
+    "grew up in",
+    "moved to play for"
+  ],
+  "relations": [
+    [
+      "Chris Killen",
+      "joined the youth academy of",
+      "Manchester City"
+    ],
+    [
+      "Chris Killen",
+      "rejoined his former manager",
+      "Gordon Strachan"
+    ],
+    [
+      "Chris Killen",
+      "was included in the squad for",
+      "New Zealand U23"
+    ],
+    [
+      "Chris Killen",
+      "scored goals in the early part of the season for",
+      "Hibernian"
+    ],
+    [
+      "Chris Killen",
+      "switched clubs to",
+      "Chongqing"
+    ],
+    [
+      "Chris Killen",
+      "was part of the squad for",
+      "2002 OFC Nations Cup"
+    ],
+    [
+      "Chris Killen",
+      "joined",
+      "Hibernian"
+    ],
+    [
+      "Chris Killen",
+      "moved to play for",
+      "Shenzhen Ruby"
+    ],
+    [
+      "Chris Killen",
+      "is a former footballer for",
+      "New Zealand"
+    ],
+    [
+      "Chris Killen",
+      "made his international debut for",
+      "New Zealand"
+    ],
+    [
+      "Chris Killen",
+      "was loaned to",
+      "Norwich City"
+    ],
+    [
+      "Chris Killen",
+      "made his first senior club appearances during a loan spell at",
+      "Wrexham"
+    ],
+    [
+      "Chris Killen",
+      "was part of the squad for",
+      "2009 FIFA Confederations Cup"
+    ],
+    [
+      "Chris Killen",
+      "was part of the squad for",
+      "2003 FIFA Confederations Cup"
+    ],
+    [
+      "Chris Killen",
+      "played club football for",
+      "Miramar Rangers"
+    ],
+    [
+      "Chris Killen",
+      "joined",
+      "Oldham Athletic"
+    ],
+    [
+      "Chris Killen",
+      "signed for",
+      "Celtic"
+    ],
+    [
+      "Chris Killen",
+      "grew up in",
+      "Wellington"
+    ],
+    [
+      "Chris Killen",
+      "was part of the squad for",
+      "2010 FIFA World Cup"
+    ],
+    [
+      "Chris Killen",
+      "was loaned to",
+      "Port Vale"
+    ]
+  ]
+}

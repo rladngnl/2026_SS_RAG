@@ -1,0 +1,159 @@
+{
+  "entities": [
+    "2011",
+    "First Division",
+    "East Sussex",
+    "2001",
+    "2022–23 season",
+    "2002",
+    "Brighton & Hove Albion Football Club",
+    "Crystal Palace",
+    "boardroom takeover",
+    "England",
+    "blue-and-white striped shirts",
+    "1991/92",
+    "women's team",
+    "2016–17 season",
+    "Premier League",
+    "Seagulls",
+    "Southern League",
+    "Football League",
+    "1997",
+    "Conference",
+    "UEFA Europa League",
+    "fourth tier",
+    "Falmer Stadium",
+    "Brighton",
+    "EFL Championship",
+    "1983 FA Cup",
+    "liquidation",
+    "Hove",
+    "Manchester United",
+    "Goldstone Ground",
+    "1990",
+    "Albion in the Community"
+  ],
+  "edges": [
+    "moved into",
+    "was saved from",
+    "has rivalry with",
+    "qualified for",
+    "lost to",
+    "competes in",
+    "are nicknamed",
+    "played in",
+    "adopted",
+    "has home ground",
+    "played at",
+    "finished second in",
+    "is based in",
+    "brought back to",
+    "was founded in",
+    "was in",
+    "avoided relegation from",
+    "was elected to",
+    "became a founding member of"
+  ],
+  "relations": [
+    [
+      "Brighton & Hove Albion Football Club",
+      "qualified for",
+      "UEFA Europa League"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "played in",
+      "First Division"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "moved into",
+      "Falmer Stadium"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "has rivalry with",
+      "Crystal Palace"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "lost to",
+      "Manchester United"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "was elected to",
+      "Football League"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "became a founding member of",
+      "Albion in the Community"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "was founded in",
+      "1901"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "finished second in",
+      "EFL Championship"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "are nicknamed",
+      "Seagulls"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "has home ground",
+      "Falmer Stadium"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "played at",
+      "Goldstone Ground"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "is based in",
+      "Brighton and Hove"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "adopted",
+      "women's team"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "was in",
+      "fourth tier"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "avoided relegation from",
+      "Football League"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "played in",
+      "blue-and-white striped shirts"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "was saved from",
+      "liquidation"
+    ],
+    [
+      "Brighton & Hove Albion Football Club",
+      "brought back to",
+      "second tier"
+    ]
+  ]
+}

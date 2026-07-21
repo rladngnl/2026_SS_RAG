@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "international titles",
+    "Italian women's volleyball club",
+    "Robursport Volley Pesaro",
+    "Italian Serie A1 titles",
+    "Pesaro"
+  ],
+  "edges": [
+    "won",
+    "is based in",
+    "is"
+  ],
+  "relations": [
+    [
+      "Robursport Volley Pesaro",
+      "won",
+      "international titles"
+    ],
+    [
+      "Robursport Volley Pesaro",
+      "is based in",
+      "Pesaro"
+    ],
+    [
+      "Robursport Volley Pesaro",
+      "won",
+      "Italian Serie A1 titles"
+    ],
+    [
+      "Robursport Volley Pesaro",
+      "is",
+      "Italian women's volleyball club"
+    ]
+  ]
+}

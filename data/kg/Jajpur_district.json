@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "India",
+    "Jajpur district",
+    "Cuttack district",
+    "1 April 1993",
+    "Odisha Government",
+    "1993",
+    "Odisha"
+  ],
+  "edges": [
+    "carried out a re-organisation of",
+    "is a district of",
+    "carried out the re-organisation in",
+    "was split into",
+    "was created on"
+  ],
+  "relations": [
+    [
+      "Odisha Government",
+      "carried out the re-organisation in",
+      "1993"
+    ],
+    [
+      "Odisha Government",
+      "carried out a re-organisation of",
+      "districts of Odisha"
+    ],
+    [
+      "Cuttack district",
+      "was split into",
+      "Jajpur district"
+    ],
+    [
+      "Jajpur district",
+      "was created on",
+      "1 April 1993"
+    ],
+    [
+      "Jajpur district",
+      "is a district of",
+      "Odisha"
+    ]
+  ]
+}

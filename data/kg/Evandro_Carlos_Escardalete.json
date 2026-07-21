@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "footballer",
+    "12 February 1974",
+    "Evandro",
+    "forward",
+    "Evandro Carlos Escardalete",
+    "Brazilian"
+  ],
+  "edges": [
+    "played mainly as",
+    "was born on",
+    "is a",
+    "is known simply as"
+  ],
+  "relations": [
+    [
+      "Evandro Carlos Escardalete",
+      "was born on",
+      "12 February 1974"
+    ],
+    [
+      "Evandro Carlos Escardalete",
+      "is known simply as",
+      "Evandro"
+    ],
+    [
+      "Evandro Carlos Escardalete",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Evandro Carlos Escardalete",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Evandro Carlos Escardalete",
+      "played mainly as",
+      "forward"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "entities": [
+    "FIFA",
+    "Korean",
+    "Republic of Korea",
+    "IOC",
+    "under-21 team",
+    "대한민국 23세 이하 축구 국가대표팀",
+    "under-23 competition",
+    "Asian Games",
+    "under-22 team",
+    "South Korea national under-23 football team",
+    "Korea Republic",
+    "Olympic Games"
+  ],
+  "edges": [
+    "represents",
+    "changed to",
+    "participates in",
+    "was founded when"
+  ],
+  "relations": [
+    [
+      "South Korea national under-23 football team",
+      "participates in",
+      "Olympic Games"
+    ],
+    [
+      "under-23 competition",
+      "changed to",
+      "under-22 team"
+    ],
+    [
+      "South Korea national under-23 football team",
+      "represents",
+      "South Korea"
+    ],
+    [
+      "South Korea national under-23 football team",
+      "was founded when",
+      "under-23 competition"
+    ],
+    [
+      "South Korea national under-23 football team",
+      "participates in",
+      "Asian Games"
+    ],
+    [
+      "under-23 competition",
+      "changed to",
+      "under-21 team"
+    ]
+  ]
+}

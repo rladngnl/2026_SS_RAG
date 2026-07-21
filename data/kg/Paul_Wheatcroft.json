@@ -1,0 +1,99 @@
+{
+  "entities": [
+    "Paul Wheatcroft",
+    "Bolton Wanderers",
+    "footballer",
+    "Mansfield Town",
+    "2000",
+    "Stalybridge Celtic",
+    "Rossendale United",
+    "Manchester United",
+    "non-League football",
+    "2002",
+    "Scunthorpe United",
+    "Radcliffe Borough",
+    "English",
+    "Southport",
+    "forward",
+    "1980",
+    "Rochdale"
+  ],
+  "edges": [
+    "was loaned to",
+    "played for",
+    "started his career at",
+    "joined",
+    "was born on",
+    "was loaned out to",
+    "dropped into",
+    "is",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Paul Wheatcroft",
+      "joined",
+      "Scunthorpe United"
+    ],
+    [
+      "Paul Wheatcroft",
+      "played for",
+      "Radcliffe Borough"
+    ],
+    [
+      "Paul Wheatcroft",
+      "was loaned to",
+      "Rossendale United"
+    ],
+    [
+      "Paul Wheatcroft",
+      "started his career at",
+      "Manchester United"
+    ],
+    [
+      "Paul Wheatcroft",
+      "was born on",
+      "22 November 1980"
+    ],
+    [
+      "Paul Wheatcroft",
+      "played as",
+      "forward"
+    ],
+    [
+      "Paul Wheatcroft",
+      "was loaned out to",
+      "Rochdale"
+    ],
+    [
+      "Paul Wheatcroft",
+      "is",
+      "English footballer"
+    ],
+    [
+      "Paul Wheatcroft",
+      "dropped into",
+      "non-League football"
+    ],
+    [
+      "Paul Wheatcroft",
+      "was loaned out to",
+      "Mansfield Town"
+    ],
+    [
+      "Paul Wheatcroft",
+      "played for",
+      "Southport"
+    ],
+    [
+      "Paul Wheatcroft",
+      "joined",
+      "Bolton Wanderers"
+    ],
+    [
+      "Paul Wheatcroft",
+      "played for",
+      "Stalybridge Celtic"
+    ]
+  ]
+}

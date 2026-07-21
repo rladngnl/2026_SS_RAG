@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "German",
+    "footballer",
+    "VfL Pirna-Copitz",
+    "goalkeeper",
+    "Karl-Marx-Stadt",
+    "25 March 1977",
+    "Axel Keller"
+  ],
+  "edges": [
+    "is a",
+    "plays for",
+    "was born in",
+    "was born on",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Axel Keller",
+      "plays as a",
+      "goalkeeper"
+    ],
+    [
+      "Axel Keller",
+      "was born in",
+      "Karl-Marx-Stadt"
+    ],
+    [
+      "Axel Keller",
+      "plays for",
+      "VfL Pirna-Copitz"
+    ],
+    [
+      "Axel Keller",
+      "was born on",
+      "25 March 1977"
+    ],
+    [
+      "Axel Keller",
+      "is a",
+      "German footballer"
+    ]
+  ]
+}

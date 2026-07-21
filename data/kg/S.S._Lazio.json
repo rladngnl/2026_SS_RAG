@@ -1,0 +1,174 @@
+{
+  "entities": [
+    "2000",
+    "Hellenic legacy",
+    "Stadio Olimpico",
+    "2002",
+    "2019",
+    "Rome",
+    "1974",
+    "Roma",
+    "sky blue",
+    "Sergio Cragnotti",
+    "Derby della Capitale",
+    "2013",
+    "S.S. Lazio",
+    "Supercoppa Italiana",
+    "Claudio Lotito",
+    "1990s",
+    "1999",
+    "Serie B",
+    "2009",
+    "Società Sportiva Lazio",
+    "2004",
+    "Serie A",
+    "UEFA Super Cup",
+    "S.S. Lazio S.p.A.",
+    "UEFA Cup Winners' Cup",
+    "1998",
+    "white",
+    "Coppa Italia",
+    "1958"
+  ],
+  "edges": [
+    "was president of",
+    "shares",
+    "contested the Derby della Capitale since",
+    "won the Serie A title in",
+    "has a rivalry with",
+    "is based in",
+    "has won",
+    "is used as",
+    "plays in",
+    "reached the UEFA Cup final in",
+    "allowed participation in",
+    "has traditional kit colours of",
+    "won their first Serie A title in",
+    "won the UEFA Cup Winners' Cup in",
+    "won Coppa Italia titles in",
+    "was founded in",
+    "took charge of"
+  ],
+  "relations": [
+    [
+      "S.S. Lazio",
+      "has won",
+      "Coppa Italia"
+    ],
+    [
+      "S.S. Lazio",
+      "has traditional kit colours of",
+      "sky blue and white"
+    ],
+    [
+      "S.S. Lazio",
+      "reached the UEFA Cup final in",
+      "1998"
+    ],
+    [
+      "S.S. Lazio",
+      "allowed participation in",
+      "over 40 different sports disciplines"
+    ],
+    [
+      "S.S. Lazio",
+      "won Coppa Italia titles in",
+      "2009"
+    ],
+    [
+      "S.S. Lazio",
+      "has won",
+      "Supercoppa Italiana"
+    ],
+    [
+      "S.S. Lazio",
+      "has a rivalry with",
+      "Roma"
+    ],
+    [
+      "S.S. Lazio",
+      "was founded in",
+      "1900"
+    ],
+    [
+      "S.S. Lazio",
+      "has won",
+      "UEFA Super Cup"
+    ],
+    [
+      "S.S. Lazio",
+      "plays in",
+      "Serie A"
+    ],
+    [
+      "S.S. Lazio",
+      "contested the Derby della Capitale since",
+      "1929"
+    ],
+    [
+      "S.S. Lazio",
+      "shares",
+      "Stadio Olimpico"
+    ],
+    [
+      "sky blue",
+      "is used as",
+      "home colours"
+    ],
+    [
+      "S.S. Lazio",
+      "won the Serie A title in",
+      "2000"
+    ],
+    [
+      "S.S. Lazio",
+      "won Coppa Italia titles in",
+      "2004"
+    ],
+    [
+      "S.S. Lazio",
+      "won Coppa Italia titles in",
+      "2019"
+    ],
+    [
+      "S.S. Lazio",
+      "is based in",
+      "Rome"
+    ],
+    [
+      "S.S. Lazio",
+      "won the UEFA Cup Winners' Cup in",
+      "1999"
+    ],
+    [
+      "S.S. Lazio",
+      "has won",
+      "Serie B"
+    ],
+    [
+      "S.S. Lazio",
+      "has won",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "Claudio Lotito",
+      "took charge of",
+      "S.S. Lazio"
+    ],
+    [
+      "S.S. Lazio",
+      "won their first Serie A title in",
+      "1974"
+    ],
+    [
+      "S.S. Lazio",
+      "won Coppa Italia titles in",
+      "2013"
+    ],
+    [
+      "Sergio Cragnotti",
+      "was president of",
+      "S.S. Lazio"
+    ]
+  ]
+}

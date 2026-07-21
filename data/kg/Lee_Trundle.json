@@ -1,0 +1,130 @@
+{
+  "entities": [
+    "Stalybridge Celtic",
+    "Bamber Bridge",
+    "Preston North End",
+    "Wrexham",
+    "Marine",
+    "Cwmbrân Town",
+    "Haverfordwest County",
+    "Lee Trundle",
+    "Southport",
+    "Rhyl",
+    "Bristol City",
+    "Leeds United",
+    "Chester",
+    "Chorley",
+    "Neath",
+    "Burscough",
+    "Llanelli Town",
+    "Swansea City"
+  ],
+  "edges": [
+    "signed for",
+    "returned to",
+    "works as",
+    "plays for",
+    "was loaned out to",
+    "moved to",
+    "played for",
+    "signed with",
+    "scored for"
+  ],
+  "relations": [
+    [
+      "Lee Trundle",
+      "returned to",
+      "Neath"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Marine"
+    ],
+    [
+      "Lee Trundle",
+      "moved to",
+      "Wrexham"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Chester"
+    ],
+    [
+      "Lee Trundle",
+      "plays for",
+      "Cwmbrân Town"
+    ],
+    [
+      "Lee Trundle",
+      "was loaned out to",
+      "Leeds United"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Burscough"
+    ],
+    [
+      "Lee Trundle",
+      "scored for",
+      "Swansea City"
+    ],
+    [
+      "Lee Trundle",
+      "works as",
+      "youth team coach"
+    ],
+    [
+      "Lee Trundle",
+      "signed for",
+      "Haverfordwest County"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Chorley"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Stalybridge Celtic"
+    ],
+    [
+      "Lee Trundle",
+      "signed for",
+      "Llanelli Town"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Bamber Bridge"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Rhyl"
+    ],
+    [
+      "Lee Trundle",
+      "signed for",
+      "Preston North End"
+    ],
+    [
+      "Lee Trundle",
+      "works as",
+      "club ambassador"
+    ],
+    [
+      "Lee Trundle",
+      "played for",
+      "Southport"
+    ],
+    [
+      "Lee Trundle",
+      "signed with",
+      "Bristol City"
+    ]
+  ]
+}

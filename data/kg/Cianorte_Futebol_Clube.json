@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "top division",
+    "Cianorte Futebol Clube",
+    "Paraná",
+    "Brazil",
+    "Paraná state football league",
+    "fourth tier",
+    "Cianorte",
+    "Campeonato Paranaense",
+    "association football",
+    "Campeonato Brasileiro Série D",
+    "football"
+  ],
+  "edges": [
+    "is a",
+    "is the",
+    "plays in",
+    "is commonly referred to as",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "Campeonato Brasileiro Série D",
+      "is the",
+      "fourth tier of Brazilian football"
+    ],
+    [
+      "Cianorte Futebol Clube",
+      "plays in",
+      "Campeonato Paranaense"
+    ],
+    [
+      "Cianorte Futebol Clube",
+      "is located in",
+      "Paraná"
+    ],
+    [
+      "Cianorte Futebol Clube",
+      "is commonly referred to as",
+      "Cianorte"
+    ],
+    [
+      "Cianorte Futebol Clube",
+      "is a",
+      "Brazilian professional association football club"
+    ],
+    [
+      "Cianorte Futebol Clube",
+      "is located in",
+      "Cianorte"
+    ],
+    [
+      "Cianorte Futebol Clube",
+      "plays in",
+      "Campeonato Brasileiro Série D"
+    ],
+    [
+      "Campeonato Paranaense",
+      "is the",
+      "top division of the Paraná state football league"
+    ]
+  ]
+}

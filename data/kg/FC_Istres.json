@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Istres",
+    "Stade Parsemain",
+    "1920",
+    "Arrondissement of Istres",
+    "Istres Football Club",
+    "FC_Istres"
+  ],
+  "edges": [
+    "is also known as",
+    "plays home matches at",
+    "is part of",
+    "is located in",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "FC_Istres",
+      "is also known as",
+      "Istres Football Club"
+    ],
+    [
+      "FC_Istres",
+      "plays home matches at",
+      "Stade Parsemain"
+    ],
+    [
+      "FC_Istres",
+      "was formed in",
+      "1920"
+    ],
+    [
+      "Stade Parsemain",
+      "is located in",
+      "Istres"
+    ],
+    [
+      "Istres",
+      "is part of",
+      "Arrondissement of Istres"
+    ]
+  ]
+}

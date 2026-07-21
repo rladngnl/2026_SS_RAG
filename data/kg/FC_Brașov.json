@@ -1,0 +1,65 @@
+{
+  "entities": [
+    "SR Brașov",
+    "Romania",
+    "Brașov",
+    "FC Brașov",
+    "FC Brașov (1936)",
+    "FC Brașov (2021)"
+  ],
+  "edges": [
+    "was dissolved in",
+    "is a fans-owned football club from",
+    "was founded in",
+    "is legally allowed to use",
+    "is a football club from",
+    "is located in"
+  ],
+  "relations": [
+    [
+      "FC Brașov (1936)",
+      "was dissolved in",
+      "2017"
+    ],
+    [
+      "FC Brașov (1936)",
+      "is a football club from",
+      "Brașov"
+    ],
+    [
+      "FC Brașov (2021)",
+      "is a football club from",
+      "Brașov"
+    ],
+    [
+      "FC Brașov (2021)",
+      "is legally allowed to use",
+      "FC Brașov's football records"
+    ],
+    [
+      "SR Brașov",
+      "is a fans-owned football club from",
+      "Brașov"
+    ],
+    [
+      "Brașov",
+      "is located in",
+      "Romania"
+    ],
+    [
+      "FC Brașov (2021)",
+      "is legally allowed to use",
+      "FC Brașov's brand"
+    ],
+    [
+      "FC Brașov (2021)",
+      "is legally allowed to use",
+      "FC Brașov's logo"
+    ],
+    [
+      "FC Brașov (1936)",
+      "was founded in",
+      "1936"
+    ]
+  ]
+}

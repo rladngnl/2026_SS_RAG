@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "Swiss",
+    "Symbolist painter",
+    "Isle of the Dead",
+    "late Romantic composers",
+    "Arnold Böcklin"
+  ],
+  "edges": [
+    "inspired works by",
+    "was",
+    "inspired"
+  ],
+  "relations": [
+    [
+      "Arnold Böcklin",
+      "was",
+      "Swiss"
+    ],
+    [
+      "Arnold Böcklin",
+      "inspired",
+      "Isle of the Dead"
+    ],
+    [
+      "Arnold Böcklin",
+      "was",
+      "Symbolist painter"
+    ],
+    [
+      "Isle of the Dead",
+      "inspired works by",
+      "late Romantic composers"
+    ]
+  ]
+}

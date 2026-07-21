@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "former player",
+    "Slovak club",
+    "Ricardo Moniz",
+    "football manager",
+    "Trenčín",
+    "Dutch",
+    "head coach"
+  ],
+  "edges": [
+    "includes",
+    "is head coach of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Slovak club",
+      "includes",
+      "Trenčín"
+    ],
+    [
+      "Ricardo Moniz",
+      "is",
+      "former player"
+    ],
+    [
+      "Ricardo Moniz",
+      "is",
+      "Dutch"
+    ],
+    [
+      "Ricardo Moniz",
+      "is",
+      "football manager"
+    ],
+    [
+      "Ricardo Moniz",
+      "is head coach of",
+      "Slovak club"
+    ]
+  ]
+}

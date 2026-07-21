@@ -1,0 +1,165 @@
+{
+  "entities": [
+    "Birmingham",
+    "Birmingham Repertory Theatre",
+    "UK",
+    "Wolverhampton",
+    "German Luftwaffe",
+    "Walsall",
+    "Industrial Revolution",
+    "England",
+    "River Tame",
+    "Severn",
+    "Birmingham Canal Navigations",
+    "River Rea",
+    "Warwickshire",
+    "Birmingham Blitz",
+    "Lichfield",
+    "West Midlands County",
+    "Shropshire Hills",
+    "University of Birmingham",
+    "City of Birmingham Symphony Orchestra",
+    "Dudley",
+    "Royal Town of Sutton Coldfield",
+    "Coventry",
+    "Library of Birmingham",
+    "Barber Institute of Fine Arts",
+    "Black Country",
+    "Cotswolds",
+    "Midlands Enlightenment",
+    "Solihull",
+    "M6 Toll",
+    "Joseph Chamberlain",
+    "Thomas Attwood",
+    "West Bromwich",
+    "Meriden Gap",
+    "2022 Commonwealth Games",
+    "River Cole",
+    "Birmingham Royal Ballet"
+  ],
+  "edges": [
+    "has major cultural institutions including",
+    "has numerous canals known as",
+    "is incorporated within",
+    "is a city in",
+    "is separated by",
+    "was bombed heavily by",
+    "borders",
+    "forms part of",
+    "lies to the east of",
+    "is the largest centre of higher education in the country outside",
+    "grew during the",
+    "was historically a market town in",
+    "was the host city for",
+    "is the most inland major city in",
+    "is located in",
+    "has small rivers flowing through it, mainly the"
+  ],
+  "relations": [
+    [
+      "Birmingham",
+      "is the most inland major city in",
+      "England"
+    ],
+    [
+      "Birmingham",
+      "is located in",
+      "England"
+    ],
+    [
+      "Birmingham",
+      "has major cultural institutions including",
+      "Birmingham Repertory Theatre"
+    ],
+    [
+      "Birmingham",
+      "was historically a market town in",
+      "Warwickshire"
+    ],
+    [
+      "Birmingham",
+      "grew during the",
+      "Industrial Revolution"
+    ],
+    [
+      "Birmingham",
+      "lies to the east of",
+      "Coventry"
+    ],
+    [
+      "Birmingham",
+      "is a city in",
+      "West Midlands County"
+    ],
+    [
+      "Birmingham",
+      "borders",
+      "Black Country"
+    ],
+    [
+      "Birmingham",
+      "has numerous canals known as",
+      "Birmingham Canal Navigations"
+    ],
+    [
+      "Birmingham",
+      "is separated by",
+      "Meriden Gap"
+    ],
+    [
+      "Birmingham",
+      "is the largest centre of higher education in the country outside",
+      "London"
+    ],
+    [
+      "Birmingham",
+      "has major cultural institutions including",
+      "Birmingham Royal Ballet"
+    ],
+    [
+      "Birmingham",
+      "is separated by",
+      "M6 Toll"
+    ],
+    [
+      "Birmingham",
+      "has major cultural institutions including",
+      "Barber Institute of Fine Arts"
+    ],
+    [
+      "Birmingham",
+      "is incorporated within",
+      "Royal Town of Sutton Coldfield"
+    ],
+    [
+      "Birmingham",
+      "has small rivers flowing through it, mainly the",
+      "River Tame"
+    ],
+    [
+      "Birmingham",
+      "was the host city for",
+      "2022 Commonwealth Games"
+    ],
+    [
+      "Birmingham",
+      "forms part of",
+      "West Midlands conurbation"
+    ],
+    [
+      "Birmingham",
+      "has major cultural institutions including",
+      "City of Birmingham Symphony Orchestra"
+    ],
+    [
+      "Birmingham",
+      "was bombed heavily by",
+      "German Luftwaffe"
+    ],
+    [
+      "Birmingham",
+      "has major cultural institutions including",
+      "Library of Birmingham"
+    ]
+  ]
+}

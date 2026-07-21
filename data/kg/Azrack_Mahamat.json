@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "professional footballer",
+    "24 March 1988",
+    "defensive midfielder",
+    "Chad national team",
+    "Azrack-Yassine Mahamat",
+    "France",
+    "US Ivry"
+  ],
+  "edges": [
+    "is born on",
+    "is a",
+    "plays for",
+    "is born in",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Azrack-Yassine Mahamat",
+      "plays for",
+      "US Ivry"
+    ],
+    [
+      "Azrack-Yassine Mahamat",
+      "plays for",
+      "Chad national team"
+    ],
+    [
+      "Azrack-Yassine Mahamat",
+      "is born in",
+      "France"
+    ],
+    [
+      "Azrack-Yassine Mahamat",
+      "is born on",
+      "24 March 1988"
+    ],
+    [
+      "Azrack-Yassine Mahamat",
+      "plays as a",
+      "defensive midfielder"
+    ],
+    [
+      "Azrack-Yassine Mahamat",
+      "is a",
+      "professional footballer"
+    ]
+  ]
+}

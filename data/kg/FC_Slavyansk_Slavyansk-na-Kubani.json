@@ -1,0 +1,60 @@
+{
+  "entities": [
+    "FC Slavyansk Slavyansk-na-Kubani",
+    "Zone 1",
+    "Russian Second Division",
+    "Slavyansk-na-Kubani",
+    "1992",
+    "6th place",
+    "football team",
+    "2004",
+    "Russian",
+    "1990"
+  ],
+  "edges": [
+    "played professionally from",
+    "achieved this result in",
+    "is a",
+    "played professionally until",
+    "of the",
+    "in",
+    "achieved"
+  ],
+  "relations": [
+    [
+      "FC Slavyansk Slavyansk-na-Kubani",
+      "played professionally until",
+      "2004"
+    ],
+    [
+      "FC Slavyansk Slavyansk-na-Kubani",
+      "is a",
+      "football team"
+    ],
+    [
+      "FC Slavyansk Slavyansk-na-Kubani",
+      "achieved this result in",
+      "1992"
+    ],
+    [
+      "6th place",
+      "in",
+      "Zone 1"
+    ],
+    [
+      "FC Slavyansk Slavyansk-na-Kubani",
+      "played professionally from",
+      "1990"
+    ],
+    [
+      "FC Slavyansk Slavyansk-na-Kubani",
+      "achieved",
+      "6th place"
+    ],
+    [
+      "Zone 1",
+      "of the",
+      "Russian Second Division"
+    ]
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "entities": [
+    "Vuosaaren urheilukenttä",
+    "Kakkonen",
+    "Finnish football club",
+    "Vuosaari",
+    "FC Viikingit",
+    "2014",
+    "Vikings",
+    "red colour",
+    "FC Viikkarit",
+    "Veikkausliiga",
+    "Heteniitty",
+    "East Helsinki",
+    "Vitonen",
+    "2007 season",
+    "Ykkönen"
+  ],
+  "edges": [
+    "refers to",
+    "is a",
+    "is located in",
+    "is known for",
+    "is also called",
+    "competed in",
+    "was relegated to",
+    "had to give up",
+    "were promoted to",
+    "plays home matches at",
+    "played",
+    "competes in",
+    "is based in"
+  ],
+  "relations": [
+    [
+      "FC Viikingit",
+      "is known for",
+      "red colour"
+    ],
+    [
+      "FC Viikingit",
+      "is a",
+      "Finnish football club"
+    ],
+    [
+      "Vuosaaren urheilukenttä",
+      "is also called",
+      "Heteniitty"
+    ],
+    [
+      "FC Viikingit",
+      "is located in",
+      "East Helsinki"
+    ],
+    [
+      "FC Viikingit",
+      "played",
+      "2007 season"
+    ],
+    [
+      "FC Viikingit",
+      "is based in",
+      "Vuosaari"
+    ],
+    [
+      "FC Viikingit",
+      "competed in",
+      "Kakkonen"
+    ],
+    [
+      "FC Viikingit",
+      "plays home matches at",
+      "Vuosaaren urheilukenttä"
+    ],
+    [
+      "FC Viikingit",
+      "was relegated to",
+      "Ykkönen"
+    ],
+    [
+      "FC Viikkarit",
+      "were promoted to",
+      "Kakkonen"
+    ],
+    [
+      "FC Viikingit",
+      "competed in",
+      "Veikkausliiga"
+    ],
+    [
+      "FC Viikingit",
+      "competes in",
+      "Vitonen"
+    ],
+    [
+      "FC Viikingit",
+      "refers to",
+      "Vikings"
+    ],
+    [
+      "FC Viikkarit",
+      "had to give up",
+      "Kakkonen"
+    ]
+  ]
+}

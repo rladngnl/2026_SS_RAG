@@ -1,0 +1,141 @@
+{
+  "entities": [
+    "Comedy Central",
+    "June 6, 1955",
+    "sitcom",
+    "singer",
+    "The King of Comedy",
+    "FX",
+    "series",
+    "Nurse Cecily",
+    "100 greatest stand-ups of all time",
+    "political figures",
+    "Sandra Bernhard",
+    "celebrity culture",
+    "1997",
+    "drama series",
+    "American",
+    "Masha",
+    "1970s",
+    "ABC",
+    "comedian",
+    "Madonna",
+    "Nancy Bartlett Thomas",
+    "actress",
+    "Nurse Judy Kubrak",
+    "1991",
+    "Apple TV+",
+    "Martin Scorsese",
+    "Roseanne",
+    "Severance",
+    "Pose"
+  ],
+  "edges": [
+    "critiqued",
+    "is number",
+    "is character in",
+    "is a",
+    "gained attention in",
+    "played",
+    "is ex-best friend of",
+    "is",
+    "is on list of"
+  ],
+  "relations": [
+    [
+      "Sandra Bernhard",
+      "is number",
+      "96"
+    ],
+    [
+      "Nurse Judy Kubrak",
+      "is character in",
+      "Pose"
+    ],
+    [
+      "Sandra Bernhard",
+      "played",
+      "Masha"
+    ],
+    [
+      "96",
+      "is on list of",
+      "Comedy Central's 100 greatest stand-ups of all time"
+    ],
+    [
+      "Sandra Bernhard",
+      "played",
+      "Nancy Bartlett Thomas"
+    ],
+    [
+      "Nurse Cecily",
+      "is character in",
+      "Severance"
+    ],
+    [
+      "Masha",
+      "is character in",
+      "The King of Comedy"
+    ],
+    [
+      "Sandra Bernhard",
+      "gained attention in",
+      "1970s"
+    ],
+    [
+      "Sandra Bernhard",
+      "critiqued",
+      "political figures"
+    ],
+    [
+      "Nancy Bartlett Thomas",
+      "is character in",
+      "Roseanne"
+    ],
+    [
+      "Sandra Bernhard",
+      "played",
+      "Nurse Cecily"
+    ],
+    [
+      "Sandra Bernhard",
+      "is",
+      "American"
+    ],
+    [
+      "Sandra Bernhard",
+      "is",
+      "actress"
+    ],
+    [
+      "Roseanne",
+      "is a",
+      "sitcom"
+    ],
+    [
+      "Sandra Bernhard",
+      "is",
+      "comedian"
+    ],
+    [
+      "Sandra Bernhard",
+      "is ex-best friend of",
+      "Madonna"
+    ],
+    [
+      "Sandra Bernhard",
+      "is",
+      "singer"
+    ],
+    [
+      "Sandra Bernhard",
+      "played",
+      "Nurse Judy Kubrak"
+    ],
+    [
+      "Sandra Bernhard",
+      "critiqued",
+      "celebrity culture"
+    ]
+  ]
+}

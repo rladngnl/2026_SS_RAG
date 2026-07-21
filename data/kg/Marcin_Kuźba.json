@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "Saint-Étienne",
+    "Podbeskidzie Bielsko-Biała",
+    "Poland",
+    "Lausanne",
+    "Poland national team",
+    "Olympiacos",
+    "Auxerre",
+    "Górnik Zabrze",
+    "lower league team",
+    "Marcin Kuźba",
+    "Wisła Kraków"
+  ],
+  "edges": [
+    "retired from",
+    "made caps for",
+    "was the sporting director of",
+    "is a former professional footballer",
+    "played for",
+    "mentioned the possibility of signing for",
+    "scored goals for"
+  ],
+  "relations": [
+    [
+      "Marcin Kuźba",
+      "played for",
+      "Olympiacos"
+    ],
+    [
+      "Marcin Kuźba",
+      "scored goals for",
+      "Poland national team"
+    ],
+    [
+      "Marcin Kuźba",
+      "was the sporting director of",
+      "Podbeskidzie Bielsko-Biała"
+    ],
+    [
+      "Marcin Kuźba",
+      "mentioned the possibility of signing for",
+      "lower league team"
+    ],
+    [
+      "Marcin Kuźba",
+      "played for",
+      "Saint-Étienne"
+    ],
+    [
+      "Marcin Kuźba",
+      "played for",
+      "Górnik Zabrze"
+    ],
+    [
+      "Marcin Kuźba",
+      "played for",
+      "Auxerre"
+    ],
+    [
+      "Marcin Kuźba",
+      "retired from",
+      "Górnik Zabrze"
+    ],
+    [
+      "Marcin Kuźba",
+      "played for",
+      "Wisła Kraków"
+    ],
+    [
+      "Marcin Kuźba",
+      "played for",
+      "Lausanne"
+    ],
+    [
+      "Marcin Kuźba",
+      "is a former professional footballer",
+      "Marcin Kuźba"
+    ],
+    [
+      "Marcin Kuźba",
+      "made caps for",
+      "Poland national team"
+    ]
+  ]
+}

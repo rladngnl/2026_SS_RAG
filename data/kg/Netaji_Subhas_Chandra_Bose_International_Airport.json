@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "Dalhousie Square",
+    "Kolkata metropolitan area",
+    "Dum Dum Airport",
+    "sixth-busiest airport",
+    "Subhas Chandra Bose",
+    "Jessore Road",
+    "Indian independence movement",
+    "1924",
+    "Hyderabad",
+    "22 million passengers",
+    "Dum Dum",
+    "Howrah Junction",
+    "Bagdogra Airport",
+    "Cooch Behar Airport",
+    "Durgapur",
+    "Bhutan",
+    "Kolkata",
+    "Howrah Bridge",
+    "Siliguri",
+    "Southeast Asia",
+    "Dubai",
+    "financial year 2024–25",
+    "ICAO",
+    "IATA",
+    "Netaji Subhas Chandra Bose International Airport",
+    "northeast India",
+    "VECC",
+    "Calcutta",
+    "Bengaluru",
+    "Cooch Behar",
+    "Abu Dhabi",
+    "Chennai",
+    "Mumbai",
+    "Kazi Nazrul Islam Airport",
+    "Doha",
+    "Bangladesh",
+    "West Bengal",
+    "CCU",
+    "Delhi"
+  ],
+  "edges": [
+    "is the primary aviation hub for",
+    "serves",
+    "is a major centre for flights to",
+    "is located in",
+    "is associated with",
+    "was originally known as",
+    "was renamed in",
+    "handled",
+    "is the sixth-busiest airport in",
+    "opened in"
+  ],
+  "relations": [
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "Abu Dhabi"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "Doha"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "northeast India"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "serves",
+      "Kolkata"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "Bhutan"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "Southeast Asia"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is the primary aviation hub for",
+      "eastern and northeastern India"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "handled",
+      "22 million passengers"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "was renamed in",
+      "1995"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is associated with",
+      "Calcutta"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "opened in",
+      "1924"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "was originally known as",
+      "Dum Dum Airport"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "Bangladesh"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is located in",
+      "Dum Dum"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is the sixth-busiest airport in",
+      "India"
+    ],
+    [
+      "Netaji Subhas Chandra Bose International Airport",
+      "is a major centre for flights to",
+      "Dubai"
+    ]
+  ]
+}
