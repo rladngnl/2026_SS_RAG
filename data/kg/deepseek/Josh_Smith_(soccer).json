@@ -1,0 +1,23 @@
+{
+  "entities": [
+    "2003 NCAA Division III Player of the Year",
+    "Josh Smith",
+    "American soccer midfielder"
+  ],
+  "edges": [
+    "was awarded",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Josh Smith",
+      "was awarded",
+      "2003 NCAA Division III Player of the Year"
+    ],
+    [
+      "Josh Smith",
+      "is a",
+      "American soccer midfielder"
+    ]
+  ]
+}

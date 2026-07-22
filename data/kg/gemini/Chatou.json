@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "Île-de-France region",
+    "Hauts-de-Seine",
+    "affluent suburbs",
+    "Yvelines department",
+    "city's centre",
+    "western Paris",
+    "Seine river",
+    "Paris",
+    "French pronunciation",
+    "commune",
+    "northern France",
+    "departmental border",
+    "Pays des Impressionnistes",
+    "Pierre-Auguste Renoir",
+    "Chatou",
+    "Impressionnistes"
+  ],
+  "edges": [
+    "of",
+    "used to paint in",
+    "in",
+    "is on the",
+    "is part of the",
+    "in the",
+    "is a",
+    "with",
+    "is a part of the",
+    "is about 14 km (9 mi) from the",
+    "described",
+    "is on the northwest side of the",
+    "is near"
+  ],
+  "relations": [
+    [
+      "Chatou",
+      "is part of the",
+      "Pays des Impressionnistes"
+    ],
+    [
+      "Yvelines department",
+      "in the",
+      "Île-de-France region"
+    ],
+    [
+      "Île-de-France region",
+      "in",
+      "northern France"
+    ],
+    [
+      "Chatou",
+      "is a part of the",
+      "affluent suburbs"
+    ],
+    [
+      "affluent suburbs",
+      "of",
+      "western Paris"
+    ],
+    [
+      "Chatou",
+      "is on the northwest side of the",
+      "Seine river"
+    ],
+    [
+      "Chatou",
+      "is about 14 km (9 mi) from the",
+      "city's centre"
+    ],
+    [
+      "Chatou",
+      "is near",
+      "Paris"
+    ],
+    [
+      "Impressionnistes",
+      "used to paint in",
+      "Chatou"
+    ],
+    [
+      "Chatou",
+      "is a",
+      "commune"
+    ],
+    [
+      "departmental border",
+      "with",
+      "Hauts-de-Seine"
+    ],
+    [
+      "commune",
+      "in the",
+      "Yvelines department"
+    ],
+    [
+      "Chatou",
+      "is on the",
+      "departmental border"
+    ],
+    [
+      "Pierre-Auguste Renoir",
+      "described",
+      "Chatou"
+    ]
+  ]
+}

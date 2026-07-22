@@ -1,0 +1,131 @@
+{
+  "entities": [
+    "Italian artists",
+    "engravings",
+    "printmaker",
+    "self-portraits",
+    "Nuremberg",
+    "woodcut prints",
+    "altarpieces",
+    "German painter",
+    "Giovanni Bellini",
+    "Emperor Maximilian I",
+    "Raphael",
+    "German humanists",
+    "watercolours",
+    "Northern Renaissance",
+    "Leonardo da Vinci",
+    "books",
+    "portraits",
+    "Albrecht Dürer",
+    "theorist",
+    "German Renaissance"
+  ],
+  "edges": [
+    "associated with",
+    "is a",
+    "influenced by",
+    "created",
+    "patronized by",
+    "born in",
+    "known for",
+    "in contact with"
+  ],
+  "relations": [
+    [
+      "Albrecht Dürer",
+      "is a",
+      "theorist"
+    ],
+    [
+      "Albrecht Dürer",
+      "is a",
+      "German painter"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "self-portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "known for",
+      "woodcut prints"
+    ],
+    [
+      "Albrecht Dürer",
+      "in contact with",
+      "Raphael"
+    ],
+    [
+      "Albrecht Dürer",
+      "influenced by",
+      "German humanists"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "engravings"
+    ],
+    [
+      "Albrecht Dürer",
+      "born in",
+      "Nuremberg"
+    ],
+    [
+      "Albrecht Dürer",
+      "in contact with",
+      "Leonardo da Vinci"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "watercolours"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "altarpieces"
+    ],
+    [
+      "Albrecht Dürer",
+      "patronized by",
+      "Emperor Maximilian I"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "books"
+    ],
+    [
+      "Albrecht Dürer",
+      "is a",
+      "printmaker"
+    ],
+    [
+      "Albrecht Dürer",
+      "associated with",
+      "Northern Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "associated with",
+      "German Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "in contact with",
+      "Giovanni Bellini"
+    ],
+    [
+      "Albrecht Dürer",
+      "influenced by",
+      "Italian artists"
+    ]
+  ]
+}

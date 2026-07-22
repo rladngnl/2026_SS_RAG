@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "100 student organizations",
+    "Waxahachie",
+    "O'Neil Ford",
+    "NCAA Division III Southern Athletic Association",
+    "Olmos Park",
+    "288 faculty members",
+    "63 minors",
+    "57 majors",
+    "58 countries",
+    "National Historic Landmark District",
+    "Trinity Tigers",
+    "Trinity University",
+    "Monte Vista Historic District",
+    "47 U.S. states",
+    "KRTU-FM",
+    "San Antonio",
+    "6 graduate programs",
+    "Tehuacana",
+    "Cumberland Presbyterians",
+    "Trinitonian",
+    "liberal arts and sciences curriculum",
+    "143 graduate students",
+    "2,490 undergraduate students",
+    "Texas"
+  ],
+  "edges": [
+    "competes in",
+    "moved its campus to",
+    "has a campus designed by",
+    "was founded by",
+    "has a campus radio station called",
+    "has been designated as",
+    "is located in",
+    "has",
+    "has a campus newspaper called",
+    "offers",
+    "represents",
+    "has an enrollment of"
+  ],
+  "relations": [
+    [
+      "Trinity University",
+      "is located in",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "competes in",
+      "NCAA Division III Southern Athletic Association"
+    ],
+    [
+      "Trinity University",
+      "has a campus designed by",
+      "O'Neil Ford"
+    ],
+    [
+      "Trinity University",
+      "has been designated as",
+      "National Historic Landmark District"
+    ],
+    [
+      "Trinity University",
+      "was founded by",
+      "Cumberland Presbyterians"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "143 graduate students"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "63 minors"
+    ],
+    [
+      "Trinity University",
+      "moved its campus to",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "6 graduate programs"
+    ],
+    [
+      "Trinity University",
+      "represents",
+      "47 U.S. states"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "100 student organizations"
+    ],
+    [
+      "Trinity University",
+      "has a campus radio station called",
+      "KRTU-FM"
+    ],
+    [
+      "Trinity University",
+      "has an enrollment of",
+      "2,490 undergraduate students"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "288 faculty members"
+    ],
+    [
+      "Trinity University",
+      "has a campus newspaper called",
+      "Trinitonian"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "57 majors"
+    ],
+    [
+      "Trinity University",
+      "represents",
+      "58 countries"
+    ]
+  ]
+}

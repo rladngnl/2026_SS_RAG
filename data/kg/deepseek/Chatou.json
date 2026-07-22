@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "Île-de-France region",
+    "Hauts-de-Seine",
+    "Yvelines department",
+    "Seine river",
+    "Paris",
+    "France",
+    "Pierre-Auguste Renoir",
+    "Pays des Impressionnistes",
+    "Chatou"
+  ],
+  "edges": [
+    "described",
+    "is on",
+    "is a commune in",
+    "is part of",
+    "is in",
+    "borders"
+  ],
+  "relations": [
+    [
+      "Yvelines department",
+      "is in",
+      "Île-de-France region"
+    ],
+    [
+      "Chatou",
+      "is part of",
+      "Pays des Impressionnistes"
+    ],
+    [
+      "Chatou",
+      "is on",
+      "Seine river"
+    ],
+    [
+      "Île-de-France region",
+      "is in",
+      "France"
+    ],
+    [
+      "Chatou",
+      "is a commune in",
+      "Yvelines department"
+    ],
+    [
+      "Pierre-Auguste Renoir",
+      "described",
+      "Chatou"
+    ],
+    [
+      "Chatou",
+      "borders",
+      "Hauts-de-Seine"
+    ],
+    [
+      "Chatou",
+      "is part of",
+      "Paris"
+    ]
+  ]
+}

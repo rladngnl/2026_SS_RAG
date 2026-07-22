@@ -1,0 +1,206 @@
+{
+  "entities": [
+    "Finnish League Cups",
+    "2022–23",
+    "Finnish football league system",
+    "Veikkausliiga",
+    "crest",
+    "HJK Helsinki",
+    "Helsinki",
+    "Finland",
+    "HJK Helsingfors",
+    "Metz",
+    "1998",
+    "Helsinki's Football Club",
+    "Finnish Cups",
+    "UEFA Europa League",
+    "play-off round",
+    "2011–12 season",
+    "2000",
+    "European competition",
+    "Töölö Football Stadium",
+    "Finnish football",
+    "2014–15",
+    "UEFA Champions League group stage",
+    "1907",
+    "HJK",
+    "Kansallinen Liiga",
+    "Finnish football club",
+    "Bangor City",
+    "Helsingin Jalkapalloklubi",
+    "UEFA Europa Conference League",
+    "Welsh champions"
+  ],
+  "edges": [
+    "beat Metz in",
+    "has",
+    "is the top division of",
+    "was founded in",
+    "is commonly known as",
+    "has success with",
+    "has played home games since",
+    "has home ground",
+    "had highest score during",
+    "has spent most of its history in",
+    "beat",
+    "is literally",
+    "is",
+    "participated in UEFA Europa League in",
+    "is the most successful",
+    "had victory over",
+    "is based in",
+    "had highest score in",
+    "has won",
+    "has participated in",
+    "is a",
+    "is known as",
+    "competes in"
+  ],
+  "relations": [
+    [
+      "HJK",
+      "had highest score in",
+      "European competition"
+    ],
+    [
+      "HJK",
+      "participated in UEFA Europa League in",
+      "2022–23"
+    ],
+    [
+      "HJK",
+      "has success with",
+      "Kansallinen Liiga"
+    ],
+    [
+      "HJK",
+      "had highest score during",
+      "2011–12 season"
+    ],
+    [
+      "Veikkausliiga",
+      "is the top division of",
+      "Finnish football league system"
+    ],
+    [
+      "HJK",
+      "has",
+      "crest"
+    ],
+    [
+      "HJK",
+      "competes in",
+      "Veikkausliiga"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is known as",
+      "HJK"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is a",
+      "Finnish football club"
+    ],
+    [
+      "HJK",
+      "has participated in",
+      "UEFA Europa League"
+    ],
+    [
+      "HJK",
+      "has spent most of its history in",
+      "Finnish football"
+    ],
+    [
+      "HJK",
+      "is the most successful",
+      "Finnish football club"
+    ],
+    [
+      "HJK",
+      "beat Metz in",
+      "1998"
+    ],
+    [
+      "HJK",
+      "has participated in",
+      "UEFA Champions League group stage"
+    ],
+    [
+      "HJK",
+      "has won",
+      "Finnish Cups"
+    ],
+    [
+      "HJK",
+      "participated in UEFA Europa League in",
+      "2014–15"
+    ],
+    [
+      "Bangor City",
+      "is",
+      "Welsh champions"
+    ],
+    [
+      "HJK",
+      "has played home games since",
+      "2000"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is based in",
+      "Helsinki"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is commonly known as",
+      "HJK Helsinki"
+    ],
+    [
+      "HJK",
+      "beat Metz in",
+      "play-off round"
+    ],
+    [
+      "HJK",
+      "has participated in",
+      "UEFA Europa Conference League"
+    ],
+    [
+      "HJK",
+      "has home ground",
+      "Töölö Football Stadium"
+    ],
+    [
+      "HJK",
+      "has won",
+      "Finnish League Cups"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is known as",
+      "HJK Helsingfors"
+    ],
+    [
+      "HJK",
+      "had victory over",
+      "Bangor City"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "is literally",
+      "Helsinki's Football Club"
+    ],
+    [
+      "HJK",
+      "beat",
+      "Metz"
+    ],
+    [
+      "HJK",
+      "was founded in",
+      "1907"
+    ]
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "entities": [
+    "Staatstheater Nürnberg",
+    "University of Technology Nuremberg",
+    "Erlangen",
+    "Old Town",
+    "Franconia",
+    "Schwabach",
+    "1. FC Nürnberg",
+    "Martin Behaim",
+    "Technische Hochschule Nürnberg",
+    "Nuremberg",
+    "Nuremberg rallies",
+    "Free Imperial City",
+    "Hans Sachs",
+    "Holy Roman Empire",
+    "Bavaria",
+    "University of Erlangen-Nuremberg",
+    "Hochschule für Musik Nürnberg",
+    "Staatsphilharmonie Nürnberg",
+    "Nuremberg Castle",
+    "Johann Pachelbel",
+    "Nuremberg trials",
+    "city walls",
+    "Fürth",
+    "Nuremberg Airport",
+    "Imperial Regalia",
+    "Nürnberg Messe",
+    "Nuremberg Metropolitan Region",
+    "Albrecht Dürer",
+    "2006 FIFA World Cup"
+  ],
+  "edges": [
+    "includes",
+    "kept",
+    "was a host city of",
+    "is an important cultural centre with",
+    "was associated with",
+    "is located in",
+    "was important in",
+    "is part of",
+    "is neighbouring",
+    "is among",
+    "is known for",
+    "is served by",
+    "became a",
+    "ranks among"
+  ],
+  "relations": [
+    [
+      "Nuremberg",
+      "was a host city of",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Nuremberg",
+      "is located in",
+      "Bavaria"
+    ],
+    [
+      "Nuremberg",
+      "kept",
+      "Imperial Regalia"
+    ],
+    [
+      "Nuremberg",
+      "is neighbouring",
+      "Fürth"
+    ],
+    [
+      "Nuremberg",
+      "is known for",
+      "city walls"
+    ],
+    [
+      "Nuremberg",
+      "is among",
+      "1. FC Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is an important cultural centre with",
+      "Staatstheater Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Hans Sachs"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Martin Behaim"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Johann Pachelbel"
+    ],
+    [
+      "Nuremberg",
+      "is part of",
+      "Franconia"
+    ],
+    [
+      "Nuremberg",
+      "is an important cultural centre with",
+      "Staatsphilharmonie Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is known for",
+      "Nuremberg Castle"
+    ],
+    [
+      "Nuremberg",
+      "is known for",
+      "Nuremberg trials"
+    ],
+    [
+      "Nuremberg",
+      "became a",
+      "Free Imperial City"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Albrecht Dürer"
+    ],
+    [
+      "Nuremberg",
+      "is served by",
+      "Nuremberg Airport"
+    ],
+    [
+      "Nuremberg",
+      "ranks among",
+      "Nürnberg Messe"
+    ],
+    [
+      "Nuremberg",
+      "includes",
+      "University of Technology Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "was important in",
+      "Holy Roman Empire"
+    ],
+    [
+      "Nuremberg",
+      "includes",
+      "Technische Hochschule Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is neighbouring",
+      "Schwabach"
+    ],
+    [
+      "Nuremberg",
+      "includes",
+      "University of Erlangen-Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "is neighbouring",
+      "Erlangen"
+    ],
+    [
+      "Nuremberg",
+      "includes",
+      "Hochschule für Musik Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is part of",
+      "Nuremberg Metropolitan Region"
+    ],
+    [
+      "Nuremberg",
+      "is known for",
+      "Nuremberg rallies"
+    ],
+    [
+      "Nuremberg",
+      "is known for",
+      "Old Town"
+    ]
+  ]
+}

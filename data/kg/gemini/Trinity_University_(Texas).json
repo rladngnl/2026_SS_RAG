@@ -1,0 +1,312 @@
+{
+  "entities": [
+    "Monte Vista Historic District",
+    "1945",
+    "private liberal arts college",
+    "student-to-faculty ratio",
+    "former lime quarry",
+    "1,100 acres",
+    "63 minors",
+    "campus radio station",
+    "first campus",
+    "100 student organizations",
+    "coeducational institution",
+    "143 graduate students",
+    "Civil War",
+    "8:1",
+    "Olmos Park",
+    "university",
+    "National Historic Landmark District",
+    "47 U.S. states",
+    "450 ha",
+    "land",
+    "diverse student body",
+    "campus newspaper",
+    "enrollment",
+    "KRTU-FM",
+    "campus",
+    "Trinity Tigers",
+    "Students",
+    "four schools",
+    "Cumberland Presbyterians",
+    "2024",
+    "school",
+    "1869",
+    "51 ha",
+    "2,490 undergraduate students",
+    "Tehuacana",
+    "Trinity University",
+    "John Boyd",
+    "Waxahachie",
+    "125-acre campus",
+    "Trinitonian",
+    "1902",
+    "Trinity",
+    "three schools",
+    "liberal arts and sciences curriculum",
+    "San Antonio",
+    "57 majors",
+    "6 graduate programs",
+    "O'Neil Ford",
+    "NCAA Division III Southern Athletic Association",
+    "58 countries",
+    "288 faculty members",
+    "Texas",
+    "downtown San Antonio"
+  ],
+  "edges": [
+    "has",
+    "represents",
+    "was founded in",
+    "was built on",
+    "offer",
+    "was designated a",
+    "was founded as a",
+    "includes",
+    "had an enrollment as of",
+    "include",
+    "is named",
+    "was donated by",
+    "is located in",
+    "was built atop a",
+    "is located north of",
+    "is located between",
+    "is",
+    "enrollment dropped during the",
+    "has a",
+    "was a merger of",
+    "moved campus to",
+    "compete in the",
+    "is a",
+    "moved campus to San Antonio in",
+    "participate in",
+    "is equivalent to",
+    "was founded by",
+    "moved campus to Waxahachie in",
+    "is part of",
+    "was designed by",
+    "follows a"
+  ],
+  "relations": [
+    [
+      "four schools",
+      "offer",
+      "63 minors"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "four schools"
+    ],
+    [
+      "three schools",
+      "enrollment dropped during the",
+      "Civil War"
+    ],
+    [
+      "university",
+      "has",
+      "288 faculty members"
+    ],
+    [
+      "four schools",
+      "offer",
+      "57 majors"
+    ],
+    [
+      "Trinity University",
+      "is located in",
+      "Texas"
+    ],
+    [
+      "Trinity University",
+      "was founded by",
+      "Cumberland Presbyterians"
+    ],
+    [
+      "school",
+      "moved campus to",
+      "Waxahachie"
+    ],
+    [
+      "diverse student body",
+      "represents",
+      "58 countries"
+    ],
+    [
+      "university",
+      "has a",
+      "student-to-faculty ratio"
+    ],
+    [
+      "Trinity University",
+      "was founded as a",
+      "coeducational institution"
+    ],
+    [
+      "125-acre campus",
+      "is located between",
+      "Olmos Park"
+    ],
+    [
+      "Trinity University",
+      "was founded in",
+      "1869"
+    ],
+    [
+      "enrollment",
+      "includes",
+      "143 graduate students"
+    ],
+    [
+      "125-acre campus",
+      "was built atop a",
+      "former lime quarry"
+    ],
+    [
+      "school",
+      "moved campus to San Antonio in",
+      "1945"
+    ],
+    [
+      "campus newspaper",
+      "is named",
+      "Trinitonian"
+    ],
+    [
+      "Trinity Tigers",
+      "compete in the",
+      "NCAA Division III Southern Athletic Association"
+    ],
+    [
+      "125-acre campus",
+      "is located north of",
+      "downtown San Antonio"
+    ],
+    [
+      "enrollment",
+      "includes",
+      "2,490 undergraduate students"
+    ],
+    [
+      "Trinity University",
+      "follows a",
+      "liberal arts and sciences curriculum"
+    ],
+    [
+      "four schools",
+      "offer",
+      "6 graduate programs"
+    ],
+    [
+      "125-acre campus",
+      "is equivalent to",
+      "51 ha"
+    ],
+    [
+      "1,100 acres",
+      "is part of",
+      "land"
+    ],
+    [
+      "school",
+      "moved campus to",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "is located in",
+      "San Antonio"
+    ],
+    [
+      "student-to-faculty ratio",
+      "is",
+      "8:1"
+    ],
+    [
+      "campus",
+      "was designated a",
+      "National Historic Landmark District"
+    ],
+    [
+      "100 student organizations",
+      "include",
+      "campus newspaper"
+    ],
+    [
+      "Trinity University",
+      "was a merger of",
+      "three schools"
+    ],
+    [
+      "diverse student body",
+      "represents",
+      "47 U.S. states"
+    ],
+    [
+      "campus radio station",
+      "is named",
+      "KRTU-FM"
+    ],
+    [
+      "school",
+      "moved campus to Waxahachie in",
+      "1902"
+    ],
+    [
+      "first campus",
+      "is located in",
+      "Tehuacana"
+    ],
+    [
+      "first campus",
+      "was built on",
+      "1,100 acres"
+    ],
+    [
+      "1,100 acres",
+      "is equivalent to",
+      "450 ha"
+    ],
+    [
+      "university",
+      "had an enrollment as of",
+      "2024"
+    ],
+    [
+      "100 student organizations",
+      "include",
+      "campus radio station"
+    ],
+    [
+      "125-acre campus",
+      "is located between",
+      "Monte Vista Historic District"
+    ],
+    [
+      "land",
+      "was donated by",
+      "John Boyd"
+    ],
+    [
+      "Students",
+      "participate in",
+      "100 student organizations"
+    ],
+    [
+      "Trinity University",
+      "is a",
+      "private liberal arts college"
+    ],
+    [
+      "campus",
+      "was designed by",
+      "O'Neil Ford"
+    ],
+    [
+      "Trinity",
+      "has",
+      "125-acre campus"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Veikkausliiga",
+    "Haka",
+    "Finnish footballer",
+    "Toni Tapio Kuivasto",
+    "Toni Kuivasto"
+  ],
+  "edges": [
+    "is also known as",
+    "played for",
+    "is a",
+    "is part of"
+  ],
+  "relations": [
+    [
+      "Toni Tapio Kuivasto",
+      "is a",
+      "Finnish footballer"
+    ],
+    [
+      "Haka",
+      "is part of",
+      "Veikkausliiga"
+    ],
+    [
+      "Toni Tapio Kuivasto",
+      "is also known as",
+      "Toni Kuivasto"
+    ],
+    [
+      "Toni Tapio Kuivasto",
+      "played for",
+      "Haka"
+    ]
+  ]
+}

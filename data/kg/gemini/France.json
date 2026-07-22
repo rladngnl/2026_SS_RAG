@@ -1,0 +1,498 @@
+{
+  "entities": [
+    "English Channel",
+    "Iron Age",
+    "Saint Pierre and Miquelon",
+    "Kingdom of France",
+    "French West Indies",
+    "Hundred Years' War",
+    "Fifth Republic",
+    "Charles de Gaulle",
+    "Fourth Republic",
+    "South America",
+    "Spain",
+    "Treaty of Verdun of 843",
+    "Andorra",
+    "Paris",
+    "West Francia",
+    "Metropolitan France",
+    "Napoleon III",
+    "Belle Époque",
+    "Monaco",
+    "North Atlantic",
+    "North Sea",
+    "Ancien Régime",
+    "Francia",
+    "French Revolution of 1789",
+    "Algerian War",
+    "United Nations Security Council",
+    "Bourbon Restoration",
+    "Rhine",
+    "United Kingdom",
+    "High Middle Ages",
+    "UNESCO World Heritage Sites",
+    "Italy",
+    "Belgium",
+    "House of Habsburg",
+    "Algeria",
+    "England",
+    "Allies of World War II",
+    "Napoleon Bonaparte",
+    "France",
+    "Rome",
+    "Declaration of the Rights of Man",
+    "Atlantic Ocean",
+    "Catholics",
+    "Gauls",
+    "French Second Republic",
+    "World War II",
+    "Indian Ocean",
+    "Germany",
+    "Mediterranean Sea",
+    "Early Middle Ages",
+    "Huguenots",
+    "Thirty Years' War",
+    "Gallo-Roman culture",
+    "Carolingian Empire",
+    "PPP-adjusted GDP",
+    "Luxembourg",
+    "Franks",
+    "French Republic",
+    "French Guiana",
+    "continental Europe",
+    "Celtic tribes",
+    "Western Europe",
+    "French colonial empire",
+    "First French Empire",
+    "GDP",
+    "Oceania",
+    "French Renaissance",
+    "World War I",
+    "Louis XIV",
+    "Second French Empire",
+    "Switzerland",
+    "French Wars of Religion",
+    "French Third Republic",
+    "Franco-Prussian War"
+  ],
+  "edges": [
+    "became independent from",
+    "are known as",
+    "annexed",
+    "extends to",
+    "has cultural centre",
+    "was established following",
+    "dissolved during",
+    "evolved into",
+    "has overseas region",
+    "borders",
+    "was occupied by",
+    "was led by",
+    "experienced",
+    "succeeded",
+    "has overseas territory",
+    "was succeeded by",
+    "has capital",
+    "extends from",
+    "was in conflict with",
+    "is heartland of",
+    "had",
+    "is located in",
+    "was settled during",
+    "overthrew",
+    "is officially named",
+    "was a kingdom during",
+    "emerged during",
+    "formed",
+    "has overseas territories in",
+    "was successful in",
+    "produced",
+    "subjugated",
+    "collapsed during",
+    "established",
+    "was among",
+    "hosts",
+    "has large economy by",
+    "was settled by",
+    "was formed during",
+    "has economic centre",
+    "has largest city",
+    "endured",
+    "participated in",
+    "was formed by",
+    "developed",
+    "was between",
+    "is a system in",
+    "partitioned",
+    "is member of",
+    "reigned over",
+    "was established in"
+  ],
+  "relations": [
+    [
+      "Metropolitan France",
+      "borders",
+      "Italy"
+    ],
+    [
+      "Franks",
+      "formed",
+      "Francia"
+    ],
+    [
+      "Metropolitan France",
+      "was settled by",
+      "Celtic tribes"
+    ],
+    [
+      "Fifth Republic",
+      "is a system in",
+      "France"
+    ],
+    [
+      "French Guiana",
+      "is located in",
+      "South America"
+    ],
+    [
+      "France",
+      "was in conflict with",
+      "House of Habsburg"
+    ],
+    [
+      "French colonial empire",
+      "emerged during",
+      "French Renaissance"
+    ],
+    [
+      "France",
+      "has overseas territory",
+      "French West Indies"
+    ],
+    [
+      "Algeria",
+      "became independent from",
+      "France"
+    ],
+    [
+      "France",
+      "has largest city",
+      "Paris"
+    ],
+    [
+      "Second French Empire",
+      "collapsed during",
+      "Franco-Prussian War"
+    ],
+    [
+      "France",
+      "was occupied by",
+      "Germany"
+    ],
+    [
+      "Metropolitan France",
+      "was settled during",
+      "Iron Age"
+    ],
+    [
+      "Fifth Republic",
+      "was formed by",
+      "Charles de Gaulle"
+    ],
+    [
+      "French Wars of Religion",
+      "was between",
+      "Huguenots"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "is located in",
+      "North Atlantic"
+    ],
+    [
+      "Louis XIV",
+      "reigned over",
+      "France"
+    ],
+    [
+      "England",
+      "participated in",
+      "Hundred Years' War"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Germany"
+    ],
+    [
+      "France",
+      "has capital",
+      "Paris"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Switzerland"
+    ],
+    [
+      "First French Empire",
+      "subjugated",
+      "continental Europe"
+    ],
+    [
+      "France",
+      "has overseas region",
+      "French Guiana"
+    ],
+    [
+      "France",
+      "has overseas territory",
+      "Saint Pierre and Miquelon"
+    ],
+    [
+      "Metropolitan France",
+      "extends to",
+      "Atlantic Ocean"
+    ],
+    [
+      "French Revolution of 1789",
+      "overthrew",
+      "Ancien Régime"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Luxembourg"
+    ],
+    [
+      "France",
+      "participated in",
+      "Hundred Years' War"
+    ],
+    [
+      "Fourth Republic",
+      "was established in",
+      "France"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "United Kingdom"
+    ],
+    [
+      "Napoleon Bonaparte",
+      "established",
+      "First French Empire"
+    ],
+    [
+      "Francia",
+      "was formed during",
+      "Early Middle Ages"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Belgium"
+    ],
+    [
+      "Fourth Republic",
+      "dissolved during",
+      "Algerian War"
+    ],
+    [
+      "Metropolitan France",
+      "extends from",
+      "Mediterranean Sea"
+    ],
+    [
+      "France",
+      "was led by",
+      "Napoleon Bonaparte"
+    ],
+    [
+      "France",
+      "is officially named",
+      "French Republic"
+    ],
+    [
+      "Treaty of Verdun of 843",
+      "partitioned",
+      "Carolingian Empire"
+    ],
+    [
+      "Napoleon III",
+      "established",
+      "Second French Empire"
+    ],
+    [
+      "France",
+      "had",
+      "French colonial empire"
+    ],
+    [
+      "France",
+      "had",
+      "French Wars of Religion"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Spain"
+    ],
+    [
+      "Celtic tribes",
+      "are known as",
+      "Gauls"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Monaco"
+    ],
+    [
+      "Rome",
+      "annexed",
+      "Metropolitan France"
+    ],
+    [
+      "France",
+      "is located in",
+      "Western Europe"
+    ],
+    [
+      "Metropolitan France",
+      "developed",
+      "Gallo-Roman culture"
+    ],
+    [
+      "Francia",
+      "is heartland of",
+      "Carolingian Empire"
+    ],
+    [
+      "France",
+      "was in conflict with",
+      "England"
+    ],
+    [
+      "France",
+      "hosts",
+      "UNESCO World Heritage Sites"
+    ],
+    [
+      "France",
+      "has large economy by",
+      "PPP-adjusted GDP"
+    ],
+    [
+      "France",
+      "has cultural centre",
+      "Paris"
+    ],
+    [
+      "France",
+      "experienced",
+      "Belle Époque"
+    ],
+    [
+      "France",
+      "was a kingdom during",
+      "High Middle Ages"
+    ],
+    [
+      "France",
+      "was among",
+      "Allies of World War II"
+    ],
+    [
+      "West Francia",
+      "evolved into",
+      "Kingdom of France"
+    ],
+    [
+      "France",
+      "has economic centre",
+      "Paris"
+    ],
+    [
+      "French Wars of Religion",
+      "was between",
+      "Catholics"
+    ],
+    [
+      "French Second Republic",
+      "succeeded",
+      "Bourbon Restoration"
+    ],
+    [
+      "Metropolitan France",
+      "borders",
+      "Andorra"
+    ],
+    [
+      "France",
+      "has large economy by",
+      "GDP"
+    ],
+    [
+      "France",
+      "is member of",
+      "United Nations Security Council"
+    ],
+    [
+      "France",
+      "has overseas territories in",
+      "Indian Ocean"
+    ],
+    [
+      "Metropolitan France",
+      "extends from",
+      "Rhine"
+    ],
+    [
+      "Metropolitan France",
+      "extends to",
+      "North Sea"
+    ],
+    [
+      "Metropolitan France",
+      "extends to",
+      "English Channel"
+    ],
+    [
+      "France",
+      "was successful in",
+      "Thirty Years' War"
+    ],
+    [
+      "France",
+      "endured",
+      "Bourbon Restoration"
+    ],
+    [
+      "French Third Republic",
+      "was established following",
+      "Franco-Prussian War"
+    ],
+    [
+      "French Second Republic",
+      "was succeeded by",
+      "Second French Empire"
+    ],
+    [
+      "France",
+      "participated in",
+      "World War I"
+    ],
+    [
+      "French Revolution of 1789",
+      "produced",
+      "Declaration of the Rights of Man"
+    ],
+    [
+      "France",
+      "has overseas territories in",
+      "Oceania"
+    ]
+  ]
+}

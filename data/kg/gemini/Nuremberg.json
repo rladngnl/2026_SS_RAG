@@ -1,0 +1,295 @@
+{
+  "entities": [
+    "Franconia",
+    "Late Middle Ages",
+    "Nuremberg Airport",
+    "1. FC Nürnberg",
+    "Martin Behaim",
+    "Technische Hochschule Nürnberg",
+    "imperial diets",
+    "city walls",
+    "Hochschule für Musik Nürnberg",
+    "Fürth",
+    "Imperial Regalia",
+    "Bavaria",
+    "Nuremberg Castle",
+    "Hans Sachs",
+    "University of Erlangen-Nuremberg",
+    "University of Technology Nuremberg",
+    "Nuremberg trials",
+    "Mainfränkisch",
+    "Staatstheater Nürnberg",
+    "Staatsphilharmonie Nürnberg",
+    "Germany",
+    "Nuremberg Metropolitan Region",
+    "20th century",
+    "2006 FIFA World Cup",
+    "German",
+    "Holy Roman Empire",
+    "NURE-əm-burg",
+    "Nürnberg Messe",
+    "Pegnitz",
+    "Renaissance",
+    "Schwabach",
+    "empire",
+    "Nürnberg",
+    "Albrecht Dürer",
+    "Nämberch",
+    "Johann Pachelbel",
+    "Nuremberg rallies",
+    "Old Town",
+    "FIFA World Cup",
+    "Second World War",
+    "Nuremberg",
+    "Free Imperial City",
+    "Erlangen"
+  ],
+  "edges": [
+    "was associated with",
+    "has",
+    "occurred in",
+    "is also known as",
+    "is the second-largest city in",
+    "is the 13th-largest city in",
+    "forms a conurbation with",
+    "is a city of",
+    "was a host city of",
+    "were held in",
+    "were kept in",
+    "is a city in",
+    "is situated on",
+    "became",
+    "is in",
+    "were kept until end of",
+    "occurred after",
+    "is a centre in",
+    "was a centre during",
+    "developed around",
+    "was hosted by",
+    "is served by",
+    "was site of",
+    "is the largest city in"
+  ],
+  "relations": [
+    [
+      "Nuremberg",
+      "was associated with",
+      "Hans Sachs"
+    ],
+    [
+      "Nuremberg",
+      "forms a conurbation with",
+      "Erlangen"
+    ],
+    [
+      "Nuremberg",
+      "is a centre in",
+      "Bavaria"
+    ],
+    [
+      "Nuremberg",
+      "developed around",
+      "Nuremberg Castle"
+    ],
+    [
+      "Nuremberg",
+      "was site of",
+      "Nuremberg rallies"
+    ],
+    [
+      "Nuremberg",
+      "is also known as",
+      "Nämberch"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Old Town"
+    ],
+    [
+      "Nuremberg",
+      "is the second-largest city in",
+      "Bavaria"
+    ],
+    [
+      "Nuremberg rallies",
+      "occurred in",
+      "20th century"
+    ],
+    [
+      "Nuremberg",
+      "is situated on",
+      "Pegnitz"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Nuremberg Castle"
+    ],
+    [
+      "imperial diets",
+      "were held in",
+      "Nuremberg"
+    ],
+    [
+      "Staatsphilharmonie Nürnberg",
+      "is in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "was a host city of",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Nuremberg",
+      "was a centre during",
+      "Late Middle Ages"
+    ],
+    [
+      "Nuremberg",
+      "was a centre during",
+      "Renaissance"
+    ],
+    [
+      "Nuremberg Airport",
+      "is in",
+      "Bavaria"
+    ],
+    [
+      "University of Technology Nuremberg",
+      "is in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "is the largest city in",
+      "Franconia"
+    ],
+    [
+      "University of Erlangen-Nuremberg",
+      "is in",
+      "Germany"
+    ],
+    [
+      "Staatstheater Nürnberg",
+      "is in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "city walls"
+    ],
+    [
+      "Technische Hochschule Nürnberg",
+      "is in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "is served by",
+      "Nuremberg Airport"
+    ],
+    [
+      "Nuremberg",
+      "is also known as",
+      "Nürnberg"
+    ],
+    [
+      "Imperial Regalia",
+      "were kept until end of",
+      "empire"
+    ],
+    [
+      "1. FC Nürnberg",
+      "is in",
+      "Germany"
+    ],
+    [
+      "2006 FIFA World Cup",
+      "was hosted by",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "was site of",
+      "Nuremberg trials"
+    ],
+    [
+      "Nuremberg",
+      "is the 13th-largest city in",
+      "Germany"
+    ],
+    [
+      "Nuremberg trials",
+      "occurred after",
+      "Second World War"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Johann Pachelbel"
+    ],
+    [
+      "Nuremberg",
+      "forms a conurbation with",
+      "Schwabach"
+    ],
+    [
+      "Nuremberg",
+      "forms a conurbation with",
+      "Fürth"
+    ],
+    [
+      "University of Erlangen-Nuremberg",
+      "is in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "is also known as",
+      "NURE-əm-burg"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Albrecht Dürer"
+    ],
+    [
+      "Nuremberg",
+      "is a city in",
+      "Bavaria"
+    ],
+    [
+      "Imperial Regalia",
+      "were kept in",
+      "Nuremberg"
+    ],
+    [
+      "Hochschule für Musik Nürnberg",
+      "is in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Martin Behaim"
+    ],
+    [
+      "Nürnberg Messe",
+      "is in",
+      "Germany"
+    ],
+    [
+      "Nuremberg",
+      "is a city of",
+      "Holy Roman Empire"
+    ],
+    [
+      "Nuremberg",
+      "became",
+      "Free Imperial City"
+    ]
+  ]
+}

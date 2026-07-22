@@ -1,0 +1,219 @@
+{
+  "entities": [
+    "portraits",
+    "Leonardo da Vinci",
+    "theoretical treatises",
+    "nude",
+    "woodcuts series",
+    "body proportions",
+    "theorist",
+    "linear perspective",
+    "German humanists",
+    "Italian artists",
+    "Duerer",
+    "Giovanni Bellini",
+    "printmaker",
+    "engravings",
+    "watercolours",
+    "Durer",
+    "burin",
+    "German",
+    "classical motifs",
+    "Europe",
+    "Raphael",
+    "mathematics",
+    "Emperor Maximilian I",
+    "self-portraits",
+    "Northern Renaissance",
+    "painter",
+    "German Renaissance",
+    "Northern art",
+    "Gothic",
+    "Albrecht Dürer",
+    "books",
+    "Nuremberg",
+    "altarpieces"
+  ],
+  "edges": [
+    "involve principles of",
+    "was",
+    "is for",
+    "had knowledge of",
+    "established influence across",
+    "was in contact with",
+    "expanded tonal range of",
+    "was a theorist of the",
+    "is also spelled as",
+    "was patronized by",
+    "includes",
+    "work includes",
+    "are stylistically more",
+    "introduced into",
+    "was a",
+    "was born in",
+    "is an important figure of the",
+    "introduced"
+  ],
+  "relations": [
+    [
+      "Albrecht Dürer",
+      "work includes",
+      "books"
+    ],
+    [
+      "Albrecht Dürer",
+      "was patronized by",
+      "Emperor Maximilian I"
+    ],
+    [
+      "nude",
+      "introduced into",
+      "Northern art"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a theorist of the",
+      "German Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "theorist"
+    ],
+    [
+      "Albrecht Dürer",
+      "work includes",
+      "engravings"
+    ],
+    [
+      "Italian artists",
+      "includes",
+      "Giovanni Bellini"
+    ],
+    [
+      "Albrecht Dürer",
+      "work includes",
+      "self-portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "work includes",
+      "altarpieces"
+    ],
+    [
+      "Albrecht Dürer",
+      "work includes",
+      "watercolours"
+    ],
+    [
+      "Albrecht Dürer",
+      "is also spelled as",
+      "Duerer"
+    ],
+    [
+      "Italian artists",
+      "includes",
+      "Raphael"
+    ],
+    [
+      "Albrecht Dürer",
+      "is an important figure of the",
+      "Northern Renaissance"
+    ],
+    [
+      "theoretical treatises",
+      "involve principles of",
+      "mathematics"
+    ],
+    [
+      "mathematics",
+      "is for",
+      "body proportions"
+    ],
+    [
+      "Albrecht Dürer",
+      "was born in",
+      "Nuremberg"
+    ],
+    [
+      "Italian artists",
+      "includes",
+      "Leonardo da Vinci"
+    ],
+    [
+      "Albrecht Dürer",
+      "is also spelled as",
+      "Durer"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "nude"
+    ],
+    [
+      "Albrecht Dürer",
+      "had knowledge of",
+      "Italian artists"
+    ],
+    [
+      "Albrecht Dürer",
+      "was",
+      "German"
+    ],
+    [
+      "Albrecht Dürer",
+      "work includes",
+      "portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "classical motifs"
+    ],
+    [
+      "woodcuts series",
+      "are stylistically more",
+      "Gothic"
+    ],
+    [
+      "burin",
+      "expanded tonal range of",
+      "engravings"
+    ],
+    [
+      "Albrecht Dürer",
+      "was in contact with",
+      "Italian artists"
+    ],
+    [
+      "Albrecht Dürer",
+      "had knowledge of",
+      "German humanists"
+    ],
+    [
+      "classical motifs",
+      "introduced into",
+      "Northern art"
+    ],
+    [
+      "mathematics",
+      "is for",
+      "linear perspective"
+    ],
+    [
+      "Albrecht Dürer",
+      "established influence across",
+      "Europe"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "printmaker"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "painter"
+    ]
+  ]
+}

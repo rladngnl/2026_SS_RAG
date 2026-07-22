@@ -1,0 +1,77 @@
+{
+  "entities": [
+    "양주 시민 축구단",
+    "Uijeongbu",
+    "league football",
+    "Yangju",
+    "Yangju Citizen Football Club",
+    "South Korea",
+    "K3 League",
+    "Seoul",
+    "South Korean football club",
+    "Dongducheon"
+  ],
+  "edges": [
+    "is not far from",
+    "is in",
+    "is a member of",
+    "is a",
+    "is located north of",
+    "is the third tier of",
+    "also known as",
+    "is based in",
+    "is located south of"
+  ],
+  "relations": [
+    [
+      "K3 League",
+      "is in",
+      "South Korea"
+    ],
+    [
+      "league football",
+      "is in",
+      "South Korea"
+    ],
+    [
+      "Yangju",
+      "is located north of",
+      "Uijeongbu"
+    ],
+    [
+      "Yangju Citizen Football Club",
+      "is based in",
+      "Yangju"
+    ],
+    [
+      "Yangju",
+      "is located south of",
+      "Dongducheon"
+    ],
+    [
+      "Yangju",
+      "is not far from",
+      "Seoul"
+    ],
+    [
+      "Yangju Citizen Football Club",
+      "also known as",
+      "양주 시민 축구단"
+    ],
+    [
+      "Yangju Citizen Football Club",
+      "is a",
+      "South Korean football club"
+    ],
+    [
+      "K3 League",
+      "is the third tier of",
+      "league football"
+    ],
+    [
+      "Yangju Citizen Football Club",
+      "is a member of",
+      "K3 League"
+    ]
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "entities": [
+    "Old Town",
+    "Free Imperial City",
+    "Second World War",
+    "Schwabach",
+    "Hans Sachs",
+    "Nuremberg",
+    "Martin Behaim",
+    "city walls",
+    "Nuremberg trials",
+    "Erlangen",
+    "Staatstheater Nürnberg",
+    "Pegnitz",
+    "Nuremberg rallies",
+    "Johann Pachelbel",
+    "1. FC Nürnberg",
+    "Bavaria",
+    "Nuremberg Metropolitan Region",
+    "Staatsphilharmonie Nürnberg",
+    "University of Erlangen-Nuremberg",
+    "Nürnberg Messe",
+    "Fürth",
+    "Hochschule für Musik Nürnberg",
+    "2006 FIFA World Cup",
+    "Imperial Regalia",
+    "Technische Hochschule Nürnberg",
+    "Nuremberg Castle",
+    "Nuremberg Airport",
+    "University of Technology Nuremberg",
+    "Albrecht Dürer",
+    "Franconia",
+    "Holy Roman Empire"
+  ],
+  "edges": [
+    "forms conurbation with",
+    "is second-largest city in",
+    "became",
+    "has",
+    "is situated on",
+    "kept",
+    "was host city of",
+    "is largest city in",
+    "occurred in",
+    "was part of",
+    "is part of",
+    "was site of",
+    "is associated with",
+    "occurred after"
+  ],
+  "relations": [
+    [
+      "Nuremberg",
+      "forms conurbation with",
+      "Fürth"
+    ],
+    [
+      "Nuremberg",
+      "forms conurbation with",
+      "Schwabach"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Old Town"
+    ],
+    [
+      "Nuremberg",
+      "is situated on",
+      "Pegnitz"
+    ],
+    [
+      "Nuremberg",
+      "is associated with",
+      "Martin Behaim"
+    ],
+    [
+      "Nuremberg",
+      "was site of",
+      "Nuremberg rallies"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Hochschule für Musik Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Staatstheater Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is associated with",
+      "Albrecht Dürer"
+    ],
+    [
+      "Nuremberg",
+      "is associated with",
+      "Hans Sachs"
+    ],
+    [
+      "Nuremberg rallies",
+      "occurred in",
+      "Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "is largest city in",
+      "Franconia"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Staatsphilharmonie Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is part of",
+      "Nuremberg Metropolitan Region"
+    ],
+    [
+      "Nuremberg",
+      "was site of",
+      "Nuremberg trials"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "city walls"
+    ],
+    [
+      "Nuremberg",
+      "was host city of",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Nuremberg",
+      "kept",
+      "Imperial Regalia"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Nuremberg Airport"
+    ],
+    [
+      "Nuremberg trials",
+      "occurred after",
+      "Second World War"
+    ],
+    [
+      "Nuremberg",
+      "forms conurbation with",
+      "Erlangen"
+    ],
+    [
+      "Nuremberg",
+      "is second-largest city in",
+      "Bavaria"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Nürnberg Messe"
+    ],
+    [
+      "Nuremberg",
+      "was part of",
+      "Holy Roman Empire"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "University of Technology Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "is associated with",
+      "Johann Pachelbel"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Nuremberg Castle"
+    ],
+    [
+      "Nuremberg",
+      "became",
+      "Free Imperial City"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "University of Erlangen-Nuremberg"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "1. FC Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "has",
+      "Technische Hochschule Nürnberg"
+    ]
+  ]
+}

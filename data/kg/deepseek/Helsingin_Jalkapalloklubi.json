@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "UEFA Europa League",
+    "Metz",
+    "UEFA Europa Conference League",
+    "HJK",
+    "Veikkausliiga",
+    "Helsingin Jalkapalloklubi",
+    "Finnish League Cup",
+    "Kansallinen Liiga",
+    "Finnish Cup",
+    "UEFA Champions League",
+    "HJK Helsinki",
+    "Bangor City",
+    "Töölö Football Stadium"
+  ],
+  "edges": [
+    "has women's team in",
+    "has won",
+    "defeated",
+    "home ground is",
+    "beat",
+    "competes in",
+    "participated in",
+    "commonly known as"
+  ],
+  "relations": [
+    [
+      "Helsingin Jalkapalloklubi",
+      "has women's team in",
+      "Kansallinen Liiga"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "participated in",
+      "UEFA Europa League"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "defeated",
+      "Bangor City"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has won",
+      "Finnish Cup"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "commonly known as",
+      "HJK Helsinki"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "has won",
+      "Finnish League Cup"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "participated in",
+      "UEFA Champions League"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "commonly known as",
+      "HJK"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "home ground is",
+      "Töölö Football Stadium"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "beat",
+      "Metz"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "competes in",
+      "Veikkausliiga"
+    ],
+    [
+      "Helsingin Jalkapalloklubi",
+      "participated in",
+      "UEFA Europa Conference League"
+    ]
+  ]
+}

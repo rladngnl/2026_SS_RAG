@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "midfielder",
+    "2003 NCAA Division III Player of the Year",
+    "Dallas, Texas",
+    "Josh Smith",
+    "soccer",
+    "August 30, 1982",
+    "American"
+  ],
+  "edges": [
+    "plays",
+    "is currently without a",
+    "is",
+    "is a",
+    "was the",
+    "was born in",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Josh Smith",
+      "was born on",
+      "August 30, 1982"
+    ],
+    [
+      "Josh Smith",
+      "is currently without a",
+      "club"
+    ],
+    [
+      "Josh Smith",
+      "was born in",
+      "Dallas, Texas"
+    ],
+    [
+      "Josh Smith",
+      "was the",
+      "2003 NCAA Division III Player of the Year"
+    ],
+    [
+      "Josh Smith",
+      "plays",
+      "soccer"
+    ],
+    [
+      "Josh Smith",
+      "is a",
+      "midfielder"
+    ],
+    [
+      "Josh Smith",
+      "is",
+      "American"
+    ]
+  ]
+}

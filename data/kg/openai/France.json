@@ -1,0 +1,312 @@
+{
+  "entities": [
+    "Switzerland",
+    "World War I",
+    "UNESCO World Heritage Sites",
+    "French Second Republic",
+    "Huguenots",
+    "French Third Republic",
+    "Atlantic Ocean",
+    "Algerian War",
+    "Belle Époque",
+    "Paris",
+    "French Wars of Religion",
+    "Second French Empire",
+    "nuclear-weapon state",
+    "Saint Pierre and Miquelon",
+    "United Nations Security Council",
+    "Charles de Gaulle",
+    "Carolingian Empire",
+    "nominal GDP",
+    "English Channel",
+    "Indian Ocean",
+    "Rhine",
+    "North Sea",
+    "Francia",
+    "Bourbon Restoration",
+    "France",
+    "House of Habsburg",
+    "Mediterranean Sea",
+    "tourist destination",
+    "Andorra",
+    "United Kingdom",
+    "Louis XIV",
+    "First French Empire",
+    "Gauls",
+    "French West Indies",
+    "Franks",
+    "French Revolution",
+    "Western Europe",
+    "Napoleon III",
+    "Franco-Prussian War",
+    "Fifth Republic",
+    "nominal per capita income",
+    "international organisations",
+    "Belgium",
+    "Declaration of the Rights of Man",
+    "Catholics",
+    "Fourth Republic",
+    "Napoleon Bonaparte",
+    "forums",
+    "Ancien Régime",
+    "Rome",
+    "Kingdom of France",
+    "PPP-adjusted GDP",
+    "Hundred Years' War",
+    "Germany",
+    "Monaco",
+    "Gallo-Roman culture",
+    "Luxembourg",
+    "Allies of World War II",
+    "Italy",
+    "Treaty of Verdun",
+    "Algeria",
+    "Thirty Years' War",
+    "Spain",
+    "Oceania",
+    "French Renaissance",
+    "French Guiana",
+    "French Republic"
+  ],
+  "edges": [
+    "was a participant in",
+    "reached its zenith under",
+    "was formed by",
+    "hosts",
+    "annexed",
+    "is officially known as",
+    "flourished during",
+    "shares borders with",
+    "was successful in",
+    "is a permanent member of",
+    "produced",
+    "overthrew",
+    "was occupied by",
+    "is located in",
+    "is an official",
+    "was dominated by",
+    "was involved in",
+    "collapsed during",
+    "was settled by",
+    "has a high nominal per capita income",
+    "became independent from",
+    "is the world's leading",
+    "ranks among the largest economies by",
+    "evolved into",
+    "has a maritime border with",
+    "formed",
+    "was established after",
+    "was among the Allies of",
+    "has a capital",
+    "established",
+    "retains status as",
+    "partitioned"
+  ],
+  "relations": [
+    [
+      "French Revolution",
+      "produced",
+      "Declaration of the Rights of Man"
+    ],
+    [
+      "West Francia",
+      "evolved into",
+      "Kingdom of France"
+    ],
+    [
+      "France",
+      "ranks among the largest economies by",
+      "nominal GDP"
+    ],
+    [
+      "France",
+      "was involved in",
+      "Hundred Years' War"
+    ],
+    [
+      "France",
+      "is the world's leading",
+      "tourist destination"
+    ],
+    [
+      "French culture",
+      "flourished during",
+      "French Renaissance"
+    ],
+    [
+      "France",
+      "has a maritime border with",
+      "United Kingdom"
+    ],
+    [
+      "France",
+      "was among the Allies of",
+      "World War II"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Germany"
+    ],
+    [
+      "Fifth Republic",
+      "was formed by",
+      "Charles de Gaulle"
+    ],
+    [
+      "Napoleon Bonaparte",
+      "established",
+      "First French Empire"
+    ],
+    [
+      "France",
+      "is officially known as",
+      "French Republic"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Switzerland"
+    ],
+    [
+      "Fourth Republic",
+      "was established after",
+      "liberation in 1944"
+    ],
+    [
+      "France",
+      "was dominated by",
+      "House of Habsburg"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Luxembourg"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Italy"
+    ],
+    [
+      "France",
+      "was involved in",
+      "Thirty Years' War"
+    ],
+    [
+      "France",
+      "was successful in",
+      "Thirty Years' War"
+    ],
+    [
+      "France",
+      "reached its zenith under",
+      "Napoleon Bonaparte"
+    ],
+    [
+      "France",
+      "is located in",
+      "Western Europe"
+    ],
+    [
+      "France",
+      "has a capital",
+      "Paris"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Belgium"
+    ],
+    [
+      "France",
+      "retains status as",
+      "global centre of art, science, cuisine and philosophy"
+    ],
+    [
+      "French Third Republic",
+      "was established after",
+      "Franco-Prussian War"
+    ],
+    [
+      "France",
+      "is an official",
+      "nuclear-weapon state"
+    ],
+    [
+      "French Revolution",
+      "overthrew",
+      "Ancien Régime"
+    ],
+    [
+      "Franks",
+      "formed",
+      "kingdom of Francia"
+    ],
+    [
+      "France",
+      "was a participant in",
+      "World War I"
+    ],
+    [
+      "France",
+      "hosts",
+      "UNESCO World Heritage Sites"
+    ],
+    [
+      "Algeria",
+      "became independent from",
+      "France"
+    ],
+    [
+      "First French Empire",
+      "collapsed during",
+      "Franco-Prussian War"
+    ],
+    [
+      "Rome",
+      "annexed",
+      "France"
+    ],
+    [
+      "France",
+      "was settled by",
+      "Gauls"
+    ],
+    [
+      "France",
+      "was occupied by",
+      "Germany"
+    ],
+    [
+      "France",
+      "is a permanent member of",
+      "United Nations Security Council"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Spain"
+    ],
+    [
+      "Treaty of Verdun",
+      "partitioned",
+      "Carolingian Empire"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Monaco"
+    ],
+    [
+      "France",
+      "shares borders with",
+      "Andorra"
+    ],
+    [
+      "France",
+      "has a high nominal per capita income",
+      ""
+    ]
+  ]
+}

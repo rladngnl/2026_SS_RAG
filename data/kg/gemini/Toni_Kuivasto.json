@@ -1,0 +1,25 @@
+{
+  "entities": [
+    "Veikkausliigaside Haka",
+    "Haka",
+    "Toni_Kuivasto",
+    "Finnish footballer",
+    "Toni Tapio Kuivasto"
+  ],
+  "edges": [
+    "is a retired",
+    "last played for"
+  ],
+  "relations": [
+    [
+      "Toni Tapio Kuivasto",
+      "is a retired",
+      "Finnish footballer"
+    ],
+    [
+      "Toni Tapio Kuivasto",
+      "last played for",
+      "Veikkausliigaside Haka"
+    ]
+  ]
+}

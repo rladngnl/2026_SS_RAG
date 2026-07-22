@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "National Historic Landmark District",
+    "Trinity University (Texas)",
+    "O'Neil Ford",
+    "John Boyd",
+    "Trinity Tigers",
+    "Waxahachie",
+    "NCAA Division III Southern Athletic Association",
+    "Trinitonian",
+    "Cumberland Presbyterians",
+    "Texas",
+    "Olmos Park",
+    "KRTU-FM",
+    "Monte Vista Historic District",
+    "Tehuacana",
+    "San Antonio"
+  ],
+  "edges": [
+    "moved to",
+    "student radio station",
+    "located in",
+    "adjacent to",
+    "founded in",
+    "land donated by",
+    "designated as",
+    "student newspaper",
+    "athletic team",
+    "first campus in",
+    "competes in",
+    "campus designed by",
+    "founded by"
+  ],
+  "relations": [
+    [
+      "Trinity University (Texas)",
+      "moved to",
+      "San Antonio"
+    ],
+    [
+      "Trinity University (Texas)",
+      "student newspaper",
+      "Trinitonian"
+    ],
+    [
+      "Trinity University (Texas)",
+      "campus designed by",
+      "O'Neil Ford"
+    ],
+    [
+      "Trinity University (Texas)",
+      "moved to",
+      "Waxahachie"
+    ],
+    [
+      "Trinity University (Texas)",
+      "located in",
+      "Texas"
+    ],
+    [
+      "Trinity University (Texas)",
+      "first campus in",
+      "Tehuacana"
+    ],
+    [
+      "Trinity University (Texas)",
+      "athletic team",
+      "Trinity Tigers"
+    ],
+    [
+      "Trinity University (Texas)",
+      "adjacent to",
+      "Olmos Park"
+    ],
+    [
+      "Trinity University (Texas)",
+      "student radio station",
+      "KRTU-FM"
+    ],
+    [
+      "Trinity University (Texas)",
+      "designated as",
+      "National Historic Landmark District"
+    ],
+    [
+      "Trinity University (Texas)",
+      "located in",
+      "San Antonio"
+    ],
+    [
+      "Trinity University (Texas)",
+      "land donated by",
+      "John Boyd"
+    ],
+    [
+      "Trinity Tigers",
+      "competes in",
+      "NCAA Division III Southern Athletic Association"
+    ],
+    [
+      "Trinity University (Texas)",
+      "adjacent to",
+      "Monte Vista Historic District"
+    ],
+    [
+      "Trinity University (Texas)",
+      "founded by",
+      "Cumberland Presbyterians"
+    ],
+    [
+      "Trinity University (Texas)",
+      "founded in",
+      "1869"
+    ]
+  ]
+}
